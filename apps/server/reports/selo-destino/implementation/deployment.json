@@ -1,0 +1,58 @@
+{
+  "at": "2026-10-20T09:00:03.199Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 4,
+    "calendar": {
+      "timeZone": "America/Sao_Paulo",
+      "resetHour": 4,
+      "day": "2026-10-20"
+    },
+    "boot": "9123db6e-b3de-4f39-a569-27b69ddc7969",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "modules": [
+    {
+      "id": 2,
+      "sha256": "ae3bc4a3c8a2dbb15f36ffd96d14c9aca6d570d4cc50b5077ce304fddc9fdaf2"
+    },
+    {
+      "id": 5,
+      "sha256": "71215a9c4870a2a85d25c876aa58c4e122155304f326e2e2cbefa3a0556296b6"
+    }
+  ],
+  "accounts": [
+    {
+      "username": "pirata_teste",
+      "ordinary": 80,
+      "advancedOnNextLogin": 80,
+      "advancedPersisted": null,
+      "fateInitializesOnLogin": true,
+      "kitMails": 3
+    },
+    {
+      "username": "pirata_teste_2",
+      "ordinary": 80,
+      "advancedOnNextLogin": 80,
+      "advancedPersisted": null,
+      "fateInitializesOnLogin": true,
+      "kitMails": 3
+    },
+    {
+      "username": "pirata_teste_3",
+      "ordinary": 80,
+      "advancedOnNextLogin": 80,
+      "advancedPersisted": 80,
+      "fateInitializesOnLogin": false,
+      "kitMails": 3
+    }
+  ],
+  "clientTablesVerified": true
+}

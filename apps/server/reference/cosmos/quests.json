@@ -1,0 +1,152 @@
+{
+  "source": "reference/quests/QuestTemps.xml + QuestCondictionInfos.xml + QuestGoods.xml",
+  "quests": [
+    {
+      "template": {
+        "TemplateId": "3",
+        "TemplateType": "0",
+        "Title": "Adquirir Cosmos",
+        "Detail": "&lt;font size='14'color='#12ea17' &gt;Clique no botão [Astrologia ]─〉Adquira [1 Cosmo ]. &lt;/font&gt;&lt;br&gt;Em reconhecimento de suas realizações, o santuário realizou um milagre para sua cidade: Astrologia, onde pode ser adquirido os misteriosos poderes dos cosmos.",
+        "Objective": "",
+        "NeedFightId": "0",
+        "NeedBuildingTemp": "0",
+        "NeedItemTemp": "0",
+        "NeedPos": "0",
+        "NeedMinLevel": "18",
+        "NeedMaxLevel": "100",
+        "PreQuestId": "",
+        "IsLeague": "false",
+        "IsAuto": "true",
+        "IsRepeat": "false",
+        "IsLost": "false",
+        "RepeatInterval": "24",
+        "RepeatMax": "1",
+        "RewardPlayGP": "15000",
+        "RewardHeroGP": "0",
+        "RewardGold": "15000",
+        "RewardCrystal": "0",
+        "RewardDower": "0",
+        "RewardMoney": "0",
+        "RewardConsortiaOffer": "0",
+        "RewardPlayerOffer": "0",
+        "StartDate": "2000-01-01 00:00:00",
+        "EndDate": "2050-10-12 00:00:00",
+        "WeekSpace": "",
+        "HourSpace": "",
+        "RewardStrategy": "0",
+        "Sort": "551.0",
+        "ShowType": "0"
+      },
+      "conditions": [
+        {
+          "TemplateId": "3",
+          "CondictionType": "36",
+          "CondictionTitle": "Astrologia",
+          "Para1": "1",
+          "Para2": "1",
+          "Para3": "0",
+          "Para4": "0"
+        }
+      ],
+      "items": []
+    },
+    {
+      "template": {
+        "TemplateId": "623",
+        "TemplateType": "0",
+        "Title": "Trancar Cosmo",
+        "Detail": "&lt;font size='14'color='#12ea17' &gt;Clique em [Astrologia] ─〉Clique em [Cosmos] ─〉Realize uma vez [Travar] Cosmo. &lt;/font&gt;&lt;br&gt;Está vendo o botão “Travar” no painel de Cosmos? Aprenda como utilizá-lo, pois um Cosmo travado não será sintetizado no clique único.",
+        "Objective": "",
+        "NeedFightId": "0",
+        "NeedBuildingTemp": "0",
+        "NeedItemTemp": "0",
+        "NeedPos": "0",
+        "NeedMinLevel": "25",
+        "NeedMaxLevel": "100",
+        "PreQuestId": "3",
+        "IsLeague": "false",
+        "IsAuto": "true",
+        "IsRepeat": "false",
+        "IsLost": "false",
+        "RepeatInterval": "24",
+        "RepeatMax": "1",
+        "RewardPlayGP": "30000",
+        "RewardHeroGP": "0",
+        "RewardGold": "6000",
+        "RewardCrystal": "0",
+        "RewardDower": "0",
+        "RewardMoney": "0",
+        "RewardConsortiaOffer": "0",
+        "RewardPlayerOffer": "0",
+        "StartDate": "2000-01-01 00:00:00",
+        "EndDate": "2000-01-01 00:00:00",
+        "WeekSpace": "",
+        "HourSpace": "",
+        "RewardStrategy": "0",
+        "Sort": "111.0",
+        "ShowType": "0"
+      },
+      "conditions": [
+        {
+          "TemplateId": "623",
+          "CondictionType": "53",
+          "CondictionTitle": "Travar Cosmo",
+          "Para1": "0",
+          "Para2": "1",
+          "Para3": "0",
+          "Para4": "0"
+        }
+      ],
+      "items": []
+    },
+    {
+      "template": {
+        "TemplateId": "1802",
+        "TemplateType": "0",
+        "Title": "Mestre Cósmico",
+        "Detail": "&lt;font size='14'color='#12ea17' &gt;Adquirir cosmos 1000 vezes. &lt;/font&gt;&lt;br&gt;Após completar missão, pode abrir um novo slot de cosmos.",
+        "Objective": "",
+        "NeedFightId": "0",
+        "NeedBuildingTemp": "0",
+        "NeedItemTemp": "0",
+        "NeedPos": "0",
+        "NeedMinLevel": "60",
+        "NeedMaxLevel": "100",
+        "PreQuestId": "",
+        "IsLeague": "false",
+        "IsAuto": "true",
+        "IsRepeat": "false",
+        "IsLost": "false",
+        "RepeatInterval": "24",
+        "RepeatMax": "1",
+        "RewardPlayGP": "2000000",
+        "RewardHeroGP": "0",
+        "RewardGold": "400000",
+        "RewardCrystal": "0",
+        "RewardDower": "0",
+        "RewardMoney": "0",
+        "RewardConsortiaOffer": "0",
+        "RewardPlayerOffer": "0",
+        "StartDate": "2000-01-01 00:00:00",
+        "EndDate": "2050-01-01 00:00:00",
+        "WeekSpace": "",
+        "HourSpace": "",
+        "RewardStrategy": "0",
+        "Sort": "2.0",
+        "ShowType": "0"
+      },
+      "conditions": [
+        {
+          "TemplateId": "1802",
+          "CondictionType": "36",
+          "CondictionTitle": "Adquirir Cosmos",
+          "Para1": "0",
+          "Para2": "1000",
+          "Para3": "0",
+          "Para4": "0"
+        }
+      ],
+      "items": []
+    }
+  ]
+}

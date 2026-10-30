@@ -1,0 +1,88 @@
+{
+  "stage": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\rooms-d16405b1-8933-4e69-9306-6c3260b7fdf0",
+  "roomsRuntime": {
+    "baseline": {
+      "at": "2026-10-21T05:27:12.667Z",
+      "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\rooms-d16405b1-8933-4e69-9306-6c3260b7fdf0\\rooms-baseline-9.swf",
+      "exitCode": 0,
+      "timedOut": false,
+      "loaded": true,
+      "verified": true,
+      "expectedNativeTermination": false,
+      "logs": [
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/rooms-d16405b1-8933-4e69-9306-6c3260b7fdf0/rooms-core.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/rooms-d16405b1-8933-4e69-9306-6c3260b7fdf0/rooms-baseline-9.swf",
+        "verified marry.room.MarryRoomListFrame [class MarryRoomListFrame]",
+        "verified marry.room.MarryRoomItem [class MarryRoomItem]",
+        "wedding-room-baseline-stale-cards-reproduced",
+        "room-before-frame",
+        "room-after-init",
+        "room-before-init"
+      ],
+      "runtime": "log\tLoading.swf 4064 bytes em 59 ms (AIR WIN 51,4,1,1)\n"
+    },
+    "candidate": {
+      "at": "2026-10-21T05:27:20.367Z",
+      "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\rooms-d16405b1-8933-4e69-9306-6c3260b7fdf0\\rooms-candidate-9.swf",
+      "exitCode": 0,
+      "timedOut": false,
+      "loaded": true,
+      "verified": true,
+      "expectedNativeTermination": false,
+      "logs": [
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/rooms-d16405b1-8933-4e69-9306-6c3260b7fdf0/rooms-core.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/rooms-d16405b1-8933-4e69-9306-6c3260b7fdf0/rooms-candidate-9.swf",
+        "verified marry.room.MarryRoomListFrame [class MarryRoomListFrame]",
+        "verified marry.room.MarryRoomItem [class MarryRoomItem]",
+        "room-before-init",
+        "room-before-frame",
+        "room-after-refresh",
+        "wedding-room-empty-grow-shrink-clear-passed",
+        "room-before-refresh",
+        "room-after-controls",
+        "room-before-controls",
+        "room-after-init"
+      ],
+      "runtime": "log\tLoading.swf 4064 bytes em 72 ms (AIR WIN 51,4,1,1)\n"
+    }
+  },
+  "nativeRuntime": {
+    "at": "2026-10-21T05:27:48.740Z",
+    "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\rooms-d16405b1-8933-4e69-9306-6c3260b7fdf0\\local-9.swf",
+    "exitCode": 0,
+    "timedOut": false,
+    "loaded": true,
+    "verified": true,
+    "expectedNativeTermination": false,
+    "logs": [
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/chat/local-ui/local-2.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/rooms-d16405b1-8933-4e69-9306-6c3260b7fdf0/local-9.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/skills/formation-ui/local-5.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/local-ui/local-14.swf",
+      "verified marry.room.MarryRoomItem [class MarryRoomItem]",
+      "verified fashion.FashionStoreFrame [class FashionStoreFrame]",
+      "verified view.ShopFrame [class ShopFrame]",
+      "verified marry.income.MarryRingUpgradeView [class MarryRingUpgradeView]",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/local-ui/local-15.swf",
+      "verified marry.room.MarryRoomListFrame [class MarryRoomListFrame]",
+      "verified managers.MarryManager [class MarryManager]",
+      "verified armyII.SkillFrame [class SkillFrame]",
+      "marriage-native-protocol-and-model-passed"
+    ],
+    "runtime": "log\tLoading.swf 4139 bytes em 61 ms (AIR WIN 51,4,1,1)\n"
+  },
+  "delta": {
+    "sourceSha256": "acdc9c40e2f03ea1da70bb66370923723e3a31aac7ef69a10dc0f8bac6a96641",
+    "candidateSha256": "7a446f79dfb522f0376eb939ce5077c25abe1edcdfaa0dd275c23f58d2fb9e23",
+    "classes": 216,
+    "unchangedTags": 221,
+    "allowedMethods": 2,
+    "otherMethodsPreserved": 17,
+    "emptyAbc": false,
+    "duplicates": false,
+    "protectedTagsByteIdentical": true
+  }
+}

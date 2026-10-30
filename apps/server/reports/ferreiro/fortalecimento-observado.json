@@ -1,0 +1,5235 @@
+[
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:57:53.671Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088507,
+      "template_id": 1011003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70102,
+      "random_skill_2": 70904,
+      "random_skill_3": 70402,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 1,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "530"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:57:54.399Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088507,
+      "template_id": 1011003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 1,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70102,
+      "random_skill_2": 70904,
+      "random_skill_3": 70402,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 1,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "637"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:57:57.056Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088507,
+      "template_id": 1011003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 1,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70102,
+      "random_skill_2": 70904,
+      "random_skill_3": 70402,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 2,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "637"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:57:59.074Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088507,
+      "template_id": 1011003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 2,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70102,
+      "random_skill_2": 70904,
+      "random_skill_3": 70402,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 3,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "836"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 4,
+        "change_obj_id": 1810,
+        "change_pos": 2
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:58:03.193Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088508,
+      "template_id": 1041003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70605,
+      "random_skill_2": 71106,
+      "random_skill_3": 70502,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 1,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "530"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:58:04.254Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088508,
+      "template_id": 1041003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 1,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70605,
+      "random_skill_2": 71106,
+      "random_skill_3": 70502,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:58:04.393Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088508,
+      "template_id": 1041003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 1,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70605,
+      "random_skill_2": 71106,
+      "random_skill_3": 70502,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:58:04.607Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088508,
+      "template_id": 1041003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 1,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70605,
+      "random_skill_2": 71106,
+      "random_skill_3": 70502,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 1,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "637"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:58:04.919Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088508,
+      "template_id": 1041003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 1,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70605,
+      "random_skill_2": 71106,
+      "random_skill_3": 70502,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:58:05.682Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088508,
+      "template_id": 1041003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 1,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70605,
+      "random_skill_2": 71106,
+      "random_skill_3": 70502,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 2,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "637"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:58:08.451Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088508,
+      "template_id": 1041003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 2,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70605,
+      "random_skill_2": 71106,
+      "random_skill_3": 70502,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 2,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "836"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T00:58:12.199Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1088508,
+      "template_id": 1041003,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 2,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 70605,
+      "random_skill_2": 71106,
+      "random_skill_3": 70502,
+      "random_skill_4": 0,
+      "random_skill_5": 0,
+      "user_id": 1810
+    },
+    "goldBefore": 590940,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 3,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "836"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:12:53.207Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 1,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "545"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:12:54.165Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 1,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 2,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "706"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:12:55.324Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 2,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 3,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1004"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:12:58.196Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 3,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 4,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1450"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:12:59.948Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 4,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 5,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2052"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:02.788Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 5,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 6,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2818"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 4,
+        "change_obj_id": 1810,
+        "change_pos": 6
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:05.300Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 1,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "545"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:07.061Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 1,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 2,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "706"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:08.430Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 2,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 3,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1004"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:09.051Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 3,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:10.123Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 3,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 4,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1450"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:11.670Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 4,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 4,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2052"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:12.930Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 4,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 4,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2052"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:14.187Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 4,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 4,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2052"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:15.238Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 4,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 4,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2052"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:16.334Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 4,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:17.205Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 4,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 5,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2052"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:18.538Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 5,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 5,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2818"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:19.691Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 5,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 6,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2818"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:21.149Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 6,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 6,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "3754"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:22.749Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 6,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707383847,
+    "responses": [],
+    "helperDeltas": [],
+    "goldAfter": 707351917
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:23.610Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 6,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707351917,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 6,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "3754"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:13:24.860Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284663,
+      "template_id": 1080225,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 6,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75604,
+      "random_skill_2": 75403,
+      "random_skill_3": 76107,
+      "random_skill_4": 77104,
+      "random_skill_5": 75503,
+      "user_id": 1810
+    },
+    "goldBefore": 707351917,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 6,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "3754"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 0
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:14:46.757Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 6,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1321313,
+      "template_id": 2040102,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 707344409,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 6,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "3754"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:14:47.564Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 6,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "goldBefore": 707344409,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 6,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "3754"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 1,
+        "change_obj_id": 0,
+        "change_pos": 17
+      },
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1206291,
+          "template_id": 2040103,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 15,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:14:52.093Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 6,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1206291,
+      "template_id": 2040103,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 15,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 707344409,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 6,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "3754"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1206291,
+          "template_id": 2040103,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 14,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      },
+      {
+        "change_type": 1,
+        "change_obj_id": 0,
+        "change_pos": 17,
+        "item": {
+          "id": 1206291,
+          "template_id": 2040103,
+          "pos": 17,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 1,
+          "bind": 0,
+          "used": 0,
+          "count": 14,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      },
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1321319,
+          "template_id": 2040104,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 1,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ],
+    "goldAfter": 707333147
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:14:55.564Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 6,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1321319,
+      "template_id": 2040104,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 707333147,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 7,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "3754"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1
+      },
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1321324,
+          "template_id": 2040105,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 1,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:15:00.746Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 7,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1321324,
+      "template_id": 2040105,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 707333147,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 8,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "4865"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1
+      },
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1321359,
+          "template_id": 2040106,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 1,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:15:03.107Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 8,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1321359,
+      "template_id": 2040106,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 707333147,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 9,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "6156"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1
+      },
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1321367,
+          "template_id": 2040107,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 1,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:15:07.393Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 9,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1321367,
+      "template_id": 2040107,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 707333147,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 10,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "7632"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1
+      },
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1321383,
+          "template_id": 2040108,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 1,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:15:10.114Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 10,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1321383,
+      "template_id": 2040108,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 707333147,
+    "responses": [
+      {
+        "streng_result": 0,
+        "strengthenGrade": 10,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "9295"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1
+      },
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1321404,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 1,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-12.jsonl",
+    "at": "2026-10-12T02:15:13.838Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1284635,
+      "template_id": 1080215,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 10,
+      "join_1": 0,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "random_skill_1": 75202,
+      "random_skill_2": 75402,
+      "random_skill_3": 75804,
+      "random_skill_4": 75503,
+      "random_skill_5": 76107,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1321404,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 707333147,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 11,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "9295"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1
+      }
+    ],
+    "goldAfter": 707352150
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:17.130Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 0,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "goldBefore": 681885950,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 1,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1397"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:18.131Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 1,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "goldBefore": 681885950,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 2,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "4621"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:19.525Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 2,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "goldBefore": 681885950,
+    "responses": [],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:20.281Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 2,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "goldBefore": 681885950,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 3,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "10556"
+        }
+      },
+      {
+        "streng_result": 1,
+        "strengthenGrade": 4,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "19437"
+        }
+      }
+    ],
+    "helperDeltas": [],
+    "goldAfter": 681849939
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:22.658Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 4,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 5,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "31440"
+        }
+      }
+    ],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:26.270Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 5,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 6,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "46709"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 1,
+        "change_obj_id": 0,
+        "change_pos": 64
+      },
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 444,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:29.960Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 6,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 444,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 7,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "65365"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 443,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:31.297Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 7,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 443,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 8,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "87515"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 442,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:31.826Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 8,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 442,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 9,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "113253"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 441,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:33.982Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 9,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 441,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:34.480Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 9,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 441,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 10,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "142666"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 440,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:36.201Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 10,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 440,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 11,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "175832"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 439,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:36.496Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 11,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 439,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 12,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "212822"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 438,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:38.346Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 12,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 438,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 13,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "253705"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 437,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:40.175Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 13,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 437,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 14,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "298543"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 436,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:41.577Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 14,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 436,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 15,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "347395"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 435,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:43.047Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 15,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 435,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 16,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "400317"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 434,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:44.663Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 16,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 434,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 17,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "457362"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 433,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:46.056Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 17,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 433,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 18,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "518580"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 432,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:47.489Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 18,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 432,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 19,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "584020"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 431,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:49.011Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 19,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 431,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 681849939,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 20,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "653726"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 430,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ],
+    "goldAfter": 677460689
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:54.209Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 20,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 430,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 21,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "727744"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 429,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:55.870Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 21,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 429,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 22,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "806115"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 428,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:58.204Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 22,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 428,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 23,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "888881"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 427,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:51:59.410Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 23,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 427,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 24,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "976079"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 426,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:02.090Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 24,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 426,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [],
+    "helperDeltas": []
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:03.263Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 24,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 426,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 25,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1067749"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 425,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:04.539Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 25,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 425,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 26,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1163927"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 424,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:06.017Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 26,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 424,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 27,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1264649"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 423,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:07.419Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 27,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 423,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 28,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1369948"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 422,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:09.301Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 28,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 422,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 29,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1479859"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 421,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:10.489Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 29,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 421,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 30,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1594413"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 420,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:11.774Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 30,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 420,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 31,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1713643"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 419,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:12.801Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 31,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 419,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 32,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1837580"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 418,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:14.329Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 32,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 418,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 33,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "1966252"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 417,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:16.327Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 33,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 417,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 34,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2099689"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 416,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:17.727Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 34,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 416,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 35,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2237921"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 415,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:19.304Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 35,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 415,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 1,
+        "strengthenGrade": 36,
+        "pos": 0,
+        "objectId": 0,
+        "bagType": 0,
+        "$9": {
+          "wire": 0,
+          "value": "2380974"
+        }
+      }
+    ],
+    "helperDeltas": [
+      {
+        "change_type": 0,
+        "change_obj_id": 0,
+        "change_pos": 1,
+        "item": {
+          "id": 1896678,
+          "template_id": 2040109,
+          "pos": 1,
+          "exist": 1,
+          "object_id": 0,
+          "bag_type": 0,
+          "bind": 0,
+          "used": 0,
+          "count": 414,
+          "strengthen_grade": 0,
+          "join_1": -1,
+          "join_2": -1,
+          "join_3": -1,
+          "join_4": -1,
+          "user_id": 1810
+        }
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T01:52:20.595Z",
+    "request": {
+      "src_itemid": 0
+    },
+    "before": {
+      "id": 1894853,
+      "template_id": 1998101,
+      "pos": 0,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 1,
+      "used": 0,
+      "count": 1,
+      "strengthen_grade": 36,
+      "join_1": 2050112,
+      "join_2": 2281512,
+      "join_3": 2050512,
+      "join_4": 2286812,
+      "random_skill_1": 75136,
+      "random_skill_2": 75762,
+      "random_skill_3": 75338,
+      "random_skill_4": 75439,
+      "random_skill_5": 75539,
+      "user_id": 1810
+    },
+    "helper": {
+      "id": 1896678,
+      "template_id": 2040109,
+      "pos": 1,
+      "exist": 1,
+      "object_id": 0,
+      "bag_type": 0,
+      "bind": 0,
+      "used": 0,
+      "count": 414,
+      "strengthen_grade": 0,
+      "join_1": -1,
+      "join_2": -1,
+      "join_3": -1,
+      "join_4": -1,
+      "user_id": 1810
+    },
+    "goldBefore": 677460689,
+    "responses": [
+      {
+        "streng_result": 0
+      }
+    ],
+    "helperDeltas": [],
+    "goldAfter": 653885266
+  }
+]

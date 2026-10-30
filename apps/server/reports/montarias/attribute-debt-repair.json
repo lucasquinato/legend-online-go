@@ -1,0 +1,47 @@
+{
+  "at": "2026-10-14T17:59:46.581Z",
+  "apply": true,
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\mount-attribute-debt-2026-10-14T17-59-46.533Z",
+  "baselinePath": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\mount-panel-fix-2026-10-14T06-16-43.384Z\\state.sqlite",
+  "repairs": [
+    {
+      "userId": 1826,
+      "correction": {
+        "total_power": 1065,
+        "total_intellect": 1065,
+        "total_physique": 865,
+        "total_agility": 1165,
+        "total_phy_attack": 4260,
+        "total_phy_defence": 5725,
+        "total_magic_defence": 6870,
+        "total_magic_attack": 4899,
+        "total_live": 17300,
+        "fighting_capacity": 25458
+      },
+      "before": {
+        "total_power": 66195,
+        "total_intellect": 68297,
+        "total_physique": 66277,
+        "total_agility": 67875,
+        "total_phy_attack": 358087,
+        "total_phy_defence": 429400,
+        "total_magic_defence": 516504,
+        "total_magic_attack": 420926,
+        "total_live": 2223710,
+        "fighting_capacity": 2196654
+      },
+      "after": {
+        "total_power": 67260,
+        "total_intellect": 69362,
+        "total_physique": 67142,
+        "total_agility": 69040,
+        "total_phy_attack": 362347,
+        "total_phy_defence": 435125,
+        "total_magic_defence": 524748,
+        "total_magic_attack": 426560,
+        "total_live": 2241010,
+        "fighting_capacity": 2224258
+      }
+    }
+  ]
+}

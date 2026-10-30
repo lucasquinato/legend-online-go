@@ -1,0 +1,515 @@
+METHOD addReward
+0 getlocal0 null 
+1 pushscope null 
+2 pushnull null 
+3 setlocal2 null 
+4 pushnull null 
+5 setlocal [4] 
+6 pushnull null 
+7 setlocal3 null 
+8 newarray [0] 
+9 findproperty [32] 
+10 swap null 
+11 setproperty [32] _rewardList
+12 getlex [55] ComponentFactory
+13 getproperty [56] Instance
+14 pushstring [86] 
+15 callproperty [62, 1] creatCustomObject
+16 findproperty [22] 
+17 swap null 
+18 setproperty [22] _rewardItem2
+19 getlex [55] ComponentFactory
+20 getproperty [56] Instance
+21 pushstring [88] 
+22 callproperty [62, 1] creatCustomObject
+23 findproperty [24] 
+24 swap null 
+25 setproperty [24] _rewardIcon3
+26 getlex [55] ComponentFactory
+27 getproperty [56] Instance
+28 pushstring [89] 
+29 callproperty [57, 1] creatComponentByStylename
+30 findproperty [27] 
+31 swap null 
+32 setproperty [27] _rewardTxt1
+33 getlex [55] ComponentFactory
+34 getproperty [56] Instance
+35 pushstring [90] 
+36 callproperty [57, 1] creatComponentByStylename
+37 findproperty [29] 
+38 swap null 
+39 setproperty [29] _rewardTxt2
+40 getlex [55] ComponentFactory
+41 getproperty [56] Instance
+42 pushstring [91] 
+43 callproperty [57, 1] creatComponentByStylename
+44 findproperty [30] 
+45 swap null 
+46 setproperty [30] _rewardTxt3
+47 findpropstrict [60] 
+48 getlex [22] _rewardItem2
+49 callpropvoid [60, 1] addToContent
+50 findpropstrict [60] 
+51 getlex [24] _rewardIcon3
+52 callpropvoid [60, 1] addToContent
+53 findpropstrict [60] 
+54 getlex [27] _rewardTxt1
+55 callpropvoid [60, 1] addToContent
+56 findpropstrict [60] 
+57 getlex [29] _rewardTxt2
+58 callpropvoid [60, 1] addToContent
+59 findpropstrict [60] 
+60 getlex [30] _rewardTxt3
+61 callpropvoid [60, 1] addToContent
+62 getlex [63] TempleteManager
+63 getproperty [64] instance
+64 getproperty [65] getMarryQualityTemplateCate
+65 getlex [18] _quality
+66 getproperty [66] qualityId
+67 callproperty [67, 1] getTempById
+68 coerce [68] 
+69 setlocal1 null 
+70 getlocal1 null 
+71 iffalse [58] 
+72 findpropstrict [69] 
+73 constructprop [69, 0] ThaneInfo
+74 coerce [69] 
+75 setlocal2 null 
+76 getlocal2 null 
+77 getlocal1 null 
+78 pop null 
+79 pushbyte [1] 
+80 setproperty [71] marryRingGrade
+81 findpropstrict [21] 
+82 getlocal2 null 
+83 constructprop [21, 1] MarryRingView
+84 findproperty [20] 
+85 swap null 
+86 setproperty [20] _ringView
+87 getlex [20] _ringView
+88 pushbyte [64] 
+89 setproperty [72] width
+90 getlex [20] _ringView
+91 pushbyte [63] 
+92 setproperty [73] height
+93 getlex [20] _ringView
+94 pushbyte [15] 
+95 setproperty [58] x
+96 getlex [20] _ringView
+97 pushshort [165] 
+98 setproperty [59] y
+99 findpropstrict [60] 
+100 getlex [20] _ringView
+101 callpropvoid [60, 1] addToContent
+102 getlocal1 null 
+103 getproperty [75] ClothId
+104 iffalse [29] 
+105 findpropstrict [74] 
+106 constructprop [74, 0] GoodsInfo
+107 coerce [74] 
+108 dup null 
+109 setlocal [4] 
+110 getlocal1 null 
+111 getproperty [75] ClothId
+112 setproperty [76] templateId
+113 getlex [22] _rewardItem2
+114 getlocal [4] 
+115 setproperty [77] data
+116 getlex [22] _rewardItem2
+117 getproperty [78] icon
+118 pushstring [112] 
+119 setproperty [79] tipDirctions
+120 getlocal1 null 
+121 iffalse [38] 
+122 findpropstrict [80] 
+123 constructprop [80, 0] MarryTipData
+124 coerce [80] 
+125 setlocal3 null 
+126 getlocal3 null 
+127 pushbyte [3] 
+128 setproperty [81] type
+129 getlocal3 null 
+130 getlocal1 null 
+131 pop null 
+132 pushbyte [1] 
+133 setproperty [82] grades
+134 getlex [24] _rewardIcon3
+135 getlocal3 null 
+136 setproperty [83] tipData
+137 getlex [24] _rewardIcon3
+138 getlex [84] IconFactory
+139 getlocal1 null 
+140 pop null 
+141 pushbyte [1] 
+142 callproperty [85, 1] getMarrySkillByLevel
+143 setproperty [78] icon
+144 getlocal1 null 
+145 iffalse [10] 
+146 getlex [5] _noblePriceText
+147 pushstring [2] 
+148 getlocal1 null 
+149 getproperty [86] Points
+150 add null 
+151 setproperty [87] text
+152 getlocal1 null 
+153 iffalse [10] 
+154 getlex [7] _commonPriceText
+155 pushstring [2] 
+156 getlocal1 null 
+157 getproperty [86] Points
+158 add null 
+159 setproperty [87] text
+160 getlex [27] _rewardTxt1
+161 getlex [52] LanguageMgr
+162 pushstring [123] 
+163 callproperty [53, 1] GetTranslation
+164 setproperty [87] text
+165 getlex [29] _rewardTxt2
+166 getlex [52] LanguageMgr
+167 pushstring [124] 
+168 callproperty [53, 1] GetTranslation
+169 setproperty [87] text
+170 getlex [30] _rewardTxt3
+171 getlex [52] LanguageMgr
+172 pushstring [125] 
+173 callproperty [53, 1] GetTranslation
+174 setproperty [87] text
+175 getlex [20] _ringView
+176 iffalse [7] 
+177 getlex [32] _rewardList
+178 getlex [20] _ringView
+179 callpropvoid [88, 1] push
+180 getlex [32] _rewardList
+181 getlex [22] _rewardItem2
+182 callpropvoid [88, 1] push
+183 getlex [32] _rewardList
+184 getlex [24] _rewardIcon3
+185 callpropvoid [88, 1] push
+186 getlex [32] _rewardList
+187 getlex [27] _rewardTxt1
+188 callpropvoid [88, 1] push
+189 getlex [32] _rewardList
+190 getlex [29] _rewardTxt2
+191 callpropvoid [88, 1] push
+192 getlex [32] _rewardList
+193 getlex [30] _rewardTxt3
+194 callpropvoid [88, 1] push
+195 getlex [18] _quality
+196 getproperty [66] qualityId
+197 pushbyte [1] 
+198 equals null 
+199 dup null 
+200 iffalse [3] 
+201 pop null 
+202 getlocal1 null 
+203 coerce_a null 
+204 iffalse [129] 
+205 getlex [55] ComponentFactory
+206 getproperty [56] Instance
+207 pushstring [128] 
+208 callproperty [62, 1] creatCustomObject
+209 findproperty [26] 
+210 swap null 
+211 setproperty [26] _rewardIcon4
+212 getlex [26] _rewardIcon4
+213 getlex [84] IconFactory
+214 callproperty [89, 0] getMarryHorseIcon
+215 setproperty [78] icon
+216 getlex [26] _rewardIcon4
+217 getlex [52] LanguageMgr
+218 pushstring [130] 
+219 callproperty [53, 1] GetTranslation
+220 setproperty [83] tipData
+221 getlex [55] ComponentFactory
+222 getproperty [56] Instance
+223 pushstring [131] 
+224 callproperty [57, 1] creatComponentByStylename
+225 findproperty [31] 
+226 swap null 
+227 setproperty [31] _rewardTxt4
+228 getlex [31] _rewardTxt4
+229 getlex [52] LanguageMgr
+230 pushstring [132] 
+231 callproperty [53, 1] GetTranslation
+232 setproperty [87] text
+233 getlex [55] ComponentFactory
+234 getproperty [56] Instance
+235 pushstring [133] 
+236 callproperty [90, 1] creatBitmapData
+237 findproperty [10] 
+238 swap null 
+239 setproperty [10] _priceBid
+240 findpropstrict [60] 
+241 getlex [26] _rewardIcon4
+242 callpropvoid [60, 1] addToContent
+243 findpropstrict [60] 
+244 getlex [31] _rewardTxt4
+245 callpropvoid [60, 1] addToContent
+246 getlex [32] _rewardList
+247 getlex [26] _rewardIcon4
+248 callpropvoid [88, 1] push
+249 getlex [32] _rewardList
+250 getlex [31] _rewardTxt4
+251 callpropvoid [88, 1] push
+252 getlex [91] NumberViewUtils
+253 getlocal1 null 
+254 getproperty [86] Points
+255 getlex [8] _kiloPrice
+256 getlex [10] _priceBid
+257 pushbyte [17] 
+258 pushbyte [27] 
+259 pushbyte [14] 
+260 pushbyte [17] 
+261 pushstring [136] 
+262 callpropvoid [92, 8] refreshValue
+263 getlocal1 null 
+264 iffalse [5] 
+265 findpropstrict [37] 
+266 callpropvoid [37, 0] setState
+267 returnvoid null 
+METHOD dispose
+0 getlocal0 null 
+1 pushscope null 
+2 findpropstrict [41] 
+3 callpropvoid [41, 0] removeEvent
+4 findpropstrict [38] 
+5 callpropvoid [38, 0] clearList
+6 getlex [16] _confirmBtn
+7 iffalse [5] 
+8 getlex [16] _confirmBtn
+9 callpropvoid [47, 0] dispose
+10 pushnull null 
+11 findproperty [16] 
+12 swap null 
+13 setproperty [16] _confirmBtn
+14 getlex [3] _qualityIcon
+15 iffalse [5] 
+16 getlex [3] _qualityIcon
+17 callpropvoid [47, 0] dispose
+18 pushnull null 
+19 findproperty [3] 
+20 swap null 
+21 setproperty [3] _qualityIcon
+22 getlex [5] _noblePriceText
+23 iffalse [5] 
+24 getlex [5] _noblePriceText
+25 callpropvoid [47, 0] dispose
+26 pushnull null 
+27 findproperty [5] 
+28 swap null 
+29 setproperty [5] _noblePriceText
+30 getlex [7] _commonPriceText
+31 iffalse [5] 
+32 getlex [7] _commonPriceText
+33 callpropvoid [47, 0] dispose
+34 pushnull null 
+35 findproperty [7] 
+36 swap null 
+37 setproperty [7] _commonPriceText
+38 getlex [12] _bg
+39 iffalse [5] 
+40 getlex [12] _bg
+41 callpropvoid [47, 0] dispose
+42 pushnull null 
+43 findproperty [12] 
+44 swap null 
+45 setproperty [12] _bg
+46 getlex [14] _rewardBack
+47 iffalse [5] 
+48 getlex [14] _rewardBack
+49 callpropvoid [47, 0] dispose
+50 pushnull null 
+51 findproperty [14] 
+52 swap null 
+53 setproperty [14] _rewardBack
+54 pushnull null 
+55 findproperty [18] 
+56 swap null 
+57 setproperty [18] _quality
+58 getlocal0 null 
+59 callsupervoid [47, 0] 
+60 returnvoid null 
+METHOD __frameResponse
+0 getlocal0 null 
+1 pushscope null 
+2 getlocal1 null 
+3 getproperty [123] responseCode
+4 convert_i null 
+5 lookupswitch [42, 1, 11, 11] 
+6 getlex [18] _quality
+7 dup null 
+8 iffalse [28] 
+9 pop null 
+10 getlex [18] _quality
+11 getproperty [107] opType
+12 pushbyte [5] 
+13 equals null 
+14 coerce_a null 
+15 iffalse [12] 
+16 getlex [113] MarrySender
+17 pushfalse null 
+18 callpropvoid [117, 1] qualityAnswer
+19 findpropstrict [47] 
+20 callpropvoid [47, 0] dispose
+21 returnvoid null 
+METHOD __confirmBtnHandler
+0 getlocal0 null 
+1 pushscope null 
+2 pushnull null 
+3 setlocal [4] 
+4 pushnull null 
+5 setlocal2 null 
+6 pushnull null 
+7 setlocal3 null 
+8 pushnull null 
+9 setlocal [5] 
+10 pushnull null 
+11 setlocal [6] 
+12 getlex [16] _confirmBtn
+13 iffalse [5] 
+14 getlex [16] _confirmBtn
+15 pushfalse null 
+16 setproperty [104] enable
+17 getlex [93] MarryManager
+18 getproperty [64] instance
+19 getproperty [94] model
+20 getproperty [105] isSingle
+21 iffalse [20] 
+22 getlex [106] MessageTipManager
+23 callproperty [64, 0] instance
+24 getlex [52] LanguageMgr
+25 pushstring [165] 
+26 callproperty [53, 1] GetTranslation
+27 callpropvoid [46, 1] show
+28 jump [226] 
+29 getlex [18] _quality
+30 dup null 
+31 iffalse [9] 
+32 pop null 
+33 getlex [18] _quality
+34 getproperty [107] opType
+35 pushbyte [4] 
+36 equals null 
+37 coerce_a null 
+38 iffalse [78] 
+39 getlex [63] TempleteManager
+40 getproperty [64] instance
+41 getproperty [65] getMarryQualityTemplateCate
+42 getlex [18] _quality
+43 getproperty [66] qualityId
+44 callproperty [67, 1] getTempById
+45 coerce [68] 
+46 dup null 
+47 setlocal [4] 
+48 dup null 
+49 iffalse [22] 
+50 pop null 
+51 getlocal [4] 
+52 getproperty [86] Points
+53 getlex [18] _quality
+54 getproperty [101] payType
+55 divide null 
+56 getlex [108] PlayerManager
+57 getproperty [64] instance
+58 getproperty [109] currentPlayerModel
+59 getproperty [110] playerInfo
+60 getproperty [111] point
+61 greaterthan null 
+62 coerce_a null 
+63 iffalse [6] 
+64 getlex [112] RechargeAlertMannager
+65 callpropvoid [46, 0] show
+66 returnvoid null 
+67 getlex [113] MarrySender
+68 getlex [18] _quality
+69 getproperty [66] qualityId
+70 getlex [44] model
+71 getproperty [114] selfMarryInfo
+72 getproperty [115] userId
+73 getlex [18] _quality
+74 getproperty [101] payType
+75 callpropvoid [116, 3] buyQuality
+76 jump [128] 
+77 getlex [18] _quality
+78 dup null 
+79 iffalse [9] 
+80 pop null 
+81 getlex [18] _quality
+82 getproperty [107] opType
+83 pushbyte [5] 
+84 equals null 
+85 coerce_a null 
+86 iffalse [108] 
+87 getlex [18] _quality
+88 getproperty [101] payType
+89 pushbyte [1] 
+90 ifne [6] 
+91 getlex [113] MarrySender
+92 pushtrue null 
+93 callpropvoid [117, 1] qualityAnswer
+94 getlex [18] _quality
+95 getproperty [101] payType
+96 pushbyte [2] 
+97 ifne [82] 
+98 getlex [118] SimpleAlertHelper
+99 getproperty [64] instance
+100 getlex [43] singlePayAlertBack
+101 newarray [1] 
+102 setproperty [77] data
+103 getlex [52] LanguageMgr
+104 pushstring [178] 
+105 callproperty [53, 1] GetTranslation
+106 coerce_s null 
+107 setlocal2 null 
+108 getlex [52] LanguageMgr
+109 pushstring [179] 
+110 callproperty [53, 1] GetTranslation
+111 coerce_s null 
+112 setlocal3 null 
+113 getlex [52] LanguageMgr
+114 pushstring [180] 
+115 callproperty [53, 1] GetTranslation
+116 coerce_s null 
+117 setlocal [5] 
+118 getlex [52] LanguageMgr
+119 pushstring [181] 
+120 callproperty [53, 1] GetTranslation
+121 coerce_s null 
+122 setlocal [6] 
+123 getlex [118] SimpleAlertHelper
+124 getproperty [64] instance
+125 getlocal [5] 
+126 getlocal [6] 
+127 getlocal2 null 
+128 getlocal3 null 
+129 pushfalse null 
+130 pushfalse null 
+131 pushtrue null 
+132 pushbyte [2] 
+133 pushstring [182] 
+134 pushbyte [0] 
+135 pushstring [2] 
+136 pushnull null 
+137 pushstring [183] 
+138 callpropvoid [119, 13] popAlerFrame
+139 returnvoid null 
+140 findpropstrict [47] 
+141 callpropvoid [47, 0] dispose
+142 returnvoid null 
+METHOD singlePayAlertBack
+0 getlocal0 null 
+1 pushscope null 
+2 getlocal1 null 
+3 iffalse [15] 
+4 getlex [113] MarrySender
+5 pushtrue null 
+6 callpropvoid [117, 1] qualityAnswer
+7 findpropstrict [47] 
+8 callpropvoid [47, 0] dispose
+9 jump [11] 
+10 getlex [16] _confirmBtn
+11 iffalse [5] 
+12 getlex [16] _confirmBtn
+13 pushtrue null 
+14 setproperty [104] enable
+15 returnvoid null 

@@ -1,0 +1,48 @@
+{
+  "at": "2026-10-20T05:33:35.032Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 4,
+    "calendar": {
+      "timeZone": "America/Sao_Paulo",
+      "resetHour": 4,
+      "day": "2026-10-19"
+    },
+    "boot": "531384c7-0778-4d91-8eb0-e2485bbe531f",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "sha256": "234f6f9c372c2aa0391a2a8bcf7d8451b893a4f06b6235d9c3292c4e25902b5f",
+  "module5Bytes": 672206,
+  "httpStatus": 200,
+  "tablesStatus": 200,
+  "accounts": [
+    {
+      "username": "pirata_teste",
+      "grants": 50,
+      "level": 80,
+      "protectedProgressUnchanged": true,
+      "tattooEmpty": true
+    },
+    {
+      "username": "pirata_teste_2",
+      "grants": 50,
+      "level": 80,
+      "protectedProgressUnchanged": true,
+      "tattooEmpty": true
+    },
+    {
+      "username": "pirata_teste_3",
+      "grants": 50,
+      "level": 80,
+      "protectedProgressUnchanged": true,
+      "tattooEmpty": true
+    }
+  ]
+}

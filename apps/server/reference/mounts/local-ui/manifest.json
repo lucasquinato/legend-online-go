@@ -1,0 +1,81 @@
+[
+  {
+    "module": 14,
+    "file": "local-14.swf",
+    "sha256": "46085a6320d22bd9ba899a27d3054a2e52c4d2f7286bc8a01f064c0ec1f73e46",
+    "md5": "ad3fa6b5",
+    "bytes": 780406,
+    "sourcePath": "/cdn/14_0eb4d3bf.png",
+    "sourceSha256": "173070d91f6e8001308757e3fcfee572bf1303d5b42df47707872f05ba6bff1f",
+    "releaseIndexSha256": "f8a0d8e7d9353d472bf7ebf83f569140e732f43e6c4c2b9c42c9f82f6ca413fb",
+    "changedMethods": [
+      "mounts.MountsFrame.__refiningSoulBtnHandler",
+      "store.ComposeView1.initView",
+      "store.compose.ComposeSubListView.refreshData",
+      "store.compose.ComposeSubListView.defaultEquipSelected#set",
+      "store.compose.ComposeListView.update",
+      "store.NewResolveView.initView",
+      "store.StoreBagII.filterGoodsEquip",
+      "store.StoreBagII.filterGoodsMaterial",
+      "store.StoreBagII.filterGoods",
+      "store.StoreView1.initView",
+      "store.StoreView1.__mouseHandler",
+      "store.cast.CastView.mould",
+      "store.refresh.RefreshView.initView",
+      "store.refresh.RefreshView.refreshPoint",
+      "store.switched.SwitchView.discount"
+    ],
+    "criticalClasses": [
+      "mounts.MountsFrame",
+      "mounts.WildSoulFrame",
+      "mounts.MountRefiningSoulFrame",
+      "fashion.FashionStoreFrame",
+      "fashion.FashionComposeView",
+      "fashion.FashionSwitchView",
+      "fashion.FashionRefreshView",
+      "fashion.FashionRefreshItem",
+      "fashion.FashionRefreshAttributeView",
+      "fashion.FashionRefreshAttributeItem"
+    ],
+    "audit": {
+      "sourceSha256": "173070d91f6e8001308757e3fcfee572bf1303d5b42df47707872f05ba6bff1f",
+      "candidateSha256": "46085a6320d22bd9ba899a27d3054a2e52c4d2f7286bc8a01f064c0ec1f73e46",
+      "classes": 477,
+      "unchangedTags": 473,
+      "allowedMethods": 15,
+      "otherMethodsPreserved": 234,
+      "emptyAbc": false,
+      "duplicates": false,
+      "protectedTagsByteIdentical": true
+    }
+  },
+  {
+    "module": 15,
+    "file": "local-15.swf",
+    "sha256": "665ce38ae1cbfc40a877f00b2189c1883d2c0c9f62e2b3661602e1ce39562c73",
+    "md5": "3b50bf32",
+    "bytes": 214878,
+    "sourcePath": "/cdn/15_25f5d0a9.png",
+    "sourceSha256": "665ce38ae1cbfc40a877f00b2189c1883d2c0c9f62e2b3661602e1ce39562c73",
+    "releaseIndexSha256": "f8a0d8e7d9353d472bf7ebf83f569140e732f43e6c4c2b9c42c9f82f6ca413fb",
+    "changedMethods": [],
+    "criticalClasses": [
+      "view.ShopFrame",
+      "view.subshop.StarShopFrame",
+      "view.subshop.MountShopFrame",
+      "view.subshop.MountPreviewFrame",
+      "view.subshop.MountShopGoodsItem"
+    ],
+    "audit": {
+      "sourceSha256": "665ce38ae1cbfc40a877f00b2189c1883d2c0c9f62e2b3661602e1ce39562c73",
+      "candidateSha256": "665ce38ae1cbfc40a877f00b2189c1883d2c0c9f62e2b3661602e1ce39562c73",
+      "classes": 123,
+      "unchangedTags": 129,
+      "allowedMethods": 0,
+      "otherMethodsPreserved": 0,
+      "emptyAbc": false,
+      "duplicates": false,
+      "protectedTagsByteIdentical": true
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "packetCapture": {
+    "filename": "data/backups/purification-max-2026-10-12.jsonl.gz",
+    "sha256": "5e08df12626624c0351e08a5206b2789bb9455671d114ec7c82f92b78ba787ae",
+    "packets": 274,
+    "queries": 7
+  },
+  "language": {
+    "path": "/cdn/ui/zh_cn/language_176d3d93.dat",
+    "sha256": "5a308c2f481e65cb9ec2f7f5bc91a14dab08087d1eda5781f08f50bd6cabeb4f",
+    "descriptions": [
+      "fashion.refreshView.tips01:Poder: {0}{1}",
+      "fashion.refreshView.tips02:Armadura: {0}{1}",
+      "fashion.refreshView.tips03:Inteligência: {0}{1}",
+      "fashion.refreshView.tips04:Físico: {0}{1}",
+      "fashion.refreshView.tips05:Refinação:",
+      "fashion.refreshView.tips06:Nº de modas necessários:",
+      "fashion.refreshView.tips07:Nível de outros equipamentos de refinação não atingiu o Nv.{0}",
+      "fashion.refreshView.tips08:Nv.{0}",
+      "fashion.refreshView.tips09:<font size='12' color='#39cdde'>+{0}</font>",
+      "fashion.refreshView.tips10:↑{0}",
+      "fashion.refreshView.tips11:↑{0}%",
+      "fashion.refreshView.tips12:Necessário todos as fases atingirem o mesmo nível para avançar até o próximo nível.",
+      "fashion.refreshView.tips13:Esta parte já refinou até o nível máximo, favor refinar outras peças!",
+      "fashion.refreshView.tips14:Nº de Asas",
+      "fashion.refreshView.tips15:Nº de Capacetes",
+      "fashion.refreshView.tips16:Nº de Vestuários",
+      "fashion.refreshView.tips17:Nº de Armas",
+      "fashion.refreshView.tips18:Atributos de asas avaliadas",
+      "fashion.refreshView.tips19:Atributos de capacetes avaliados",
+      "fashion.refreshView.tips20:Atributos de vestuários avaliados",
+      "fashion.refreshView.tips21:Atributos de armas avaliadas",
+      "fashion.refreshView.tips22:+{0}",
+      "fashion.refreshView.tips23:Ainda não obteve a moda deste local, não é possível refinar!",
+      "fashion.refreshView.tips24:Obs.: A cada 1 nível que elevar da moda de refinação aumenta mais 10% dos atributos de refinação de moda, a cada 10 níveis atingidos poderá elevar até 10% dos atributos de avaliação da peça!"
+    ]
+  },
+  "observed": {
+    "fashionLevel": 27,
+    "levels": {
+      "109": 100,
+      "110": 100,
+      "111": 100,
+      "112": 100
+    },
+    "bonus": {
+      "attack": 15600,
+      "magic": 15600,
+      "defence": 14400,
+      "magicDefence": 14400,
+      "live": 144000,
+      "sp": 20
+    }
+  },
+  "inferredRules": [
+    "Pedra Property1=100 is XP per consumed unit; no successful online operation was available",
+    "General flat bonuses: wings affect all groups, weapon affects attack/magic, clothing defence/resistance, hat life; intermediate split is not uniquely proven by the all-100 observation",
+    "SpAdd is applied once at the shared four-part milestone",
+    "Sparse milestone AppraisalAdd and SpAdd retain the last completed milestone between multiples of ten"
+  ]
+}

@@ -1,0 +1,22 @@
+import {readFileSync,writeFileSync,mkdirSync,readdirSync,copyFileSync,existsSync,renameSync} from 'node:fs';
+import {join,resolve} from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {seal,sha256} from './protocol.mjs';
+import {createPublicKey} from 'node:crypto';
+import {releasePrivateKey} from '../env.mjs';
+const root=fileURLToPath(new URL('../../',import.meta.url)),version=process.argv[2];
+if(!/^\d+\.\d+\.\d+$/.test(version??''))throw Error('Uso: node tools/release/launcher.mjs X.Y.Z');
+const src=resolve(root,'dist/launcher'),channel=resolve(root,'apps/server/releases/launcher'),dest=join(channel,'files',version);
+const privateKey=releasePrivateKey();
+const jwk=createPublicKey(privateKey).export({format:'jwk'});
+const publicXml=`<RSAKeyValue><Modulus>${Buffer.from(jwk.n,'base64url').toString('base64')}</Modulus><Exponent>${Buffer.from(jwk.e,'base64url').toString('base64')}</Exponent></RSAKeyValue>`;
+if(readFileSync(resolve(root,'client/manifests/update-public.xml'),'utf8').trim()!==publicXml)throw Error('Chave de publicação não corresponde à identidade pública fixada.');
+if(existsSync(dest))throw Error('Esta versão já foi publicada; use uma nova versão.');
+const installed=JSON.parse(readFileSync(join(src,'release.json'),'utf8'));if(installed.version!==version)throw Error('Compile o launcher com a mesma versão.');
+const stage=dest+'.staging';mkdirSync(stage,{recursive:true});const files=[];
+function walk(dir,prefix=''){for(const d of readdirSync(dir,{withFileTypes:true})){const rel=prefix+d.name;if(d.isDirectory())walk(join(dir,d.name),rel+'/');else{const bytes=readFileSync(join(dir,d.name));files.push({path:rel,bytes:bytes.length,sha256:sha256(bytes)});mkdirSync(join(stage,rel,'..'),{recursive:true});copyFileSync(join(dir,d.name),join(stage,rel));}}}
+walk(src);files.sort((a,b)=>a.path.localeCompare(b.path));
+const manifest={schema:1,kind:'launcher',version,files,protocol:1};
+const envelope=seal(manifest,privateKey);
+renameSync(stage,dest);writeFileSync(join(channel,'stable.json.next'),JSON.stringify(envelope));renameSync(join(channel,'stable.json.next'),join(channel,'stable.json'));
+console.log('Release assinada publicada: '+version);

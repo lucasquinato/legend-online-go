@@ -1,0 +1,12 @@
+{
+  "sourcePath": "/cdn/13_2b946fcf.png",
+  "sourceSha256": "680ddc63363643b285211bfd3e61911293130695f918ef2c33c9ec0602f2857a",
+  "localSha256": "01d1ef3a6c9294093f943ddbbcf8b5a3b964e6225372536dfe1c44a9219ed9e6",
+  "localMd5": "9b036946",
+  "format": "CWS",
+  "onlyChangedScripts": [
+    "selectcampaign.view.CampaignInfoView",
+    "selectcampaign.view.CampaignPointView"
+  ],
+  "unchangedScripts": 70
+}

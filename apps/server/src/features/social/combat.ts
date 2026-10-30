@@ -1,0 +1,7 @@
+import type {Store} from '../../store.js';
+import type {Engine} from '../battle/engine.js';
+import {marriageContent,marriageUpgrade} from './marriage-content.js';
+export function configureMarriageCombat(store:Store,engine:Engine,identities:{actor:number;uid:number}[]):void{
+ if(!store.db.prepare("SELECT name FROM sqlite_master WHERE name='social_marriages'").get())return;
+ for(const identity of identities){const row=store.db.prepare('SELECT m.* FROM social_marriages m JOIN social_spouses s ON s.marriage_id=m.id WHERE s.user_id=? AND m.status=3').get(identity.uid);if(!row)continue;const mate=Number(row.a)===identity.uid?Number(row.b):Number(row.a),other=identities.find(i=>i.uid===mate),actor=engine.actors.find(a=>a.id===identity.actor),partner=other&&engine.actors.find(a=>a.id===other.actor);if(!actor||!partner||actor.side!==partner.side)continue;const saved=store.db.prepare('SELECT data FROM social_marriage_progress WHERE user_id=?').get(identity.uid);if(!saved)continue;const progress=JSON.parse(String(saved.data)),options=String(marriageUpgrade(36,Number(progress.ringGrade))?.TemplateName??'').split('|'),choice=options.includes(progress.ringSkill)?progress.ringSkill:options[0],learned=String(choice??'').split(',').map(Number).filter(id=>marriageContent.skills.some(s=>Number(s.TemplateId)===id));actor.marriage={partner:partner.id,active:learned.filter(id=>id>=9991&&id<=9999),passive:learned.filter(id=>id>=9984&&id<=9989)};actor.learned=[...new Set([...actor.learned,...learned])];}
+}

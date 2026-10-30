@@ -1,0 +1,47 @@
+{
+  "at": "2026-10-14T17:07:52.542Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 3,
+    "boot": "9f2cbeaa-dd84-402f-a072-ffd770c2338b",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "verified": [
+    {
+      "path": "/cdn/14_e19c1a18.png",
+      "bytes": 778609,
+      "classes": 477,
+      "sourcePath": "/cdn/14_0eb4d3bf.png"
+    },
+    {
+      "path": "/cdn/15_3b50bf32.png",
+      "bytes": 214878,
+      "classes": 123,
+      "sourcePath": "/cdn/15_25f5d0a9.png"
+    }
+  ],
+  "visualAcceptance": {
+    "status": "passed",
+    "evidence": "User confirmed: Todas abrem normalmente",
+    "windows": [
+      "Modas",
+      "Loja Principal",
+      "Loja de Cosmos",
+      "Loja de Montarias"
+    ],
+    "accountReset": false
+  },
+  "validation": {
+    "typecheck": "passed",
+    "build": "passed",
+    "swfContractTests": 5,
+    "fashionAndMountTests": 21
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "at": "2026-10-15T17:55:06.617Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 4,
+    "boot": "f772686e-44b4-48a7-be30-f34260a150f3",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "focused": {
+    "path": "data/cosmos-availability-tests.log",
+    "tests": 12,
+    "pass": 12,
+    "fail": 0,
+    "failures": []
+  },
+  "regression": {
+    "path": "data/cosmos-availability-regression.log",
+    "tests": 492,
+    "pass": 488,
+    "fail": 4,
+    "failures": [
+      "forja não implementada restaura o slot otimista e não altera o item ou seus atributos",
+      "anexos, modas e atributos persistem sem recompensa duplicada e aceitam outra ordem",
+      "as duas classes percorrem os 130 pisos reais com baús, reconexão, prêmios únicos e saída final",
+      "erros reais de duas contas passam pela central e conservam destinatário e recursos"
+    ]
+  },
+  "baseline": {
+    "path": "data/cosmos-availability-baseline.log",
+    "tests": 4,
+    "pass": 0,
+    "fail": 4,
+    "failures": [
+      "forja não implementada restaura o slot otimista e não altera o item ou seus atributos",
+      "anexos, modas e atributos persistem sem recompensa duplicada e aceitam outra ordem",
+      "as duas classes percorrem os 130 pisos reais com baús, reconexão, prêmios únicos e saída final",
+      "erros reais de duas contas passam pela central e conservam destinatário e recursos"
+    ]
+  },
+  "existingFailuresConfirmed": true,
+  "http": {
+    "status": 200,
+    "sha256": "1a3c48052805716b52d066da785bc6b0fde9319520b5e89e65044cea7ca6ab2d",
+    "templates": 82,
+    "hidden": [
+      {
+        "id": 1,
+        "shopPoints": 0
+      },
+      {
+        "id": 2,
+        "shopPoints": 0
+      },
+      {
+        "id": 3,
+        "shopPoints": 0
+      },
+      {
+        "id": 804,
+        "shopPoints": 0
+      },
+      {
+        "id": 805,
+        "shopPoints": 0
+      },
+      {
+        "id": 904,
+        "shopPoints": 0
+      },
+      {
+        "id": 905,
+        "shopPoints": 0
+      },
+      {
+        "id": 1003,
+        "shopPoints": 0
+      },
+      {
+        "id": 1004,
+        "shopPoints": 0
+      },
+      {
+        "id": 1005,
+        "shopPoints": 0
+      },
+      {
+        "id": 1313,
+        "shopPoints": 0
+      },
+      {
+        "id": 1314,
+        "shopPoints": 0
+      },
+      {
+        "id": 1315,
+        "shopPoints": 0
+      }
+    ],
+    "descriptions": [
+      {
+        "id": 80701,
+        "description": "Ao atacar, tem 10% de probabilidade de recuperar vida equivalente a {ValuePercent}% do dano causado, sem limite de recuperação por ativação",
+        "unlimited": true
+      },
+      {
+        "id": 80702,
+        "description": "Ao atacar, tem 10% de probabilidade de recuperar vida equivalente a {ValuePercent}% do dano causado, sem limite de recuperação por ativação",
+        "unlimited": true
+      },
+      {
+        "id": 80901,
+        "description": "Ao ser atacado, tem 10% de probabilidade de refletir {ValuePercent}% do dano recebido, sem limite de dano refletido por ativação",
+        "unlimited": true
+      },
+      {
+        "id": 80902,
+        "description": "Ao ser atacado, tem 10% de probabilidade de refletir {ValuePercent}% do dano recebido, sem limite de dano refletido por ativação",
+        "unlimited": true
+      }
+    ]
+  },
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\cosmos-availability-2026-10-15T17-45-19.347Z"
+}

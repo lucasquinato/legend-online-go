@@ -1,0 +1,532 @@
+{
+  "at": "2026-10-15T00:52:16.399Z",
+  "assets": {
+    "total": 82,
+    "valid": 82,
+    "rows": [
+      {
+        "id": 1,
+        "path": "/cdn/icon/star/1.swf",
+        "sha256": "a737f8d142d6f269a02a1080be4edba0c892fd8bb954b4a26bf6300ea24a63c1",
+        "valid": true
+      },
+      {
+        "id": 2,
+        "path": "/cdn/icon/star/1.swf",
+        "sha256": "a737f8d142d6f269a02a1080be4edba0c892fd8bb954b4a26bf6300ea24a63c1",
+        "valid": true
+      },
+      {
+        "id": 3,
+        "path": "/cdn/icon/star/1.swf",
+        "sha256": "a737f8d142d6f269a02a1080be4edba0c892fd8bb954b4a26bf6300ea24a63c1",
+        "valid": true
+      },
+      {
+        "id": 4,
+        "path": "/cdn/icon/star/0.swf",
+        "sha256": "e49768a515e71adbd66fde360fcc471b58340df5f0231302ac79e398ad16db62",
+        "valid": true
+      },
+      {
+        "id": 5,
+        "path": "/cdn/icon/star/2.swf",
+        "sha256": "30d73140082fbc5e0857388f775f272feb053e0e3424b9dd3abfa8e1cbab2c8e",
+        "valid": true
+      },
+      {
+        "id": 103,
+        "path": "/cdn/icon/star/103.swf",
+        "sha256": "c4547ccdf602b017f48d9c79c04a0344b1e8e8ca2f0e298493c3d0e814199c69",
+        "valid": true
+      },
+      {
+        "id": 104,
+        "path": "/cdn/icon/star/104.swf",
+        "sha256": "8c08a5349043828b829d727ec5b3bfd3c3088ee8c2daed5349795166b8c54cad",
+        "valid": true
+      },
+      {
+        "id": 105,
+        "path": "/cdn/icon/star/105.swf",
+        "sha256": "a1d6fe6eaa481273176c278494b3edf25f82f6bf57842216c81425a3ca368a8d",
+        "valid": true
+      },
+      {
+        "id": 107,
+        "path": "/cdn/icon/star/107.swf",
+        "sha256": "7ace43c33cd81efbd80a872c23a0cff8a3a9fedc72a838e30650bd28eb579a77",
+        "valid": true
+      },
+      {
+        "id": 202,
+        "path": "/cdn/icon/star/202.swf",
+        "sha256": "9d2e0ea565ff81b75a7f4e398f68ddc81d88c87b7a2cf315dc2606bfdc808000",
+        "valid": true
+      },
+      {
+        "id": 203,
+        "path": "/cdn/icon/star/203.swf",
+        "sha256": "c5d18270208105447b3375cdea98a688c89a0d572414deeb7c6006ef46d8ce29",
+        "valid": true
+      },
+      {
+        "id": 204,
+        "path": "/cdn/icon/star/204.swf",
+        "sha256": "7f3f6a9f70fa6857109bdab2f6e15c577fa2215d47a943181e1ca2360bdc2e3c",
+        "valid": true
+      },
+      {
+        "id": 205,
+        "path": "/cdn/icon/star/205.swf",
+        "sha256": "e402e5f6fc46ead039fa0a2084b5f4e57773ff0e2f2728dbfb3d24df0c737f6d",
+        "valid": true
+      },
+      {
+        "id": 207,
+        "path": "/cdn/icon/star/207.swf",
+        "sha256": "cf8f3e5e89626ca9801f3843f552e543bd6fa921feb87e50307decc714de7860",
+        "valid": true
+      },
+      {
+        "id": 208,
+        "path": "/cdn/icon/star/208.swf",
+        "sha256": "f948b28d0187f11500a33c23706d3435c19c49347678275b3d08d0f38d5af629",
+        "valid": true
+      },
+      {
+        "id": 302,
+        "path": "/cdn/icon/star/302.swf",
+        "sha256": "7f0ab6ddd5d20220fa02cd1f60e938ac1766de15d1045fbb142179f317c78ab1",
+        "valid": true
+      },
+      {
+        "id": 303,
+        "path": "/cdn/icon/star/303.swf",
+        "sha256": "d55adf2263f01650f715d5e2fef526b595da5ad7c4abcdaa2c0f978f623687f2",
+        "valid": true
+      },
+      {
+        "id": 304,
+        "path": "/cdn/icon/star/304.swf",
+        "sha256": "de919ab7008ae275fdbe106c2fb25971193294c66db89deba0021a0bb59dc471",
+        "valid": true
+      },
+      {
+        "id": 305,
+        "path": "/cdn/icon/star/305.swf",
+        "sha256": "5d172d04db996ee9c6ae800abefb9a620299c52ca12bf8c3913b6838c9eb9bca",
+        "valid": true
+      },
+      {
+        "id": 307,
+        "path": "/cdn/icon/star/307.swf",
+        "sha256": "df811bdd563ec08e2552141cf1ef03008b61f7782b2e543be65e19b7588bde01",
+        "valid": true
+      },
+      {
+        "id": 308,
+        "path": "/cdn/icon/star/308.swf",
+        "sha256": "d8b87f64194aa35c7b46987e2f2041bbe0fdf6f4f374d82250c17d0273f9d46f",
+        "valid": true
+      },
+      {
+        "id": 402,
+        "path": "/cdn/icon/star/402.swf",
+        "sha256": "faf68ebbae86088d322a3b10c6c1cd83f62b55b04b1b0450da925ea4bda4afa4",
+        "valid": true
+      },
+      {
+        "id": 403,
+        "path": "/cdn/icon/star/403.swf",
+        "sha256": "8afba5b116fc2e06a097eeb0b485317d6b01ea5cec536ed364786410a0679391",
+        "valid": true
+      },
+      {
+        "id": 404,
+        "path": "/cdn/icon/star/404.swf",
+        "sha256": "5a1b49bc6fcb74a6aae21abbaf67973e5643aa7424ac9d41096616b18b48b7bb",
+        "valid": true
+      },
+      {
+        "id": 405,
+        "path": "/cdn/icon/star/405.swf",
+        "sha256": "11eb8a23b16e506e580e8f1486db80d177c320d62b1b19f63ed47620fa537110",
+        "valid": true
+      },
+      {
+        "id": 407,
+        "path": "/cdn/icon/star/407.swf",
+        "sha256": "1bac7f715c67a0eb55422aa12e56878a08e7dc6b2100db08eaab773eb781c47a",
+        "valid": true
+      },
+      {
+        "id": 408,
+        "path": "/cdn/icon/star/408.swf",
+        "sha256": "383ae64a858d42983c516dea942af81d97e6f311ad6358798be7e016a90aca26",
+        "valid": true
+      },
+      {
+        "id": 502,
+        "path": "/cdn/icon/star/502.swf",
+        "sha256": "e0fb270bce1b78f9b42eab12f1489c0dcea26269925ffd517d518ae0a19cb83f",
+        "valid": true
+      },
+      {
+        "id": 503,
+        "path": "/cdn/icon/star/503.swf",
+        "sha256": "2d1670ad0c969ec8f9e8998a60d10b3a607954f72c8a5e0eff7c659b490a1640",
+        "valid": true
+      },
+      {
+        "id": 504,
+        "path": "/cdn/icon/star/504.swf",
+        "sha256": "77d80ca78c87b5b648dbdfcec1693668463e36f1d094a7cab7141a376537888c",
+        "valid": true
+      },
+      {
+        "id": 505,
+        "path": "/cdn/icon/star/505.swf",
+        "sha256": "825cc78d889e2e6a01e5048152610c666bcd542fb3a66c40d94cbef3870ce2c3",
+        "valid": true
+      },
+      {
+        "id": 507,
+        "path": "/cdn/icon/star/507.swf",
+        "sha256": "3a0222db610b2f5f33af0873afd406c0b31b4e94de6a06d61dc37de2388a55c5",
+        "valid": true
+      },
+      {
+        "id": 508,
+        "path": "/cdn/icon/star/508.swf",
+        "sha256": "4a535c64bb46f3b454897045968b02105b64459ce4afcbe9ef7d5dd5ed7611e6",
+        "valid": true
+      },
+      {
+        "id": 602,
+        "path": "/cdn/icon/star/602.swf",
+        "sha256": "3e0e8d92600e5f4efb69d542ad698754141cc678238ec727c32904a25433fca1",
+        "valid": true
+      },
+      {
+        "id": 603,
+        "path": "/cdn/icon/star/603.swf",
+        "sha256": "aa37adc672f98afa75c9589e22a347f7912f3f1ae11f84e1f1da01a0fd8e9d06",
+        "valid": true
+      },
+      {
+        "id": 604,
+        "path": "/cdn/icon/star/604.swf",
+        "sha256": "69c109ee3690c98ea9a6dcbd679739ddc6abecb2f42a12c315ef86a7c32c1354",
+        "valid": true
+      },
+      {
+        "id": 605,
+        "path": "/cdn/icon/star/605.swf",
+        "sha256": "bac062624acbf26dc3cb2c31466d013bc1c98cffbd26a358ed727c20c542e176",
+        "valid": true
+      },
+      {
+        "id": 607,
+        "path": "/cdn/icon/star/607.swf",
+        "sha256": "715f4cad9a6020fc318db49bfa1cd94e2dda85380fc9fdb5c8bef9de9a3b9829",
+        "valid": true
+      },
+      {
+        "id": 608,
+        "path": "/cdn/icon/star/608.swf",
+        "sha256": "9f223b04a48ffac69cb49c9af7eb1bf0b9e176b06db327b65ef02b45995ab4ac",
+        "valid": true
+      },
+      {
+        "id": 702,
+        "path": "/cdn/icon/star/702.swf",
+        "sha256": "f9cca8f1512c8962a223e4f970c9393678bb1dfd2b981077954b8971ca3573ff",
+        "valid": true
+      },
+      {
+        "id": 703,
+        "path": "/cdn/icon/star/703.swf",
+        "sha256": "4a76b37d45b2da90250ce3951a1f3b7c1ce7b1f2895198205baa8f70af718427",
+        "valid": true
+      },
+      {
+        "id": 704,
+        "path": "/cdn/icon/star/704.swf",
+        "sha256": "3bbfc767dcc253868213cfa052f7b03765547394242f4fb42d5260fc86c63497",
+        "valid": true
+      },
+      {
+        "id": 705,
+        "path": "/cdn/icon/star/705.swf",
+        "sha256": "acabb74268fc689846131bc458e82c382b9b94fa6588dbd021213018fe98636c",
+        "valid": true
+      },
+      {
+        "id": 707,
+        "path": "/cdn/icon/star/707.swf",
+        "sha256": "409d160179e5813b5e1f41b901ba19cfeaafb25a11fc6dd5224780e915f26159",
+        "valid": true
+      },
+      {
+        "id": 708,
+        "path": "/cdn/icon/star/708.swf",
+        "sha256": "610f1bc16e947bf1117a1433a44e8617df32b29209b5dc3e9d76b6ad0b5d336b",
+        "valid": true
+      },
+      {
+        "id": 804,
+        "path": "/cdn/icon/star/804.swf",
+        "sha256": "bf5b01388a9994c24fd47a83bd1bdeabe77902717bf8e7d91d4552a0c9d8e9b7",
+        "valid": true
+      },
+      {
+        "id": 805,
+        "path": "/cdn/icon/star/805.swf",
+        "sha256": "1a3469a0d98b5c14cc8e4c3dc2e65fa069ad3970be0a2c040b886cf9d6fea9b1",
+        "valid": true
+      },
+      {
+        "id": 904,
+        "path": "/cdn/icon/star/904.swf",
+        "sha256": "3b0912ddc3cbff2e7fb306773ec3b23e7a622b851fa714c05f5a858bf4360f58",
+        "valid": true
+      },
+      {
+        "id": 905,
+        "path": "/cdn/icon/star/905.swf",
+        "sha256": "c44f055fba7b69afe68451ae8ea624ffaf9d71436eca3f37daef4fca37c289a2",
+        "valid": true
+      },
+      {
+        "id": 1003,
+        "path": "/cdn/icon/star/1003.swf",
+        "sha256": "80c54662608e2e8bfcbcc5014c93c32e2e8e3b6961a5f9675e5ec2c8936c8425",
+        "valid": true
+      },
+      {
+        "id": 1004,
+        "path": "/cdn/icon/star/1004.swf",
+        "sha256": "6ec7ed5bbdbdcb126b4b5944dc631774054c46fd233970dde733e7fec7a276aa",
+        "valid": true
+      },
+      {
+        "id": 1005,
+        "path": "/cdn/icon/star/1005.swf",
+        "sha256": "58c28ca547a1dcab6a091b03140d34a8c7d452ad4c65fba36bba55cb510d03fa",
+        "valid": true
+      },
+      {
+        "id": 1014,
+        "path": "/cdn/icon/star/1014.swf",
+        "sha256": "2809fc30c15f8744bf49069bc2c327addb1dc546c8e44ba67ea52996f7c69a2f",
+        "valid": true
+      },
+      {
+        "id": 1015,
+        "path": "/cdn/icon/star/1015.swf",
+        "sha256": "9c4f74dc4f43fd2dab4c75ab001e4123d58611874794b8f52678b203101af4d7",
+        "valid": true
+      },
+      {
+        "id": 1104,
+        "path": "/cdn/icon/star/1104.swf",
+        "sha256": "2b68afa875854758f80d6d1a12467c4b7d6fcbe009a8d53f48ca9ee8a520601a",
+        "valid": true
+      },
+      {
+        "id": 1105,
+        "path": "/cdn/icon/star/1105.swf",
+        "sha256": "91e51d0dac9ad91ce973e04e9af463b352ccdcb24255412f2684873dcfda351e",
+        "valid": true
+      },
+      {
+        "id": 1204,
+        "path": "/cdn/icon/star/1204.swf",
+        "sha256": "dba640e06da77e3f355ee6033848ba22dd3a43ceb46dd2b8b325c692116db499",
+        "valid": true
+      },
+      {
+        "id": 1205,
+        "path": "/cdn/icon/star/1205.swf",
+        "sha256": "db58b7498397329d2d6eb58e1200d4cdb6c18ffd488207781a6ecb38ac247ec1",
+        "valid": true
+      },
+      {
+        "id": 1304,
+        "path": "/cdn/icon/star/1304.swf",
+        "sha256": "a4a88d5884ca835509a20ec2e3156759e794f26666c9438ba486cfbd67556825",
+        "valid": true
+      },
+      {
+        "id": 1305,
+        "path": "/cdn/icon/star/1305.swf",
+        "sha256": "e7eb97d7bc1840c2a5eb84fe6a82c0389d4ae7f7c873e9c8338a47dc6028c5a4",
+        "valid": true
+      },
+      {
+        "id": 1313,
+        "path": "/cdn/icon/star/1313.swf",
+        "sha256": "407296cd8187a55382f01ef159b155c403e172926b0898ee9a929b06153ca15d",
+        "valid": true
+      },
+      {
+        "id": 1314,
+        "path": "/cdn/icon/star/1314.swf",
+        "sha256": "571a80db69ba5ccba0a3fee7b8d999c5f0cb7f0bc59a121a83ea71dc91fa2493",
+        "valid": true
+      },
+      {
+        "id": 1315,
+        "path": "/cdn/icon/star/1315.swf",
+        "sha256": "17ac92a48669a4f3310e865b8cb0331f225c7470eb019cac809eea7a4c5339f7",
+        "valid": true
+      },
+      {
+        "id": 1404,
+        "path": "/cdn/icon/star/1404.swf",
+        "sha256": "5f5b0762072a5c540017549905062b9680f05ca15c90996f50d61e18ec4ba849",
+        "valid": true
+      },
+      {
+        "id": 1405,
+        "path": "/cdn/icon/star/1405.swf",
+        "sha256": "5ea335478dbc405e049c13b086151c117cad0cc312d6e0109d88194f5182fab2",
+        "valid": true
+      },
+      {
+        "id": 1502,
+        "path": "/cdn/icon/star/1502.swf",
+        "sha256": "4b66e495aee884316e33ff79e96a34bc4232c8443d1e56057430ea34c792738b",
+        "valid": true
+      },
+      {
+        "id": 1503,
+        "path": "/cdn/icon/star/1503.swf",
+        "sha256": "ea736bae06ffa5d6fe74b3f7b0e9cfaac04fdcb0cd287c49e421e182ebfbdf56",
+        "valid": true
+      },
+      {
+        "id": 1504,
+        "path": "/cdn/icon/star/1504.swf",
+        "sha256": "0271a719ae987ba1c0fe26ccc520a39ebc59aa160fbe0d3aa321bbe74ea58f4f",
+        "valid": true
+      },
+      {
+        "id": 1505,
+        "path": "/cdn/icon/star/1505.swf",
+        "sha256": "99873840eb72764d9ad9da1d5f8bcefbd798d71781e1ed89bab4d0d7f0253d1a",
+        "valid": true
+      },
+      {
+        "id": 1507,
+        "path": "/cdn/icon/star/1507.swf",
+        "sha256": "31f083ce5967cedcbb7dc070b42374df3696e9a8c33fb46f514a12d48ead09e8",
+        "valid": true
+      },
+      {
+        "id": 1508,
+        "path": "/cdn/icon/star/1508.swf",
+        "sha256": "593f94affb62980aec9f997928c55dfba098301cac0021b6a4643792c2c2a26f",
+        "valid": true
+      },
+      {
+        "id": 1604,
+        "path": "/cdn/icon/star/1604.swf",
+        "sha256": "4e5cb908405e2804e0e64827889cf43eb3f384a6a0f6b9beb368a7c72319137b",
+        "valid": true
+      },
+      {
+        "id": 1605,
+        "path": "/cdn/icon/star/1605.swf",
+        "sha256": "890e748ae4a4af5245f005679db88251ec609cc75615b070297453113a2aed42",
+        "valid": true
+      },
+      {
+        "id": 1705,
+        "path": "/cdn/icon/star/1705.swf",
+        "sha256": "b080aa88a8ecdd2be05e091a3d975062ea0087cd2b9829b409eb1670b36905e8",
+        "valid": true
+      },
+      {
+        "id": 1707,
+        "path": "/cdn/icon/star/1707.swf",
+        "sha256": "0e2adc2a1f39107af372bcf7092e3f8072059799eb11525bc0b8cde77bd9f918",
+        "valid": true
+      },
+      {
+        "id": 1708,
+        "path": "/cdn/icon/star/1708.swf",
+        "sha256": "dd066acf6e52b9be296507586e4589b6fa1f3cc7ca9ade246ab3277cb4e41f22",
+        "valid": true
+      },
+      {
+        "id": 1805,
+        "path": "/cdn/icon/star/1805.swf",
+        "sha256": "56dc1bba77e971168881245e19bad541c4f9e960e70378ff9daa1aa41d0557ba",
+        "valid": true
+      },
+      {
+        "id": 1807,
+        "path": "/cdn/icon/star/1807.swf",
+        "sha256": "70597c35202269f898decebcd0199d30454a300261397e2bdb4fe11c0c8b951b",
+        "valid": true
+      },
+      {
+        "id": 1808,
+        "path": "/cdn/icon/star/1808.swf",
+        "sha256": "b8fcf4dc99aa41ee8462649e82ab822e82869fc81f9d1137761d07fc991a9d29",
+        "valid": true
+      },
+      {
+        "id": 1905,
+        "path": "/cdn/icon/star/1905.swf",
+        "sha256": "19eecb01dced5c50a659f8e93b4ca2be7cef09998652042b8453e6006ef07782",
+        "valid": true
+      },
+      {
+        "id": 1907,
+        "path": "/cdn/icon/star/1907.swf",
+        "sha256": "97d7eafd59ea4bece953819565b304aa2391c0a7854445d9030472df8b9b473b",
+        "valid": true
+      },
+      {
+        "id": 1908,
+        "path": "/cdn/icon/star/1908.swf",
+        "sha256": "d0a13f8a7dda00edaf9b0faf51210f68206fce28ba744ceb47504913a0ec8c05",
+        "valid": true
+      }
+    ]
+  },
+  "accounts": [
+    {
+      "userId": 1826,
+      "level": 80,
+      "cosmosInitialized": true,
+      "cosmosInstances": 0
+    },
+    {
+      "userId": 1827,
+      "level": 19,
+      "cosmosInitialized": true,
+      "cosmosInstances": 0
+    },
+    {
+      "userId": 1828,
+      "level": 18,
+      "cosmosInitialized": true,
+      "cosmosInstances": 0
+    }
+  ],
+  "fashionFeatureUnchanged": true,
+  "tests": {
+    "tests": 353,
+    "passed": 353,
+    "failed": 0
+  },
+  "focused": {
+    "tests": 9,
+    "passed": 9,
+    "failed": 0
+  }
+}

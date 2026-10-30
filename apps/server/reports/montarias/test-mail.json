@@ -1,0 +1,123 @@
+{
+  "at": "2026-10-14T17:46:02.123Z",
+  "username": "pirata_teste",
+  "userId": 1826,
+  "level": 32,
+  "grade": 6,
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\mount-test-mail-2026-10-14T17-46-01.791Z",
+  "mails": [
+    1000053,
+    1000054,
+    1000055,
+    1000056,
+    1000057,
+    1000058,
+    1000059
+  ],
+  "cards": [
+    {
+      "template": 2180100,
+      "name": "Fera · Panda Po",
+      "mountId": 7006
+    },
+    {
+      "template": 2180001,
+      "name": "Carta do Olho Escarlate",
+      "mountId": 1001
+    },
+    {
+      "template": 2180424,
+      "name": "Carta do Tapete Voador",
+      "mountId": 40001
+    },
+    {
+      "template": 2180813,
+      "name": "Carta do Elfo-Neve",
+      "mountId": 1201
+    },
+    {
+      "template": 2180002,
+      "name": "Carta da Escuridão Profunda",
+      "mountId": 1002
+    },
+    {
+      "template": 2182004,
+      "name": "Carta do Guarda Imperial",
+      "mountId": 20004
+    },
+    {
+      "template": 2180010,
+      "name": "Carta do Alpaca Branco",
+      "mountId": 1007
+    },
+    {
+      "template": 2180011,
+      "name": "Carta do Porco Rosa",
+      "mountId": 1008
+    },
+    {
+      "template": 2180012,
+      "name": "Carta do Devorador Dourado",
+      "mountId": 1009
+    },
+    {
+      "template": 2180020,
+      "name": "Carta do Alce Misterioso",
+      "mountId": 1106
+    },
+    {
+      "template": 2180023,
+      "name": "Carta da Raposa Imortal",
+      "mountId": 1109
+    },
+    {
+      "template": 2180024,
+      "name": "Carta do Porco Azul",
+      "mountId": 1110
+    },
+    {
+      "template": 2180025,
+      "name": "Carta do Macaco Etéreo",
+      "mountId": 1111
+    },
+    {
+      "template": 2180026,
+      "name": "Carta de Besta Auspiciosa",
+      "mountId": 1112
+    },
+    {
+      "template": 2180027,
+      "name": "Carta do Dragão Arcaico",
+      "mountId": 1113
+    },
+    {
+      "template": 2180029,
+      "name": "Montaria Urso Demolidor de Pedras",
+      "mountId": 1115
+    },
+    {
+      "template": 2180030,
+      "name": "Carta da Fera · Bao",
+      "mountId": 1116
+    },
+    {
+      "template": 2180031,
+      "name": "Carta de Montaria Cavalo Voador",
+      "mountId": 1117
+    },
+    {
+      "template": 2180033,
+      "name": "Carta da Besta do Abismo",
+      "mountId": 1120
+    },
+    {
+      "template": 2180034,
+      "name": "Carta da Garras de Aço",
+      "mountId": 1121
+    }
+  ],
+  "distinctCards": 20,
+  "duplicateCards": 10,
+  "starMaterials": 999,
+  "progressChanged": false
+}

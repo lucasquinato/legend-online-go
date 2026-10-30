@@ -1,0 +1,854 @@
+Auditoria de visuais de todas as montarias
+2026-10-14T22:53:03.435Z
+{
+  "templates": 733,
+  "previews": {
+    "total": 733,
+    "cached": 730,
+    "expectedCached": 730,
+    "otherVersionOrPathOnly": 0,
+    "missing": 3,
+    "invalid": 0
+  },
+  "worldAnimations": {
+    "total": 733,
+    "cached": 588,
+    "expectedCached": 588,
+    "otherVersionOrPathOnly": 0,
+    "missing": 136,
+    "invalid": 9
+  },
+  "cardIcons": {
+    "total": 721,
+    "cached": 710,
+    "expectedCached": 710,
+    "otherVersionOrPathOnly": 0,
+    "missing": 11,
+    "invalid": 0
+  },
+  "bothPreviewAndWorldCached": 585,
+  "bothExpectedCached": 585,
+  "objectsVerified": 2015,
+  "invalidObjects": 1
+}
+
+PREVIEWS AUSENTES/INVÁLIDOS
+- 8473: Koala (/cdn/equip_show/mount_koala/2.swf)
+- 8607: Abóbora de Halloween (/cdn/equip_show/mount_halloweenpumpkin/2.swf)
+- 9001: Nirvana Dourada (/cdn/equip_show/mount_purplephoenix/2.swf)
+
+TODAS AS MONTARIAS
+ID	Nome	Preview	Animação no mapa	Ícones das cartas	AvatarPath
+1000	Cavalo Branco	expected-cached	expected-cached	sem carta	/mount_horse_white
+1001	Olho Escarlate	expected-cached	expected-cached	expected-cached	/mount_horse_default
+1002	Escuridão Profunda	expected-cached	expected-cached	expected-cached	/mount_horse_black
+1003	Cavalaria Noturna	expected-cached	expected-cached	expected-cached	/mount_ARMORhorse_black
+1004	Cavalaria da Realeza	expected-cached	expected-cached	expected-cached	/mount_ARMORhorse_chestnut
+1005	Cavalaria do Vento	expected-cached	expected-cached	expected-cached	/mount_ARMORhorse_default
+1006	Cavalo Imperial	expected-cached	expected-cached	sem carta	/mount_ARMORhorse_white
+1007	Alpaca Branco	expected-cached	expected-cached	expected-cached	/mount_CNM_white
+1008	Porquinho Rosa	expected-cached	expected-cached	expected-cached	/mount_pig_pink
+1009	Devorador Dourado	expected-cached	expected-cached	expected-cached	/mount_leopard_yellow
+1010	Noite Mágica	expected-cached	expected-cached	expected-cached	/mount_leopard_black
+1101	Coelho de Jade	expected-cached	expected-cached	expected-cached	/mount_rabbit_white
+1102	Fera · Imperial	expected-cached	expected-cached	expected-cached	/mount_leopard_red
+1103	Alpaca Demônio	expected-cached	expected-cached	expected-cached	/mount_CNM_black
+1104	Alpaca Violento	expected-cached	expected-cached	expected-cached	/mount_CNM_yellow
+1105	Chocobo	expected-cached	expected-cached	expected-cached	/mount_LandBird
+1106	Alce Misterioso	expected-cached	expected-cached	expected-cached	/mount_XmasDeer
+1107	Porco Alentejano	expected-cached	expected-cached	expected-cached	/mount_pig_black
+1108	Lobo Venenoso	expected-cached	expected-cached	expected-cached	/mount_wolf_white
+1109	Raposa Imortal	expected-cached	expected-cached	expected-cached	/mount_fox
+1110	Porco Azul	expected-cached	expected-cached	expected-cached	/mount_pig_blue
+1111	Macaco Etéreo	expected-cached	expected-cached	expected-cached	/mount_SnowMan
+1112	Besta Auspiciosa	expected-cached	expected-cached	expected-cached	/mount_YearBeast
+1113	Dragão Arcaico	expected-cached	missing	expected-cached	/mount_OldDragon
+1114	Ancião Dourado	expected-cached	expected-cached	expected-cached	/mount_OldTech
+1115	Urso Demolidor de Pedras	expected-cached	expected-cached	expected-cached	/mount_bear
+1116	Fera · Bao	expected-cached	expected-cached	expected-cached	/mount_panda
+1117	Cavalo Voador	expected-cached	expected-cached	expected-cached	/mount_fly01
+1118	Dragão Dourado	expected-cached	expected-cached	sem carta	/mount_dragonvip
+1119	Carta do Panda Cebola	expected-cached	expected-cached	expected-cached	/mount_panda37wan
+1120	Besta do Abismo	expected-cached	expected-cached	expected-cached	/mount_abyssbeast
+1121	Garra de Aço	expected-cached	expected-cached	expected-cached	/mount_steelcrawl
+1122	Paladino Ares	expected-cached	expected-cached	expected-cached	/mount_mars
+1123	Tamba	expected-cached	expected-cached	expected-cached	/mount_elephant
+1124	Rinoceronte Demoníaco	expected-cached	expected-cached	expected-cached	/mount_rhino
+1125	Tapir	expected-cached	expected-cached	expected-cached	/mount_tapir
+1126	Leão Glacial	expected-cached	expected-cached	expected-cached	/mount_whitebeast
+1127	Elefante dos Nove Dentes	expected-cached	expected-cached	expected-cached	/mount_elephant09
+1128	Guerreiro Tigre	expected-cached	expected-cached	expected-cached	/mount_tiger360
+1129	Pássaro Andarilho	expected-cached	expected-cached	expected-cached	/mount_landbird02
+1130	Chamas	expected-cached	expected-cached	expected-cached	/mount_redtiger
+1131	Cavalo Imperial Azul	expected-cached	expected-cached	expected-cached	/mount_heavyhorse
+1132	Cavalo Imperial Vermelho	expected-cached	expected-cached	expected-cached	/mount_heavyhorse01
+1133	Unicórnio Celestial	expected-cached	expected-cached	expected-cached	/mount_newunicorn_black
+1134	Antílope Dourado	expected-cached	expected-cached	expected-cached	/mount_goldsheep
+1135	Montaria de guerra	expected-cached	expected-cached	expected-cached	/mount_sheep_argali
+1136	Dora	expected-cached	expected-cached	expected-cached	/mount_sheep_duowan
+1137	Leão Norte Europeu	expected-cached	expected-cached	expected-cached,expected-cached	/mount_icelion
+1138	Leão do Gelo	expected-cached	expected-cached	expected-cached	/mount_icelion
+1139	Chama Nobre	expected-cached	expected-cached	expected-cached	/mount_tigervip
+1140	Leão da Luz	expected-cached	expected-cached	expected-cached	/mount_lightlion
+1141	Urso Glacial	expected-cached	expected-cached	expected-cached	/mount_icebear
+1142	Gato Demônico	expected-cached	expected-cached	expected-cached	/mount_ghostcat
+1143	Fera Auspiciosa	expected-cached	expected-cached	expected-cached	/mount_horseyear
+1144	Espírito da Raposa Azul	expected-cached	expected-cached	expected-cached	/mount_bluefox
+1145	Camelo Branco	expected-cached	expected-cached	expected-cached	/mount_whitecamel
+1146	Escorpião	expected-cached	expected-cached	expected-cached	/mount_scorpion
+1147	Leopardo Congelado	expected-cached	expected-cached	expected-cached,expected-cached	/mount_iceleopard
+1148	Fera das Nuvens	expected-cached	expected-cached	expected-cached	/mount_cloudbeast
+1149	Tigre das Trevas	expected-cached	expected-cached	expected-cached	/mount_darktiger
+1150	A Voação Dupla	expected-cached	expected-cached	expected-cached	/mount_forever
+1151	Pássaro Majestoso	expected-cached	expected-cached	expected-cached	/mount_bird_beast
+1152	Raposa Encantadora	expected-cached	expected-cached	expected-cached	/mount_whitefox
+1153	Caos	expected-cached	expected-cached	expected-cached	/mount_chaos
+1154	Pato Amarelo	expected-cached	expected-cached	expected-cached	/mount_yellow_duck
+1201	Espírito da Neve	expected-cached	expected-cached	expected-cached,expected-cached	/mount_leopard_white
+2001	Cavalo Infernal	expected-cached	expected-cached	sem carta	/mount_SKhorse_green
+2002	Fera Infernal	expected-cached	expected-cached	expected-cached	/mount_SKhorse_blue
+2003	Sombra em Chamas	expected-cached	expected-cached	expected-cached	/mount_SKhorse_red
+3001	Pegasus Sagrado	expected-cached	expected-cached	sem carta	/mount_unicorns_white
+3002	Lobo de Masmorra	expected-cached	expected-cached	expected-cached	/mount_lord
+3003	Divino · Tempestade	expected-cached	expected-cached	expected-cached	/mount_unicorns_chestnut
+3004	Infernal · Eclipse	expected-cached	expected-cached	expected-cached	/mount_unicorns_black
+3005	Sonho Azul	expected-cached	expected-cached	expected-cached	/mount_titan
+3006	Burrinho	expected-cached	expected-cached	expected-cached	/mount_donkey
+3007	Nevoado Sagrado	expected-cached	expected-cached	expected-cached	/mount_whitebull
+3008	Pesadelo do Dragão	expected-cached	expected-cached	expected-cached	/mount_magic_dragon
+3009	Cavalo Mecânico	expected-cached	expected-cached	expected-cached	/mount_machine_horse
+3010	Dragão do Relâmpago Azul	expected-cached	expected-cached	expected-cached	/mount_lighting_dragon
+3011	Sr. Smart	expected-cached	expected-cached	expected-cached	/mount_snowleopard
+3012	Espectro Dourado	expected-cached	expected-cached	expected-cached	/mount_stingray
+3013	Dragão Infernal	expected-cached	expected-cached	expected-cached	/mount_titandragon
+3014	Touro	expected-cached	expected-cached	expected-cached,expected-cached	/mount_taurus
+3015	Porquinho da índia	expected-cached	expected-cached	expected-cached	/mount_guinea_pig
+3016	Blindagem de Rinoceronte	expected-cached	expected-cached	expected-cached	/mount_rhinoceros
+3017	Quimera	expected-cached	expected-cached	expected-cached	/mount_chimera
+3018	Tamanduá	expected-cached	expected-cached	expected-cached	/mount_anteater
+3019	Leão-Coruja	expected-cached	expected-cached	expected-cached	/mount_owl
+3020	Unicórnio das Runas	expected-cached	expected-cached	expected-cached	/mount_unicon_white
+3021	Câncer	expected-cached	expected-cached	expected-cached	/mount_cancer
+3022	Triceratops	expected-cached	expected-cached	expected-cached	/mount_triceratops
+3023	Leopardo Venenoso	expected-cached	expected-cached	expected-cached	/mount_panther_poison
+3024	Dragão da Variação	expected-cached	expected-cached	expected-cached	/mount_sanddragon_pure
+3025	Cabeça de Ferro	expected-cached	expected-cached	expected-cached	/mount_goblin
+3026	Tarântula Orquídea	expected-cached	expected-cached	expected-cached	/mount_spider
+3027	Tartaruga Imperial	expected-cached	expected-cached	expected-cached	/mount_master_wugui
+3028	Cavalo Ósseo	expected-cached	expected-cached	expected-cached	/mount_2014halloween
+3029	Senhora Bolha	expected-cached	expected-cached	expected-cached	/mount_puffer
+3030	Monstro do Chifre	expected-cached	expected-cached	expected-cached	/mount_dichotoma
+3031	Escorpião	expected-cached	expected-cached	expected-cached	/mount_capricornus
+3032	Lobo de Aço	expected-cached	expected-cached	expected-cached	/mount_ironwolf
+3033	Husky Siberiano	expected-cached	expected-cached	expected-cached	/mount_husky
+3034	Zebra da Infantaria	expected-cached	expected-cached	expected-cached	/mount_zebra
+3035	Camaleão	expected-cached	expected-cached	expected-cached	/mount_chameleon
+3037	Cão Zumbi	expected-cached	expected-cached	expected-cached	/mount_zombie_dog
+3038	Áries	expected-cached	expected-cached	expected-cached	/mount_astro_sheep
+3039	Raposa Branca	expected-cached	expected-cached	expected-cached	/mount_white_fox
+3040	Peixe Dourado	expected-cached	expected-cached	expected-cached	/mount_214_2015
+3041	Enke 2000	expected-cached	expected-cached	expected-cached	/mount_encke
+3042	Protetor Shambala	expected-cached	expected-cached	expected-cached	/mount_yeti
+3043	Javali Dentuço	expected-cached	expected-cached	expected-cached	/mount_boar
+3044	Áries	expected-cached	expected-cached	expected-cached	/mount_aries
+3045	Potro de Lava	expected-cached	expected-cached	expected-cached	/mount_lava_horse
+3047	Hipopótamo Ágil	expected-cached	expected-cached	expected-cached	/mount_hippo_chn
+3048	Aranha de Vapor	expected-cached	expected-cached	expected-cached	/mount_steam_spider
+3049	Vontade Divina	expected-cached	expected-cached	expected-cached	/mount_chosen_one
+3050	Besta Mitológica	expected-cached	expected-cached	expected-cached	/mount_bird_ancient
+3051	Cavalo Zumbi	expected-cached	expected-cached	expected-cached	/mount_death_riding
+3052	Águia Guardiã	expected-cached	expected-cached	expected-cached	/mount_capehawk
+3055	Leão Armado	expected-cached	expected-cached	expected-cached	/mount_kinglion
+3063	Pangolim	expected-cached	expected-cached	expected-cached	/mount_pangolin
+3066	Antílope Demoníaco	expected-cached	expected-cached	expected-cached	/mount_barbarian_antelope
+3067	Leão	expected-cached	expected-cached	expected-cached	/mount_leo
+3068	Cavalo das Lavas	expected-cached	expected-cached	expected-cached	/mount_lava_tianma
+3069	Rena dos Sonhos	expected-cached	expected-cached	expected-cached	/mount_virgo
+3070	Aeronave de Goblin	expected-cached	expected-cached	expected-cached	/mount_airship
+3071	Peixe Roxo	expected-cached	expected-cached	expected-cached	/mount_mid_autumn2015
+3073	Fera das Nuvens	expected-cached	expected-cached	expected-cached	/mount_cloud
+3074	Furão de Natal	expected-cached	expected-cached	expected-cached	/mount_weasel_white
+3076	Libra	expected-cached	expected-cached	expected-cached	/mount_libra
+3077	Peixe Diabo	expected-cached	expected-cached	expected-cached	/mount_devilray
+3078	Touro Legal	expected-cached	expected-cached	expected-cached	/mount_cooldog
+3079	Baleia Azul Profunda	expected-cached	expected-cached	expected-cached	/mount_whale
+3080	Peru do Samba	expected-cached	expected-cached	expected-cached	/mount_2015_turkey
+3081	Homem-Árvore Violento	expected-cached	expected-cached	expected-cached	/mount_treeman
+3083	Capivara	expected-cached	expected-cached	expected-cached	/mount_capybara
+3086	Ewing	expected-cached	missing	expected-cached	/mount_youyintashou
+3087	Caça	expected-cached	expected-cached	expected-cached	/mount_fighter
+3089	Rena Santa	expected-cached	expected-cached	expected-cached	/mount_deer01
+3090	Aquário	expected-cached	expected-cached	expected-cached	/mount_aquarius
+3093	Caracal	expected-cached	expected-cached	expected-cached	/mount_fiercecat
+3094	Panda Vermelho	expected-cached	expected-cached	expected-cached	/mount_panda01
+3222	Dragão de 3 Ângulos	expected-cached	expected-cached	expected-cached	/mount_hytriceratops
+3223	Cavalo das Rosas	expected-cached	expected-cached	expected-cached	/mount_hyrosema
+3333	Husky	expected-cached	expected-cached	expected-cached	/mount_hyhusky
+4001	Leopardo Trovão	expected-cached	expected-cached	sem carta	/mount_leopard_purple
+5001	Tiamat Fantasma	expected-cached	expected-cached	sem carta	/mount_dragon_blue
+6001	Leão Infernal	expected-cached	expected-cached	sem carta	/mount_FireLion
+6002	Dragão da Masmorra	expected-cached	expected-cached	sem carta	/mount_dragon_gold
+6004	Rena Mágica	expected-cached	expected-cached	sem carta	/mount_XmasDeer
+7001	Dragão do Céu	expected-cached	expected-cached	sem carta	/mount_FlyDragon
+7002	Bestial · Espírito Sombrio	expected-cached	expected-cached	expected-cached	/mount_dragon_shadow
+7003	Hipopótamo	expected-cached	expected-cached	expected-cached	/mount_hippo
+7004	Leão-Escorpião	expected-cached	expected-cached	expected-cached	/mount_lionbeast
+7005	Mamute	expected-cached	expected-cached	sem carta	/mount_Elephant
+7006	Fera · Panda Po	expected-cached	expected-cached	expected-cached	/mount_panda
+8005	Rena de Natal	expected-cached	expected-cached	expected-cached	/mount_xmasdeer2014
+8006	Salamandra	expected-cached	expected-cached	expected-cached	/mount_salamander
+8007	Dragão de 3 cabeças	expected-cached	expected-cached	expected-cached	/mount_threetiamat
+8008	Gato Azul	expected-cached	expected-cached	expected-cached	/mount_bulecat
+8010	Pioneiro	expected-cached	expected-cached	expected-cached	/mount_terminator
+8012	Unicórnio Espectral Azul	expected-cached	expected-cached	expected-cached	/mount_newunicorn_white
+8013	Moto	expected-cached	expected-cached	expected-cached	/mount_motor_bike
+8014	Harley Cross	expected-cached	expected-cached	expected-cached	/mount_motor_horse
+8015	Kirin	expected-cached	expected-cached	expected-cached	/mount_qilin_beast
+8016	Leão Preto	expected-cached	expected-cached	expected-cached	/mount_black_lion
+8017	Dragão do Mundo Antigo	expected-cached	expected-cached	expected-cached	/mount_dinosaur_hk
+8018	Escorpião das Gemas	expected-cached	expected-cached	expected-cached	/mount_scorpion_hk
+8019	Leão Sanguinário	expected-cached	expected-cached	expected-cached	/mount_lion_hk
+8020	Coelho da Páscoa	expected-cached	expected-cached	expected-cached	/mount_easterbunny
+8021	Aeronave	expected-cached	expected-cached	expected-cached	/mount_aircraft
+8022	Osso do Dragão	expected-cached	expected-cached	expected-cached	/mount_bonegragon
+8023	Dragão-Peixe	expected-cached	expected-cached	expected-cached	/mount_flyingfish
+8024	Dragão Azul	expected-cached	expected-cached	expected-cached	/mount_persian
+8026	Foguete	expected-cached	expected-cached	expected-cached	/mount_gemini7
+8027	Kirin das Nuvens	expected-cached	expected-cached	expected-cached	/mount_kirin_cloud
+8029	Nether	expected-cached	expected-cached	expected-cached	/mount_ray
+8030	Siertan	expected-cached	expected-cached	expected-cached	/mount_siertan
+8031	Griffin Fantasma	expected-cached	expected-cached	expected-cached	/mount_ghostgriffin
+8035	Tricerátopo Antigo	expected-cached	expected-cached	expected-cached	/mount_hytriceratops01
+8036	Aranha Roxa	expected-cached	expected-cached	expected-cached	/mount_blue_spider
+8037	Burro Entregador	expected-cached	expected-cached	expected-cached	/mount_ricepudding_donkey
+8039	Cão Infernal	expected-cached	expected-cached	expected-cached	/mount_cerberus
+8040	Smilodon	expected-cached	missing	expected-cached	/mount_smilodon
+8042	Cavalo Fantasma	expected-cached	expected-cached	expected-cached	/mount_bones
+8044	Dragão Chinês	expected-cached	expected-cached	expected-cached	/mount_loong
+8045	Vassoura Mágica	expected-cached	expected-cached	expected-cached	/mount_broom
+8046	Tigre Voador	expected-cached	expected-cached	expected-cached	/mount_bian
+8047	Tartaruga	expected-cached	expected-cached	expected-cached	/mount_bixi
+8048	Pavão	expected-cached	expected-cached	expected-cached	/mount_peacock
+8049	Águia Bicéfala	expected-cached	expected-cached	expected-cached	/mount_doubleheadeagle
+8050	Monstro da Justiça	expected-cached	missing	expected-cached	/mount_yazi
+8052	Urso Voador de Natal	expected-cached	expected-cached	expected-cached	/mount_xms2015
+8053	Touro da Prisão	expected-cached	expected-cached	expected-cached	/mount_qiuniu
+8054	Escorpião	expected-cached	expected-cached	expected-cached	/mount_capricornus2
+8055	Esquilo-Choque	expected-cached	expected-cached	expected-cached	/mount_lightmouse
+8056	Bicicleta	expected-cached	expected-cached	expected-cached	/mount_childbike
+8057	Fera Florestal	expected-cached	expected-cached	expected-cached	/mount_chloris
+8058	Limpa-Neve	expected-cached	expected-cached	expected-cached	/mount_icyrocket
+8059	Mecânica Tempestade	expected-cached	expected-cached	expected-cached	/mount_tech
+8060	Banana Voadora	expected-cached	expected-cached	expected-cached	/mount_banana
+8061	Cavalo de Guerra Preto	expected-cached	expected-cached	expected-cached	/mount_blackwarhorse
+8062	Dragão da Prisão	expected-cached	expected-cached	expected-cached	/mount_pulao
+8064	Lynx	expected-cached	expected-cached	expected-cached	/mount_lynx
+8065	Crocodilo	expected-cached	expected-cached	expected-cached	/mount_estuarine_crocodile
+8066	Dragão Quinta-neto	expected-cached	missing	expected-cached	/mount_suan_ni
+8067	Pato de Fero	expected-cached	expected-cached	expected-cached	/mount_ironduck
+8068	Lobo Cavalheiro	expected-cached	missing	expected-cached	/mount_werwolf
+8070	Cavalo Marinho	expected-cached	expected-cached	expected-cached	/mount_fishtail
+8071	Grande Sapo	expected-cached	expected-cached	expected-cached	/mount_frog
+8072	Esquilo Voador	expected-cached	expected-cached	expected-cached	/mount_polatouche
+8073	Tubarão	expected-cached	expected-cached	expected-cached	/mount_shark
+8074	Tamboril	expected-cached	expected-cached	expected-cached	/mount_anglerfish
+8075	Grilo de Ouro	expected-cached	expected-cached	expected-cached	/mount_magicscythe
+8077	Arara	expected-cached	expected-cached	expected-cached	/mount_parrot
+8078	Kirin Aquático	expected-cached	expected-cached	expected-cached	/mount_purity
+8079	Cavalo do Carnaval do Céu	expected-cached	expected-cached	expected-cached	/mount_anniversary2016
+8083	Pato de Mandarino	expected-cached	expected-cached	expected-cached	/mount_mandarin
+8086	Borboleta-Luz	expected-cached	expected-cached	expected-cached	/mount_butterfly_light
+8087	Ave Encantada	expected-cached	expected-cached	expected-cached	/mount_bird_paradise
+8089	Lamassu	expected-cached	expected-cached	expected-cached	/mount_lamassu
+8090	Morcego Gótico	expected-cached	expected-cached	expected-cached	/mount_bat
+8091	Sombra Maligna	expected-cached	expected-cached	expected-cached	/mount_nevermore
+8093	Lago Lunar	expected-cached	expected-cached	expected-cached	/mount_hetang
+8094	Glazer	expected-cached	expected-cached	expected-cached	/mount_leize
+8095	Coruja Mutante	expected-cached	expected-cached	expected-cached	/mount_lixiao
+8096	Mota das nuvens	expected-cached	expected-cached	expected-cached	/mount_mountsky
+8101	Dragão de Gelo	expected-cached	expected-cached	expected-cached	/mount_frostdragon
+8102	Abóbora	expected-cached	expected-cached	expected-cached	/mount_pumpkin
+8104	Guindaste	expected-cached	expected-cached	expected-cached	/mount_styx
+8105	Pássaro Estátua	expected-cached	expected-cached	expected-cached	/mount_carving
+8106	Juba	expected-cached	expected-cached	expected-cached	/mount_cangji
+8107	Camarão-Ovo	expected-cached	expected-cached	expected-cached	/mount_xiachedan
+8109	Peru	expected-cached	expected-cached	expected-cached	/mount_thanksgiving2016
+8110	Coelho de Alice	expected-cached	expected-cached	expected-cached	/mount_rabbit2016
+8111	Rei Carangueijo	expected-cached	expected-cached	expected-cached	/mount_kingcrab
+8112	Besta Lanly	expected-cached	expected-cached	expected-cached	/mount_lanlinshou
+8113	Tamboril	expected-cached	expected-cached	expected-cached	/mount_christmas2016
+8115	Gato da Lua	expected-cached	expected-cached	expected-cached	/mount_yueye
+8116	Dragão Sagrado	expected-cached	expected-cached	expected-cached	/mount_qinglong
+8117	Rei-Serpente	expected-cached	expected-cached	expected-cached	/mount_snake_poison
+8118	Besouro	expected-cached	expected-cached	expected-cached	/mount_insect_jiaoxian
+8119	Gato-Águia	expected-cached	expected-cached	expected-cached	/mount_nightowl
+8122	Cervo Mágico	expected-cached	expected-cached	expected-cached	/mount_deer_snow
+8123	Dragão Gelo-Fogo	expected-cached	expected-cached	expected-cached	/mount_icefiredragon
+8124	Carta da Cobra Gancho	expected-cached	expected-cached	expected-cached	/mount_hooksnake
+8125	Gugu	expected-cached	expected-cached	expected-cached	/mount_bire_gugu
+8126	Cavalo Zumbi	expected-cached	expected-cached	expected-cached	/mount_horse_zombies
+8128	Ramo da Ameixa	expected-cached	expected-cached	expected-cached	/mount_wintersweet
+8130	Baloiço	expected-cached	expected-cached	expected-cached	/mount_swing
+8131	Híbrido	expected-cached	expected-cached	expected-cached	/mount_feifei
+8136	Abelha do Arco-Íris	expected-cached	expected-cached	expected-cached	/mount_bee_rainbow
+8141	Rã de Ouro	expected-cached	expected-cached	expected-cached	/mount_goldenfrog
+8143	Coelho da Páscoa 2017	expected-cached	expected-cached	expected-cached	/mount_easter2017
+8144	Fera Suzaki	expected-cached	expected-cached	expected-cached	/mount_bird_chiwei
+8146	Chama Viva	expected-cached	missing	expected-cached	/mount_zhuyan
+8148	Jade-Chamas	expected-cached	expected-cached	expected-cached	/mount_greenunicorn
+8149	Guarda-Costas	expected-cached	expected-cached	expected-cached	/mount_blackman
+8151	Javali Selvagem	expected-cached	expected-cached	expected-cached	/mount_boar_wild
+8154	Polvo Paul	expected-cached	expected-cached	expected-cached	/mount_octopus
+8155	Alienígena	expected-cached	expected-cached	expected-cached	/mount_dragon_seat
+8159	Anubis	expected-cached	expected-cached	expected-cached	/mount_anubis
+8161	Poderoso Pintinho	expected-cached	expected-cached	expected-cached	/mount_chicken_strongest
+8162	Carruagem do Sol	expected-cached	expected-cached	expected-cached	/mount_sun_carriage
+8163	Nave Espacial	expected-cached	missing	expected-cached	/mount_spaceshuttle
+8164	Navio dos Piratas	expected-cached	expected-cached	expected-cached	/mount_corsair
+8165	Aeronave Pixel	expected-cached	expected-cached	expected-cached	/mount_plane_pixel
+8166	Golfinho Rosa	expected-cached	expected-cached	expected-cached	/mount_dolphin_pink
+8167	Águia-Leão	expected-cached	expected-cached	expected-cached	/mount_youlingshijiu2017
+8168	Mariposa	expected-cached	expected-cached	expected-cached	/mount_moth
+8169	Dragão Aço-Estrela	expected-cached	expected-cached	expected-cached	/mount_dragon_starsteel
+8170	Dragão de Vaso	expected-cached	expected-cached	expected-cached	/mount_vessel_dragon
+8171	Dragão-Elfo	expected-cached	expected-cached	expected-cached	/mount_dragon_elves
+8172	Tarantula Vermelha	expected-cached	missing	expected-cached	/mount_spider_latosolic
+8173	Lagartixa Trovoada	expected-cached	expected-cached	expected-cached	/mount_lizard_thunder
+8174	Corgi	expected-cached	expected-cached	expected-cached	/mount_corgi
+8175	Raposa de fogo	expected-cached	expected-cached	expected-cached	/mount_firefox2017
+8176	Rato Mágico	expected-cached	expected-cached	expected-cached	/mount_totoro
+8177	Lontra de mar	expected-cached	expected-cached	expected-cached	/mount_wrasse_sushi
+8178	Flamingo	expected-cached	expected-cached	expected-cached	/mount_flamingos
+8179	Carta de Crisântemo rasgado	expected-cached	expected-cached	expected-cached	/mount_fallingcloud
+8180	Cão de Pérola	expected-cached	expected-cached	expected-cached	/mount_dog_pearl
+8181	Unicórnio do vento	expected-cached	expected-cached	expected-cached	/mount_mengze
+8182	Pequeno dinossauro	expected-cached	expected-cached	expected-cached	/mount_minidragon_flies
+8183	Elementos de fogo violentos	expected-cached	expected-cached	expected-cached	/mount_element_fire
+8184	Carro de abobora do Vaticano	expected-cached	expected-cached	expected-cached	/mount_pumpkincar
+8186	Tomahawk moto	expected-cached	expected-cached	expected-cached	/mount_battleax_car
+8187	Tubarão azul do diabo	expected-cached	expected-cached	expected-cached	/mount_blueshark
+8188	Montária de Ação de graças	expected-cached	expected-cached	expected-cached	/mount_thanksgiving2017
+8189	Leão-marinho ancestral	expected-cached	expected-cached	expected-cached	/mount_sealion_original
+8190	Leão de pedra	expected-cached	expected-cached	expected-cached	/mount_stonelion
+8191	Liteira Espectral	expected-cached	expected-cached	expected-cached	/mount_ghostsedanchair
+8192	Boneco de Neve	expected-cached	expected-cached	expected-cached	/mount_christmas2017
+8193	Míssil Cor-de-rosa	expected-cached	expected-cached	expected-cached	/mount_littlepinkrocket
+8194	Pinguim de Férias	expected-cached	expected-cached	expected-cached	/mount_penguin_travelling
+8196	Tigre das Neves	expected-cached	expected-cached	expected-cached	/mount_snowtiger
+8197	Besta Gladiadora	expected-cached	expected-cached	expected-cached	/mount_gladiator_beast
+8198	Alma da Cachoeira	expected-cached	expected-cached	expected-cached	/mount_waterfall
+8199	Gato Fantástico	expected-cached	expected-cached	expected-cached	/mount_bizarre_griffin
+8200	Antílope do crânio	expected-cached	expected-cached	expected-cached	/mount_skullantelope
+8201	Bomba	expected-cached	expected-cached	expected-cached	/mount_bomb2017
+8202	Cão de rena	expected-cached	expected-cached	expected-cached	/mount_pathfinding_snow
+8204	Penas Brancas	expected-cached	expected-cached	expected-cached	/mount_whitewing
+8205	Cão Auspicioso	expected-cached	expected-cached	expected-cached	/mount_springlucky_dog
+8206	Montaria do Amor 2018	expected-cached	expected-cached	expected-cached	/mount_peacock_pink
+8207	Fogo Dourado	expected-cached	expected-cached	expected-cached	/mount_flying_goldenfire
+8208	Sombrinha Monstruosa	expected-cached	expected-cached	expected-cached	/mount_yaoguaisan
+8209	Urso-de-óculos	expected-cached	expected-cached	expected-cached	/mount_glassesbear
+8210	Riquexó do Macaco	expected-cached	expected-cached	expected-cached	/mount_monkey
+8211	Andorinha-dáurica	expected-cached	expected-cached	expected-cached	/mount_jinyaoyan
+8212	Imperador-roxo	expected-cached	expected-cached	expected-cached	/mount_butterfly_color
+8213	Gárgula	expected-cached	expected-cached	expected-cached	/mount_shixianggui
+8214	Elemento Ferro	expected-cached	expected-cached	expected-cached	/mount_iron_element
+8215	Monociclo	expected-cached	expected-cached	expected-cached	/mount_wheelbarrow
+8216	Behemoth	expected-cached	expected-cached	expected-cached	/mount_bimeng
+8217	Dragão de Ouro	expected-cached	expected-cached	expected-cached	/mount_golden_fire_dragon
+8218	Espírito do Relâmpago	expected-cached	expected-cached	expected-cached	/mount_lightning_blue
+8219	Carta do 4x4 Todo o Terreno	expected-cached	expected-cached	expected-cached	/mount_buggies
+8220	Super Urso Polar	expected-cached	expected-cached	expected-cached	/mount_superbear
+8221	Urso de Metal	expected-cached	expected-cached	expected-cached	/mount_metalbear
+8222	Pato Voador	expected-cached	expected-cached	expected-cached	/mount_daffy_duck
+8223	Homem-peixe Rugido	expected-cached	expected-cached	expected-cached	/mount_murloc
+8224	Coelho de Orelhas grandes	expected-cached	missing	expected-cached	/mount_rabbit_fly
+8225	O dragão  voador de três cabeças	expected-cached	missing	expected-cached	/mount_quicksand_dragon
+8226	Carrossel	expected-cached	expected-cached	expected-cached	/mount_carousel
+8227	Dinossauro Inflável	expected-cached	expected-cached	expected-cached	/mount_dinosaur_toy
+8228	Mosassauro	expected-cached	expected-cached	expected-cached	/mount_mosasaurus
+8229	Avião de Papel	expected-cached	expected-cached	expected-cached	/mount_paper_plane
+8230	Fera Uda	expected-cached	missing	expected-cached	/mount_uda
+8231	Dragão do fogo da estrela	expected-cached	expected-cached	expected-cached	/mount_dragon_spark
+8232	Papagaio de lava	expected-cached	expected-cached	expected-cached	/mount_eyas_gale
+8233	Golem Totem	expected-cached	missing	expected-cached	/mount_totem_golem
+8234	Centauro Sensível	expected-cached	missing	expected-cached	/mount_treading_water
+8235	Mini Nave Espacial	expected-cached	expected-cached	expected-cached	/mount_miniufo
+8236	Louva-a-deus Mecânico	expected-cached	expected-cached	expected-cached	/mount_machine_mantis
+8237	Dragão do Penhasco Verde	expected-cached	expected-cached	expected-cached	/mount_green_dragon
+8238	Elemento Ar	expected-cached	expected-cached	expected-cached	/mount_gas_element
+8239	Verão Fresco	expected-cached	expected-cached	expected-cached	/mount_buthtub
+8240	Dragão das Sombras	expected-cached	missing	expected-cached	/mount_shadow_dragon
+8241	Gatinha Rosa	expected-cached	expected-cached	expected-cached	/mount_babycat_pink
+8242	Rena de Grande Chifres	expected-cached	missing	expected-cached	/mount_reindeer
+8243	Lagarto Vermelho	expected-cached	expected-cached	expected-cached	/mount_lizard_deepred
+8244	Sacerdote Tau	expected-cached	missing	expected-cached	/mount_tauren_priest
+8245	Besta Pisoteadora	expected-cached	expected-cached	expected-cached	/mount_benta
+8246	Coelho Lunar	expected-cached	expected-cached	expected-cached	/mount_moonpower
+8247	Camelo do deserto	expected-cached	expected-cached	expected-cached	/mount_desertcamel
+8248	Monstro do Deserto	expected-cached	expected-cached	expected-cached	/mount_desertsnake
+8249	Foca das Nuvens	expected-cached	expected-cached	expected-cached	/mount_cloudseal
+8250	Essarian	expected-cached	expected-cached	expected-cached	/mount_essarian
+8251	Tartaruga Assassina	expected-cached	expected-cached	expected-cached	/mount_longgui
+8252	Peixe Sábio	expected-cached	expected-cached	expected-cached	/mount_arowana
+8253	Besta Zumbi	expected-cached	missing	expected-cached	/mount_zombiebeast
+8254	Edmundraptor	expected-cached	expected-cached	expected-cached	/mount_edmundo
+8255	Protetor	expected-cached	expected-cached	expected-cached	/mount_sendwatcher
+8256	Gatoclope	expected-cached	expected-cached	expected-cached	/mount_oneeyed
+8257	Besta Terremoto	expected-cached	missing	expected-cached	/mount_shockland
+8258	Sir Cão	expected-cached	expected-cached	expected-cached	/mount_gentledog
+8259	Canguru da Neve	expected-cached	missing	expected-cached	/mount_snowkangaroo
+8260	Lâmpada Fantasma	expected-cached	expected-cached	expected-cached	/mount_ghostlight
+8261	Tigráguia	expected-cached	expected-cached	expected-cached	/mount_eagletiger
+8262	Besta Voadora	expected-cached	expected-cached	expected-cached	/mount_combinefly
+8263	Dragão Orc	expected-cached	expected-cached	expected-cached	/mount_frostirondragon
+8264	Dragão Mórbido	expected-cached	expected-cached	expected-cached	/mount_darkrundragon
+8265	Grinch	expected-cached	expected-cached	expected-cached	/mount_grinch
+8266	Palco Móvel	expected-cached	expected-cached	expected-cached	/mount_movingstage
+8267	Morcego da Luz	expected-cached	missing	expected-cached	/mount_warmlightfish
+8268	Veneno Mortal	expected-cached	expected-cached	expected-cached	/mount_deadlypoison
+8269	Coruja da Neve	expected-cached	missing	expected-cached	/mount_snowowl
+8270	Réptil do Gelo	expected-cached	expected-cached	expected-cached	/mount_birdsnake
+8271	Elefante de Cristal	expected-cached	expected-cached	expected-cached	/mount_hugeelephant
+8272	Hellboy	expected-cached	expected-cached	expected-cached	/mount_hellboy
+8273	Argor Confuso	expected-cached	expected-cached	expected-cached	/mount_confuse
+8274	Pinguim Imperial	expected-cached	expected-cached	expected-cached	/mount_kingpenguin
+8275	Dragão de Lava	expected-cached	missing	expected-cached	/mount_rockfire
+8276	Porco dourado da sorte	expected-cached	expected-cached	expected-cached	/mount_goldpig
+8277	Pega rosa	expected-cached	expected-cached	expected-cached	/mount_magpies
+8278	Bumblebee	expected-cached	missing	expected-cached	/mount_yellowbee
+8279	Ogro	expected-cached	expected-cached	expected-cached	/mount_green
+8280	Ovelha Espacial	expected-cached	missing	expected-cached	/mount_spacegoat
+8281	Leão de Ferro	expected-cached	expected-cached	expected-cached	/mount_lionking
+8282	Dragão Gelo-fogo	expected-cached	expected-cached	expected-cached	/mount_icefire
+8283	Louva-a-deus Furioso	expected-cached	expected-cached	expected-cached	/mount_mantis
+8284	Devorador de Luz	expected-cached	expected-cached	expected-cached	/mount_eatlight
+8285	Carpa Dourada	expected-cached	expected-cached	expected-cached	/mount_goldfish
+8286	Balão do Dragão	expected-cached	expected-cached	expected-cached	/mount_kongming
+8287	Besta Anômala	expected-cached	expected-cached	expected-cached	/mount_godzilla
+8288	Misterioso Alce Selvagem	expected-cached	expected-cached	expected-cached	/mount_greendeer
+8289	Gatinho Gorducho	expected-cached	expected-cached	expected-cached	/mount_fatcat
+8290	Coelho Verdejante	expected-cached	expected-cached	expected-cached	/mount_grassrabbit
+8291	Águia do Dragão	expected-cached	expected-cached	expected-cached	/mount_dragoneagle
+8292	Besta Onírica	expected-cached	expected-cached	expected-cached	/mount_dreamgod
+8293	Libélula de Armadura verde	expected-cached	expected-cached	expected-cached	/mount_greendragonfly
+8294	Raposa de nove caudas	expected-cached	expected-cached	expected-cached	/mount_ninefox
+8295	Carro de equilíbrio	expected-cached	expected-cached	expected-cached	/mount_balance
+8296	Cavalo Espacial	expected-cached	missing	expected-cached	/mount_starhorse
+8297	Mini-carro	expected-cached	expected-cached	expected-cached	/mount_minicar
+8298	Dragão Gigante de Lava	expected-cached	expected-cached	expected-cached	/mount_hugefire
+8299	Dragão do Céu Partido	expected-cached	expected-cached	expected-cached	/mount_dragon_airsplitter
+8300	Dragão do Céu Partido (Dourado)	expected-cached	expected-cached	expected-cached	/mount_gold_airsplitter
+8301	Espada da Nuvem Celeste	expected-cached	expected-cached	expected-cached	/mount_cloudknife
+8302	Carruagem Romântica	expected-cached	expected-cached	expected-cached	/mount_horsecar
+8303	Multi-asas	expected-cached	expected-cached	expected-cached	/mount_hugehand
+8304	Rei da Majestade	expected-cached	expected-cached	missing	/mount_madking
+8305	Gêmeos Dourados	expected-cached	expected-cached	expected-cached	/mount_goldtwins
+8306	Deus da lâmpada	expected-cached	expected-cached	expected-cached	/mount_lightgod
+8307	Bolha d’Água	expected-cached	missing	expected-cached	/mount_waterbaby
+8309	Urso Rebelde	expected-cached	expected-cached	expected-cached	/mount_hugbear
+8310	Gato-Cobra	expected-cached	missing	expected-cached	/mount_redsnake
+8311	Pesadelo de Akasha	expected-cached	expected-cached	expected-cached	/mount_akasha
+8312	Explorador Metálico	expected-cached	expected-cached	expected-cached	/mount_blazzer
+8313	Raposa Alada	expected-cached	expected-cached	expected-cached	/mount_magicfox
+8314	Explorador Estelar	expected-cached	missing	expected-cached	/mount_skyfly
+8316	Foice da Morte	expected-cached	expected-cached	expected-cached	/mount_deadknife
+8317	Dragão Ilusório	expected-cached	missing	expected-cached	/mount_shadowdragon
+8318	Fantasma Vagante	expected-cached	expected-cached	expected-cached	/mount_poorguy
+8319	Chefe da Tribo	expected-cached	missing	expected-cached	/mount_redknife
+8320	Almofada ou Cavalo Zumbi	expected-cached	expected-cached	expected-cached	/mount_deadhorse
+8321	Gato Fantástico	expected-cached	expected-cached	expected-cached	/mount_bestgriffin
+8322	Trono do Inverno	expected-cached	expected-cached	expected-cached	/mount_coldyearchair
+8323	Tampa Mágica	expected-cached	missing	expected-cached	/mount_well
+8324	Espírito Noturno	expected-cached	missing	expected-cached	/mount_yesha
+8329	Carro Voador da Fada Azul	expected-cached	expected-cached	expected-cached	/mount_bluefairy
+8330	Nuvem Espiritual Escarlate	expected-cached	expected-cached	expected-cached	/mount_bloodred
+8331	Sino Nefasto	expected-cached	expected-cached	expected-cached	/mount_bellevil
+8332	Elfo Roedor	expected-cached	expected-cached	expected-cached	/mount_fairymouse
+8333	Charme Noturno	expected-cached	expected-cached	expected-cached	/mount_charming
+8334	Centauro DJ	expected-cached	expected-cached	expected-cached	/mount_djhorse
+8335	Carro-bola de Luz	expected-cached	expected-cached	expected-cached	/mount_lightballcar
+8336	Dragão perna-curta	expected-cached	invalid	expected-cached	/mount_shortlegdragon
+8338	Dragão da Floresta	expected-cached	expected-cached	expected-cached	/mount_forestdragon
+8340	Nave Interestelar de Ouro	expected-cached	missing	expected-cached	/mount_skyflygold
+8341	Lobo do demônio	expected-cached	expected-cached	expected-cached	/mount_demonwolf
+8342	Chapéu de bruxa	expected-cached	expected-cached	expected-cached	/mount_flyingwitchhat
+8343	Rei da selva	expected-cached	expected-cached	expected-cached	/mount_forestlionking
+8344	Besta Selvagem	expected-cached	expected-cached	expected-cached	/mount_forestritualbeast
+8346	Anêmona	expected-cached	expected-cached	expected-cached	/mount_clownfish
+8347	Guardião Azul	expected-cached	expected-cached	expected-cached	/mount_blueguardian
+8348	Cavalo de Madeira	expected-cached	expected-cached	expected-cached	/mount_woodenhorse
+8349	Angmar	expected-cached	expected-cached	expected-cached	/mount_angmar
+8350	Vento do Norte	expected-cached	missing	expected-cached	/mount_northwind
+8351	Carta do Cavalo de Guerra	expected-cached	expected-cached	expected-cached	/mount_angelwarhorse
+8352	Sonic	expected-cached	expected-cached	expected-cached	/mount_sonic
+8353	Fogo do Inferno	expected-cached	expected-cached	expected-cached	/mount_hellfire
+8354	Dragão da Noite	expected-cached	expected-cached	expected-cached	/mount_nightdragon
+8355	Gato Azul	expected-cached	expected-cached	expected-cached	/mount_bluecat
+8356	Tigre Fantasma	expected-cached	expected-cached	expected-cached	/mount_ghosttiger
+8357	Coruja Azul	expected-cached	expected-cached	expected-cached	/mount_blueowl
+8358	Pânico Estrelar	expected-cached	invalid	expected-cached	/mount_starpanic
+8359	Dragão Chama Negra	expected-cached	expected-cached	expected-cached	/mount_darkflamedragon
+8360	Reksai	expected-cached	expected-cached	expected-cached	/mount_leikesai
+8361	Raposa Rosa	expected-cached	expected-cached	missing	/mount_purefox
+8362	Elemento Mar de Fúria	expected-cached	missing	expected-cached	/mount_seaelement
+8363	Varredor	expected-cached	missing	expected-cached	/mount_scavenger
+8364	Mecha de Guerra	expected-cached	expected-cached	expected-cached	/mount_lightarmor
+8365	Morcego do Castelo	expected-cached	expected-cached	expected-cached	/mount_castlebat
+8366	Carruagem Negra	expected-cached	expected-cached	expected-cached	/mount_shadowgharry
+8367	Raia Mágica	expected-cached	expected-cached	expected-cached	/mount_magicray
+8368	Dragão Elfo	expected-cached	expected-cached	expected-cached	/mount_elfdragon
+8369	Gato Tapete Voador	expected-cached	expected-cached	expected-cached	/mount_kittyblanket
+8370	Balanço de Gelo	expected-cached	expected-cached	expected-cached	/mount_iceswing
+8371	Fênix de Gelo	expected-cached	expected-cached	expected-cached	/mount_icephoenix
+8372	Druida da Neve	expected-cached	expected-cached	expected-cached	/mount_snowdruid
+8373	Chalé de Natal	expected-cached	expected-cached	expected-cached	/mount_xmashut
+8374	Carta do Fantasy Dragon	expected-cached	expected-cached	expected-cached	/mount_dreamdragon
+8375	Carta da Força de Inverno	expected-cached	expected-cached	expected-cached	/mount_winterforce
+8376	Carta da Fé do Arcanjo	expected-cached	expected-cached	expected-cached	/mount_archangel
+8377	Carta do Thomas	expected-cached	expected-cached	expected-cached	/mount_thomas
+8378	Swarovski	expected-cached	expected-cached	expected-cached	/mount_swarovski
+8379	Pitaia	expected-cached	expected-cached	expected-cached	/mount_pitaya
+8380	Elemento Morte	expected-cached	expected-cached	expected-cached	/mount_death
+8381	Grinalda Rosa	expected-cached	expected-cached	expected-cached	/mount_pinkwreath
+8382	Andante da Floresta	expected-cached	expected-cached	expected-cached	/mount_forestshuttle
+8383	Pesadelo Puro Sangue	expected-cached	expected-cached	expected-cached	/mount_blanche
+8384	Cenoura	expected-cached	expected-cached	expected-cached	/mount_carrot
+8385	Avatar	expected-cached	expected-cached	expected-cached	/mount_avatar
+8386	Coração de Lava	expected-cached	expected-cached	expected-cached	/mount_fusionfire
+8387	Mercúrio	expected-cached	expected-cached	expected-cached	/mount_mercury
+8388	Carro Alegórico de Páscoa	expected-cached	expected-cached	expected-cached	/mount_eastercart
+8389	Motouro	expected-cached	expected-cached	expected-cached	/mount_halley
+8390	Rocha Negra	expected-cached	expected-cached	expected-cached	/mount_blackcrocodile
+8391	Caranguejo da Lava	expected-cached	missing	expected-cached	/mount_redcrab
+8392	Orvalho	expected-cached	expected-cached	expected-cached	/mount_dewdrop
+8393	Gatufo	expected-cached	expected-cached	expected-cached	/mount_catufo
+8394	Louva-a-Deus Negro	expected-cached	expected-cached	expected-cached	/mount_blackmantis
+8395	Dragão de Pixel	expected-cached	expected-cached	expected-cached	/mount_pixeldragon
+8396	Unicórnio	expected-cached	missing	expected-cached	/mount_rainbowhorse
+8397	Dragão de Mithril	expected-cached	expected-cached	expected-cached	/mount_silverdragon
+8398	Foguinho	expected-cached	expected-cached	expected-cached	/mount_firebaby
+8399	Dragão do Poder	expected-cached	expected-cached	expected-cached	/mount_powerdragon
+8400	Trombado	expected-cached	expected-cached	expected-cached	/mount_aguluma
+8401	Cavalo-Balão	expected-cached	expected-cached	expected-cached	/mount_hippocampus
+8402	Ossada Glacial	expected-cached	expected-cached	expected-cached	/mount_coldbone
+8404	Montaria do 9º Aniversário	expected-cached	expected-cached	missing	/mount_conch
+8405	Coração Valente	expected-cached	expected-cached	expected-cached	/mount_elasticheart
+8406	Brasa-Móvel	expected-cached	expected-cached	expected-cached	/mount_flamedrive
+8407	Guardião Arcano	expected-cached	expected-cached	expected-cached	/mount_arcaneguardian
+8408	Corvo Arcano	expected-cached	expected-cached	expected-cached	/mount_arcanecrow
+8409	Leviatã	expected-cached	expected-cached	expected-cached	/mount_leviathan
+8410	Morcego Estátua	expected-cached	expected-cached	expected-cached	/mount_batstatue
+8411	Esquilo Viajante	expected-cached	missing	expected-cached	/mount_traveling
+8412	Porteiro do Castelo	expected-cached	expected-cached	expected-cached	/mount_gatekeeper
+8413	Abóbora Lanterna	expected-cached	expected-cached	missing	/mount_pumpkinlantern
+8414	Sela do Corcel	expected-cached	missing	expected-cached	/mount_winsir
+8415	Peru de Ação de Graças 2021	expected-cached	missing	expected-cached	/mount_thanksgiving2021
+8416	Videira Milenar	expected-cached	expected-cached	expected-cached	/mount_canevine
+8417	Cisne Boia	expected-cached	missing	expected-cached	/mount_waterswan
+8418	Lontra-Marinha Comilona	expected-cached	missing	expected-cached	/mount_seaotter
+8419	Mano Polvo	expected-cached	expected-cached	expected-cached	/mount_brotheroctopus
+8420	Foguete Mágico	expected-cached	expected-cached	expected-cached	/mount_magicrocket
+8421	Gatinha de Natal	expected-cached	expected-cached	expected-cached	/mount_christmascat
+8422	Estripador	expected-cached	missing	expected-cached	/mount_ripper
+8423	Raposa Fada de Nove Caudas	expected-cached	expected-cached	expected-cached	/mount_fairyfox
+8424	Inquisidor	expected-cached	expected-cached	expected-cached	/mount_judge
+8425	Voador Prateado	expected-cached	missing	expected-cached	/mount_silverfighter
+8426	Punho Pesado	expected-cached	expected-cached	expected-cached	/mount_punchquest
+8427	Tom	expected-cached	expected-cached	expected-cached	/mount_catanddog
+8428	Magia Verde	expected-cached	expected-cached	expected-cached	/mount_greendevil
+8429	Nuvem Fantasmagórica	expected-cached	expected-cached	expected-cached	/mount_ghostcloud
+8430	Besta Ametista Roxa	expected-cached	expected-cached	expected-cached	/mount_amethystbeast
+8431	Mensageiro da Floresta	expected-cached	expected-cached	expected-cached	/mount_forestmessenger
+8432	Ovo de Páscoa	expected-cached	expected-cached	expected-cached	/mount_easteregg
+8433	Sombra do Vazio	expected-cached	expected-cached	expected-cached	/mount_shadowofvoid
+8434	Touro Diabólico	expected-cached	expected-cached	expected-cached	/mount_oxdemon
+8435	Enviado das Sombras	expected-cached	missing	expected-cached	/mount_shadowmessenger
+8436	Olho do Inferno	expected-cached	expected-cached	expected-cached	/mount_eyeofhell
+8437	Elfo Marinho	expected-cached	missing	expected-cached	/mount_seaelf
+8438	Corpo Motorizado	expected-cached	expected-cached	expected-cached	/mount_bodyofengine
+8439	Dentes de Sabre	expected-cached	expected-cached	missing	/mount_sabretooth
+8440	Besta do Vazio Partido	expected-cached	expected-cached	missing	/mount_splitairbeast
+8441	Balão de Ar Quente	expected-cached	expected-cached	missing	/mount_hotairballoon
+8442	Pinguim Cavalheiro	expected-cached	expected-cached	missing	/mount_gentlemanpenguin
+8443	Dinossauro Primaveril	expected-cached	missing	expected-cached	/mount_springdinosaur
+8444	Ciclone de Rua	expected-cached	missing	expected-cached	/mount_streetwhirlwind
+8445	Pega Azul	expected-cached	expected-cached	expected-cached	/mount_bluemagpie
+8446	Thaurissan	expected-cached	missing	expected-cached	/mount_sorensen
+8447	Golfinho Amarelo	expected-cached	missing	expected-cached	/mount_yellowdolphin
+8448	Trovão	expected-cached	missing	expected-cached	/mount_thunderbolt
+8449	Panda Fofinho	expected-cached	expected-cached	expected-cached	/mount_mengbaopanda
+8450	Dragão de Gelo Abissal	expected-cached	expected-cached	expected-cached	/mount_abyssicedragon
+8451	Pacto Futurista	expected-cached	expected-cached	expected-cached	/mount_anniversarycovenant
+8452	Iate Praiano	expected-cached	expected-cached	expected-cached	/mount_beachyacht
+8453	Levitra	expected-cached	expected-cached	expected-cached	/mount_levitra
+8454	Campsis	expected-cached	expected-cached	expected-cached	/mount_soartotheskies
+8455	Urso de Morango	expected-cached	missing	expected-cached	/mount_strawberrybear
+8456	Rato Voador	expected-cached	expected-cached	expected-cached	/mount_flyingmouse
+8457	Fênix	expected-cached	expected-cached	expected-cached	/mount_phoenix
+8458	Livro Mágico	expected-cached	expected-cached	expected-cached	/mount_magicbook
+8469	Meia Voadora de Natal	expected-cached	expected-cached	missing	/mount_christmasflyingsocks
+8470	Dragão Elemental	expected-cached	expected-cached	expected-cached	/mount_elementdragon
+8471	Leão da Pradaria	expected-cached	expected-cached	expected-cached	/mount_grasslandlionking
+8472	Rosa Cor de Rosa	expected-cached	expected-cached	missing	/mount_pinkrose
+8473	Koala	missing	expected-cached	expected-cached	/mount_koala
+8474	Deus Errante do Gelo	expected-cached	expected-cached	expected-cached	/mount_controlicegod
+8475	Carro da Alfafa	expected-cached	expected-cached	expected-cached	/mount_alfalfacar
+8476	Sir Crocodilo	expected-cached	expected-cached	expected-cached	/mount_gentlemancrocodile
+8477	Alce da Floresta	expected-cached	expected-cached	expected-cached	/mount_forestelk
+8478	Besta Fantasma	expected-cached	expected-cached	expected-cached	/mount_ghostbeast
+8479	Dragão Perninha	expected-cached	missing	expected-cached	/mount_shortleggeddragon
+8480	Ganso Voador	expected-cached	expected-cached	expected-cached	/mount_swangoose
+8481	Canguru de Páscoa	expected-cached	expected-cached	expected-cached	/mount_easterkangaroo
+8482	Besta Devoradora	expected-cached	invalid	expected-cached	/mount_souleatbeast
+8483	Tigre Chama Negra	expected-cached	expected-cached	expected-cached	/mount_darkflametiger
+8484	Porco-Espinho Rei	expected-cached	expected-cached	expected-cached	/mount_hedgehogking
+8485	Pombo da Ilusão	expected-cached	expected-cached	expected-cached	/mount_dreampigeon
+8486	Foca Brincalhona	expected-cached	expected-cached	expected-cached	/mount_naughtyseal
+8487	Pipa	expected-cached	expected-cached	expected-cached	/mount_kite
+8488	Dragão Arraia Dourado	expected-cached	expected-cached	expected-cached	/mount_goldenflyray
+8489	Dinunicórnio	expected-cached	expected-cached	expected-cached	/mount_demondragon
+8490	Aquila	expected-cached	expected-cached	expected-cached	/mount_aquila
+8491	Empilhadeira Mecânica	expected-cached	expected-cached	expected-cached	/mount_industrialglory
+8492	Salão das Sombras	expected-cached	expected-cached	expected-cached	/mount_shadowsanddragon
+8493	Velocidade da Paixão	expected-cached	expected-cached	expected-cached	/mount_passionatespeed
+8494	Dente de Leão	expected-cached	expected-cached	expected-cached	/mount_dandelion
+8495	Chá dos Imortais	expected-cached	expected-cached	expected-cached	/mount_elflandteaparty
+8496	Boia Cisne	expected-cached	expected-cached	expected-cached	/mount_inflatableswan
+8497	Gato Tapete Voador	expected-cached	expected-cached	expected-cached	/mount_kokiflyblanket
+8498	Peixe Demônio	expected-cached	expected-cached	expected-cached	/mount_devilfish
+8499	Estrela-do-mar	expected-cached	expected-cached	expected-cached	/mount_starfish
+8500	Patinho Divertido	expected-cached	expected-cached	expected-cached	/mount_happyduck
+8501	Carro Bola Noturno	expected-cached	expected-cached	expected-cached	/mount_midnightlightballcar
+8502	Toque Malígno	expected-cached	expected-cached	expected-cached	/mount_eviltouch
+8503	Visão da Ponte	expected-cached	expected-cached	expected-cached	/mount_magpiebridgefacing
+8504	Espírito Destemido	expected-cached	expected-cached	expected-cached	/mount_fearlessspirit
+8505	Cavalo Coberto	expected-cached	expected-cached	expected-cached	/mount_cuddlehorse
+8506	Gato Faxineiro	expected-cached	expected-cached	expected-cached	/mount_bearmeowufo
+8507	Dinorafa	expected-cached	expected-cached	expected-cached	/mount_emerald
+8508	Gato Bruxa	expected-cached	expected-cached	expected-cached	/mount_oldcastlestrangecat
+8509	Baleia Majestosa	expected-cached	expected-cached	expected-cached	/mount_xinghanthesky
+8510	Coruja da Morte	expected-cached	expected-cached	expected-cached	/mount_deathevilowl
+8511	Gato Comilão	expected-cached	expected-cached	expected-cached	/mount_foodiecat
+8512	Bolo Gostoso	expected-cached	expected-cached	expected-cached	/mount_deliciouscake
+8513	Cavalo Fantasma	expected-cached	expected-cached	expected-cached	/mount_ghosthorse
+8514	Leão Guardião	expected-cached	expected-cached	expected-cached	/mount_zhenhairoar
+8515	Rena Gélida	expected-cached	expected-cached	expected-cached	/mount_holydeerjingle
+8517	Bola de Neve	expected-cached	expected-cached	expected-cached	/mount_snowball
+8518	Urso das Neves	expected-cached	expected-cached	expected-cached	/mount_snowwhitebear
+8519	Dragão Pálido Prateado	expected-cached	expected-cached	expected-cached	/mount_palesilverdragon
+8520	Relâmpago Vermelho	expected-cached	expected-cached	expected-cached	/mount_redthunder
+8521	Coellho das Neves	expected-cached	expected-cached	expected-cached	/mount_gemsnowhare
+8522	Jörmungandr	expected-cached	expected-cached	expected-cached	/mount_jormungand
+8523	Crepúsculo dos Deuses	expected-cached	expected-cached	expected-cached	/mount_ragnarok
+8524	Panda da Felicidade	expected-cached	expected-cached	expected-cached	/mount_pandafufu
+8525	Palco do Coração	expected-cached	expected-cached	expected-cached	/mount_heartbeatstage
+8526	Trono Flamejante	expected-cached	expected-cached	expected-cached	/mount_flamethrone
+8527	Grinalda Verde	expected-cached	expected-cached	expected-cached	/mount_greenwreath
+8528	Elfo das Flores	expected-cached	expected-cached	expected-cached	/mount_flowerfairies
+8529	Monstro Gigantesco	expected-cached	missing	expected-cached	/mount_giantmonsters
+8530	Olho Carmesim	expected-cached	expected-cached	expected-cached	/mount_scarleteye
+8531	Sirius	expected-cached	expected-cached	expected-cached	/mount_sirius
+8532	Devorador de Tempo	expected-cached	expected-cached	expected-cached	/mount_timeeaterclock
+8533	Harmonia Celestial	expected-cached	missing	expected-cached	/mount_starsmoonbrightly
+8534	Cerberus Mecânico	expected-cached	expected-cached	expected-cached	/mount_machinethreeheaddog
+8535	Carro de Duna	expected-cached	expected-cached	expected-cached	/mount_desert4wd
+8536	Senhor Marmota	expected-cached	missing	expected-cached	/mount_marmotgentry
+8537	Baleia Espacial	expected-cached	missing	expected-cached	/mount_starryskywhale
+8538	Pétalas de Damasco	expected-cached	missing	expected-cached	/mount_apricotflowerdrizzle
+8539	Porco Fofinho	expected-cached	missing	expected-cached	/mount_cutepufferfish
+8540	Cavalo do Oceano	expected-cached	missing	expected-cached	/mount_sinkhippocampus
+8541	Vontade de Ferro	expected-cached	expected-cached	expected-cached	/mount_ironwill
+8542	Pégaso das Profundezas	expected-cached	expected-cached	expected-cached	/mount_abyssheavenlyhorse
+8543	Trator	expected-cached	missing	expected-cached	/mount_tractor
+8544	Mensageiro Polar	expected-cached	missing	expected-cached	/mount_polarmessenger
+8545	Fanático da Guerra	expected-cached	invalid	expected-cached	/mount_warfanatics
+8546	Urso de Verão	expected-cached	missing	expected-cached	/mount_bearsummer
+8547	Fenrir	expected-cached	missing	expected-cached	/mount_fenrir
+8548	Jovem Estrela-do-mar	expected-cached	missing	expected-cached	/mount_girlstarfish
+8549	Chapéu de Bruxa Verdadeiro	expected-cached	invalid	expected-cached	/mount_realwitchhat
+8550	Viagem com Tesouros	expected-cached	invalid	expected-cached	/mount_travelwithtreasure
+8551	Juventude	expected-cached	missing	expected-cached	/mount_youth
+8552	Rinoceronte do Inferno	expected-cached	missing	expected-cached	/mount_hellfirewrathrhinoceros
+8553	Sombra sob a Lua	expected-cached	missing	expected-cached	/mount_midmoonshadow
+8554	Notas Saltitantes	expected-cached	missing	missing	/mount_pulsatingmelody
+8555	Concha Mística	expected-cached	missing	expected-cached	/mount_mysticalvacantwhirl
+8556	Corrupção Desconhecida	expected-cached	missing	expected-cached	/mount_unknowncorruption
+8557	Tempestade Súbita	expected-cached	missing	expected-cached	/mount_stormstrike
+8558	Nave-Mouse	expected-cached	missing	expected-cached	/mount_mouseorspaceship
+8559	Jangada Verde	expected-cached	expected-cached	expected-cached	/mount_boatsailingbluewaves
+8560	Espírito das Ruínas	expected-cached	missing	expected-cached	/mount_spiritoftheruins
+8561	Bola Dente-de-Leão	expected-cached	missing	expected-cached	/mount_goldball
+8562	Peru Abóbora	expected-cached	missing	expected-cached	/mount_pumpkinturkey
+8563	Montaria de Natal 2024	expected-cached	missing	expected-cached	/mount_christmasmount2024
+8564	Super Canhão	expected-cached	missing	expected-cached	/mount_supergun
+8565	Grande Avelã	expected-cached	missing	expected-cached	/mount_largeopinecone
+8568	Lobo do Inferno Roxo	expected-cached	missing	expected-cached	/mount_spectraldemonwolf
+8569	Pantera do Submundo	expected-cached	invalid	expected-cached	/mount_spectralshadowleopard
+8570	Carrinho Infantil	expected-cached	expected-cached	expected-cached	/mount_funchildrenscar
+8571	Rei Javali	expected-cached	missing	expected-cached	/mount_tuskerboarking
+8572	Busca Lunar	expected-cached	expected-cached	expected-cached	/mount_moonchasing
+8573	Gato de 3 Caudas	expected-cached	missing	expected-cached	/mount_threetailedcivet
+8574	Porco Tapete Voador	expected-cached	missing	expected-cached	/mount_piggyflyingcarpet
+8575	Amor Intenso	expected-cached	expected-cached	expected-cached	/mount_loveandaffection
+8576	Ferida Sangrenta	expected-cached	invalid	expected-cached	/mount_sorrowofblood
+8577	Plano Romântico	expected-cached	invalid	expected-cached	/mount_romanticplan
+8578	Duque Juíz	expected-cached	missing	expected-cached	/mount_thetrialoftheduke
+8579	Gato Fantasma	expected-cached	missing	expected-cached	/mount_spiritcat2025
+8580	Super Galio	expected-cached	missing	expected-cached	/mount_supermariogalaxy
+8581	Bastão da Bondade	expected-cached	missing	expected-cached	/mount_ruyibaton
+8582	Canguru de Páscoa 2025	expected-cached	missing	expected-cached	/mount_easterkangaroo2025
+8583	Pássaro Serpente das Chamas	expected-cached	missing	expected-cached	/mount_serpentbird
+8584	Pérola Carmesim	expected-cached	expected-cached	expected-cached	/mount_crimsonseapearl
+8585	Borboleta Estelar	expected-cached	missing	expected-cached	/mount_starrynightbutterfly
+8586	Água Viva Dourada	expected-cached	missing	expected-cached	/mount_goldenjellyfish
+8587	Dragão Ametista	expected-cached	missing	expected-cached	/mount_amethystdragon
+8589	Jardim das Cores	expected-cached	missing	expected-cached	/mount_colorfulparadise
+8590	Dança das Estrelas	expected-cached	missing	expected-cached	/mount_stellarwaltz
+8591	Deus Errante do Fogo	expected-cached	expected-cached	expected-cached	/mount_flameridingdeity
+8592	Lenda Prateada	expected-cached	missing	expected-cached	/mount_silvertale
+8593	Lótus Ígnea	expected-cached	missing	expected-cached	/mount_crimsonlotusfire
+8594	Dragão do Frio	expected-cached	missing	expected-cached	/mount_iceclawdragon
+8595	Bolo de Dia das Crianças	expected-cached	expected-cached	expected-cached	/mount_kidsdaycake
+8596	Formação Oito Estrelas	expected-cached	expected-cached	expected-cached	/mount_octasigil
+8597	Unicórnio de Verão	expected-cached	missing	expected-cached	/mount_summeunicorn
+8598	Tubarão Surfe da Fúria	expected-cached	expected-cached	expected-cached	/mount_furyseasharks
+8599	Avião de Papel de Verão	expected-cached	expected-cached	expected-cached	/mount_summerletters
+8601	Cervo Banheira	expected-cached	missing	expected-cached	/mount_deerdevice
+8602	Lapupu	expected-cached	missing	expected-cached	/mount_lapupu
+8603	Espada Flamejante	expected-cached	expected-cached	expected-cached	/mount_blazingsword
+8604	Baleia-Luar Cantante	expected-cached	expected-cached	expected-cached	/mount_moonkunballad
+8605	Espírito da Natureza	expected-cached	missing	expected-cached	/mount_natureshorror
+8606	Capricórnio de Escamas Etéreas	expected-cached	expected-cached	expected-cached	/mount_capricornqilin
+8607	Abóbora de Halloween	missing	expected-cached	expected-cached	/mount_halloweenpumpkin
+8608	Borboleta da Pérola	expected-cached	missing	expected-cached	/mount_divinehalt
+8609	Sonho Florido	expected-cached	expected-cached	expected-cached	/mount_floralreverie
+8611	Carroça de Ação de Graças	expected-cached	missing	expected-cached	/mount_thanksgivingfloat
+8612	Aruanã-Prateado	expected-cached	expected-cached	expected-cached	/mount_silverarowana
+8613	Aço Azul	expected-cached	expected-cached	expected-cached	/mount_bluesteel
+8614	Rena do Papai Noel	expected-cached	missing	expected-cached	/mount_santasreindeer
+8615	Barco do Lírio	expected-cached	missing	expected-cached	/mount_paperlily
+8616	Titã de Gelo	expected-cached	missing	expected-cached	/mount_icetitan
+8617	Cavalo Fantasma	expected-cached	missing	expected-cached	/mount_phantom
+8618	Rei das Cem Toneladas	expected-cached	missing	expected-cached	/mount_tonking
+8619	Trono Imortal	expected-cached	missing	expected-cached	/mount_unbrokenthrone
+8620	Não É Dragão Maligno	expected-cached	missing	expected-cached	/mount_nonevildragon
+8621	Motor do Apocalipse	expected-cached	missing	expected-cached	/mount_doomengine
+8622	Milhafre do Sol Florestal	expected-cached	missing	expected-cached	/mount_woodsunkite
+8623	Flecha de Cupido	expected-cached	missing	expected-cached	/mount_cupidarrow
+8624	Baleia Abissal Óssea	expected-cached	expected-cached	expected-cached	/mount_abysswhalebone
+8625	Lobo Douronegro	expected-cached	missing	expected-cached	/mount_goldseeker
+8626	Ave Arcana Lendária	expected-cached	expected-cached	expected-cached	/mount_warlockbird
+8627	Forma Flutuante Lunar	expected-cached	expected-cached	expected-cached	/mount_starmoonchariot
+8628	Gole de Cervejinha	expected-cached	missing	expected-cached	/mount_beebeersip
+8629	Cão de Três Olhos	expected-cached	expected-cached	expected-cached	/mount_trieyehound
+8630	Devorador de Ossos	expected-cached	missing	expected-cached	/mount_boneeater
+8631	Cisne Elegante	expected-cached	missing	expected-cached	/mount_elegantswan
+8632	Baleia Sombria do Mar	expected-cached	missing	expected-cached	/mount_deepray
+8633	Fantasma das Profundezas	expected-cached	expected-cached	expected-cached	/mount_deepphantom
+8634	Trilho Estelar Onírico	expected-cached	expected-cached	expected-cached	/mount_stardrifter
+8635	Milagre	expected-cached	missing	expected-cached	/mount_divinemiracle
+8638	Carta de Rito Dourado	expected-cached	expected-cached	expected-cached	/mount_goldrite
+8639	Pioneiro da Infraestrutura	expected-cached	expected-cached	expected-cached	/mount_infrapioneer
+8640	Fortuna e Reunião	expected-cached	missing	expected-cached	/mount_fortunereunion
+8642	Elemento da Noite Fantasia	expected-cached	missing	expected-cached	/mount_phantomelement
+8643	Sombra das Nuvens	expected-cached	expected-cached	expected-cached	/mount_mistshade
+8644	Guaxinim	expected-cached	missing	expected-cached	/mount_raccoon
+8645	Carruagem de Jade	expected-cached	expected-cached	expected-cached	/mount_jadechariot
+8646	Unicórnio Astral	expected-cached	missing	expected-cached	/mount_starcharger
+8647	Alpaca Nobre	expected-cached	missing	expected-cached	/mount_silkvelvetcamel
+8648	Nave Verde	expected-cached	missing	expected-cached	/mount_greenshuttle
+8649	Cavalo de Balanço Amanteigado	expected-cached	expected-cached	expected-cached	/mount_butterwoodhorse
+8650	Dragão Luminar	expected-cached	expected-cached	expected-cached	/mount_starshadowdragon
+8652	Globo de Cristal Musical	expected-cached	missing	expected-cached	/mount_glassmusicbox
+8653	Pássaro das Flores Enlaçadas	expected-cached	expected-cached	expected-cached	/mount_magpiebloom
+8654	Coelho das Ondas	expected-cached	missing	expected-cached	/mount_seabunny
+8655	Serpente das Ruínas	expected-cached	missing	expected-cached	/mount_ruinsnake
+8656	Som Radiante	expected-cached	missing	expected-cached	/mount_shinyou
+8657	Leão Glacial	expected-cached	missing	expected-cached	/mount_frostlion
+9001	Nirvana Dourada	missing	expected-cached	sem carta	/mount_purplephoenix
+9002	Rainha Miau	expected-cached	missing	sem carta	/mount_catqueen
+9003	Tigre de Dentes Prata	expected-cached	missing	sem carta	/mount_whitetiger
+9004	X- Dragão Voador	expected-cached	expected-cached	sem carta	/mount_mechanicaldragon
+20004	Guarda Imperial	expected-cached	missing	expected-cached	/mount_royal_griffin
+20008	Besta do Desastre	expected-cached	missing	expected-cached	/mount_disaster
+40001	Tapete Voador	expected-cached	expected-cached	expected-cached	/mount_carpet_fly
+
+PEDIDOS OBSERVADOS COM FALHA (histórico; pode haver recurso obtido posteriormente)
+403	68	/cdn/swf/avatar/fashion_hat_thanksgiving2017down_mount/3_1.bswf
+403	23	/cdn/equip_show/mount_koala/2.swf
+403	19	/cdn/swf/avatar/fashion_hat_gardendreamdown_mount/3_1.bswf
+403	18	/cdn/swf/avatar/fashion_hat_vampire01down_mount/3_1.bswf
+403	14	/cdn/swf/avatar/fashion_hat_popedown_mount/3_1.bswf
+403	11	/cdn/swf/avatar/fashion_hat_popedown_mount/1_0.bswf
+403	11	/cdn/swf/avatar/fashion_hat_popedown_mount/1_1.bswf
+403	9	/cdn/swf/avatar/fashion_hat_scarletnightbutterflydown_mount/2_0.bswf
+403	8	/cdn/swf/avatar/warrior_default_body_cloak_mount/1.bswf
+403	7	/cdn/swf/avatar/warrior_default_hairdown_mount/1.bswf
+403	5	/cdn/swf/avatar/fashion_hat_piratedown_mount/1_1.bswf
+403	5	/cdn/swf/avatar/fashion_hat_staryoudown_mount/2_1.bswf
+403	5	/cdn/swf/avatar/fashion_hat_renaissancedown_mount/1_1.bswf
+403	5	/cdn/swf/avatar/fashion_hat_staryoudown_mount/1_1.bswf
+403	5	/cdn/swf/avatar/fashion_hat_sweetboxdown_mount/1_1.bswf
+403	4	/cdn/swf/avatar/fashion_hat_popedown_mount/2_0.bswf
+403	4	/cdn/swf/avatar/fashion_hat_mistdwellerdown_mount/3_0.bswf
+403	4	/cdn/swf/avatar/wizard_default_body_cloak_mount/0.bswf
+403	4	/cdn/swf/avatar/fashion_hat_popedown_mount/3_0.bswf
+403	4	/cdn/swf/avatar/fashion_hat_blackknightdown_mount/1_1.bswf
+403	4	/cdn/swf/avatar/fashion_hat_love_dawndown_mount/2_1.bswf
+403	3	/cdn/swf/avatar/fashion_hat_mechwarriordown_mount/1_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_blackknightdown_mount/1_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_horusdown_mount/1_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_renaissancedown_mount/2_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_vampire01down_mount/3_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_punk01down_mount/1_1.bswf
+403	3	/cdn/swf/avatar/fashion_hat_vampire01down_mount/2_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_warfiredown_mount/1_1.bswf
+403	3	/cdn/swf/avatar/fashion_hat_popedown_mount/2_1.bswf
+403	3	/cdn/swf/avatar/fashion_hat_empirerosedown_mount/3_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_horusdown_mount/3_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_mushroomdown_mount/2_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_warfiredown_mount/2_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_staryoudown_mount/1_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_renaissancedown_mount/3_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_mechwarriordown_mount/3_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_blackknightdown_mount/3_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_mechwarriordown_mount/2_1.bswf
+403	3	/cdn/swf/avatar/fashion_hat_staryoudown_mount/3_0.bswf
+403	3	/cdn/swf/avatar/fashion_hat_blackknightdown_mount/3_1.bswf
+403	3	/cdn/swf/avatar/fashion_hat_weddingdown_mount/1_1.bswf
+403	3	/cdn/swf/avatar/fashion_hat_soccermasterdown_mount/1_1.bswf
+403	3	/cdn/swf/avatar/fashion_hat_ridewindwavesdown_mount/1_1.bswf
+403	3	/cdn/swf/avatar/fashion_hat_crystalresonatordown_mount/1_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_renaissancedown_mount/1_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_empirerosedown_mount/1_0.bswf
+403	2	/cdn/swf/avatar/wizard_default_body_cloak_mount/1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_soccermasterdown_mount/2_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_magic_dragondown_mount/3_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_horusdown_mount/1_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_hotsummerdown_mount/2_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_assassindown_mount/2_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_renaissancedown_mount/2_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_staryoudown_mount/3_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_horusdown_mount/2_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_mistdwellerdown_mount/2_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_mistdwellerdown_mount/3_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_renaissancedown_mount/3_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_peacocklovedown_mount/2_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_staryoudown_mount/2_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_christmaslovedown_mount/1_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_gardendreamdown_mount/1_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_starmoonmythdown_mount/1_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_soccermasterdown_mount/2_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_mistdwellerdown_mount/1_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_blackknightdown_mount/2_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_piratedown_mount/3_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_soccermasterdown_mount/3_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_magic_dragondown_mount/2_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_summerdown_mount/1_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_mistdwellerdown_mount/1_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_magic_dragondown_mount/3_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_scarletnightbutterflydown_mount/1_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_magic_dragondown_mount/2_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_halloweenpartydown_mount/1_1.bswf
+403	2	/cdn/swf/avatar/fashion_hat_assassindown_mount/2_0.bswf
+403	2	/cdn/swf/avatar/fashion_hat_babelremnantdown_mount/3_1.bswf

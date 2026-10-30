@@ -1,0 +1,202 @@
+{
+  "com.road.yishi.proto.tattoo.TattooEnhanceListMsg": {
+    "1": {
+      "name": "tattooEnhance",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.tattoo.TattooEnhanceMsg"
+    }
+  },
+  "com.road.yishi.proto.tattoo.TattooEnhanceMsg": {
+    "1": {
+      "name": "holdId",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "level",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "property",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "enable",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.tattoo.TattooEnhanceReqMsg": {
+    "1": {
+      "name": "holeId",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "wish",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.tattoo.TattooHoleMsg": {
+    "1": {
+      "name": "hole",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "oldAddProperty",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "oldAddingValue",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "oldReduceProperty",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "oldReduceValue",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "6": {
+      "name": "newAddProperty",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "7": {
+      "name": "newAddingValue",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "8": {
+      "name": "newReduceProperty",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "9": {
+      "name": "newReduceValue",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "10": {
+      "name": "oldTattooType",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "11": {
+      "name": "newTattooType",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.tattoo.TattooHoleReqMsg": {
+    "1": {
+      "name": "opType",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "param1",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "param2",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "lock_pay_type",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "material_pay_type",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "6": {
+      "name": "refresh_lock_add",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "7": {
+      "name": "refresh_lock_minus",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "8": {
+      "name": "auto_buy",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.tattoo.TattooHoleRspMsg": {
+    "1": {
+      "name": "opType",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "holeInfo",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.tattoo.TattooHoleMsg"
+    },
+    "3": {
+      "name": "param1",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "param2",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "param3",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    }
+  }
+}

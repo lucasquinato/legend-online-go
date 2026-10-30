@@ -1,0 +1,132 @@
+{
+  "source": "reference/settlement-tables.json; original client tables",
+  "configs": [
+    {
+      "ConfigName": "Low_Tattoo_Proterty_Gegion",
+      "ConfigValue": "1,2000",
+      "Description": "【纹身】低级增加属性区间"
+    },
+    {
+      "ConfigName": "Hight_Tattoo_Proterty_Gegion",
+      "ConfigValue": "1,5000",
+      "Description": "【纹身】高级增加属性区间"
+    },
+    {
+      "ConfigName": "Low_Tattoo_Proterty_Reduce_Gegion",
+      "ConfigValue": "1,10000",
+      "Description": "【纹身】低级减少属性区间"
+    },
+    {
+      "ConfigName": "Higth_Tattoo_Proterty_Reduce_Gegion",
+      "ConfigValue": "1,10000",
+      "Description": "【纹身】高级减少属性区间"
+    },
+    {
+      "ConfigName": "tattoo_refresh_lock_price",
+      "ConfigValue": "10",
+      "Description": "纹身洗炼锁价格"
+    },
+    {
+      "ConfigName": "tattoo_enhance_consume_item",
+      "ConfigValue": "208056,1|208056,2|208056,3|208056,4",
+      "Description": "刻印消耗物品（ID,数量|第几个孔）"
+    },
+    {
+      "ConfigName": "tattoo_enhance_wish_point",
+      "ConfigValue": "500",
+      "Description": "刻印祝福所需钻石"
+    }
+  ],
+  "engraving": [
+    {
+      "Id": "1190001",
+      "Types": "119",
+      "TemplateId": "0",
+      "TemplateName": "100,0,0",
+      "Grades": "1",
+      "Data": "5",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1190002",
+      "Types": "119",
+      "TemplateId": "0",
+      "TemplateName": "90,10,0",
+      "Grades": "2",
+      "Data": "10",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1190003",
+      "Types": "119",
+      "TemplateId": "0",
+      "TemplateName": "80,20,0",
+      "Grades": "3",
+      "Data": "15",
+      "ActiveObject": "2"
+    },
+    {
+      "Id": "1190004",
+      "Types": "119",
+      "TemplateId": "0",
+      "TemplateName": "70,20,10",
+      "Grades": "4",
+      "Data": "20",
+      "ActiveObject": "6"
+    },
+    {
+      "Id": "1190005",
+      "Types": "119",
+      "TemplateId": "0",
+      "TemplateName": "60,30,10",
+      "Grades": "5",
+      "Data": "25",
+      "ActiveObject": "10"
+    },
+    {
+      "Id": "1190006",
+      "Types": "119",
+      "TemplateId": "0",
+      "TemplateName": "50,30,20",
+      "Grades": "6",
+      "Data": "30",
+      "ActiveObject": "14"
+    },
+    {
+      "Id": "1190007",
+      "Types": "119",
+      "TemplateId": "0",
+      "TemplateName": "40,40,20",
+      "Grades": "7",
+      "Data": "35",
+      "ActiveObject": "18"
+    },
+    {
+      "Id": "1190008",
+      "Types": "119",
+      "TemplateId": "0",
+      "TemplateName": "35,40,25",
+      "Grades": "8",
+      "Data": "40",
+      "ActiveObject": "22"
+    },
+    {
+      "Id": "1190009",
+      "Types": "119",
+      "TemplateId": "0",
+      "TemplateName": "30,40,30",
+      "Grades": "9",
+      "Data": "45",
+      "ActiveObject": "26"
+    },
+    {
+      "Id": "1190010",
+      "Types": "119",
+      "TemplateId": "0",
+      "TemplateName": "20,40,40",
+      "Grades": "10",
+      "Data": "50",
+      "ActiveObject": "30"
+    }
+  ]
+}

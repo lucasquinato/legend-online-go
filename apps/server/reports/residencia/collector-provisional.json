@@ -1,0 +1,2205 @@
+{
+  "startedAt": "2026-10-18T23:05:38.441Z",
+  "origin": "https://servidor.legendremake.com",
+  "concurrency": 4,
+  "planned": 260,
+  "indexSource": null,
+  "indexScope": "previews, world animations, card icons, observed mounted-avatar requests",
+  "results": [
+    {
+      "path": "/cdn/icon/farm/animal/horse_550c95cc.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 718162,
+      "sha256": "4fb793f74d7b0c00826d131ec6852ecaacf4507da4d341f02240022af66efd55"
+    },
+    {
+      "path": "/cdn/icon/farm/animal/sheep_ce93f808.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 518846,
+      "sha256": "557792531c6d99ac1f7cd1dd2db8715ec81add16fc686d3db6c7dbf098c9f280"
+    },
+    {
+      "path": "/cdn/icon/farm/animal/cow_ae1760f2.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 669493,
+      "sha256": "e62638b2f4e57b81aad6b54587939fe239fb3fd24bf7897851f3b349abebfcb1"
+    },
+    {
+      "path": "/cdn/icon/farm/animal/deer_acf902f0.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 651022,
+      "sha256": "2a7eac3f489490ad3c8fb0c1e76fb7b0d0538066bb9cab66aa7fe24fabae24f0"
+    },
+    {
+      "path": "/cdn/icon/farm/medal/grow_d531c4c4.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3065,
+      "sha256": "2e057a1ab9cf8a11f51452c709e0c74f900847d4537c3483fcd0c9fac02fde8a"
+    },
+    {
+      "path": "/cdn/icon/farm/medal/ripe_73b1229d.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3985,
+      "sha256": "2e6ed892cfcc32b9fda77c711dcd17d81754973b50d8adc28ba180fa912e39f5"
+    },
+    {
+      "path": "/cdn/icon/farm/pumpkin/grow_6e5ecb1e.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3346,
+      "sha256": "a04d32feeb63557eee887310f7f7b7acd67e67a7839e8975020cc042662c9b73"
+    },
+    {
+      "path": "/cdn/icon/farm/pumpkin/ripe_f7e3dbd3.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3475,
+      "sha256": "aaa0ce74f0c99091b71d67ef46c3fd700a928c7c6a99cf075dfbafe60346801e"
+    },
+    {
+      "path": "/cdn/icon/farm/christmas/grow_07223aea.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3321,
+      "sha256": "14bc01f993ae1ba557354e95bfd1736972327c0a523a7bddfe710ffa32788667"
+    },
+    {
+      "path": "/cdn/icon/farm/christmas/ripe_0f0d75c6.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3825,
+      "sha256": "700c1a3c7b4923e98dfded957a59f9d669bd0aeddc6cc304b50093d3c5baa4f5"
+    },
+    {
+      "path": "/cdn/icon/farm/christmas2018/grow_6e5ecb1e.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3346,
+      "sha256": "a04d32feeb63557eee887310f7f7b7acd67e67a7839e8975020cc042662c9b73"
+    },
+    {
+      "path": "/cdn/icon/farm/christmas2018/ripe_f7e3dbd3.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3475,
+      "sha256": "aaa0ce74f0c99091b71d67ef46c3fd700a928c7c6a99cf075dfbafe60346801e"
+    },
+    {
+      "path": "/cdn/icon/farm/soul/grow_37e6efc0.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3130,
+      "sha256": "c4ee7cce7de35a7f7a0d69eacc6dce7c6d9dad4fb48427cabd0c109ea82be44a"
+    },
+    {
+      "path": "/cdn/icon/farm/soul/ripe_574c0370.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3554,
+      "sha256": "f3b847d1f7606eb9be383a8d084205f0fdb3bb766528e76fcd81652090c1499f"
+    },
+    {
+      "path": "/cdn/icon/farm/gingerbreadman/grow_abaa678d.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 10172,
+      "sha256": "553daa7ca0af8dcef052795695d4622ce157bcfe8574750a4f3d5896e174f975"
+    },
+    {
+      "path": "/cdn/icon/farm/gingerbreadman/ripe_e4958950.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 13209,
+      "sha256": "d3ccce0aaae6fb26f68db4354346e910863bb37bde5ff5948057de3d1a8e690b"
+    },
+    {
+      "path": "/cdn/icon/farm/christmas2016/grow_26f93d31.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 11803,
+      "sha256": "0d8c77381bb59f206c588a89efe4f279a23e084d780cee724b17f8bf767d81a0"
+    },
+    {
+      "path": "/cdn/icon/farm/christmas2016/ripe_0c9a9dac.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 15221,
+      "sha256": "e36a20cfe67df9a382c2e647c98fdd12edff26aaa86b7e75d7b43d4d931139d1"
+    },
+    {
+      "path": "/cdn/icon/farm/football2018/grow_35acd408.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3666,
+      "sha256": "23bd67583002cd463ddb14f639d7518179c0ef05175a5bc420f42fe3c9bf8396"
+    },
+    {
+      "path": "/cdn/icon/farm/football2018/ripe_6602d47e.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3862,
+      "sha256": "ec562b370bc17d3da50c939a6714b4c18e5d4d5ee7772806e360801773dad593"
+    },
+    {
+      "path": "/cdn/icon/farm/gold/grow_c47b153b.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3312,
+      "sha256": "7c6c052d0c207a0fd3a0a2af137cf93e57cc2872fe7c77db7e78d703efed6161"
+    },
+    {
+      "path": "/cdn/icon/farm/gold/ripe_e9aec6dc.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3417,
+      "sha256": "4bfca89d3a511b980346e48ac7b1e22127c604e158302ebac6dc7272f08fa9de"
+    },
+    {
+      "path": "/cdn/icon/farm/crystal/grow_ceffdf69.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3151,
+      "sha256": "696af2d55df13da63fa6056d72e67643b210aae9bded066b806bc4eb80168b14"
+    },
+    {
+      "path": "/cdn/icon/farm/crystal/ripe_6d23c9e5.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3715,
+      "sha256": "a88cb93574a4f3e5e0b6fecce8f5a95da2d5a9c3e7ef53412421a8d4c65bd377"
+    },
+    {
+      "path": "/cdn/icon/farm/EXP/grow_d148c64e.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3178,
+      "sha256": "9e62ed3840d473d06fbb7df4a062c0a2d70a889b22a353bbde6eba1e88703082"
+    },
+    {
+      "path": "/cdn/icon/farm/EXP/ripe_66096932.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4088,
+      "sha256": "740190158047eb7faf1eab7208b7ae250f2bab1b4f00685680d2a66902f110bc"
+    },
+    {
+      "path": "/cdn/icon/farm/gift/grow_35acd408.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3666,
+      "sha256": "23bd67583002cd463ddb14f639d7518179c0ef05175a5bc420f42fe3c9bf8396"
+    },
+    {
+      "path": "/cdn/icon/farm/gift/ripe_6602d47e.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3862,
+      "sha256": "ec562b370bc17d3da50c939a6714b4c18e5d4d5ee7772806e360801773dad593"
+    },
+    {
+      "path": "/cdn/icon/farm/grass001/grow_d85f4385.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3793,
+      "sha256": "dffb26f613353777ca089af6ad2b3874f5b75889ee418c6a66e31875c7f42128"
+    },
+    {
+      "path": "/cdn/icon/farm/grass001/ripe_857a6b54.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4214,
+      "sha256": "0f685caa9570d49fbedc64940ebbb245fc3761a954fe169db92abd6bd87b2579"
+    },
+    {
+      "path": "/cdn/icon/farm/grass002/grow_b3ad1e14.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3323,
+      "sha256": "01679c79897a1b6af8633c1c13f46727da18e357e27b11730ad38edcbc1fa8ce"
+    },
+    {
+      "path": "/cdn/icon/farm/grass002/ripe_2b30f7ad.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4030,
+      "sha256": "4e28e05b5b7709f2103294a4ffbaef78cb333113f77e645858918bfb36e56046"
+    },
+    {
+      "path": "/cdn/icon/farm/grass003/grow_dbd10696.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3321,
+      "sha256": "b8d6dbac7bc8edcc9de2059cd81d961cfa4244d2322af3fbbdefcaa1e7cfd007"
+    },
+    {
+      "path": "/cdn/icon/farm/grass003/ripe_f802a06d.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4251,
+      "sha256": "69dfb8c5ef3351087136b5ecd0dbfd71b4d713cc99ed35729b648b55ab5563b9"
+    },
+    {
+      "path": "/cdn/icon/farm/grass004/grow_7aba1bb6.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3517,
+      "sha256": "6cd883710a2fefd5121514c8a2d2c11dbfde0ea6539878d734c09c8f8d3cf741"
+    },
+    {
+      "path": "/cdn/icon/farm/grass004/ripe_1cec4434.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4134,
+      "sha256": "dd8b55812ea96153e42dee31baf178f88104103c5195a5a5dde27e379a10057c"
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruitred/grow_f9d9e2e1.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 25907,
+      "sha256": "efa2c18347bec9935bb927e57f4e41b7630e0dd815df0dac57b58ffdff86567c"
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruitred/ripe_0ea3e4e2.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 29103,
+      "sha256": "475f2b241df0afdc138a6c369c95f919eb169cef3397fa26d2c6ca3cf46c2c88"
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruityellow/grow_248407a6.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 26103,
+      "sha256": "9471e60943d0fb2e078bc19f409c404d11790a64c47c9115cc9fa8bd35a16946"
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruityellow/ripe_695e8130.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 29383,
+      "sha256": "742d49237e765580e7b9c0c2f388d77c6c81ababb8b034e44c1fe008158c2e6e"
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruitblue/grow_8dae8480.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 26321,
+      "sha256": "767a9ea10387ac5e914b4d764288e5b2682fb9e3162958306bb58078dc01d81a"
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruitblue/ripe_621bae8b.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 30784,
+      "sha256": "8e438bcca2b7695e61d8fe241dd8bb544dce1d35bb2754bd09291a00c51d4b68"
+    },
+    {
+      "path": "/cdn/icon/common/young_bfee8bfc.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 2386,
+      "sha256": "a5075d22b4d0ff5b58d39ede20e1d86c0f04a071212a49cfd60b2d2bbbfb183a"
+    },
+    {
+      "path": "/cdn/icon/common/die_8e0d3b70.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3329,
+      "sha256": "5ffd74a7d8eabca4c2de3d20883a2d8bbb31af1dade12af0ff15900c53ed01b0"
+    },
+    {
+      "path": "/cdn/images/furniture/101002_56d6da96.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 11328,
+      "sha256": "e474eec56c2c299a943cb77e640679368f9aa3f09c8c25aec50d75e15f3b4541"
+    },
+    {
+      "path": "/cdn/images/furniture/101001_326365ac.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 11371,
+      "sha256": "84679031600be5e65efd07fee3a5dab7e1f639f47f583a90c500a5db6da772ac"
+    },
+    {
+      "path": "/cdn/images/furniture/101012_2ef32519.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 21510,
+      "sha256": "b7fa763473b52d8a14cd118c69671a000513d3a3d81c20192b65ec595551481f"
+    },
+    {
+      "path": "/cdn/images/furniture/101011_7bce520c.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 21348,
+      "sha256": "1e880bc906c6b188d6d1ac9dae1ea9325dfa1b0cc972f42a7136763a6b0597e0"
+    },
+    {
+      "path": "/cdn/images/furniture/101022_16c28d4e.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 13479,
+      "sha256": "e75ab45555ddcd38a1fbcfbaf0a2c74333d49c7a7f1d914a7337c78478d8b703"
+    },
+    {
+      "path": "/cdn/images/furniture/101021_ca38b7a0.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 13524,
+      "sha256": "4fd42b7431911c83c5c6bba89322f37e0e813d060f723ef25d3b91a297f6526f"
+    },
+    {
+      "path": "/cdn/images/furniture/101032_856a8a8c.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 20230,
+      "sha256": "a342901bb02de477092a3184afde4457b20ff79895f15837678a8f67d1c2bd33"
+    },
+    {
+      "path": "/cdn/images/furniture/101031_18ade201.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 20014,
+      "sha256": "321df3f23673c1f08581613434d1b17003ba9d9aca5e1357f49c1db94a7a6672"
+    },
+    {
+      "path": "/cdn/images/furniture/202001_373ae982.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 24325,
+      "sha256": "cbff9b3d5f00aff7bf3952b1477189a6e483b06669f199dd71e384b11c5f795d"
+    },
+    {
+      "path": "/cdn/images/furniture/202011_b56b1369.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 16772,
+      "sha256": "f10edf00aa77d070ac5ec2c1f69220e47aa386d9ffe2400bb8a90f1c3181497e"
+    },
+    {
+      "path": "/cdn/images/furniture/202021_ed194058.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 17720,
+      "sha256": "0ac1d35eca1b10bc68dd9b10e26a3eeafdba554131ae38d5595fd2cf7a5b0d6a"
+    },
+    {
+      "path": "/cdn/images/furniture/202031_fe7fdd50.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 125292,
+      "sha256": "b713bf6e599ee160fac630bd2f6da2239588ebb177fed0a998cbbc48bdb4d524"
+    },
+    {
+      "path": "/cdn/images/furniture/303001_8336619b.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 27700,
+      "sha256": "847130d8bb74b489401023284e8c445ac409bf65fa4fd6c3775d6819f3f22140"
+    },
+    {
+      "path": "/cdn/images/furniture/303012_dff362a1.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 20098,
+      "sha256": "b4e29cc09ee3c05d2b9669d7fdb4c1b3a2ad198c532500a7a4cbac6dab6b0832"
+    },
+    {
+      "path": "/cdn/images/furniture/303011_74d0f665.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 20265,
+      "sha256": "244d41d4733b9a9d75c1674bcb5438ea1d7341d6b9fd0c3f8a0e724edf38bcab"
+    },
+    {
+      "path": "/cdn/images/furniture/303021_6ce4bc4b.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 42934,
+      "sha256": "9a6b6608836011f9d15b09953dde8df2d33b02622a14c2b08334114ad2d01efc"
+    },
+    {
+      "path": "/cdn/images/furniture/303031_ac1650d2.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 268860,
+      "sha256": "aca105901617a68bdcbf15231246977bcaf9717603b534c1354fc3a95186bbf5"
+    },
+    {
+      "path": "/cdn/images/furniture/303032_ae1e2cb9.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 268918,
+      "sha256": "853df75c7d28217f70e2a5b17b208f48d0998b20048527dfcc6c9c22622d9583"
+    },
+    {
+      "path": "/cdn/images/furniture/404002_961505d7.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6040,
+      "sha256": "cb1d6218028326c34d18a247a9d4f760b7976518a54c388bf00efe4f5dc319bc"
+    },
+    {
+      "path": "/cdn/images/furniture/404001_bf5b585a.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 5821,
+      "sha256": "7cb8d0696989044935f6c06f2507fe1cb7e3928810b3f8f8858682ac62c3cc71"
+    },
+    {
+      "path": "/cdn/images/furniture/404012_41abce49.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4484,
+      "sha256": "0b7a951e9f7aabab8c3405ba9d7a8f169b1af3cc8e531e8ac383500afcc37301"
+    },
+    {
+      "path": "/cdn/images/furniture/404011_40d35120.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4494,
+      "sha256": "bafbcae7d6aabe7ebe4d81bfc921f5f3e25ea7ce3a4415348602b936c6c5062d"
+    },
+    {
+      "path": "/cdn/images/furniture/404022_3f7bed88.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4721,
+      "sha256": "153ffe188fe6190605140a13d2be823372123e8ed38e8fe47a0417ed7ca84193"
+    },
+    {
+      "path": "/cdn/images/furniture/404021_50132c83.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4720,
+      "sha256": "545e028a5e8b785caf26397d8695fdb4f025904a1c871643295e4748edaf94f4"
+    },
+    {
+      "path": "/cdn/images/furniture/404031_a99d2b61.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 5590,
+      "sha256": "3b34333cb03221d8a35eafc419bd76007dc8b1fbaf6662b26584d68a435fdc21"
+    },
+    {
+      "path": "/cdn/images/furniture/404032_f771b828.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 5547,
+      "sha256": "9d62e21078ba107e83baf83b9c41d5fe428cfdf685bff9ca93919659c1fd1230"
+    },
+    {
+      "path": "/cdn/images/furniture/404041_318eb2a7.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6192,
+      "sha256": "f4df1bfaa1beaf51c3753b76a1ab2f190f344d74b3ba967c7dc3bfd6eee8e513"
+    },
+    {
+      "path": "/cdn/images/furniture/404042_02bbe66f.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6107,
+      "sha256": "a123a218c7dce7be545cb8a65596bfa7dab93d5092a2c1a84bb3805975841ac6"
+    },
+    {
+      "path": "/cdn/images/furniture/404052_4962197d.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4167,
+      "sha256": "43a95a5331ca4ecebe1879da5ea89a224a54bfd1fb7e0081c9d096ab7f52a928"
+    },
+    {
+      "path": "/cdn/images/furniture/404051_318e8055.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4133,
+      "sha256": "5617e4bf96e7c76e409ee0e9ad75e5bee6626d1597217f928640d6c06c0dd36c"
+    },
+    {
+      "path": "/cdn/images/furniture/404062_4fcf837d.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 28890,
+      "sha256": "a214bef331b3c0aa702f3daa29a834e77fb9951cead464757518908abfa6fc10"
+    },
+    {
+      "path": "/cdn/images/furniture/404061_485b3b5a.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 28801,
+      "sha256": "7ce3426b3a7cdc0eee608327e3b9a63d025fddcd6902bf8c930ee99a2142c421"
+    },
+    {
+      "path": "/cdn/images/furniture/404072_66921e78.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3931,
+      "sha256": "92be25ea3b61f68d357dbfc51fe044ab09abaeccfc5a373dd5e3cae3a46c98d8"
+    },
+    {
+      "path": "/cdn/images/furniture/404071_ae1e8db9.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4015,
+      "sha256": "c760ed2aaecddf9a2d9476aa4d19fc0b5abea60b8fdef452f2283a68db73d255"
+    },
+    {
+      "path": "/cdn/images/furniture/404082_ec0ddc7c.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4183,
+      "sha256": "a3472281a40ec91417346656c893743060df4094f5b09800da46879807bbc435"
+    },
+    {
+      "path": "/cdn/images/furniture/404081_cd4b7bf9.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4015,
+      "sha256": "b7e0357f632e6986ec41370e177eb630a58afca36496dbf15d5bcca5e7d65fb2"
+    },
+    {
+      "path": "/cdn/images/furniture/404092_692d6f79.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 26987,
+      "sha256": "c43d729518b227a0e2ddeb24d5917944b3702bf95cd8735cd74ec469add84f2b"
+    },
+    {
+      "path": "/cdn/images/furniture/404091_f9d93b59.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 26988,
+      "sha256": "51c29cae6e9d05add01a53f661c44157855636f333b8aa6afee91489789e5ca1"
+    },
+    {
+      "path": "/cdn/images/furniture/404102_b93014b4.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 50718,
+      "sha256": "4137245c9486c644e4a6e73e72ab134de27bed8e036d0c00ecb35173f26f26f6"
+    },
+    {
+      "path": "/cdn/images/furniture/404101_f3891f5c.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 50749,
+      "sha256": "306fad0eb176a65a957259dc36e9df9cacc76cf02b58511817f4d4b460b6f63c"
+    },
+    {
+      "path": "/cdn/images/furniture/409002_92c801fc.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 2346,
+      "sha256": "24e01a2f646e1bac8f15e30a8a121e214d729acb0e2a23a2f75c74b2453c1523"
+    },
+    {
+      "path": "/cdn/images/furniture/409001_d1dc0efc.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 2298,
+      "sha256": "b7169cce0f15014048b97f6c6ab5da7f1335d2f5f1aa481e84bb9c1c216a53a6"
+    },
+    {
+      "path": "/cdn/images/furniture/409012_90f93b3b.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4213,
+      "sha256": "d9bcf1996a88b12234ed8a79939c05947aff2eea57732d545845c17dbd0acb8e"
+    },
+    {
+      "path": "/cdn/images/furniture/409011_325fcc48.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4281,
+      "sha256": "aa1d0c8d69ec3a02489c6a112119830577c1f6ded7ed705fd6e116a4592ece53"
+    },
+    {
+      "path": "/cdn/images/furniture/409022_2095d5db.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4417,
+      "sha256": "d12b32c36dc8efebd66f2bd542c6d0562c1969fcce25efaf8f7e9196b342c0d8"
+    },
+    {
+      "path": "/cdn/images/furniture/409021_77c6e228.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4490,
+      "sha256": "6ae1664c4091d0180d3342a9ef2bf6168e12492f76d9e1dadfd7daa87300b84d"
+    },
+    {
+      "path": "/cdn/images/furniture/409032_2bd9a3b2.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 2144,
+      "sha256": "c6c0296874402680caa04fa0ced13c421f93d7b8439928397fc0148387f33a09"
+    },
+    {
+      "path": "/cdn/images/furniture/409031_476c0017.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 2178,
+      "sha256": "fb76610e8089fa7ec397eb0f0caa89a57c3f2ee9374c487e07258d6cf965d411"
+    },
+    {
+      "path": "/cdn/images/furniture/409042_13da84bb.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 9722,
+      "sha256": "1c14f6a4da92fbec0d288b24d8fa256fc97240da5f4a093834ccace51781ec4c"
+    },
+    {
+      "path": "/cdn/images/furniture/409041_0f0c4000.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 9695,
+      "sha256": "11c2d1eb191b07523be47ed975453b5613a381de2f45356c44344c8c5b876930"
+    },
+    {
+      "path": "/cdn/images/furniture/511002_1009df0a.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 8726,
+      "sha256": "b51f86fe41db14e81da2a3edd57ae299d78f8e61f934b10cb65c52b6e2ac7b07"
+    },
+    {
+      "path": "/cdn/images/furniture/511001_2049ed43.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 8993,
+      "sha256": "0870b5c1337ca1afc494b3925b5c0795da5b959a0cf0968f53dcd93c89b28fe9"
+    },
+    {
+      "path": "/cdn/images/furniture/511012_3d985633.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 8836,
+      "sha256": "06529b1520b79c83f459f287f7cdb6f3217c2a16616263ca15093cb6681c61ef"
+    },
+    {
+      "path": "/cdn/images/furniture/511011_be39b583.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 8571,
+      "sha256": "f435f6146061e8ce5e2aa187db06aa5e1af39d3e47492be85bacd7a3dd09044a"
+    },
+    {
+      "path": "/cdn/images/furniture/511022_6481a570.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6019,
+      "sha256": "a4c6ea96027648bba0d6f129f03394f2159642269babefaa394c931bccf6e8bd"
+    },
+    {
+      "path": "/cdn/images/furniture/511021_ca68338e.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6083,
+      "sha256": "08d470c392856011d2c59fc0ce5d148c8a0291a15e28e819b70221a618320396"
+    },
+    {
+      "path": "/cdn/images/furniture/511032_ef37b049.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6132,
+      "sha256": "b37f0d27eba188192b99740463027dc06ecbd9cf51f2d4c52f31a1fc4e73a8ad"
+    },
+    {
+      "path": "/cdn/images/furniture/511031_c9740c85.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6215,
+      "sha256": "382b8c0e205896fa78b6e0dfdbaa39f9c84c25816f7da8f2b1fc55313e48a17b"
+    },
+    {
+      "path": "/cdn/images/furniture/511042_13358dd8.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 73405,
+      "sha256": "8b98f63042ff64ad5b1c19b2bcd786519a6382dad1b05c21c24cc1d5b20fda60"
+    },
+    {
+      "path": "/cdn/images/furniture/511041_7c54fc08.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 73265,
+      "sha256": "2a811962625e6a3aeca743988561e8aab9289b856398cb806f7cbcda79a1ae9a"
+    },
+    {
+      "path": "/cdn/images/furniture/705002_098f2fe1.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 8172,
+      "sha256": "b0082690deff5efc9d7d1ee158e54b6acf3326cb44bd2ec0e9bc600c2d5755bd"
+    },
+    {
+      "path": "/cdn/images/furniture/705001_3816a355.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 8114,
+      "sha256": "f168ee65e06a4a1996c61fea287a437267bcc4e85b9ed96ee0ab51eb03017b2f"
+    },
+    {
+      "path": "/cdn/images/furniture/705012_bf0d8fa4.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 14598,
+      "sha256": "44a04f631319409d9d182ef1d63faf708cfb5ec02e212129ca0a68520104a5b5"
+    },
+    {
+      "path": "/cdn/images/furniture/705011_63c13c70.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 14454,
+      "sha256": "adbac6135637f21cb50a1e3f50017c17f11e22650fa1bac285d4fa744ec02743"
+    },
+    {
+      "path": "/cdn/images/furniture/705022_07da9236.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 2925,
+      "sha256": "df0f461bfef801f66cdd2bd6244b75ad939f2854ad28575fdac310ca0dd495b5"
+    },
+    {
+      "path": "/cdn/images/furniture/705021_081c5993.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 2942,
+      "sha256": "529e4953c3ef58cd66ace31ae09f243495d23ce73e39e063d5dea96b39454575"
+    },
+    {
+      "path": "/cdn/images/furniture/706002_752249e8.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 12290,
+      "sha256": "aa19041eb55dacfa6548e2ee5475e628033e5709f382d73d0b3d9145bc8ea600"
+    },
+    {
+      "path": "/cdn/images/furniture/706001_7919e50b.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 12152,
+      "sha256": "00dbd87a42c60e7b6e8270fc8cd80c810a935a90ed5b6948bab79bf6b578facd"
+    },
+    {
+      "path": "/cdn/images/furniture/706012_4811b195.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 13277,
+      "sha256": "1e0e39cc485980a57a82a5392c66180654cc029b3aad7da8c5e8a5bf817265ec"
+    },
+    {
+      "path": "/cdn/images/furniture/706011_b08ed4bb.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 13600,
+      "sha256": "d71e44db78a37a949ad4dbd7f21919ccae1d19edf7af2d285e8bd8673c49b37f"
+    },
+    {
+      "path": "/cdn/images/furniture/706022_3cf38570.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 17842,
+      "sha256": "d1b5f32b89bba207a506d892f52960be21c7d558af93ebe9746e9a738e54fcae"
+    },
+    {
+      "path": "/cdn/images/furniture/706021_f6c6754c.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 17967,
+      "sha256": "95062759522ce97bdac31af9501c3d5187bad44f8bd97c81264b37fbb48e235a"
+    },
+    {
+      "path": "/cdn/images/furniture/706031_6a7f3ce2.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 7648,
+      "sha256": "80478686e7848647d865a745ea3dd3ba8a244200ecd83fec26dc6eec81e4677a"
+    },
+    {
+      "path": "/cdn/images/furniture/706032_a233c4d0.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 7858,
+      "sha256": "b4121a368a872ca609065059242a35615dc9fdf453f118b0be229431826fd236"
+    },
+    {
+      "path": "/cdn/images/furniture/706042_b5150f91.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 5332,
+      "sha256": "7d8a405af08c358dfad4b3442b6c78632cdbbc3316007fd3904911c7745ffc1f"
+    },
+    {
+      "path": "/cdn/images/furniture/706041_18346549.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 5255,
+      "sha256": "05d902249a76796b4ee9add30b4f955bbaf0089ca5769c095f268b0eb2b430e3"
+    },
+    {
+      "path": "/cdn/images/furniture/706051_2f72a141.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 203111,
+      "sha256": "db1fae5e831e70fbb812b236c576c16a7d28c169035f690ec02c214ac8b8bae4"
+    },
+    {
+      "path": "/cdn/images/furniture/706052_4c3eefda.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 202886,
+      "sha256": "2a14ee150802e62fa7a2a4b5129e3facd545a51b07cc2249aafa802865496632"
+    },
+    {
+      "path": "/cdn/images/furniture/707002_be89cd92.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3139,
+      "sha256": "97fe7745bd55294cc88cc05ea77d49f8b3daa5f7e89e429f4d5b5cb3cb245196"
+    },
+    {
+      "path": "/cdn/images/furniture/707001_74030298.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3199,
+      "sha256": "9cd4fe3ed7d954928defd5fd3e4e098d48c232787e55bb346180f5efd8887bc3"
+    },
+    {
+      "path": "/cdn/images/furniture/707012_5ed3309f.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6669,
+      "sha256": "c764b8ae7bf407e21a43e73ee71dd7321d153b9a74c16d6df25f319deb37c3dd"
+    },
+    {
+      "path": "/cdn/images/furniture/707011_7b4705ff.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6653,
+      "sha256": "f025f955b60ae27fa891fb5223c75c32fe83169a175b7ba5b8aeb5a9c5f957fc"
+    },
+    {
+      "path": "/cdn/images/furniture/707022_957637f1.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6010,
+      "sha256": "116c713e364425a8e616d54bc54f2fd54c5aa34b2a7b6b5956edcdc27cba674d"
+    },
+    {
+      "path": "/cdn/images/furniture/707021_1236d460.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6106,
+      "sha256": "5c52b7f05c81727b9d635e4964c14b44fc1d14f424ad267a024e8091e85c4857"
+    },
+    {
+      "path": "/cdn/images/furniture/707032_60101003.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3928,
+      "sha256": "4e2e0f3ec43a235d116251068b8cd8f8749718d843320ba97c8814dcf7e2cb58"
+    },
+    {
+      "path": "/cdn/images/furniture/707031_e57c0a55.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3915,
+      "sha256": "4d9c27685859f12ff967e4bec9613486c0e7a4f046698292681e322f8237115b"
+    },
+    {
+      "path": "/cdn/images/furniture/707042_e4afe3fe.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4680,
+      "sha256": "4d15755e920a78695ec361807d29eff4df61db3a2e742dc40f93e99fe03a1b12"
+    },
+    {
+      "path": "/cdn/images/furniture/707041_9fab4415.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4672,
+      "sha256": "7c881b3699a3c68109433702322984d5709e3969d2be8ee1d7c7d7b27a7f4f4e"
+    },
+    {
+      "path": "/cdn/images/furniture/707051_254a86a9.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6622,
+      "sha256": "abc2ac11a114b83df66d1339b89fadbb96cac22ab6b5c491c6a155c442029d16"
+    },
+    {
+      "path": "/cdn/images/furniture/707061_4a0de388.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 5822,
+      "sha256": "dfbbc0f7bd6c1b7ec564605aabc7a31c5f70bf8d1117c87341953b086e17af64"
+    },
+    {
+      "path": "/cdn/images/furniture/707071_90c0df24.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 6140,
+      "sha256": "2c522601b09f5e55f13d27b1402081bcbafca26195c8f59998ab7ca0c8cea624"
+    },
+    {
+      "path": "/cdn/images/furniture/707081_f8e0a6ce.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 5043,
+      "sha256": "30ceb9de4f574db721b2efe40e52717fbf429a768934aa2a19034dd26fde9712"
+    },
+    {
+      "path": "/cdn/images/furniture/707092_62c0f6e9.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 28105,
+      "sha256": "f7e77f906258b783aea0e02612a4f4bf77dfe226d198b5f13f1afab81af753cf"
+    },
+    {
+      "path": "/cdn/images/furniture/707091_10540b4a.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 28130,
+      "sha256": "da6b604e8a6e6a2bf757a94c9dba14d4007ff08fef9dd4b381b43e333e6972b4"
+    },
+    {
+      "path": "/cdn/images/furniture/707102_4fe45466.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 33625,
+      "sha256": "45ef431f916d767140e1e0ab2f822fcab256634f9790e6b9a48af51e43494254"
+    },
+    {
+      "path": "/cdn/images/furniture/707101_a2ab3531.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 33664,
+      "sha256": "ccdf7fa3ff5e0c1e0a646b3d0d7556c3c4900394b5956c0d5eb7687fc2b5a907"
+    },
+    {
+      "path": "/cdn/images/furniture/707111_8084df1b.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 42065,
+      "sha256": "74abd7df18abeb4d945e637eb9d283655030489acda3c789a4ecc4fe4f93d1ea"
+    },
+    {
+      "path": "/cdn/images/furniture/707121_5aa11e29.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 52677,
+      "sha256": "a403ce19477bc44e908f258e7895c251aea38aafd7eba0053f68c713693ee717"
+    },
+    {
+      "path": "/cdn/images/furniture/707122_f4e82360.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 52463,
+      "sha256": "5ca132de708ff069c712b26abbc7300f7ebad5dbeb65ceb34694f0b581afa321"
+    },
+    {
+      "path": "/cdn/images/furniture/708001_58706710.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4966,
+      "sha256": "78242ed258afee0ee41c6f22f5af99332e1e1f423db67353e1b56483c96255e1"
+    },
+    {
+      "path": "/cdn/images/furniture/708011_86e69db5.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 7610,
+      "sha256": "49337bbee164afe7c83a39089d559f37ddb17dfbf4d19807c63bbbaca7be7f86"
+    },
+    {
+      "path": "/cdn/images/furniture/708021_85e71b87.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 14579,
+      "sha256": "11f0570add7820e0c50a378c075d431357a6fcb5981d4f26546b4e5329a3dee9"
+    },
+    {
+      "path": "/cdn/images/furniture/708031_0a098560.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 17880,
+      "sha256": "9f214ec2f940fa91708ab47a66d27c1ec06232ac80cf8d4303902c03c0c44295"
+    },
+    {
+      "path": "/cdn/images/furniture/708041_25db268f.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 18196,
+      "sha256": "144bb6c72834048f165a88a0bc335763e3e5d7252108606ffe6a729aaa3de7df"
+    },
+    {
+      "path": "/cdn/images/furniture/708051_614669c7.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 12289,
+      "sha256": "c4eba77cff29b3cea7ee758980856f387b78d88dae16f6a8e33e9bac083ca09f"
+    },
+    {
+      "path": "/cdn/images/furniture/708061_8f7bfee9.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 12786,
+      "sha256": "3c38f935df6b6c35aea800cc82ab278e0ab45b3d3705ba388baa00f33b881e2b"
+    },
+    {
+      "path": "/cdn/images/furniture/708071_ad6b87af.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 5762,
+      "sha256": "c3d0e01ca50a3bccdd952fc87a7b71d59969261d20670137f227c659140ff2d9"
+    },
+    {
+      "path": "/cdn/images/furniture/708081_3c279f3a.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 8916,
+      "sha256": "cc074a41d077437e95b42318836d4efeaa9c6fb5ab341f228b523df112490235"
+    },
+    {
+      "path": "/cdn/images/furniture/708091_2b022a81.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 4081,
+      "sha256": "c7266ac484c25e08ab35ab935a54157873d2c7b34d295405284648eb2e7cd655"
+    },
+    {
+      "path": "/cdn/images/furniture/708101_a52e9504.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3656,
+      "sha256": "a7256477349081bf2667126f16ae74ac54da680af8870876ab1615c4d1833c08"
+    },
+    {
+      "path": "/cdn/images/furniture/708111_54976a07.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3984,
+      "sha256": "180bbcf40dadadeb525ad210655c42cdb00fdc2b6c81cb8bd35532118a4963a2"
+    },
+    {
+      "path": "/cdn/images/furniture/709002_4185f7a4.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 12675,
+      "sha256": "76333bcc460672887d71c3c08330eda9d54ec317d067e773d2ad587054cb9b13"
+    },
+    {
+      "path": "/cdn/images/furniture/709001_42447c24.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 12623,
+      "sha256": "dcbe27084e920ecb5633290577bcf49e62ee95c1d103096395aa984c27cd0913"
+    },
+    {
+      "path": "/cdn/images/furniture/709011_a61513e9.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3868,
+      "sha256": "c74da317268fd95995a6672fb32f102f2806e9146088c598977c70df12d39ec6"
+    },
+    {
+      "path": "/cdn/images/furniture/709021_b222a7a0.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3249,
+      "sha256": "600786a927b27e7f180ba2c11033b68fcf8d696561c299124d17ae256897726e"
+    },
+    {
+      "path": "/cdn/images/furniture/710001_0853afb8.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 3965,
+      "sha256": "9881659c60212f127de6db1fd931cf3798c47d59d49e38e1ac099920d7811391"
+    },
+    {
+      "path": "/cdn/images/furniture/710011_80b2ebd4.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 7126,
+      "sha256": "b024f20ee930372052bd215c77df741061f3891c5e4f0a73632abdfa8f4b84d5"
+    },
+    {
+      "path": "/cdn/images/furniture/710021_0f505014.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 8132,
+      "sha256": "4f3383f230021ad590d8c20966736433d1e25e1e8bb9bcc1e1d0d5ad0df4b53c"
+    },
+    {
+      "path": "/cdn/images/home_c68d9bce.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 19346,
+      "sha256": "074558530db7905e47f8f6066e1ec2a3f0245301b7919fd5cb4b3f467d0ebad7"
+    },
+    {
+      "path": "/cdn/maps/5601/5601.maps",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "already-cached",
+      "bytes": 906,
+      "sha256": "e8f8b952b88c286b2bdedbd0f155cd32c302de8b2f5305bd4b39ef0a07514154"
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/navigation.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 403,
+      "reason": "http-error",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/common.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 200,
+      "bytes": 0,
+      "reason": "empty-response",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/water.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 200,
+      "bytes": 0,
+      "reason": "empty-response",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/farmmap.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 200,
+      "bytes": 0,
+      "reason": "empty-response",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/fairycommon.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 403,
+      "reason": "http-error",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/framebg.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 200,
+      "bytes": 0,
+      "reason": "empty-response",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/residence.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 200,
+      "bytes": 0,
+      "reason": "empty-response",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/101002_e93c5c46.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3287,
+      "sha256": "c032151cb62dc45592ce3f2fd69245ac6f88fe8efe60afce2f4c3e312c82b06d",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/101012_cf6a8160.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3536,
+      "sha256": "b27dd1b5bfa76c03becdbb6d8d84a3f534af76082c639cdc34b132f7f7f79261",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/101022_1a3b2f9d.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3415,
+      "sha256": "205381186e03d92af5abfc03c37f334db67c7786c80d3ecfd8e4537c935b3d88",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/101032_48429bb6.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 6680,
+      "sha256": "5a12a50e677947bef0b3549f856e104078b4bbed22769f632141daeda2f78e7c",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/202001_c13c639f.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3832,
+      "sha256": "a9bf106ba751aff48488acadf905d9daf23a46a005a5ca7c683b164fea090c8f",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/202011_4772a13a.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3806,
+      "sha256": "5490fafa2924650914e3e03198a1412c78290f15d5161febe9ae5ff50b5c69f5",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/202021_6721441b.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3781,
+      "sha256": "c260865534fa2f429cf52a6f7c00d1060271f2d63d7238d150c616e948cd86e7",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/202031_9514a7ca.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 7035,
+      "sha256": "5e893ad45dad03233d88f09026ca359036d64a7ce16d57be9a889dc5cf061cab",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/303001_80aa6e9c.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4187,
+      "sha256": "ce382fe6a9ab34e4de2f780f4816817c1fd6c81309f9fe89fb0ba265093f6b9e",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/303012_e28b263f.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4010,
+      "sha256": "e74ef7f4b41d97cba19424bbafe3da9b4a36e1a8d64c13bce1ec5a6fe0c6482e",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/303021_6585b8c3.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2919,
+      "sha256": "a741e7ef56dc66323f93863f66e4d9a397f29744338f4341f775aaa23889b297",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/303031_d147004e.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 8693,
+      "sha256": "fc35eaec2f0f633eaed475ed356a024d7ff690db54fd9cafa8cca3e5e4f8adc7",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/404002_7ebe25b8.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4069,
+      "sha256": "6266ba3506435b206adf9c73aa3b8611a61701b400d97c34fafddd013493181b",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/404012_66aa3db0.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4023,
+      "sha256": "e95cba12056472797d433705499d1ca99e0e8b724d760662d3f45b34a80b9146",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/404022_ca94f9c1.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3992,
+      "sha256": "8385235a8b17dec740f7b40f5758cb1a111f54b300fe723596e4da8f75034188",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/404032_723859d3.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3031,
+      "sha256": "58d5663530fc43f15254b5c263ae4a14927e3b426bb3e90a5e34c9ef40e45f6d",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/404042_23c6521d.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3093,
+      "sha256": "5d80cc63710bb25614d50813f99be57f47aebae786fc9bb11624cbe88e7b831b",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/404052_c681e151.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2984,
+      "sha256": "2c3ed1d5f544d73af6edf7210366ab9ae42e28ae68e8cbbf1340f3c30b8c15a3",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/404062_a95da967.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2205,
+      "sha256": "3ee4aebcade75a7db3248053ca48fae1e1eadbcbe0fa844d4dcb689e37774eda",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/404072_318ad0d0.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3787,
+      "sha256": "f7858bdfd6262ad0c02975498e4493c843b64a8aaf42cad96426e4a91f29fcab",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/404082_99922a4c.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3744,
+      "sha256": "3b9a8d103eef4968dd474153a50a775e5a9ce9229591b969196e81dfffb508c7",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/404092_3cfb01b5.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 6974,
+      "sha256": "948620d21ca22b2efe60dfaa530691ddb36ab24587c9641ae0adfda722254293",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/404102_c4fd3083.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 7581,
+      "sha256": "3dd4ca9bc1a832e58277bbe7ce767fd4e17a760c41b13a8cba7593b7e9c90339",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/409002_c9938ffe.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3006,
+      "sha256": "828738db2a36d23027fb0d8bd02f8cd166602795b2e601d0fe99a05f47687d0a",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/409012_75882ecc.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3171,
+      "sha256": "2ffe368be1e0741c3e35c9811bc59adb1d2e6fa9259b1892cb4fd21f31e62d11",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/409022_571607c6.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2484,
+      "sha256": "fab9669009ce5738273949b3510f06b5e2fd0940a94dd41dee4f0d6cee465744",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/409032_321a193c.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2485,
+      "sha256": "12a7ce016f443e794c39139390dbe0d907266dedf4ac1f7a8c33b0eaed4f9bd3",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/409042_829dfc93.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 8355,
+      "sha256": "bd3d28e0ff557307fcab4158c6cf4994dab15dab71fe599ea37921ab337c4755",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/511002_902660ad.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4263,
+      "sha256": "5ab3ba6f2453127c0f538986f80653d4b8c8fef925f1b5a5e45db8b440259c51",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/511012_9430cadd.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4036,
+      "sha256": "0c79ed697c70c5d71138fd60820f9d5ccf81a6be90883d6318265e7cea0c10fe",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/511022_9c5f1091.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3781,
+      "sha256": "8b4adefedf78940b15630127e9652c2433e47c218f66267ba5906aeb592a246e",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/511032_e81763fe.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3782,
+      "sha256": "71bb2710c5303048f2f3bd7db4b0d64d9bf418ad4a6fd3ee8e5330bf6672ae3e",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/511042_5982ef0a.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 7745,
+      "sha256": "9ee8f53b51d39267fd57e2cdf0cfea6cccb29e169fb0c0101245a13e6db7cb9a",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/705002_3ab688e2.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3870,
+      "sha256": "a7ea3b1e9db114d74050db27a0bbacadc38036be9e3331e3cc55f8d22c74a3a5",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/705012_8d8ddf92.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3271,
+      "sha256": "a3fa738b784cbee6d6fa60b130cb37c9b28ce84c33d6195ef57bd53abfd0eef3",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/705022_fc4c91a3.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2932,
+      "sha256": "29e9480403fa75ff6b91225a6215e6c573fbede97f8eddba2d2b94041465b3ec",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/706002_5225f158.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3196,
+      "sha256": "1cdfd18d2fe6abf839358da1303ea0eda5c281c9628167dc65ee0a7888c4a306",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/706012_fca00d0c.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4308,
+      "sha256": "f051f8c60035fa95e7e25c7329022a246f0eb20bee7936b4616fa98326f7a539",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/706022_8c39f54e.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4316,
+      "sha256": "36d59ab070b66ef22fcf4db59be1ec19703cf245aff787dc51ae45bd402d2811",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/706032_9fabb6ad.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3924,
+      "sha256": "41ce96f3a459b648db1eae7a3f4625283e19be154d46f3f283da633e337bf795",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/706042_fa86c689.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3858,
+      "sha256": "cfcf580efa8cdf6232c9d4131053e0c1f850eda73eddc268a282af92df7b09a1",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/706052_e617adca.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 8707,
+      "sha256": "66bd81ef83e84246e9d2116ea912d7a19f9792506c0105a358b1dc33c7df6e69",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707002_55064bb5.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3610,
+      "sha256": "55c6dd12553bb03bd82efbd24ad81a4cd0fd00182af2bb7947900bbc6fc64fba",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707012_f7e67786.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2601,
+      "sha256": "4315285bf67c9f9e1d878a4bfa700667e8e04da3aedaee98df7bf25b2297aadd",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707022_876c1cd6.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2979,
+      "sha256": "6240e91c319c907d15845ba5e3c8b6c5631c811ef3cd518304a0a46a9551d82b",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707032_1ad82dc0.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2789,
+      "sha256": "1b1c8d4613055b84ebe1566235038418c743fbbfbd3742e9437e62f6c69df874",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707042_b605a338.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4379,
+      "sha256": "d3a2e623c1ae7f20f04b91e4bbf429314a1db10ae241af8d14e6691eba16558a",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707051_46beb984.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3888,
+      "sha256": "62bd4076c1176a6bc832149b67f22d341036c0f1d6409f87ad1ac29397f39ce0",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707061_79ca2978.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3833,
+      "sha256": "670c8d4f57b40a3027f2c7605879165297a7daf5ac1ce79a2ddc09bfd62357d5",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707071_8ee64a10.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2723,
+      "sha256": "0685acacb7dca92b58deaac493a8a68192b58f6a5ce1ffff4aea3efd9da76c5c",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707081_fdab89a8.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2749,
+      "sha256": "318217409adce01d093087850dfdf60f2a6b2635824d67f695478334851eef25",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707092_aabf0d7c.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 7070,
+      "sha256": "d590d9fd822b700c5e9f761d9af10f4fb8d458314d5517f84ea0ee9db4a2ace7",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707102_dd3e21be.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 7798,
+      "sha256": "2296bbb1d6e3dbbf0cdec8be76462481aadef78611b500a7179d6138a57116e9",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707111_fefd0de0.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 8297,
+      "sha256": "c8ff7d9387293f74d226b3a1b704c5e85b5618d801f138c8604219a516e37712",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/707122_4a68ead0.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 8003,
+      "sha256": "43c881a909806cae02279cb725fcfcf3d48a7041adc1718e813d13f38dc01246",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708001_19d5594f.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2906,
+      "sha256": "2cf6a7afa58447d179f9c2d4df0925e2851252867a53f73bd728383fae28717f",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708011_48cc633e.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3615,
+      "sha256": "4a05b6e62935092d3c6aa206816f1e649e66710598ea4067e654ae277a2db845",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708021_70ee8c17.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4016,
+      "sha256": "5e098008f70fcf1b7964ac0317ad0647a9435c7f1d21c1929b37eedb33abca8a",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708031_5d64adc4.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3808,
+      "sha256": "a667becffb42a2e41bcc1df880fdfe7ea64dd2edc10cd27e7cc1a1f3b4c61f12",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708041_15da5030.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3762,
+      "sha256": "8bb2d3f2364bbe0d3824e111d6c8a668359c30b3460c3c615dd7caed9895eea7",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708051_9c476623.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3732,
+      "sha256": "1ca7785a38d9643af89814595e427d832c7b2f442a6df91f1c6b1c7ed34836ea",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708061_d7d489ba.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2793,
+      "sha256": "8494a64ccf9e7515c30d0a4a1b10d0119c1f6d7dfbdf284c38c4de8944f45e7f",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708071_3044fdc5.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2815,
+      "sha256": "05ad14c70c072268e7cfd5cb69d720f306ef02df739e9f876960bb6ac1c3b8f2",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708081_0ce7a347.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2924,
+      "sha256": "cc6adf831017c6544a2586bead8b0e97b1ea6b1cb548855bef10efa450bea5a9",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708091_c74c4d2b.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2744,
+      "sha256": "da0387be169e99fde09b43260717d93056f6e58b19cef4b124e258d3f8682ada",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708101_bc88ea37.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2765,
+      "sha256": "24eb0293e5293cdcb0fbf2cd336568c8c6127114da26d142e60391827234cb7e",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/708111_d199c279.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2819,
+      "sha256": "70c336e7bc875b8b90f3c601b408d41974ee2ad57f793e96d7dd10a2a3424d67",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/709001_edb2cdea.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3215,
+      "sha256": "47ba99f9001dc797880eecd1cb01b9805364f82de1ad511c4b86a896f42f9549",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/709011_cbcc5f69.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2120,
+      "sha256": "9f4e46dc7cf022ed85b7b19d3f785b13d456b7a9e69208822fd0da60426d76e8",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/709021_f687ebe0.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 2144,
+      "sha256": "4721d04ff74820965c5bbc6ecb6e469b0a0ca9a49df22b4391fb0e91908b287f",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/710001_467107b6.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 3592,
+      "sha256": "417f0bd0dc2d95fb32e2609ed90a236fbc4102db50366a08ee019a231fb5d81b",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/710011_eeace5e9.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4005,
+      "sha256": "ae4871f6694830d36846c58917532339b2ca9c4d5988f6fb5fb439180df79aae",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/icon/furniture/710021_a618890a.png",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 4084,
+      "sha256": "fe10a36165923380f51d953f4aa3d4557731af9ecd76c2f444818ae6ae8114ad",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/home.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 403,
+      "reason": "http-error",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/maps/5601/5601.titles",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 996,
+      "sha256": "803b2d7d0ea3a43449bca6ba03ceebeda707647f52ac93472c714b81df9ea1b9",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/maps/5601/5601.rd",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 403,
+      "reason": "http-error",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/maps/5601/5601.path",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 403,
+      "reason": "http-error",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/farm.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 200,
+      "bytes": 0,
+      "reason": "empty-response",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/mapmaterial/land/5601/tile_0_0.jpg",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 8119,
+      "sha256": "8c4ec25f2885ce035794a92269b6574cd3b78310e8ffb3f7a00062a06742f676",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/mapmaterial/land/5601/tile_0_2.jpg",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 12143,
+      "sha256": "258e393289c63ebe402dde10bc2b61161863af1744e36f3edc6a187d5e1e91fe",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/mapmaterial/land/5601/tile_0_1.jpg",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 15128,
+      "sha256": "f7684e781325d7bd70888b8ac3dc7c64cb215e8966d34bf661de1552658a9b1a",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/mapmaterial/land/5601/tile_1_0.jpg",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 13245,
+      "sha256": "334332dbd90f21454013931149f11a72097595d717c83f7873f871dce13ad0c1",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/mapmaterial/land/5601/tile_1_1.jpg",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 21997,
+      "sha256": "107927f9b98717b2a7a03021397fb96215671c185a279d29f3dfa76c5b5fcd95",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/mapmaterial/land/5601/tile_1_2.jpg",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 24941,
+      "sha256": "1bac6d0e83481ac557390d47a7a3f16f521c6657b9fea83004db7c8035b7813b",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/mapmaterial/land/5601/tile_2_0.jpg",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 10572,
+      "sha256": "b958965f92924b1fe19aa85ce5ce3ee8e3017a9201e02fa5b1a06a5898e8f713",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/mapmaterial/land/5601/tile_2_1.jpg",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 17459,
+      "sha256": "6a39b55c6d0310f39f0a8ca4c75f7b273e74f6a255de26384072460e2c643b85",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/mapmaterial/land/5601/tile_2_2.jpg",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "downloaded",
+      "bytes": 13738,
+      "sha256": "d2ede89ba918a5c1c13a14ea5c51ae5d8295f665eddfbaef279c030c6711263f",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/shop.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 200,
+      "bytes": 0,
+      "reason": "empty-response",
+      "attempt": 1
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/core.swf",
+      "expectedBytes": null,
+      "kind": "residence-visual",
+      "status": "failed",
+      "httpStatus": 200,
+      "bytes": 0,
+      "reason": "empty-response",
+      "attempt": 1
+    }
+  ],
+  "missingOrInvalid": 96,
+  "selectedForDownload": 96,
+  "finishedAt": "2026-10-18T23:06:03.519Z",
+  "summary": {
+    "already-cached": 164,
+    "downloaded": 83,
+    "failed": 13,
+    "skipped-known": 0,
+    "pending": 0,
+    "not-selected": 0
+  }
+}

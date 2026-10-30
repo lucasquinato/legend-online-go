@@ -1,0 +1,5 @@
+import java.io.*;import java.nio.file.*;import java.util.*;import com.jpexs.decompiler.flash.SWF;
+class SocialBytecodeAudit {
+ public static void main(String[]args)throws Exception{var s=new SWF(new FileInputStream(args[0]),true);var seen=new HashSet<Object>();int methods=0,jumps=0;var failures=new ArrayList<String>();for(var p:s.getAS3Packs())if(seen.add(p.abc))for(var b:p.abc.bodies){methods++;var code=b.getCode();var boundaries=new HashSet<Long>();for(var i:code.code)boundaries.add(i.getAddress());for(var i:code.code)for(var target:i.getOffsets()){jumps++;if(!boundaries.contains(target))failures.add("method="+b.method_info+" source="+i.getAddress()+" target="+target);}}
+ String sha=HexFormat.of().formatHex(java.security.MessageDigest.getInstance("SHA-256").digest(Files.readAllBytes(Path.of(args[0]))));String result="{\"sha256\":\""+sha+"\",\"validBranches\":"+failures.isEmpty()+",\"methods\":"+methods+",\"jumps\":"+jumps+",\"failures\":\""+failures+"\"}";if(args.length>1)Files.writeString(Path.of(args[1]),result);System.out.println(result);if(!failures.isEmpty())throw new IllegalStateException("AVM2 jump into an operand: "+failures);}
+}

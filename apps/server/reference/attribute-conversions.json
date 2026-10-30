@@ -1,0 +1,33 @@
+{
+  "source": {
+    "path": "/cdn/ui/zh_cn/language_176d3d93.dat",
+    "sha256": "5a308c2f481e65cb9ec2f7f5bc91a14dab08087d1eda5781f08f50bd6cabeb4f"
+  },
+  "descriptions": [
+    "armyII.ThaneAttributeView.strength:Cada 1 ponto de [Força] adiciona 4 pontos de ataque e \\n1 ponto de defesa",
+    "armyII.ThaneAttributeView.agility:Cada 1 ponto de [Proteção] adiciona 4 pontos de defesa e \\n4 pontos de resistência",
+    "armyII.ThaneAttributeView.ability:Cada 1 ponto de [Inteligência] adiciona 4 pontos de magia e \\n1 ponto de resistência",
+    "armyII.ThaneAttributeView.physique:Cada 1 ponto de [Físico] adiciona 20 pontos de vida",
+    "armyII.ThaneAttributeView.captain:Cada 1 ponto de [Liderança] adiciona 1 em infantaria"
+  ],
+  "conversion": {
+    "power": {
+      "phy_attack": 4,
+      "phy_defence": 1
+    },
+    "agility": {
+      "phy_defence": 4,
+      "magic_defence": 4
+    },
+    "intellect": {
+      "magic_attack": 4,
+      "magic_defence": 1
+    },
+    "physique": {
+      "live": 20
+    },
+    "captain": {
+      "conat_army": 1
+    }
+  }
+}

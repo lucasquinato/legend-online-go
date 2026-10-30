@@ -1,0 +1,279 @@
+[
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T17:59:29.305Z",
+    "request": {
+      "operate": 0,
+      "compose_id": 187,
+      "compose_num": 1,
+      "auto_buy": 0,
+      "pay_type": 1
+    },
+    "recipe": {
+      "Id": "187",
+      "Types": "1",
+      "Material1": "2129006",
+      "Count1": "150",
+      "Material2": "0",
+      "Count2": "0",
+      "Material3": "0",
+      "Count3": "0",
+      "Material4": "0",
+      "Count4": "0",
+      "NeedMinLevel": "10",
+      "NeedBuildingTemp": "0",
+      "NewMaterial": "1992091",
+      "Counts": "1",
+      "NeedGold": "300000",
+      "Property1": "0",
+      "IsLearn": "0"
+    },
+    "before": [
+      {
+        "id": 700403,
+        "template_id": 2129006,
+        "pos": 50,
+        "exist": 1,
+        "object_id": 0,
+        "bag_type": 1,
+        "bind": 0,
+        "used": 0,
+        "count": 840,
+        "strengthen_grade": 0,
+        "join_1": -1,
+        "join_2": -1,
+        "join_3": -1,
+        "join_4": -1,
+        "user_id": 1265
+      }
+    ],
+    "after": []
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T17:59:31.672Z",
+    "request": {
+      "operate": 0,
+      "compose_id": 189,
+      "compose_num": 1,
+      "auto_buy": 0,
+      "pay_type": 1
+    },
+    "recipe": {
+      "Id": "189",
+      "Types": "1",
+      "Material1": "2129006",
+      "Count1": "150",
+      "Material2": "0",
+      "Count2": "0",
+      "Material3": "0",
+      "Count3": "0",
+      "Material4": "0",
+      "Count4": "0",
+      "NeedMinLevel": "10",
+      "NeedBuildingTemp": "0",
+      "NewMaterial": "1992094",
+      "Counts": "1",
+      "NeedGold": "300000",
+      "Property1": "0",
+      "IsLearn": "0"
+    },
+    "before": [
+      {
+        "id": 700403,
+        "template_id": 2129006,
+        "pos": 50,
+        "exist": 1,
+        "object_id": 0,
+        "bag_type": 1,
+        "bind": 0,
+        "used": 0,
+        "count": 840,
+        "strengthen_grade": 0,
+        "join_1": -1,
+        "join_2": -1,
+        "join_3": -1,
+        "join_4": -1,
+        "user_id": 1265
+      }
+    ],
+    "after": [
+      {
+        "id": 2370246,
+        "template_id": 1992094,
+        "pos": 132,
+        "exist": 1,
+        "object_id": 0,
+        "bag_type": 1,
+        "bind": 1,
+        "used": 0,
+        "count": 1,
+        "strengthen_grade": 0,
+        "join_1": 0,
+        "join_2": -1,
+        "join_3": -1,
+        "join_4": -1,
+        "random_skill_1": 70504,
+        "random_skill_2": 70204,
+        "random_skill_3": 70304,
+        "random_skill_4": 71115,
+        "random_skill_5": 70104,
+        "user_id": 1265
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T18:00:10.121Z",
+    "request": {
+      "operate": 0,
+      "compose_id": 211,
+      "compose_num": 1,
+      "pay_type": 1
+    },
+    "recipe": {
+      "Id": "211",
+      "Types": "5",
+      "Material1": "1992091",
+      "Count1": "1",
+      "Material2": "2129700",
+      "Count2": "150",
+      "Material3": "0",
+      "Count3": "0",
+      "Material4": "0",
+      "Count4": "0",
+      "NeedMinLevel": "30",
+      "NeedBuildingTemp": "0",
+      "NewMaterial": "1892091",
+      "Counts": "1",
+      "NeedGold": "1500000",
+      "Property1": "0",
+      "IsLearn": "0"
+    },
+    "before": [
+      {
+        "id": 2370245,
+        "template_id": 1992091,
+        "pos": 0,
+        "exist": 1,
+        "object_id": 1265,
+        "bag_type": 4,
+        "bind": 1,
+        "used": 0,
+        "count": 1,
+        "strengthen_grade": 0,
+        "join_1": 0,
+        "join_2": -1,
+        "join_3": -1,
+        "join_4": -1,
+        "random_skill_1": 70708,
+        "random_skill_2": 70304,
+        "random_skill_3": 70607,
+        "random_skill_4": 70105,
+        "random_skill_5": 70504,
+        "user_id": 1265
+      }
+    ],
+    "after": [
+      {
+        "id": 2370245,
+        "template_id": 1892091,
+        "pos": 0,
+        "exist": 1,
+        "object_id": 1265,
+        "bag_type": 4,
+        "bind": 1,
+        "used": 0,
+        "count": 1,
+        "strengthen_grade": 0,
+        "join_1": 0,
+        "join_2": -1,
+        "join_3": -1,
+        "join_4": -1,
+        "random_skill_1": 70708,
+        "random_skill_2": 70304,
+        "random_skill_3": 70607,
+        "random_skill_4": 70105,
+        "random_skill_5": 70504,
+        "user_id": 1265
+      }
+    ]
+  },
+  {
+    "file": "packets-2026-10-13.jsonl",
+    "at": "2026-10-13T18:00:12.449Z",
+    "request": {
+      "operate": 0,
+      "compose_id": 213,
+      "compose_num": 1,
+      "pay_type": 1
+    },
+    "recipe": {
+      "Id": "213",
+      "Types": "5",
+      "Material1": "1992094",
+      "Count1": "1",
+      "Material2": "2129700",
+      "Count2": "150",
+      "Material3": "0",
+      "Count3": "0",
+      "Material4": "0",
+      "Count4": "0",
+      "NeedMinLevel": "30",
+      "NeedBuildingTemp": "0",
+      "NewMaterial": "1892094",
+      "Counts": "1",
+      "NeedGold": "1500000",
+      "Property1": "0",
+      "IsLearn": "0"
+    },
+    "before": [
+      {
+        "id": 2370246,
+        "template_id": 1992094,
+        "pos": 2,
+        "exist": 1,
+        "object_id": 1265,
+        "bag_type": 4,
+        "bind": 1,
+        "used": 0,
+        "count": 1,
+        "strengthen_grade": 0,
+        "join_1": 0,
+        "join_2": -1,
+        "join_3": -1,
+        "join_4": -1,
+        "random_skill_1": 70504,
+        "random_skill_2": 70204,
+        "random_skill_3": 70304,
+        "random_skill_4": 71115,
+        "random_skill_5": 70104,
+        "user_id": 1265
+      }
+    ],
+    "after": [
+      {
+        "id": 2370246,
+        "template_id": 1892094,
+        "pos": 2,
+        "exist": 1,
+        "object_id": 1265,
+        "bag_type": 4,
+        "bind": 1,
+        "used": 0,
+        "count": 1,
+        "strengthen_grade": 0,
+        "join_1": 0,
+        "join_2": -1,
+        "join_3": -1,
+        "join_4": -1,
+        "random_skill_1": 70504,
+        "random_skill_2": 70204,
+        "random_skill_3": 70304,
+        "random_skill_4": 71115,
+        "random_skill_5": 70104,
+        "user_id": 1265
+      }
+    ]
+  }
+]

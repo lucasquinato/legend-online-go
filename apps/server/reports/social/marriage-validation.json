@@ -1,0 +1,22 @@
+{
+  "httpHealth": "ok",
+  "mode": "tutorial",
+  "resourceMode": "cache-first",
+  "http": 8080,
+  "tcp": 5004,
+  "policy": 843,
+  "serverPid": 24632,
+  "andrewOptions": "90, Pedido de Casamento|17, Cerimônia de Casamento|19, Entrar no Salão de Casamento|20, Inscrever-se para divórcio|25, Apaixonados (Diário)|21,Missões de Casamento",
+  "testRuns": {
+    "socialAndTables": 16,
+    "battleEngine": 29,
+    "regression": 87
+  },
+  "testsTotal": 132,
+  "nativeAIR": "passed",
+  "weddingAssets": {
+    "checked": 25,
+    "valid": 25
+  },
+  "productionSwfModified": false
+}

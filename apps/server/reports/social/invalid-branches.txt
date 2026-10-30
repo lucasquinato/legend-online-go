@@ -1,0 +1,1 @@
+marry.income.MarrySatisfactoryRateView._satisfactoryFrameTrainButtonHandler 106 jump badtarget=117

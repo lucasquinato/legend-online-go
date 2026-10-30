@@ -1,0 +1,155 @@
+{
+  "at": "2026-10-15T17:19:45.428Z",
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\gem-mail-2026-10-15T17-19-35.406Z",
+  "level1": [
+    {
+      "template": 2050101,
+      "count": 9999
+    },
+    {
+      "template": 2050201,
+      "count": 9999
+    },
+    {
+      "template": 2050301,
+      "count": 9999
+    },
+    {
+      "template": 2050401,
+      "count": 9999
+    },
+    {
+      "template": 2050501,
+      "count": 9999
+    },
+    {
+      "template": 2050601,
+      "count": 9999
+    },
+    {
+      "template": 2050701,
+      "count": 9999
+    },
+    {
+      "template": 2050801,
+      "count": 9999
+    }
+  ],
+  "level11": [
+    {
+      "template": 2050111,
+      "count": 99
+    },
+    {
+      "template": 2050211,
+      "count": 99
+    },
+    {
+      "template": 2050311,
+      "count": 99
+    },
+    {
+      "template": 2050411,
+      "count": 99
+    },
+    {
+      "template": 2050511,
+      "count": 99
+    },
+    {
+      "template": 2050611,
+      "count": 99
+    },
+    {
+      "template": 2050711,
+      "count": 99
+    },
+    {
+      "template": 2050811,
+      "count": 99
+    },
+    {
+      "template": 2281511,
+      "count": 99
+    },
+    {
+      "template": 2282411,
+      "count": 99
+    },
+    {
+      "template": 2282611,
+      "count": 99
+    },
+    {
+      "template": 2283511,
+      "count": 99
+    },
+    {
+      "template": 2284611,
+      "count": 99
+    },
+    {
+      "template": 2286811,
+      "count": 99
+    }
+  ],
+  "accounts": [
+    {
+      "username": "pirata_teste",
+      "userId": 1826,
+      "soulGrade": 0,
+      "soulGp": 0,
+      "soulCrystals": 236661,
+      "mails": [
+        1000229,
+        1000230,
+        1000231,
+        1000232,
+        1000233,
+        1000234,
+        1000235,
+        1000236,
+        1000237,
+        1000238
+      ]
+    },
+    {
+      "username": "pirata_teste_2",
+      "userId": 1827,
+      "soulGrade": 0,
+      "soulGp": 0,
+      "soulCrystals": 236661,
+      "mails": [
+        1000239,
+        1000240,
+        1000241,
+        1000242,
+        1000243,
+        1000244,
+        1000245,
+        1000246,
+        1000247,
+        1000248
+      ]
+    },
+    {
+      "username": "pirata_teste_3",
+      "userId": 1828,
+      "soulGrade": 0,
+      "soulGp": 0,
+      "soulCrystals": 236661,
+      "mails": [
+        1000249,
+        1000250,
+        1000251,
+        1000252,
+        1000253,
+        1000254,
+        1000255,
+        1000256,
+        1000257,
+        1000258
+      ]
+    }
+  ]
+}

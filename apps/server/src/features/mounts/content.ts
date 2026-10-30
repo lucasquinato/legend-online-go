@@ -1,0 +1,26 @@
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
+import { projectRoot } from "../../config.js";
+import type { Message } from "../../messages.js";
+import { tables } from "../settlement/content.js";
+import { localMountItem, localMountTemplate } from "./catalog-overrides.js";
+
+const data: { mounts: Message[]; cards: Message[]; upgrades: Message[]; configs: Message[]; shop: { item: number; price: number }[] } = JSON.parse(readFileSync(join(projectRoot, "reference/mounts/content.json"), "utf8"));
+export const mounts = new Map(data.mounts.map(row => [Number(row.TemplateId), localMountTemplate(row)]));
+export const cards = new Map(data.cards.map(row => [Number(row.TemplateId), localMountItem(row)]));
+export const upgradeRows = (type: number, group = 0): Message[] => data.upgrades.filter(row => Number(row.Types) === type && Number(row.TemplateId) === group).sort((a, b) => Number(a.Grades) - Number(b.Grades));
+export const config = (key: string, fallback: number): number => Number(data.configs.find(row => row.ConfigName === key)?.ConfigValue ?? fallback);
+export const shopPool = data.shop.filter(row => cards.has(row.item));
+export const primaries = ["power", "intellect", "physique", "agility"] as const;
+export type Primary = typeof primaries[number];
+export const selectors: Record<number, Primary> = { 0: "power", 2: "intellect", 5: "physique", 1: "agility" };
+export const MAX_TRAINING = 2500;
+export const TRAIN_ITEM = 208017;
+export const STAR_ITEM = 208035;
+export const starShop = tables.ShopTempInfos!.filter(row => Number(row.ItemId) === STAR_ITEM && Number(row.ShopType) === 1);
+export const SOUL_ITEM = 208070;
+export const fieldsByPrimary: Record<Primary, string> = { power: "Power", intellect: "Intellect", physique: "Physique", agility: "Agility" };
+export const trainingRows = upgradeRows(18);
+export const growthRows = upgradeRows(19);
+export const trainingGrade = (xp: number): number => Math.min(MAX_TRAINING, Number(trainingRows.findLast(row => Number(row.Data) <= xp)?.Grades ?? 1));
+export const growthGrade = (xp: number): number => Number(growthRows.findLast(row => Number(row.Data) <= xp)?.Grades ?? 1);

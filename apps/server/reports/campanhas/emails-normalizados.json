@@ -1,0 +1,31 @@
+{
+  "at": "2026-10-14T00:30:17.217Z",
+  "backup": "data/backups/campaign-mail-2026-10-14T00-30-17.170Z",
+  "updated": [
+    {
+      "userId": 1826,
+      "mailId": 1000049,
+      "key": "campaign:chapter:101:normal",
+      "sendNickName": "Email do sistema",
+      "title": "Conclusão de campanha",
+      "contents": "Recompensa pela conclusão do mapa Pasto Livre"
+    },
+    {
+      "userId": 1826,
+      "mailId": 1000050,
+      "key": "campaign:chapter:102:normal",
+      "sendNickName": "Email do sistema",
+      "title": "Conclusão de campanha",
+      "contents": "Recompensa pela conclusão do mapa Floresta Nebulosa"
+    },
+    {
+      "userId": 1826,
+      "mailId": 1000051,
+      "key": "campaign:chapter:102:sss",
+      "sendNickName": "Email do sistema",
+      "title": "Conclusão de campanha SsS",
+      "contents": "Recompensa pela conclusão do mapa Floresta Nebulosa SsS"
+    }
+  ],
+  "attachmentsResent": false
+}

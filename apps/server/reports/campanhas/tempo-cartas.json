@@ -1,0 +1,13 @@
+{
+  "asset": "/cdn/ui/zh_cn/swf/clearance.swf",
+  "sha256": "9d5766fe7f9eb7ac4b46138f03740333b5ef7a4c7f009081f420eb8e8f2cb6c1",
+  "symbol": "asset.campaign.Resultmc",
+  "frames": 125,
+  "assetFps": 24,
+  "simpleMovieCompletionFrames": 126,
+  "animationAtAssetFpsMs": 5250,
+  "marginMs": 250,
+  "resultToCardsMs": 5500,
+  "previousMinimumMs": 7500,
+  "capturedDelaysIgnored": true
+}

@@ -1,0 +1,102 @@
+{
+  "at": "2026-10-20T09:51:39.755Z",
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\dragon-soul-mail-2026-10-20T09-51-29.254Z",
+  "accounts": [
+    {
+      "username": "pirata_teste",
+      "userId": 1826,
+      "dragon": {
+        "version": 1,
+        "type": 101,
+        "grade": 0,
+        "xp": 0
+      },
+      "materials": [
+        {
+          "template": 208032,
+          "required": 8193,
+          "owned": 32,
+          "sent": 8161,
+          "name": "Alma do Dragão"
+        },
+        {
+          "template": 208550,
+          "required": 67200,
+          "owned": 0,
+          "sent": 67200,
+          "name": "Alma do Dragão Sagrado"
+        }
+      ],
+      "mails": [
+        1000761,
+        1000762
+      ],
+      "mailboxBytes": 41919,
+      "progressChanged": false
+    },
+    {
+      "username": "pirata_teste_2",
+      "userId": 1827,
+      "dragon": {
+        "version": 1,
+        "type": 101,
+        "grade": 0,
+        "xp": 0
+      },
+      "materials": [
+        {
+          "template": 208032,
+          "required": 8193,
+          "owned": 40,
+          "sent": 8153,
+          "name": "Alma do Dragão"
+        },
+        {
+          "template": 208550,
+          "required": 67200,
+          "owned": 0,
+          "sent": 67200,
+          "name": "Alma do Dragão Sagrado"
+        }
+      ],
+      "mails": [
+        1000763,
+        1000764
+      ],
+      "mailboxBytes": 44236,
+      "progressChanged": false
+    },
+    {
+      "username": "pirata_teste_3",
+      "userId": 1828,
+      "dragon": {
+        "version": 1,
+        "type": 101,
+        "grade": 0,
+        "xp": 0
+      },
+      "materials": [
+        {
+          "template": 208032,
+          "required": 8193,
+          "owned": 32,
+          "sent": 8161,
+          "name": "Alma do Dragão"
+        },
+        {
+          "template": 208550,
+          "required": 67200,
+          "owned": 0,
+          "sent": 67200,
+          "name": "Alma do Dragão Sagrado"
+        }
+      ],
+      "mails": [
+        1000765,
+        1000766
+      ],
+      "mailboxBytes": 44022,
+      "progressChanged": false
+    }
+  ]
+}

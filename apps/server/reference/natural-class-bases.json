@@ -1,0 +1,59 @@
+{
+  "revision": 1,
+  "baselineLevel": 10,
+  "source": "Local balancing, not a recovered online progression table. Primary conversions use the recovered client descriptions. Tutorial combat remains unchanged.",
+  "factor": "max(1, level - 10)",
+  "classes": {
+    "1": {
+      "name": "Guerreiro",
+      "primary": {
+        "power": 30,
+        "agility": 20,
+        "intellect": 5,
+        "physique": 30,
+        "captain": 200
+      },
+      "flat": {
+        "phy_attack": 7,
+        "magic_attack": 0,
+        "live": 190,
+        "force_hit": 10,
+        "parry": 10
+      }
+    },
+    "2": {
+      "name": "Arqueiro",
+      "primary": {
+        "power": 40,
+        "agility": 12,
+        "intellect": 5,
+        "physique": 20,
+        "captain": 200
+      },
+      "flat": {
+        "phy_attack": 7,
+        "magic_attack": 0,
+        "live": 190,
+        "force_hit": 100,
+        "parry": 10
+      }
+    },
+    "3": {
+      "name": "Mago",
+      "primary": {
+        "power": 5,
+        "agility": 15,
+        "intellect": 35,
+        "physique": 15,
+        "captain": 200
+      },
+      "flat": {
+        "phy_attack": 0,
+        "magic_attack": 7,
+        "live": 190,
+        "force_hit": 10,
+        "parry": 10
+      }
+    }
+  }
+}

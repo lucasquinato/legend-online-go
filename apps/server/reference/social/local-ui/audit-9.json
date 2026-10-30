@@ -1,0 +1,16 @@
+{
+  "sourceSha256": "e9271f2fb5a8dde618a31b69c26bde729d2fea9a0bf9a06d63668952743865e8",
+  "candidateSha256": "4c789acb95d92616b5908f56608fd4d25ebdc4227f13f21361520ee4ce00094f",
+  "classes": 215,
+  "unchangedTags": 210,
+  "allowedMethods": 27,
+  "otherMethodsPreserved": 178,
+  "emptyAbc": false,
+  "duplicates": false,
+  "protectedTagsByteIdentical": true,
+  "strippedCandidateSha256": "765d262ddc906e5e108f674300d0d102d13c62fecb2816c03b6875d030eb6aa1",
+  "addedClasses": [
+    "SocialMarriageBridge"
+  ],
+  "bridgeSha256": "e745b550da2399cb3d94235c62fb94dab57fb276d966e97c598fa047d1e22047"
+}

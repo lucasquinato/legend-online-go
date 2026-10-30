@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/cdn/icon//item_dragonsoul.png",
+    "status": 200,
+    "bytes": 9291,
+    "sha256": "727bff7a5f95017225b49ec4af6bcffa6f3562558e8f13c33f78fd7b6534e66d"
+  },
+  {
+    "path": "/cdn/icon//item_dragonsoul2.png",
+    "status": 200,
+    "bytes": 3951,
+    "sha256": "6a73fabf09427fe2df58fb30a249e976ac71d1a63ecb29f0c8d8e76bba738d15"
+  },
+  {
+    "path": "/cdn/icon//item_dragonsoul2_e7b3e5b7.png",
+    "status": 200,
+    "bytes": 3951,
+    "sha256": "6a73fabf09427fe2df58fb30a249e976ac71d1a63ecb29f0c8d8e76bba738d15"
+  }
+]

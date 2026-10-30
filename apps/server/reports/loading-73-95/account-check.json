@@ -1,0 +1,406 @@
+{
+  "at": "2026-10-16T03:10:56.190Z",
+  "identityUnchanged": true,
+  "accounts": [
+    {
+      "userId": 1826,
+      "changes": [
+        {
+          "path": ".state.player.gp",
+          "before": 20706638,
+          "after": 20721238
+        },
+        {
+          "path": ".state.player.totalGp",
+          "before": 1431696388,
+          "after": 1431710988
+        },
+        {
+          "path": ".state.hero.hp",
+          "before": 16406897,
+          "after": 16417186
+        },
+        {
+          "path": ".state.economy.gold_total_count",
+          "before": 544789030,
+          "after": 544807843
+        },
+        {
+          "path": ".state.army.map_id",
+          "before": 1,
+          "after": 8073
+        },
+        {
+          "path": ".state.army.cur_pos_x",
+          "before": 19,
+          "after": 64
+        },
+        {
+          "path": ".state.army.cur_pos_y",
+          "before": 62,
+          "after": 42
+        },
+        {
+          "path": ".state.army.simple_hero_info.hp",
+          "before": 16406897,
+          "after": 16417186
+        },
+        {
+          "path": ".state.army.wing",
+          "before": "/wing_blackstone",
+          "after": ""
+        },
+        {
+          "path": ".state.army.hat",
+          "before": "/fashion_hat_blackstone",
+          "after": ""
+        },
+        {
+          "path": ".state.army.fashion_arm",
+          "before": "/fashion_weapon_blackstone",
+          "after": ""
+        },
+        {
+          "path": ".state.army.fashion_cloth",
+          "before": "/fashion_cloth_blackstone",
+          "after": ""
+        },
+        {
+          "path": ".state.tower.total_gp",
+          "before": 525600,
+          "after": 540200
+        },
+        {
+          "path": ".won",
+          "before": "[object]",
+          "after": "[object]"
+        },
+        {
+          "path": ".map",
+          "before": 1,
+          "after": 8073
+        },
+        {
+          "path": ".fashion.fields.7",
+          "before": 0,
+          "after": 1
+        },
+        {
+          "path": ".fashion.fields.8",
+          "before": 0,
+          "after": 1
+        },
+        {
+          "path": ".fashion.fields.9",
+          "before": 0,
+          "after": 1
+        },
+        {
+          "path": ".fashion.fields.10",
+          "before": 0,
+          "after": 1
+        },
+        {
+          "path": ".settlement.goldAt",
+          "before": 1792120137676,
+          "after": 1792120228100
+        },
+        {
+          "path": ".settlement.goldCarry",
+          "before": 1876080,
+          "after": 843600
+        },
+        {
+          "path": ".labyrinth.cleared",
+          "before": "[object]",
+          "after": "[object]"
+        },
+        {
+          "path": ".labyrinth.totalGp",
+          "before": 525600,
+          "after": 540200
+        },
+        {
+          "path": ".messageReceipts.production.sequence",
+          "before": 1689991,
+          "after": 1690046
+        },
+        {
+          "path": ".messageReceipts.production.reportedAt",
+          "before": 1792120137515,
+          "after": 1792120227599
+        },
+        {
+          "path": ".battle.id",
+          "before": "86484158-fd4d-468c-b701-ac79dfc5b323",
+          "after": "f3ed3c16-e69d-4063-8672-11c60f4ee3e8"
+        },
+        {
+          "path": ".battle.reference",
+          "before": 295,
+          "after": 117
+        },
+        {
+          "path": ".battle.prepare.battle_id",
+          "before": "86484158-fd4d-468c-b701-ac79dfc5b323",
+          "after": "f3ed3c16-e69d-4063-8672-11c60f4ee3e8"
+        },
+        {
+          "path": ".battle.prepare.map_temp_id",
+          "before": 11411,
+          "after": 8073
+        },
+        {
+          "path": ".battle.prepare.soldiers",
+          "before": "[object]",
+          "after": "[object]"
+        },
+        {
+          "path": ".battle.prepare.heros",
+          "before": "[object]",
+          "after": "[object]"
+        },
+        {
+          "path": ".battle.fighters",
+          "before": "[object]",
+          "after": "[object]"
+        },
+        {
+          "path": ".battle.sp",
+          "before": 52,
+          "after": 83
+        },
+        {
+          "path": ".battle.cooldowns.30941",
+          "before": 1792118695330
+        },
+        {
+          "path": ".battle.cooldowns.30331",
+          "after": 1792120263771
+        }
+      ],
+      "levelBefore": 80,
+      "levelAfter": 80,
+      "itemsUnchanged": true,
+      "questsUnchanged": true
+    },
+    {
+      "userId": 1827,
+      "changes": [
+        {
+          "path": ".state.economy.gold_total_count",
+          "before": 1263911401,
+          "after": 1263915676
+        },
+        {
+          "path": ".settlement.goldAt",
+          "before": 1792120153900,
+          "after": 1792120232108
+        },
+        {
+          "path": ".settlement.goldCarry",
+          "before": 516300,
+          "after": 1850700
+        },
+        {
+          "path": ".messageReceipts.production.sequence",
+          "before": 1689993,
+          "after": 1690050
+        },
+        {
+          "path": ".messageReceipts.production.reportedAt",
+          "before": 1792120153899,
+          "after": 1792120232106
+        }
+      ],
+      "levelBefore": 19,
+      "levelAfter": 19,
+      "itemsUnchanged": true,
+      "questsUnchanged": true
+    },
+    {
+      "userId": 1828,
+      "changes": [
+        {
+          "path": ".state.player.fighting_capacity",
+          "before": 11290,
+          "after": 10014
+        },
+        {
+          "path": ".state.hero.total_power",
+          "before": 275,
+          "after": 277
+        },
+        {
+          "path": ".state.hero.total_intellect",
+          "before": 66,
+          "after": 50
+        },
+        {
+          "path": ".state.hero.total_captain",
+          "before": 1800,
+          "after": 1802
+        },
+        {
+          "path": ".state.hero.total_physique",
+          "before": 333,
+          "after": 275
+        },
+        {
+          "path": ".state.hero.total_phy_attack",
+          "before": 2226,
+          "after": 1609
+        },
+        {
+          "path": ".state.hero.total_phy_defence",
+          "before": 1604,
+          "after": 1606
+        },
+        {
+          "path": ".state.hero.total_magic_attack",
+          "before": 676,
+          "after": 510
+        },
+        {
+          "path": ".state.hero.total_magic_defence",
+          "before": 1128,
+          "after": 1120
+        },
+        {
+          "path": ".state.hero.total_force_hit",
+          "before": 288,
+          "after": 90
+        },
+        {
+          "path": ".state.hero.total_parry",
+          "before": 214,
+          "after": 90
+        },
+        {
+          "path": ".state.hero.total_conat_army",
+          "before": 1800,
+          "after": 1802
+        },
+        {
+          "path": ".state.hero.total_live",
+          "before": 17677,
+          "after": 16262
+        },
+        {
+          "path": ".state.hero.fighting_capacity",
+          "before": 11290,
+          "after": 10014
+        },
+        {
+          "path": ".state.economy.gold_total_count",
+          "before": 15037919,
+          "after": 15043474
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_power",
+          "before": 275,
+          "after": 277
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_intellect",
+          "before": 66,
+          "after": 50
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_captain",
+          "before": 1800,
+          "after": 1802
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_physique",
+          "before": 333,
+          "after": 275
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_phy_attack",
+          "before": 2226,
+          "after": 1609
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_phy_defence",
+          "before": 1604,
+          "after": 1606
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_magic_attack",
+          "before": 676,
+          "after": 510
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_magic_defence",
+          "before": 1128,
+          "after": 1120
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_force_hit",
+          "before": 288,
+          "after": 90
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_parry",
+          "before": 214,
+          "after": 90
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_conat_army",
+          "before": 1800,
+          "after": 1802
+        },
+        {
+          "path": ".state.army.simple_hero_info.total_live",
+          "before": 17677,
+          "after": 16262
+        },
+        {
+          "path": ".state.army.simple_hero_info.fighting_capacity",
+          "before": 11290,
+          "after": 10014
+        },
+        {
+          "path": ".state.army.fightingCapacity",
+          "before": 11290,
+          "after": 10014
+        },
+        {
+          "path": ".state.army.wing",
+          "before": "/wing_pope",
+          "after": ""
+        },
+        {
+          "path": ".state.army.hat",
+          "before": "/fashion_hat_pope",
+          "after": ""
+        },
+        {
+          "path": ".state.army.fashion_arm",
+          "before": "/fashion_weapon_pope",
+          "after": ""
+        },
+        {
+          "path": ".state.army.fashion_cloth",
+          "before": "/fashion_cloth_pope",
+          "after": ""
+        },
+        {
+          "path": ".state.items.4:1810:0.template_id",
+          "before": 1991091,
+          "after": 1011003
+        },
+        {
+          "path": ".state.items.4:1810:0.bind",
+          "before": 1,
+          "after": 0
+        }
+      ],
+      "levelBefore": 19,
+      "levelAfter": 19,
+      "itemsUnchanged": false,
+      "questsUnchanged": true
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "uid": 1826,
+    "nickname": "bendas",
+    "grade": 80,
+    "power": 30097442,
+    "equipment": 10,
+    "fashionLevel": 200,
+    "cosmos": 10
+  },
+  {
+    "uid": 1827,
+    "nickname": "achackrod",
+    "grade": 80,
+    "power": 30831272,
+    "equipment": 10,
+    "fashionLevel": 200,
+    "cosmos": 10
+  },
+  {
+    "uid": 1828,
+    "nickname": "bryaley",
+    "grade": 80,
+    "power": 31676445,
+    "equipment": 10,
+    "fashionLevel": 200,
+    "cosmos": 10
+  },
+  {
+    "uid": 1829,
+    "nickname": "bagchak",
+    "grade": 22,
+    "power": 23473,
+    "equipment": 2,
+    "fashionLevel": 6,
+    "cosmos": 2
+  },
+  {
+    "uid": 1830,
+    "nickname": "tezine",
+    "grade": 20,
+    "power": 15824,
+    "equipment": 2,
+    "fashionLevel": 6,
+    "cosmos": 1
+  },
+  {
+    "uid": 1831,
+    "nickname": "laufden",
+    "grade": 22,
+    "power": 27599,
+    "equipment": 2,
+    "fashionLevel": 6,
+    "cosmos": 2
+  }
+]

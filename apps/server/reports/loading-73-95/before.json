@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-16T03:09:18.686Z",
+  "backup": "data/backups/loading-header-2026-10-16T03-09-17.158Z",
+  "accounts": [
+    {
+      "id": 1826,
+      "username": "pirata_teste",
+      "saveSha256": "d9fb5c849c85be14e701518f9a5a30b8a700ea87696fdf86df3aaa0fba074978"
+    },
+    {
+      "id": 1827,
+      "username": "pirata_teste_2",
+      "saveSha256": "654f23bd1d5861734344ed5399a99792fa324b7eb00929b3f737e0d858b8eaed"
+    },
+    {
+      "id": 1828,
+      "username": "pirata_teste_3",
+      "saveSha256": "289696ae904e5ecb04ace6069b203ece6ea87b7872a8d5289c5a1b66c1d52442"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 4,
+    "calendar": {
+      "timeZone": "America/Sao_Paulo",
+      "resetHour": 4,
+      "day": "2026-10-20"
+    },
+    "boot": "312b807d-e312-422d-9e29-155c2a597b2a",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "sha256": "933b39516b6d7da0863f6c9cab4d729d0c37aa65c1da91a0a84d29d4af69f970",
+  "bytes": 330806,
+  "index": "<Item name=\"9.png\" md5=\"6192b715\" size=\"330806\" />"
+}

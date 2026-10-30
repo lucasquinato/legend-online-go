@@ -1,0 +1,28 @@
+{
+  "at": "2026-10-20T05:41:11.003Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 4,
+    "calendar": {
+      "timeZone": "America/Sao_Paulo",
+      "resetHour": 4,
+      "day": "2026-10-19"
+    },
+    "boot": "2e7c6fb1-9c6e-4c94-a8a9-d46366549a61",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "sha256": "1874761815ea1b6ce95f99e2c6bd51b3d82fb950b23c85e4ea1804a1084dff67",
+  "md5": "edd1ec80",
+  "bytes": 672205,
+  "nullSafe": true,
+  "baselineReproduces1009": true,
+  "functionalTests": 9,
+  "swfContractTests": 12
+}

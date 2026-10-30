@@ -1,0 +1,38 @@
+{
+  "name": "wartune-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "start": "tsx src/main.ts",
+    "build": "tsc -p tsconfig.json",
+    "start:dist": "node dist/main.js",
+    "account": "tsx src/account.ts",
+    "tutorial": "tsx src/tutorial-command.ts",
+    "city:import": "tsx src/import-city.ts",
+    "inventory:import": "tsx src/import-items.ts",
+    "fashion:import": "tsx src/features/fashion/import-progression.ts",
+    "city:account": "tsx src/city-command.ts",
+    "preserve": "tsx src/preserve.ts",
+    "preserve:tutorial": "tsx src/preserve-tutorial.ts",
+    "test": "node ../../tools/test-server.mjs",
+    "test:mount-ui": "node scripts/probe-mount-runtime.mjs reference/mounts/local-ui/local-14.swf --both",
+    "test:swf-contract": "node --test test/swf-contract.test.mjs",
+    "test:formation-ui": "node scripts/probe-mount-runtime.mjs reference/skills/formation-ui/local-5.swf --classes=armyII.SkillFrame,armyII.viewII.lineUp.LineUpView,armyII.viewII.lineUp.LineupLeftView,armyII.viewII.lineUp.LineUpFormationItem,armyII.viewII.lineUp.LineUpLeftItem,armyII.viewII.lineUp.ArmyLineUpItemView,armyII.viewII.allocate.AdjustPawnFrame",
+    "check": "tsc --noEmit -p tsconfig.json",
+    "format": "prettier --write src test *.json"
+  },
+  "dependencies": {
+    "fastify": "^5.12.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "prettier": "^3.9.10",
+    "tsx": "^4.0.0",
+    "typescript": "^5.9.0"
+  }
+}

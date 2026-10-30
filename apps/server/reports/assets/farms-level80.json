@@ -1,0 +1,26 @@
+{
+  "backupPath": "data/backups/farms-level80-2026-10-20T12-19-24-618Z.sqlite",
+  "accounts": [
+    {
+      "id": 1826,
+      "username": "pirata_teste",
+      "before": 11,
+      "after": 80,
+      "total_gp": 38135
+    },
+    {
+      "id": 1827,
+      "username": "pirata_teste_2",
+      "before": 7,
+      "after": 80,
+      "total_gp": 38135
+    },
+    {
+      "id": 1828,
+      "username": "pirata_teste_3",
+      "before": 6,
+      "after": 80,
+      "total_gp": 38135
+    }
+  ]
+}

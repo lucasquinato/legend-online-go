@@ -1,0 +1,127 @@
+[
+  {
+    "path": "/cdn/maps/4301/4301.maps",
+    "bytes": 1907,
+    "valid": true
+  },
+  {
+    "path": "/cdn/maps/4301/4301.titles",
+    "bytes": 5430,
+    "valid": true
+  },
+  {
+    "path": "/cdn/maps/4302/4302.maps",
+    "bytes": 1921,
+    "valid": true
+  },
+  {
+    "path": "/cdn/maps/4302/4302.titles",
+    "bytes": 4768,
+    "valid": true
+  },
+  {
+    "path": "/cdn/maps/4303/4303.maps",
+    "bytes": 1971,
+    "valid": true
+  },
+  {
+    "path": "/cdn/maps/4303/4303.titles",
+    "bytes": 4973,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/build/2301.swf",
+    "bytes": 95,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/build/2336.swf",
+    "bytes": 38991,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/build/3018.swf",
+    "bytes": 31251,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/build/3019.swf",
+    "bytes": 119934,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/build/8002.swf",
+    "bytes": 5944,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/build/8003.swf",
+    "bytes": 3792,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/build/8007.swf",
+    "bytes": 12014,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4301/tile_0_0.jpg",
+    "bytes": 9484,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4301/tile_0_1.jpg",
+    "bytes": 15482,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4301/tile_1_0.jpg",
+    "bytes": 14552,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4301/tile_1_1.jpg",
+    "bytes": 21922,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4302/tile_0_0.jpg",
+    "bytes": 12041,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4302/tile_0_1.jpg",
+    "bytes": 17601,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4302/tile_1_0.jpg",
+    "bytes": 17286,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4302/tile_1_1.jpg",
+    "bytes": 24666,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4303/tile_0_0.jpg",
+    "bytes": 12041,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4303/tile_0_1.jpg",
+    "bytes": 17601,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4303/tile_1_0.jpg",
+    "bytes": 17286,
+    "valid": true
+  },
+  {
+    "path": "/cdn/mapmaterial/land/4303/tile_1_1.jpg",
+    "bytes": 23851,
+    "valid": true
+  }
+]

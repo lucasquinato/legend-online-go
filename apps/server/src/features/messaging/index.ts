@@ -1,0 +1,10 @@
+export { MessageCenter } from "./controller.js";
+export { presentSystemMessage, systemMessagePolicy, passiveIncomeIntervalMs } from "./policy.js";
+export type { MessagePurpose } from "./policy.js";
+export { initialProductionCursor, pendingProductionSummary } from "./production.js";
+export type { MessageReceipts, ProductionMessageCursor } from "./production.js";
+export { RejectionFeedback, unavailableActionText, alreadyCompletedText } from "./rejections.js";
+export { systemMessageText } from "./text.js";
+export { acquisitionSnapshot, acquisitionGains, acquisitionText } from "./acquisitions.js";
+export type { AcquisitionSnapshot, AcquisitionGain } from "./acquisitions.js";
+export type { SystemMessage, SystemMessageKind, MessagePresentation, SelfMessageDelivery } from "./types.js";

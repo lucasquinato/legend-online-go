@@ -1,0 +1,269 @@
+{
+  "at": "2026-10-18T20:50:45.464Z",
+  "results": [
+    {
+      "path": "/cdn/ui/zh_cn/swf/residence.swf",
+      "status": 200,
+      "bytes": 589,
+      "sha256": "5e210954cd9cbaf3f4d8907d5be28e41f75b197e8a51b28eea897ef0dad2695f"
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/fairycommon.swf",
+      "status": 403,
+      "bytes": 90,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/animal/horse.swf",
+      "status": 403,
+      "bytes": 88,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/animal/cow.swf",
+      "status": 403,
+      "bytes": 86,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/animal/deer.swf",
+      "status": 403,
+      "bytes": 87,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/animal/sheep.swf",
+      "status": 403,
+      "bytes": 88,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/medal/grow.png",
+      "status": 200,
+      "bytes": 4349,
+      "sha256": "92877c92cbbaa8ef3a6f1f1d23e982e7c27660ef3042493a7591d2a825f97d97"
+    },
+    {
+      "path": "/cdn/icon/farm/medal/ripe.png",
+      "status": 200,
+      "bytes": 7046,
+      "sha256": "5f1f3f417c1de8c82fa7c674e9c3a755aea5e3603fbe5de8226c16c1a2de6f3b"
+    },
+    {
+      "path": "/cdn/icon/farm/pumpkin/grow.png",
+      "status": 200,
+      "bytes": 25967,
+      "sha256": "3657ef7f2aba81d39751d61654dd7285e79ee1392447c9306bd968d7ac98963e"
+    },
+    {
+      "path": "/cdn/icon/farm/christmas/grow.png",
+      "status": 200,
+      "bytes": 6636,
+      "sha256": "e97e79344e68f5ccad0917af146f66c9437a94d46080bf605c76a009aa29ee7f"
+    },
+    {
+      "path": "/cdn/icon/farm/pumpkin/ripe.png",
+      "status": 200,
+      "bytes": 30384,
+      "sha256": "0645e2e8ddb7718bb8fb6e6a45f709fc5dda7ff48945f469d2d445cdfc1d2805"
+    },
+    {
+      "path": "/cdn/icon/farm/christmas/ripe.png",
+      "status": 200,
+      "bytes": 9613,
+      "sha256": "95d99afdd8ade231d893c383625eb8dd573b1850764a83fa502a038259ab8be1"
+    },
+    {
+      "path": "/cdn/icon/farm/soul/grow.png",
+      "status": 200,
+      "bytes": 6270,
+      "sha256": "2b66441fa47bdc62f3340b56ca2d969db5e32844a002c595156a83258ca58d37"
+    },
+    {
+      "path": "/cdn/icon/farm/soul/ripe.png",
+      "status": 200,
+      "bytes": 7164,
+      "sha256": "c92ca0fd4e0052bb82de582458dfb29b69a64dd7c511ead07dc70873f5471a99"
+    },
+    {
+      "path": "/cdn/ui/zh_cn/swf/shop.swf",
+      "status": 200,
+      "bytes": 592675,
+      "sha256": "9c20b3d6c7ef0c92f1ad8084bef5f690158f6af1415d8b0199971f4842d8cdda"
+    },
+    {
+      "path": "/cdn/icon/farm/christmas2018/grow.png",
+      "status": 403,
+      "bytes": 94,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/christmas2018/ripe.png",
+      "status": 403,
+      "bytes": 94,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/gingerbreadman/grow.png",
+      "status": 403,
+      "bytes": 95,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/gingerbreadman/ripe.png",
+      "status": 403,
+      "bytes": 95,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/christmas2016/grow.png",
+      "status": 403,
+      "bytes": 94,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/crystal/grow.png",
+      "status": 200,
+      "bytes": 5130,
+      "sha256": "104cb084d442624d72de5befb409a65ebfabe74ef9083ca9eb4269389170be0d"
+    },
+    {
+      "path": "/cdn/icon/farm/crystal/ripe.png",
+      "status": 200,
+      "bytes": 7595,
+      "sha256": "0df00eb6e55869d490c5fbed21f5c7dc52c671bc55c860a18a25d8b3375f92de"
+    },
+    {
+      "path": "/cdn/icon/farm/football2018/grow.png",
+      "status": 403,
+      "bytes": 93,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/EXP/grow.png",
+      "status": 200,
+      "bytes": 6204,
+      "sha256": "6182bc90e9706d0ed4512f90d26fcd0829339b05bddfe198d8fecf731ce620f1"
+    },
+    {
+      "path": "/cdn/icon/farm/EXP/ripe.png",
+      "status": 200,
+      "bytes": 7227,
+      "sha256": "fb667241688379578dded3813233861be6a6cca9da56d37940ca697ec83fe87c"
+    },
+    {
+      "path": "/cdn/icon/farm/christmas2016/ripe.png",
+      "status": 403,
+      "bytes": 94,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/gift/grow.png",
+      "status": 200,
+      "bytes": 5756,
+      "sha256": "aec126148db85762d370da4fee33d40cff184a389e739be01f717d03032dc1f5"
+    },
+    {
+      "path": "/cdn/icon/farm/football2018/ripe.png",
+      "status": 403,
+      "bytes": 93,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/gift/ripe.png",
+      "status": 200,
+      "bytes": 6567,
+      "sha256": "5b1e27c5260fb83dafc8e3869f52fdf3e27c5ee096c3264b1e381f365f47d8d8"
+    },
+    {
+      "path": "/cdn/icon/farm/grass001/grow.png",
+      "status": 200,
+      "bytes": 5139,
+      "sha256": "241446a7df2bec6181bf031047465389d469f0858793d560eec5a50a57faef95"
+    },
+    {
+      "path": "/cdn/icon/farm/grass001/ripe.png",
+      "status": 200,
+      "bytes": 6809,
+      "sha256": "9b7f13292dc7b0051d5394238332ee6455178ae6134bf814f67f29f7a532a3af"
+    },
+    {
+      "path": "/cdn/icon/farm/grass002/grow.png",
+      "status": 200,
+      "bytes": 4860,
+      "sha256": "70c3def5cf0d0b62e4ee8c3b0232a170f617e99c5a61865f95c36a41b1665805"
+    },
+    {
+      "path": "/cdn/icon/farm/grass002/ripe.png",
+      "status": 200,
+      "bytes": 6131,
+      "sha256": "a5fef946ea59c5d0983f2b76e11cf2bc2926ba7c5cd7cf48b8eecd5d2b423bab"
+    },
+    {
+      "path": "/cdn/icon/farm/grass003/grow.png",
+      "status": 200,
+      "bytes": 4852,
+      "sha256": "5dad83d70563647562367a4a661ce010f5920150d8eb8cdc2b680d420403445a"
+    },
+    {
+      "path": "/cdn/icon/farm/grass003/ripe.png",
+      "status": 200,
+      "bytes": 6120,
+      "sha256": "2fcd4823fc97c5b456b5d0ecaf2306b412e3a49d325b659d96b259ae4bd69637"
+    },
+    {
+      "path": "/cdn/icon/farm/grass004/grow.png",
+      "status": 200,
+      "bytes": 5091,
+      "sha256": "2ce12a54fe43f12cf14fb75579d34ac154d4e98d9e97d2a61e46e31ff4944ed6"
+    },
+    {
+      "path": "/cdn/icon/farm/grass004/ripe.png",
+      "status": 200,
+      "bytes": 6605,
+      "sha256": "491c681fa96f460623709a11bbd693718b628f313051de12c7f339cca90a543b"
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruitred/ripe.png",
+      "status": 403,
+      "bytes": 92,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruitred/grow.png",
+      "status": 403,
+      "bytes": 92,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruityellow/grow.png",
+      "status": 403,
+      "bytes": 95,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruityellow/ripe.png",
+      "status": 403,
+      "bytes": 95,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/common/young.png",
+      "status": 200,
+      "bytes": 3889,
+      "sha256": "f736df0bfe0df30b50af3316d95a54bcbef7a903ecb4a3cb016eb32e60e1e774"
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruitblue/ripe.png",
+      "status": 403,
+      "bytes": 93,
+      "sha256": null
+    },
+    {
+      "path": "/cdn/icon/farm/skyfruitblue/grow.png",
+      "status": 403,
+      "bytes": 93,
+      "sha256": null
+    }
+  ]
+}

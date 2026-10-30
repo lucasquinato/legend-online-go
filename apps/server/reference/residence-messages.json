@@ -1,0 +1,16 @@
+{
+  "com.road.yishi.proto.children.FurnitureShopBuyMsg": {
+    "1": {
+      "name": "shopId",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "count",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "validatedOnCopy": true,
+  "before": {
+    "level": 32,
+    "map": 11311,
+    "energy": 100,
+    "run": {
+      "id": "4ee2f734-da10-40e7-948b-081ae903d0cd",
+      "campaignId": 11202,
+      "paid": true,
+      "rewarded": true,
+      "won": [],
+      "completed": false
+    }
+  },
+  "after": {
+    "level": 32,
+    "map": 11311,
+    "energy": 100,
+    "run": {
+      "id": "4ee2f734-da10-40e7-948b-081ae903d0cd",
+      "campaignId": 11202,
+      "paid": true,
+      "rewarded": true,
+      "won": [],
+      "completed": false
+    }
+  },
+  "scene": [
+    {
+      "opcode": 125,
+      "delayMs": 400,
+      "message": {
+        "created_type": 1,
+        "room": {
+          "campaignId": 11311
+        }
+      }
+    },
+    {
+      "opcode": 21,
+      "delayMs": 405,
+      "message": {
+        "result": 1,
+        "player": [
+          {
+            "current_room_index": 0,
+            "hero_id": 1826,
+            "player_id": 1826,
+            "grades": 32,
+            "nick_name": "bendas",
+            "template_id": 3,
+            "arm": "",
+            "cloth": "",
+            "army_id": 1826,
+            "fighting_capacity": 2198799,
+            "cur_pos_x": 18,
+            "cur_pos_y": 86,
+            "campaign_id": 11311,
+            "online_state": 1,
+            "consortia_id": 0,
+            "consortia_name": "",
+            "army_state": 0,
+            "head_id": 3,
+            "is_vip": 0,
+            "vip_type": 0,
+            "mount_tempId": 0,
+            "mount_grade": 0,
+            "wing": "/wing_thanksgiving2017",
+            "hat": "/fashion_hat_thanksgiving2017",
+            "fashion_arm": "/fashion_weapon_thanksgiving2017",
+            "fashion_cloth": "/fashion_cloth_thanksgiving2017",
+            "appellid": 87,
+            "fate_skills": "",
+            "pet_name": "",
+            "dragon_grade": "",
+            "child_job": 0,
+            "child_name": "",
+            "child_sex": 0,
+            "child_fightcap": 0,
+            "growth_grade": 0,
+            "$55": {
+              "wire": 2,
+              "value": "MTgyNg=="
+            },
+            "$58": {
+              "wire": 0,
+              "value": "18446744073709551615"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "opcode": 20,
+      "delayMs": 410,
+      "message": {
+        "heroTemplated": [
+          11161
+        ],
+        "soldierTemplated": [
+          12162,
+          12163,
+          12164
+        ]
+      }
+    },
+    {
+      "opcode": 4282,
+      "delayMs": 650,
+      "message": {
+        "param1": 1
+      }
+    }
+  ]
+}

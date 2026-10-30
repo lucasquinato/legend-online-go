@@ -1,0 +1,20 @@
+{
+  "at": "2026-10-16T02:55:58.667Z",
+  "username": "pirata_teste",
+  "userId": 1826,
+  "mails": [
+    1000345,
+    1000346,
+    1000347,
+    1000348
+  ],
+  "mailboxBytes": 2832,
+  "goldBags": 49995,
+  "goldPotential": 24997500000,
+  "dustItems": 599940,
+  "dustBalancePotential": 5999400,
+  "sacredXPForAllTen": 2930000,
+  "refinementGoldAllEight": 4848000000,
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\cosmos-advanced-mail-2026-10-16T02-55-55.824Z",
+  "progressChanged": false
+}

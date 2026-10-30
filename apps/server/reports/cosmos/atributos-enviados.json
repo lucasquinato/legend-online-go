@@ -1,0 +1,5908 @@
+{
+  "at": "2026-10-16T02:57:03.891Z",
+  "scope": "Somente a fonte cosmos; contas reais lidas sem alteração. Sagrados de qualidade 8 ativos a partir do nível 80.",
+  "attributeFields": {
+    "Power": "power",
+    "Agility": "agility",
+    "Intellect": "intellect",
+    "Physique": "physique",
+    "Captain": "captain",
+    "Attack": "phy_attack",
+    "Defence": "phy_defence",
+    "MagicAttack": "magic_attack",
+    "MagicDefence": "magic_defence",
+    "ForceHit": "force_hit",
+    "Parry": "parry",
+    "Live": "live",
+    "Conat": "conat_army",
+    "Penetrate": "penetrate",
+    "StunAttr": "stunAttr"
+  },
+  "astrologyPolicy": {
+    "evidence": "local-balance",
+    "nextStageChance": [
+      50,
+      40,
+      30,
+      20,
+      0
+    ],
+    "qualityWeights": [
+      {
+        "1": 55,
+        "2": 35,
+        "3": 10
+      },
+      {
+        "1": 40,
+        "2": 35,
+        "3": 20,
+        "4": 5
+      },
+      {
+        "1": 25,
+        "2": 30,
+        "3": 30,
+        "4": 13,
+        "5": 2
+      },
+      {
+        "2": 25,
+        "3": 40,
+        "4": 27,
+        "5": 7,
+        "7": 1
+      },
+      {
+        "3": 45,
+        "4": 35,
+        "5": 17,
+        "7": 3
+      }
+    ]
+  },
+  "records": [
+    {
+      "id": 1,
+      "name": "Perdição",
+      "profile": 1,
+      "family": 100,
+      "minimumLevel": 1,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Profecia",
+      "profile": 1,
+      "family": 100,
+      "minimumLevel": 1,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Nulidade",
+      "profile": 1,
+      "family": 100,
+      "minimumLevel": 1,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fonte de Energia",
+      "profile": 6,
+      "family": 100,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": false,
+      "status": "Material de XP",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Energia da Estrela",
+      "profile": 6,
+      "family": 100,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": false,
+      "status": "Material de XP",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Fortuna",
+      "profile": 3,
+      "family": 1,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_captain": 54
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_captain": 54,
+              "total_conat_army": 54,
+              "fighting_capacity": 54
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_captain": 54
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_captain": 540,
+              "total_conat_army": 540,
+              "fighting_capacity": 540
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Marca dos Deuses",
+      "profile": 4,
+      "family": 1,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_captain": 72
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_captain": 72,
+              "total_conat_army": 72,
+              "fighting_capacity": 72
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_captain": 72
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_captain": 720,
+              "total_conat_army": 720,
+              "fighting_capacity": 720
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Luz dos Deuses",
+      "profile": 5,
+      "family": 1,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_captain": 108
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_captain": 108,
+              "total_conat_army": 108,
+              "fighting_capacity": 108
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_captain": 108
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_captain": 1080,
+              "total_conat_army": 1080,
+              "fighting_capacity": 1080
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Divino · Leão",
+      "profile": 7,
+      "family": 1,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_captain": 144
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_captain": 144,
+              "total_conat_army": 144,
+              "fighting_capacity": 144
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_captain": 144
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_captain": 1440,
+              "total_conat_army": 1440,
+              "fighting_capacity": 1440
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Ruptura Militar",
+      "profile": 2,
+      "family": 2,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 216
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 216,
+              "fighting_capacity": 216
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 216
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 2160,
+              "fighting_capacity": 2160
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "name": "Espírito de Combate",
+      "profile": 3,
+      "family": 2,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 324
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 324,
+              "fighting_capacity": 324
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 324
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 3240,
+              "fighting_capacity": 3240
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "name": "Batalha do Imperador",
+      "profile": 4,
+      "family": 2,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 432
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 432,
+              "fighting_capacity": 432
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 432
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 4320,
+              "fighting_capacity": 4320
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "name": "Poder dos Titãs",
+      "profile": 5,
+      "family": 2,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 648
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 648,
+              "fighting_capacity": 648
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 648
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 6480,
+              "fighting_capacity": 6480
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "name": "Divino · Áries",
+      "profile": 7,
+      "family": 2,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 864
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 864,
+              "fighting_capacity": 864
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 864
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 8640,
+              "fighting_capacity": 8640
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "name": "Sagrado · Áries",
+      "profile": 8,
+      "family": 2,
+      "minimumLevel": 80,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Sagrado: nível 80",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 8640
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 8640,
+              "fighting_capacity": 8640
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 8640
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 86400,
+              "fighting_capacity": 86400
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Resiliente",
+      "profile": 2,
+      "family": 3,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 216
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 216,
+              "fighting_capacity": 216
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 216
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 2160,
+              "fighting_capacity": 2160
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "name": "Escudo Estrelar",
+      "profile": 3,
+      "family": 3,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 324
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 324,
+              "fighting_capacity": 324
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 324
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 3240,
+              "fighting_capacity": 3240
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "name": "Refúgio do Caos",
+      "profile": 4,
+      "family": 3,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 432
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 432,
+              "fighting_capacity": 432
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 432
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 4320,
+              "fighting_capacity": 4320
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "name": "Coração Sagrado",
+      "profile": 5,
+      "family": 3,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 648
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 648,
+              "fighting_capacity": 648
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 648
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 6480,
+              "fighting_capacity": 6480
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "name": "Divino · Touro",
+      "profile": 7,
+      "family": 3,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 864
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 864,
+              "fighting_capacity": 864
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 864
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 8640,
+              "fighting_capacity": 8640
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "name": "Sagrado · Touro",
+      "profile": 8,
+      "family": 3,
+      "minimumLevel": 80,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Sagrado: nível 80",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 8640
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 8640,
+              "fighting_capacity": 8640
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_defence": 8640
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_defence": 86400,
+              "fighting_capacity": 86400
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "name": "Espírito Trovão",
+      "profile": 2,
+      "family": 4,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 216
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 216,
+              "fighting_capacity": 226
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 216
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 2160,
+              "fighting_capacity": 2268
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "name": "Hades",
+      "profile": 3,
+      "family": 4,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 324
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 324,
+              "fighting_capacity": 340
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 324
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 3240,
+              "fighting_capacity": 3402
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "name": "Marca do Demônio",
+      "profile": 4,
+      "family": 4,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 432
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 432,
+              "fighting_capacity": 453
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 432
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 4320,
+              "fighting_capacity": 4536
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "name": "Espírito do Deus Trovão",
+      "profile": 5,
+      "family": 4,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 648
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 648,
+              "fighting_capacity": 680
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 648
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 6480,
+              "fighting_capacity": 6804
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "name": "Divino · Capricórnio",
+      "profile": 7,
+      "family": 4,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 864
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 864,
+              "fighting_capacity": 907
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 864
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 8640,
+              "fighting_capacity": 9072
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 408,
+      "name": "Sagrado · Capricórnio",
+      "profile": 8,
+      "family": 4,
+      "minimumLevel": 80,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Sagrado: nível 80",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 8640
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 8640,
+              "fighting_capacity": 9072
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 8640
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 86400,
+              "fighting_capacity": 90720
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 502,
+      "name": "Espírito de Proteção",
+      "profile": 2,
+      "family": 5,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 216
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 216,
+              "fighting_capacity": 216
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 216
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 2160,
+              "fighting_capacity": 2160
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "name": "Benção de Deus",
+      "profile": 3,
+      "family": 5,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 324
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 324,
+              "fighting_capacity": 324
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 324
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 3240,
+              "fighting_capacity": 3240
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "name": "Refúgio dos Elementos",
+      "profile": 4,
+      "family": 5,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 432
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 432,
+              "fighting_capacity": 432
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 432
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 4320,
+              "fighting_capacity": 4320
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 505,
+      "name": "Espírito da Natureza",
+      "profile": 5,
+      "family": 5,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 648
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 648,
+              "fighting_capacity": 648
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 648
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 6480,
+              "fighting_capacity": 6480
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "name": "Divino · Escorpião",
+      "profile": 7,
+      "family": 5,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 864
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 864,
+              "fighting_capacity": 864
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 864
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 8640,
+              "fighting_capacity": 8640
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "name": "Sagrado · Escorpião",
+      "profile": 8,
+      "family": 5,
+      "minimumLevel": 80,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Sagrado: nível 80",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 8640
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 8640,
+              "fighting_capacity": 8640
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_defence": 8640
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_defence": 86400,
+              "fighting_capacity": 86400
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 602,
+      "name": "Destruição",
+      "profile": 2,
+      "family": 6,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 216
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 216,
+              "fighting_capacity": 216
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 216
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 2160,
+              "fighting_capacity": 2160
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 603,
+      "name": "Ruptura Espiritual",
+      "profile": 3,
+      "family": 6,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 324
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 324,
+              "fighting_capacity": 324
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 324
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 3240,
+              "fighting_capacity": 3240
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 604,
+      "name": "Caminho do Furacão",
+      "profile": 4,
+      "family": 6,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 432
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 432,
+              "fighting_capacity": 432
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 432
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 4320,
+              "fighting_capacity": 4320
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 605,
+      "name": "Espírito Violento",
+      "profile": 5,
+      "family": 6,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 648
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 648,
+              "fighting_capacity": 648
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 648
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 6480,
+              "fighting_capacity": 6480
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 607,
+      "name": "Divino · Sagitário",
+      "profile": 7,
+      "family": 6,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 864
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 864,
+              "fighting_capacity": 864
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 864
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 8640,
+              "fighting_capacity": 8640
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 608,
+      "name": "Sagrado · Sagitário",
+      "profile": 8,
+      "family": 6,
+      "minimumLevel": 80,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Sagrado: nível 80",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 8640
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 8640,
+              "fighting_capacity": 8640
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 8640
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 86400,
+              "fighting_capacity": 86400
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "name": "Brilho de Sangue",
+      "profile": 2,
+      "family": 7,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 600
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 600,
+              "fighting_capacity": 120
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 600
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 6000,
+              "fighting_capacity": 1200
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 703,
+      "name": "Destino",
+      "profile": 3,
+      "family": 7,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 900
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 900,
+              "fighting_capacity": 180
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 900
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 9000,
+              "fighting_capacity": 1800
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 704,
+      "name": "Cristal da Vida",
+      "profile": 4,
+      "family": 7,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 1200
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 1200,
+              "fighting_capacity": 240
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 1200
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 12000,
+              "fighting_capacity": 2400
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 705,
+      "name": "Espírito dos Imortais",
+      "profile": 5,
+      "family": 7,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 1500
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 1500,
+              "fighting_capacity": 300
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 1500
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 15000,
+              "fighting_capacity": 3000
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 707,
+      "name": "Divino · Aquário",
+      "profile": 7,
+      "family": 7,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 2250
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 2250,
+              "fighting_capacity": 450
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 2250
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 22500,
+              "fighting_capacity": 4500
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 708,
+      "name": "Sagrado · Aquário",
+      "profile": 8,
+      "family": 7,
+      "minimumLevel": 80,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Sagrado: nível 80",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 22500
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 22500,
+              "fighting_capacity": 4500
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_live": 22500
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_live": 225000,
+              "fighting_capacity": 45000
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 804,
+      "name": "Benção Divina",
+      "profile": 4,
+      "family": 8,
+      "minimumLevel": 40,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 805,
+      "name": "Espírito de Shura",
+      "profile": 5,
+      "family": 8,
+      "minimumLevel": 40,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 904,
+      "name": "Deteminação de Destruição",
+      "profile": 4,
+      "family": 9,
+      "minimumLevel": 40,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 905,
+      "name": "Espírito do Deus Ares",
+      "profile": 5,
+      "family": 9,
+      "minimumLevel": 40,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "name": "Benção",
+      "profile": 3,
+      "family": 10,
+      "minimumLevel": 40,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "name": "Determinação Indomável",
+      "profile": 4,
+      "family": 10,
+      "minimumLevel": 40,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "name": "Toque da Deusa",
+      "profile": 5,
+      "family": 10,
+      "minimumLevel": 40,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1014,
+      "name": "Demônio Sanguinário",
+      "profile": 4,
+      "family": 10,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1014,
+                  "bufferId": 80701,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1014,
+                  "bufferId": 80701,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt",
+                "source": "cosmos",
+                "magnitude": 2
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1014,
+                  "bufferId": 80701,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1014,
+                  "bufferId": 80701,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt",
+                "source": "cosmos",
+                "magnitude": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1015,
+      "name": "Coração Corrompido",
+      "profile": 5,
+      "family": 10,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1015,
+                  "bufferId": 80702,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1015,
+                  "bufferId": 80702,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt",
+                "source": "cosmos",
+                "magnitude": 5
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1015,
+                  "bufferId": 80702,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1015,
+                  "bufferId": 80702,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt",
+                "source": "cosmos",
+                "magnitude": 50
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1104,
+      "name": "Escudo de Espinhos",
+      "profile": 4,
+      "family": 11,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1104,
+                  "bufferId": 80901,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1104,
+                  "bufferId": 80901,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived",
+                "source": "cosmos",
+                "magnitude": 2
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1104,
+                  "bufferId": 80901,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1104,
+                  "bufferId": 80901,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived",
+                "source": "cosmos",
+                "magnitude": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1105,
+      "name": "Espelho de Ilusão",
+      "profile": 5,
+      "family": 11,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1105,
+                  "bufferId": 80902,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1105,
+                  "bufferId": 80902,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived",
+                "source": "cosmos",
+                "magnitude": 5
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1105,
+                  "bufferId": 80902,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1105,
+                  "bufferId": 80902,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived",
+                "source": "cosmos",
+                "magnitude": 50
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1204,
+      "name": "Magia Arcana",
+      "profile": 4,
+      "family": 12,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1204,
+                  "bufferId": 81001,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 1,
+                "trigger": "onDamageReceived"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1204,
+                  "bufferId": 81001,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 1,
+                "trigger": "onDamageReceived",
+                "source": "cosmos",
+                "magnitude": 1,
+                "chance": 1
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1204,
+                  "bufferId": 81001,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 1,
+                "trigger": "onDamageReceived"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1204,
+                  "bufferId": 81001,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 1,
+                "trigger": "onDamageReceived",
+                "source": "cosmos",
+                "magnitude": 10,
+                "chance": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1205,
+      "name": "Olho da Morte",
+      "profile": 5,
+      "family": 12,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1205,
+                  "bufferId": 81002,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "trigger": "onDamageReceived"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1205,
+                  "bufferId": 81002,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "trigger": "onDamageReceived",
+                "source": "cosmos",
+                "magnitude": 2,
+                "chance": 2
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1205,
+                  "bufferId": 81002,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "trigger": "onDamageReceived"
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1205,
+                  "bufferId": 81002,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "trigger": "onDamageReceived",
+                "source": "cosmos",
+                "magnitude": 20,
+                "chance": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1304,
+      "name": "Benção Espiritual",
+      "profile": 4,
+      "family": 13,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1304,
+                  "bufferId": 81101,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -2
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1304,
+                  "bufferId": 81101,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -2,
+                "source": "cosmos",
+                "magnitude": 2
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1304,
+                  "bufferId": 81101,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -2
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1304,
+                  "bufferId": 81101,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -2,
+                "source": "cosmos",
+                "magnitude": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1305,
+      "name": "Sopro do Dragão",
+      "profile": 5,
+      "family": 13,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1305,
+                  "bufferId": 81102,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1305,
+                  "bufferId": 81102,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3,
+                "source": "cosmos",
+                "magnitude": 3
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1305,
+                  "bufferId": 81102,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1305,
+                  "bufferId": 81102,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3,
+                "source": "cosmos",
+                "magnitude": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1313,
+      "name": "Espírito Santo",
+      "profile": 3,
+      "family": 13,
+      "minimumLevel": 40,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1314,
+      "name": "Proteção de Pedra",
+      "profile": 4,
+      "family": 13,
+      "minimumLevel": 40,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1315,
+      "name": "Luz da Gaia",
+      "profile": 5,
+      "family": 13,
+      "minimumLevel": 40,
+      "visible": false,
+      "supported": false,
+      "equippable": false,
+      "status": "Temporariamente oculto",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1404,
+      "name": "Oráculo",
+      "profile": 4,
+      "family": 14,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1404,
+                  "bufferId": 81301,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1404,
+                  "bufferId": 81301,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3,
+                "source": "cosmos",
+                "magnitude": 3
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1404,
+                  "bufferId": 81301,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1404,
+                  "bufferId": 81301,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3,
+                "source": "cosmos",
+                "magnitude": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1405,
+      "name": "Espírito Nulo",
+      "profile": 5,
+      "family": 14,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1405,
+                  "bufferId": 81302,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -5
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1405,
+                  "bufferId": 81302,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -5,
+                "source": "cosmos",
+                "magnitude": 5
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1405,
+                  "bufferId": 81302,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -5
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1405,
+                  "bufferId": 81302,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -5,
+                "source": "cosmos",
+                "magnitude": 50
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1502,
+      "name": "Alma",
+      "profile": 2,
+      "family": 15,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 216
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 216,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 216
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 2160,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1503,
+      "name": "Tirano",
+      "profile": 3,
+      "family": 15,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 324
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 324,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 324
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 3240,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1504,
+      "name": "Domínio Imortal",
+      "profile": 4,
+      "family": 15,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 432
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 432,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 432
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 4320,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1505,
+      "name": "Asas do Guardião",
+      "profile": 5,
+      "family": 15,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 648
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 648,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 648
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 6480,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1507,
+      "name": "Divino · Libra",
+      "profile": 7,
+      "family": 15,
+      "minimumLevel": 1,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 864
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 864,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 864
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 8640,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1508,
+      "name": "Sagrado · Libra",
+      "profile": 8,
+      "family": 15,
+      "minimumLevel": 80,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Sagrado: nível 80",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 8640
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 8640,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_parry": 8640
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_parry": 86400,
+              "fighting_capacity": 0
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1604,
+      "name": "Morte Certa",
+      "profile": 4,
+      "family": 16,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1604,
+                  "bufferId": 81401,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 3
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1604,
+                  "bufferId": 81401,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 3,
+                "source": "cosmos",
+                "magnitude": 3
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1604,
+                  "bufferId": 81401,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 3
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1604,
+                  "bufferId": 81401,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 3,
+                "source": "cosmos",
+                "magnitude": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1605,
+      "name": "Luz da Sentença",
+      "profile": 5,
+      "family": 16,
+      "minimumLevel": 40,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Equipável",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1605,
+                  "bufferId": 81402,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1605,
+                  "bufferId": 81402,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "source": "cosmos",
+                "magnitude": 5
+              }
+            ]
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1605,
+                  "bufferId": 81402,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5
+              }
+            ]
+          },
+          "central": {
+            "attributes": {
+              "fighting_capacity": 0
+            },
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1605,
+                  "bufferId": 81402,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "source": "cosmos",
+                "magnitude": 50
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 1705,
+      "name": "Ataque Violento",
+      "profile": 5,
+      "family": 17,
+      "minimumLevel": 60,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Slot especial: nono (60 + missão 1802) ou décimo (80)",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 432,
+                  "total_penetrate": 432
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 432,
+              "total_penetrate": 432,
+              "fighting_capacity": 432
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 432,
+                  "total_penetrate": 432
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 4320,
+              "total_penetrate": 4320,
+              "fighting_capacity": 4320
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1707,
+      "name": "Deus·Gêmeos",
+      "profile": 7,
+      "family": 17,
+      "minimumLevel": 60,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Slot especial: nono (60 + missão 1802) ou décimo (80)",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 648,
+                  "total_penetrate": 648
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 648,
+              "total_penetrate": 648,
+              "fighting_capacity": 648
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 648,
+                  "total_penetrate": 648
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 6480,
+              "total_penetrate": 6480,
+              "fighting_capacity": 6480
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1708,
+      "name": "Sagrado · Gêmeos",
+      "profile": 8,
+      "family": 17,
+      "minimumLevel": 80,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Sagrado: nível 80",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 6480,
+                  "total_penetrate": 6480
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 6480,
+              "total_penetrate": 6480,
+              "fighting_capacity": 6480
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_phy_attack": 6480,
+                  "total_penetrate": 6480
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_phy_attack": 64800,
+              "total_penetrate": 64800,
+              "fighting_capacity": 64800
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1805,
+      "name": "Golpe Divino",
+      "profile": 5,
+      "family": 18,
+      "minimumLevel": 60,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Slot especial: nono (60 + missão 1802) ou décimo (80)",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 432,
+                  "total_penetrate": 432
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 432,
+              "total_penetrate": 432,
+              "fighting_capacity": 453
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 432,
+                  "total_penetrate": 432
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 4320,
+              "total_penetrate": 4320,
+              "fighting_capacity": 4536
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1807,
+      "name": "Deus·Peixes",
+      "profile": 7,
+      "family": 18,
+      "minimumLevel": 60,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Slot especial: nono (60 + missão 1802) ou décimo (80)",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 648,
+                  "total_penetrate": 648
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 648,
+              "total_penetrate": 648,
+              "fighting_capacity": 680
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 648,
+                  "total_penetrate": 648
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 6480,
+              "total_penetrate": 6480,
+              "fighting_capacity": 6804
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1808,
+      "name": "Sagrado · Peixes",
+      "profile": 8,
+      "family": 18,
+      "minimumLevel": 80,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Sagrado: nível 80",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 6480,
+                  "total_penetrate": 6480
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 6480,
+              "total_penetrate": 6480,
+              "fighting_capacity": 6804
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_magic_attack": 6480,
+                  "total_penetrate": 6480
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_magic_attack": 64800,
+              "total_penetrate": 64800,
+              "fighting_capacity": 68040
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1905,
+      "name": "Tiro Fatal",
+      "profile": 5,
+      "family": 19,
+      "minimumLevel": 60,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Slot especial: nono (60 + missão 1802) ou décimo (80)",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 432,
+                  "total_penetrate": 432
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 432,
+              "total_penetrate": 432,
+              "fighting_capacity": 432
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 432,
+                  "total_penetrate": 432
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 4320,
+              "total_penetrate": 4320,
+              "fighting_capacity": 4320
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1907,
+      "name": "Santo · Cancer",
+      "profile": 7,
+      "family": 19,
+      "minimumLevel": 60,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Slot especial: nono (60 + missão 1802) ou décimo (80)",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 648,
+                  "total_penetrate": 648
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 648,
+              "total_penetrate": 648,
+              "fighting_capacity": 648
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 648,
+                  "total_penetrate": 648
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 6480,
+              "total_penetrate": 6480,
+              "fighting_capacity": 6480
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 1908,
+      "name": "Sagrado · Câncer",
+      "profile": 8,
+      "family": 19,
+      "minimumLevel": 80,
+      "visible": true,
+      "supported": true,
+      "equippable": true,
+      "status": "Sagrado: nível 80",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 6480,
+                  "total_penetrate": 6480
+                },
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 6480,
+              "total_penetrate": 6480,
+              "fighting_capacity": 6480
+            },
+            "combatModifiers": []
+          }
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {
+                  "total_force_hit": 6480,
+                  "total_penetrate": 6480
+                },
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": []
+          },
+          "central": {
+            "attributes": {
+              "total_force_hit": 64800,
+              "total_penetrate": 64800,
+              "fighting_capacity": 64800
+            },
+            "combatModifiers": []
+          }
+        }
+      ]
+    }
+  ],
+  "accounts": [
+    {
+      "userId": 1826,
+      "initialized": true,
+      "equipped": [
+        {
+          "id": 6825,
+          "templateId": 607,
+          "bag": 2,
+          "pos": 1,
+          "level": 10,
+          "xp": 90,
+          "locked": false
+        },
+        {
+          "id": 7818,
+          "templateId": 407,
+          "bag": 2,
+          "pos": 0,
+          "level": 10,
+          "xp": 9200,
+          "locked": false
+        },
+        {
+          "id": 27023,
+          "templateId": 1507,
+          "bag": 2,
+          "pos": 2,
+          "level": 10,
+          "xp": 126260,
+          "locked": false
+        },
+        {
+          "id": 87699,
+          "templateId": 1907,
+          "bag": 2,
+          "pos": 9,
+          "level": 10,
+          "xp": 12000,
+          "locked": false
+        },
+        {
+          "id": 87700,
+          "templateId": 1605,
+          "bag": 2,
+          "pos": 7,
+          "level": 10,
+          "xp": 34670,
+          "locked": false
+        },
+        {
+          "id": 87701,
+          "templateId": 1205,
+          "bag": 2,
+          "pos": 4,
+          "level": 10,
+          "xp": 21590,
+          "locked": false
+        },
+        {
+          "id": 87702,
+          "templateId": 1405,
+          "bag": 2,
+          "pos": 6,
+          "level": 10,
+          "xp": 20870,
+          "locked": false
+        },
+        {
+          "id": 87703,
+          "templateId": 1305,
+          "bag": 2,
+          "pos": 5,
+          "level": 10,
+          "xp": 14340,
+          "locked": false
+        },
+        {
+          "id": 618331,
+          "templateId": 707,
+          "bag": 2,
+          "pos": 3,
+          "level": 10,
+          "xp": 20680,
+          "locked": false
+        },
+        {
+          "id": 1015551,
+          "templateId": 1807,
+          "bag": 2,
+          "pos": 8,
+          "level": 10,
+          "xp": 267920,
+          "locked": false
+        }
+      ],
+      "central": {
+        "attributes": {
+          "total_force_hit": 15120,
+          "total_magic_attack": 15120,
+          "total_parry": 8640,
+          "total_penetrate": 12960,
+          "total_live": 22500,
+          "fighting_capacity": 35496
+        },
+        "combatModifiers": [
+          {
+            "kind": "criticalDamageBonusPercent",
+            "origin": {
+              "instanceId": 87700,
+              "templateId": 1605,
+              "bufferId": 81402,
+              "slot": 7
+            },
+            "level": 10,
+            "refinement": 0,
+            "value": 0,
+            "percent": 5,
+            "source": "cosmos",
+            "magnitude": 50
+          },
+          {
+            "kind": "damageImmunityChance",
+            "origin": {
+              "instanceId": 87701,
+              "templateId": 1205,
+              "bufferId": 81002,
+              "slot": 4
+            },
+            "level": 10,
+            "refinement": 0,
+            "value": 0,
+            "percent": 2,
+            "trigger": "onDamageReceived",
+            "source": "cosmos",
+            "magnitude": 20,
+            "chance": 20
+          },
+          {
+            "kind": "criticalAvoidancePoints",
+            "origin": {
+              "instanceId": 87702,
+              "templateId": 1405,
+              "bufferId": 81302,
+              "slot": 6
+            },
+            "level": 10,
+            "refinement": 0,
+            "value": 0,
+            "percent": -5,
+            "source": "cosmos",
+            "magnitude": 50
+          },
+          {
+            "kind": "damageReductionPercent",
+            "origin": {
+              "instanceId": 87703,
+              "templateId": 1305,
+              "bufferId": 81102,
+              "slot": 5
+            },
+            "level": 10,
+            "refinement": 0,
+            "value": 0,
+            "percent": -3,
+            "source": "cosmos",
+            "magnitude": 30
+          }
+        ]
+      }
+    },
+    {
+      "userId": 1827,
+      "initialized": true,
+      "equipped": [],
+      "central": {
+        "attributes": {
+          "fighting_capacity": 0
+        },
+        "combatModifiers": []
+      }
+    },
+    {
+      "userId": 1828,
+      "initialized": true,
+      "equipped": [],
+      "central": {
+        "attributes": {
+          "fighting_capacity": 0
+        },
+        "combatModifiers": []
+      }
+    }
+  ]
+}

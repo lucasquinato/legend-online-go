@@ -1,0 +1,16 @@
+{
+  "com.road.yishi.proto.player.SynchronizedTimeMsg": {
+    "1": {
+      "name": "sys_curtime",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "2": {
+      "name": "sys_millisecond",
+      "type": "INT64",
+      "wire": 0,
+      "repeated": false
+    }
+  }
+}

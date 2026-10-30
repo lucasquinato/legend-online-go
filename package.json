@@ -1,0 +1,30 @@
+{
+  "name": "legend-online-go",
+  "version": "0.1.4",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "setup": "node tools/setup.mjs",
+    "reset": "node tools/reset.mjs",
+    "build": "npm --prefix apps/server run build",
+    "check": "npm --prefix apps/server run check",
+    "dev": "npm --prefix apps/server run dev",
+    "start": "npm --prefix apps/server run start:dist",
+    "test": "node tools/test-server.mjs",
+    "test:tooling": "node --test tools/test/*.test.mjs",
+    "test:client": "npm --prefix apps/server run test:swf-contract && npm --prefix apps/server run test:mount-ui",
+    "test:assets": "node --test apps/server/test/asset-fallback.test.mjs apps/server/test/external-gateway.test.mjs apps/server/test/mount-collector.test.mjs",
+    "build:launcher": "pwsh -NoProfile -File tools/build/launcher.ps1",
+    "assets:import": "node tools/assets/import.mjs",
+    "assets:export": "node tools/assets/export.mjs",
+    "release:client": "node tools/release/client.mjs",
+    "verify": "node tools/verify.mjs",
+    "artifacts:verify": "node tools/artifacts.mjs verify",
+    "verify:independence": "node tools/independence.mjs",
+    "backup:state": "node tools/preserve-state.mjs",
+    "release:launcher": "node tools/release/launcher.mjs"
+  }
+}

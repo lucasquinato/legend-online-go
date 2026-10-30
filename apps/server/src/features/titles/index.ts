@@ -1,0 +1,17 @@
+export { TitleCatalog, titleAttributeUnlock } from "./catalog.js";
+export { titleCatalog } from "./content.js";
+export { titleConditions, describeTitleRequirement } from "./requirements.js";
+export type { TitleDefinition, TitleRequirement, TitleEffectDefinition, TitleCatalogInput, TitleCatalogFilter, TitleConditionDefinition } from "./types.js";
+export { TitleStateError, initialTitleSave, initializeTitleSave, validateTitleSave, validateTitleProgress, recordTitleAcquisition, recordTitleProgress, titleOwned, selectedTitle, selectTitle, revokeTitle, recordTitleAttributeUnlock } from "./state.js";
+export type { TitleSave, TitleEntry, TitleOwnership, TitleProgress, TitleProgressValue, TitleOrigin } from "./state.js";
+export { TitleRequirementEvaluator, TitleEvaluationPending, defaultTitleRules, thresholdTitleRule, collectionTitleRule, compoundCounterTitleRule } from "./evaluation.js";
+export type { TitleFact, TitleFactReader, TitleEvaluationContext, TitleEvaluation, TitleEvaluationReason, TitleRule, TitleRuleResult } from "./evaluation.js";
+export { localTitleFactReader } from "./local-facts.js";
+export type { TitleLocalSnapshot } from "./local-facts.js";
+export { TitleReconciler, defaultTitleGrantPolicies } from "./reconciliation.js";
+export type { TitleGrantPolicy, TitleReconciliation, TitleReconciliationContext } from "./reconciliation.js";
+export { titleAttributeSources, synchronizeTitleAttributes, titleAttributesAvailable } from "./attributes.js";
+export type { TitleAttributeContext } from "./attributes.js";
+export { TitleProtocolError, titleSchemas, titleRequest, titleList, titleListPacket, titleIdentity, pendingTitleNotifications, pendingTitleRemovalText, titleObtainedPacket } from "./protocol.js";
+export { expireTitles, nextTitleDeadline, TitleMaintenance, TitleMaintenanceError, defaultTitleMaintenancePolicies } from "./lifecycle.js";
+export type { TitleLifecycleContext, TitleLifecycleResult, TitleMaintenancePolicy, TitleMaintenanceSnapshot } from "./lifecycle.js";

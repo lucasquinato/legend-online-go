@@ -1,0 +1,7 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {generateKeyPairSync} from 'node:crypto';
+import {seal,unseal,safePath,sha256,validateRelease} from '../release/protocol.mjs';
+const keys=generateKeyPairSync('rsa',{modulusLength:2048}),pub=keys.publicKey.export({format:'pem',type:'spki'});
+const data=()=>({schema:1,kind:'launcher',version:'0.1.0',files:[{path:'LegendOnline.exe',bytes:3,sha256:sha256(Buffer.from('abc'))}]});
+test('release signatures reject modified payloads and untrusted keys',()=>{const signed=seal(data(),keys.privateKey);assert.deepEqual(unseal(signed,pub),data());const edited={...signed,payload:Buffer.from(JSON.stringify({...data(),version:'9.9.9'})).toString('base64')};assert.throws(()=>unseal(edited,pub));const other=generateKeyPairSync('rsa',{modulusLength:2048});assert.throws(()=>unseal(signed,other.publicKey.export({format:'pem',type:'spki'})));});
+test('package paths reject traversal, absolute paths, alternate streams and Windows devices',()=>{for(const path of ['../a','a/../b','/a','C:/a','a\\b','a:stream','a//b','CON.txt','aux/x'])assert.equal(safePath(path),false,path);assert.ok(safePath('engine/META-INF/AIR/application.xml'));});
+test('release rejects duplicated paths and oversized files',()=>{const d=data();d.files.push({...d.files[0],path:'legendonline.exe'});assert.throws(()=>validateRelease(d));const bad=data();bad.files[0].bytes=300*1024**2;assert.throws(()=>validateRelease(bad));});

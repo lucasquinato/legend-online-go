@@ -1,0 +1,766 @@
+{
+  "com.road.yishi.proto.simple.DetailRspMsg": {
+    "1": {
+      "name": "other_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "server_name",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "3": {
+      "name": "item",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.simple.SimpleItemInfoMsg"
+    },
+    "4": {
+      "name": "army",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": false,
+      "message": "com.road.yishi.proto.simple.SimpleArmyMsg"
+    },
+    "5": {
+      "name": "star",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.simple.SimpleStarInfoMsg"
+    },
+    "6": {
+      "name": "starAdd",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.simple.SimpleStarAdditionMsg"
+    },
+    "7": {
+      "name": "hide_fashion",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "8": {
+      "name": "watch",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.simple.SimpleWatchMsg"
+    },
+    "9": {
+      "name": "cardInfos",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.simple.SimpleMagicCardInfoMsg"
+    },
+    "10": {
+      "name": "grade",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "11": {
+      "name": "fightCapacity",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.simple.SimpleArmyMsg": {
+    "1": {
+      "name": "army_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "player_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "nick_name",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "4": {
+      "name": "map_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "start_pos_x",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "6": {
+      "name": "start_pos_y",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "7": {
+      "name": "cur_pos_x",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "8": {
+      "name": "cur_pos_y",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "9": {
+      "name": "end_pos_x",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "10": {
+      "name": "end_pos_y",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "11": {
+      "name": "state",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "12": {
+      "name": "velocity",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "13": {
+      "name": "cost_time",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "14": {
+      "name": "departure",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "15": {
+      "name": "destination",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "16": {
+      "name": "command",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "17": {
+      "name": "routeKey",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": true
+    },
+    "18": {
+      "name": "type",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "19": {
+      "name": "armyPawn",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.simple.SimpleArmyPawnMsg"
+    },
+    "20": {
+      "name": "consortia_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "21": {
+      "name": "consortia_name",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "22": {
+      "name": "simple_hero",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": false,
+      "message": "com.road.yishi.proto.simple.SimpleHeroMsg"
+    },
+    "23": {
+      "name": "temp_time",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "24": {
+      "name": "is_vip",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "25": {
+      "name": "vip_type",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "26": {
+      "name": "store_grade",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "27": {
+      "name": "appellid",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "28": {
+      "name": "fateTotalGp",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "29": {
+      "name": "fateGrades",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "30": {
+      "name": "dragon_grade",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "31": {
+      "name": "transfer_grade",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "32": {
+      "name": "senior_store_grade",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "33": {
+      "name": "changeBranch",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "34": {
+      "name": "equipment_refining_grade",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.simple.SimpleHeroMsg": {
+    "1": {
+      "name": "hero_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "nick_name",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "3": {
+      "name": "tempate_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "player_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "total_power",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "6": {
+      "name": "total_agility",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "7": {
+      "name": "total_intellect",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "8": {
+      "name": "total_captain",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "9": {
+      "name": "total_physique",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "10": {
+      "name": "total_phy_attack",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "11": {
+      "name": "total_phy_defence",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "12": {
+      "name": "total_magic_attack",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "13": {
+      "name": "total_magic_defence",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "14": {
+      "name": "total_force_hit",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "15": {
+      "name": "total_parry",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "16": {
+      "name": "total_conat_army",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "17": {
+      "name": "total_live",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "18": {
+      "name": "remain_point",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "19": {
+      "name": "skill_point",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "20": {
+      "name": "skill_script",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "21": {
+      "name": "bag_join",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "22": {
+      "name": "consortia_join",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "23": {
+      "name": "fast_key",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "24": {
+      "name": "hp",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "25": {
+      "name": "blood",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "26": {
+      "name": "blood_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "27": {
+      "name": "base_power",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "28": {
+      "name": "base_agility",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "29": {
+      "name": "base_intellect",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "30": {
+      "name": "base_captain",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "31": {
+      "name": "base_physique",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "32": {
+      "name": "base_phy_attack",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "33": {
+      "name": "base_phy_defence",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "34": {
+      "name": "base_magic_attack",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "35": {
+      "name": "base_magic_defence",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "36": {
+      "name": "base_force_hit",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "37": {
+      "name": "base_parry",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "38": {
+      "name": "base_conat_army",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "39": {
+      "name": "base_live",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "40": {
+      "name": "power_point",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "41": {
+      "name": "agility_point",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "42": {
+      "name": "intellect_point",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "43": {
+      "name": "captain_point",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "44": {
+      "name": "physique_point",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "45": {
+      "name": "skill_index",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "46": {
+      "name": "is_activeSecond",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "47": {
+      "name": "head_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "48": {
+      "name": "total_geste",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "49": {
+      "name": "total_charm",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "50": {
+      "name": "fireResi",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "51": {
+      "name": "waterResi",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "52": {
+      "name": "electResi",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "53": {
+      "name": "windResi",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "54": {
+      "name": "darkResi",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "55": {
+      "name": "lightResi",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "56": {
+      "name": "reduce_resi",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "57": {
+      "name": "total_strength",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "58": {
+      "name": "base_strength",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "59": {
+      "name": "total_tenacity",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "60": {
+      "name": "base_tenacity",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "61": {
+      "name": "fashion_add_power",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "62": {
+      "name": "fashion_add_armor",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "63": {
+      "name": "fashion_add_intellect",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "64": {
+      "name": "fashion_add_life",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "65": {
+      "name": "total_penetrate",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "66": {
+      "name": "base_penetrate",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "67": {
+      "name": "ring_grade",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "68": {
+      "name": "nick_nameB",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "69": {
+      "name": "total_stunAttr",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "70": {
+      "name": "base_stunAttr",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "71": {
+      "name": "fashion_wing",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "72": {
+      "name": "fashion_hat",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "73": {
+      "name": "fashion_cloth",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "74": {
+      "name": "fashion_arm",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "75": {
+      "name": "fashion_gp",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "76": {
+      "name": "fashion_grades",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "77": {
+      "name": "total_reduce_resi_against",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "78": {
+      "name": "base_reduce_resi_against",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "79": {
+      "name": "total_resi_penetrate",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "80": {
+      "name": "base_resi_penetrate",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    }
+  }
+}

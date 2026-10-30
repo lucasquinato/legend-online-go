@@ -1,0 +1,1673 @@
+{
+  "at": "2026-10-14T19:57:56.506Z",
+  "accounts": [
+    {
+      "id": 1826,
+      "username": "pirata_teste",
+      "name": "bendas",
+      "level": 80,
+      "job": 3,
+      "calculationVersion": 2,
+      "migrationAt": "2026-10-14T19:31:37.343Z",
+      "initialFury": 130,
+      "startingFury": 100,
+      "cache": {
+        "key": "campaign:4f1e3a0a-27e4-41e1-b982-1875012efd20",
+        "value": 52
+      },
+      "panel": {
+        "total_power": 227067,
+        "total_agility": 229225,
+        "total_intellect": 241625,
+        "total_captain": 14002,
+        "total_physique": 227627,
+        "total_phy_attack": 1101195,
+        "total_phy_defence": 1358780,
+        "total_magic_attack": 1324788,
+        "total_magic_defence": 1624795,
+        "total_force_hit": 700,
+        "total_parry": 700,
+        "total_conat_army": 15538,
+        "total_live": 6001091,
+        "base_power": 350,
+        "base_agility": 1050,
+        "base_intellect": 2450,
+        "base_captain": 14000,
+        "base_physique": 1050,
+        "base_phy_attack": 1400,
+        "base_phy_defence": 4550,
+        "base_magic_attack": 11833,
+        "base_magic_defence": 7980,
+        "base_force_hit": 700,
+        "base_parry": 700,
+        "base_conat_army": 14000,
+        "base_live": 34300,
+        "fighting_capacity": 6692253,
+        "fireResi": 0,
+        "waterResi": 0,
+        "electResi": 0,
+        "windResi": 0,
+        "darkResi": 0,
+        "lightResi": 0,
+        "reduce_resi": 0,
+        "total_strength": 0,
+        "base_strength": 0,
+        "total_tenacity": 0,
+        "base_tenacity": 0,
+        "total_penetrate": 0,
+        "base_penetrate": 0,
+        "total_stunAttr": 0,
+        "base_stunAttr": 0
+      },
+      "calculated": {
+        "base_power": 350,
+        "total_power": 227067,
+        "base_agility": 1050,
+        "total_agility": 229225,
+        "base_intellect": 2450,
+        "total_intellect": 241625,
+        "base_physique": 1050,
+        "total_physique": 227627,
+        "base_captain": 14000,
+        "total_captain": 14002,
+        "base_phy_attack": 1400,
+        "total_phy_attack": 1101195,
+        "base_magic_attack": 11833,
+        "total_magic_attack": 1324788,
+        "base_live": 34300,
+        "total_live": 6001091,
+        "base_force_hit": 700,
+        "total_force_hit": 700,
+        "base_parry": 700,
+        "total_parry": 700,
+        "base_phy_defence": 4550,
+        "total_phy_defence": 1358780,
+        "base_magic_defence": 7980,
+        "total_magic_defence": 1624795,
+        "base_conat_army": 14000,
+        "total_conat_army": 15538,
+        "base_strength": 0,
+        "total_strength": 0,
+        "base_tenacity": 0,
+        "total_tenacity": 0,
+        "base_penetrate": 0,
+        "total_penetrate": 0,
+        "base_stunAttr": 0,
+        "total_stunAttr": 0,
+        "fireResi": 0,
+        "waterResi": 0,
+        "electResi": 0,
+        "windResi": 0,
+        "darkResi": 0,
+        "lightResi": 0,
+        "reduce_resi": 0,
+        "fighting_capacity": 6692253
+      },
+      "sources": {
+        "natural": {
+          "raw": {
+            "kind": "natural",
+            "evidence": "local-balance",
+            "values": {
+              "base_power": 350,
+              "total_power": 350,
+              "base_agility": 1050,
+              "total_agility": 1050,
+              "base_intellect": 2450,
+              "total_intellect": 2450,
+              "base_physique": 1050,
+              "total_physique": 1050,
+              "base_captain": 14000,
+              "total_captain": 14000,
+              "base_phy_attack": 0,
+              "total_phy_attack": 0,
+              "base_magic_attack": 490,
+              "total_magic_attack": 490,
+              "base_live": 13300,
+              "total_live": 13300,
+              "base_force_hit": 700,
+              "total_force_hit": 700,
+              "base_parry": 700,
+              "total_parry": 700,
+              "base_phy_defence": 0,
+              "total_phy_defence": 0,
+              "base_magic_defence": 0,
+              "total_magic_defence": 0,
+              "base_conat_army": 0,
+              "total_conat_army": 0,
+              "base_strength": 0,
+              "total_strength": 0,
+              "base_tenacity": 0,
+              "total_tenacity": 0,
+              "base_penetrate": 0,
+              "total_penetrate": 0,
+              "base_stunAttr": 0,
+              "total_stunAttr": 0,
+              "fireResi": 0,
+              "waterResi": 0,
+              "electResi": 0,
+              "windResi": 0,
+              "darkResi": 0,
+              "lightResi": 0,
+              "reduce_resi": 0,
+              "total_initial_fury": 0
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "base_power": 350,
+            "total_power": 350,
+            "base_agility": 1050,
+            "total_agility": 1050,
+            "base_intellect": 2450,
+            "total_intellect": 2450,
+            "base_physique": 1050,
+            "total_physique": 1050,
+            "base_captain": 14000,
+            "total_captain": 14000,
+            "base_phy_attack": 0,
+            "total_phy_attack": 0,
+            "base_magic_attack": 490,
+            "total_magic_attack": 490,
+            "base_live": 13300,
+            "total_live": 13300,
+            "base_force_hit": 700,
+            "total_force_hit": 700,
+            "base_parry": 700,
+            "total_parry": 700,
+            "base_phy_defence": 0,
+            "total_phy_defence": 0,
+            "base_magic_defence": 0,
+            "total_magic_defence": 0,
+            "base_conat_army": 0,
+            "total_conat_army": 0,
+            "base_strength": 0,
+            "total_strength": 0,
+            "base_tenacity": 0,
+            "total_tenacity": 0,
+            "base_penetrate": 0,
+            "total_penetrate": 0,
+            "base_stunAttr": 0,
+            "total_stunAttr": 0,
+            "fireResi": 0,
+            "waterResi": 0,
+            "electResi": 0,
+            "windResi": 0,
+            "darkResi": 0,
+            "lightResi": 0,
+            "reduce_resi": 0,
+            "total_initial_fury": 0
+          },
+          "expanded": {
+            "base_power": 350,
+            "total_power": 350,
+            "base_agility": 1050,
+            "total_agility": 1050,
+            "base_intellect": 2450,
+            "total_intellect": 2450,
+            "base_physique": 1050,
+            "total_physique": 1050,
+            "base_captain": 14000,
+            "total_captain": 14000,
+            "base_phy_attack": 1400,
+            "total_phy_attack": 1400,
+            "base_magic_attack": 10290,
+            "total_magic_attack": 10290,
+            "base_live": 34300,
+            "total_live": 34300,
+            "base_force_hit": 700,
+            "total_force_hit": 700,
+            "base_parry": 700,
+            "total_parry": 700,
+            "base_phy_defence": 4550,
+            "total_phy_defence": 4550,
+            "base_magic_defence": 6650,
+            "total_magic_defence": 6650,
+            "base_conat_army": 14000,
+            "total_conat_army": 14000,
+            "base_strength": 0,
+            "total_strength": 0,
+            "base_tenacity": 0,
+            "total_tenacity": 0,
+            "base_penetrate": 0,
+            "total_penetrate": 0,
+            "base_stunAttr": 0,
+            "total_stunAttr": 0,
+            "fireResi": 0,
+            "waterResi": 0,
+            "electResi": 0,
+            "windResi": 0,
+            "darkResi": 0,
+            "lightResi": 0,
+            "reduce_resi": 0,
+            "total_initial_fury": 0
+          }
+        },
+        "fashion:progression": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {
+              "total_phy_attack": 4200,
+              "total_magic_attack": 4200,
+              "total_phy_defence": 4200,
+              "total_magic_defence": 4200,
+              "total_live": 42000,
+              "total_initial_fury": 110
+            },
+            "percentages": {
+              "total_phy_attack": 10,
+              "total_magic_attack": 10,
+              "total_phy_defence": 10,
+              "total_magic_defence": 10,
+              "total_live": 10
+            }
+          },
+          "resolved": {
+            "total_phy_attack": 4200,
+            "total_magic_attack": 4200,
+            "total_phy_defence": 4200,
+            "total_magic_defence": 4200,
+            "total_live": 42000,
+            "total_initial_fury": 110
+          },
+          "expanded": {
+            "total_phy_attack": 4200,
+            "total_magic_attack": 4200,
+            "total_phy_defence": 4200,
+            "total_magic_defence": 4200,
+            "total_live": 42000,
+            "total_initial_fury": 110
+          }
+        },
+        "fashion:appraisal": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {
+              "total_physique": 32970,
+              "total_intellect": 33760,
+              "total_power": 33040,
+              "total_agility": 33770
+            }
+          },
+          "resolved": {
+            "total_physique": 32970,
+            "total_intellect": 33760,
+            "total_power": 33040,
+            "total_agility": 33770
+          },
+          "expanded": {
+            "total_physique": 32970,
+            "total_intellect": 33760,
+            "total_power": 33040,
+            "total_agility": 33770,
+            "total_phy_attack": 132160,
+            "total_phy_defence": 168120,
+            "total_magic_defence": 168840,
+            "total_magic_attack": 135040,
+            "total_live": 659400
+          }
+        },
+        "fashion:refinement": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {
+              "total_initial_fury": 20
+            },
+            "scaling": [
+              {
+                "values": {
+                  "total_phy_attack": 4200,
+                  "total_magic_attack": 4200
+                },
+                "percent": 2000
+              },
+              {
+                "values": {
+                  "total_phy_defence": 4200,
+                  "total_magic_defence": 4200
+                },
+                "percent": 2000
+              },
+              {
+                "values": {
+                  "total_live": 42000
+                },
+                "percent": 2000
+              },
+              {
+                "values": {
+                  "total_physique": 32970
+                },
+                "percent": 100
+              },
+              {
+                "values": {
+                  "total_intellect": 33760
+                },
+                "percent": 100
+              },
+              {
+                "values": {
+                  "total_power": 33040
+                },
+                "percent": 100
+              },
+              {
+                "values": {
+                  "total_agility": 33770
+                },
+                "percent": 100
+              }
+            ]
+          },
+          "resolved": {
+            "total_initial_fury": 20,
+            "total_phy_attack": 84000,
+            "total_magic_attack": 84000,
+            "total_phy_defence": 84000,
+            "total_magic_defence": 84000,
+            "total_live": 840000,
+            "total_physique": 32970,
+            "total_intellect": 33760,
+            "total_power": 33040,
+            "total_agility": 33770
+          },
+          "expanded": {
+            "total_initial_fury": 20,
+            "total_phy_attack": 216160,
+            "total_magic_attack": 219040,
+            "total_phy_defence": 252120,
+            "total_magic_defence": 252840,
+            "total_live": 1499400,
+            "total_physique": 32970,
+            "total_intellect": 33760,
+            "total_power": 33040,
+            "total_agility": 33770
+          }
+        },
+        "sanctuary": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "values": {
+              "total_phy_attack": 4608,
+              "total_magic_attack": 4608,
+              "total_phy_defence": 3072,
+              "total_magic_defence": 3072,
+              "total_live": 7680,
+              "total_conat_army": 1536
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "total_phy_attack": 4608,
+            "total_magic_attack": 4608,
+            "total_phy_defence": 3072,
+            "total_magic_defence": 3072,
+            "total_live": 7680,
+            "total_conat_army": 1536
+          },
+          "expanded": {
+            "total_phy_attack": 4608,
+            "total_magic_attack": 4608,
+            "total_phy_defence": 3072,
+            "total_magic_defence": 3072,
+            "total_live": 7680,
+            "total_conat_army": 1536
+          }
+        },
+        "skills:basic": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "values": {},
+            "percentages": {
+              "base_phy_attack": 0,
+              "total_phy_attack": 0,
+              "base_phy_defence": 0,
+              "total_phy_defence": 0,
+              "base_magic_attack": 15,
+              "total_magic_attack": 15,
+              "base_magic_defence": 20,
+              "total_magic_defence": 20,
+              "base_live": 0,
+              "total_live": 0,
+              "base_force_hit": 0,
+              "total_force_hit": 0,
+              "base_power": 0,
+              "total_power": 0,
+              "base_agility": 0,
+              "total_agility": 0,
+              "base_intellect": 0,
+              "total_intellect": 0,
+              "base_physique": 0,
+              "total_physique": 0,
+              "base_captain": 0,
+              "total_captain": 0
+            },
+            "derivePrimary": true
+          },
+          "resolved": {},
+          "expanded": {}
+        },
+        "mounts": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {
+              "total_power": 160635,
+              "total_intellect": 171655,
+              "total_physique": 160635,
+              "total_agility": 160635
+            },
+            "scaling": [
+              {
+                "values": {
+                  "total_power": 160635
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              },
+              {
+                "values": {
+                  "total_intellect": 171655
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              },
+              {
+                "values": {
+                  "total_physique": 160635
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              },
+              {
+                "values": {
+                  "total_agility": 160635
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              }
+            ]
+          },
+          "resolved": {
+            "total_power": 160635,
+            "total_intellect": 171655,
+            "total_physique": 160635,
+            "total_agility": 160635
+          },
+          "expanded": {
+            "total_power": 160635,
+            "total_intellect": 171655,
+            "total_physique": 160635,
+            "total_agility": 160635,
+            "total_phy_attack": 642540,
+            "total_phy_defence": 803175,
+            "total_magic_defence": 814195,
+            "total_magic_attack": 686620,
+            "total_live": 3212700
+          }
+        },
+        "equipment:initial:1088507": {
+          "raw": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {
+              "total_magic_attack": 33,
+              "total_power": 2,
+              "total_magic_defence": 9,
+              "total_captain": 2
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "total_magic_attack": 33,
+            "total_power": 2,
+            "total_magic_defence": 9,
+            "total_captain": 2
+          },
+          "expanded": {
+            "total_magic_attack": 33,
+            "total_power": 2,
+            "total_magic_defence": 9,
+            "total_captain": 2,
+            "total_phy_attack": 8,
+            "total_phy_defence": 2,
+            "total_conat_army": 2
+          }
+        },
+        "equipment:initial:1088508": {
+          "raw": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {
+              "total_phy_defence": 16,
+              "total_magic_defence": 37,
+              "total_phy_attack": 11,
+              "total_live": 18,
+              "total_physique": 2
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "total_phy_defence": 16,
+            "total_magic_defence": 37,
+            "total_phy_attack": 11,
+            "total_live": 18,
+            "total_physique": 2
+          },
+          "expanded": {
+            "total_phy_defence": 16,
+            "total_magic_defence": 37,
+            "total_phy_attack": 11,
+            "total_live": 58,
+            "total_physique": 2
+          }
+        }
+      },
+      "activeNegativeCount": 0,
+      "archivedNegativeCount": 2
+    },
+    {
+      "id": 1827,
+      "username": "pirata_teste_2",
+      "name": "achackrod",
+      "level": 18,
+      "job": 2,
+      "calculationVersion": 2,
+      "migrationAt": "2026-10-14T19:31:38.752Z",
+      "initialFury": 0,
+      "startingFury": 0,
+      "cache": {
+        "key": "labyrinth:8001:a9a70c39-fed0-47c1-bf11-cf838fefd52b",
+        "value": 26
+      },
+      "panel": {
+        "total_power": 327,
+        "total_agility": 101,
+        "total_intellect": 45,
+        "total_captain": 1602,
+        "total_physique": 167,
+        "total_phy_attack": 4200,
+        "total_phy_defence": 2485,
+        "total_magic_attack": 2196,
+        "total_magic_defence": 2212,
+        "total_force_hit": 960,
+        "total_parry": 80,
+        "total_conat_army": 2466,
+        "total_live": 11037,
+        "base_power": 320,
+        "base_agility": 96,
+        "base_intellect": 40,
+        "base_captain": 1600,
+        "base_physique": 160,
+        "base_phy_attack": 1402,
+        "base_phy_defence": 704,
+        "base_magic_attack": 160,
+        "base_magic_defence": 424,
+        "base_force_hit": 960,
+        "base_parry": 80,
+        "base_conat_army": 1600,
+        "base_live": 5664,
+        "fighting_capacity": 16835,
+        "fireResi": 0,
+        "waterResi": 0,
+        "electResi": 0,
+        "windResi": 0,
+        "darkResi": 0,
+        "lightResi": 0,
+        "reduce_resi": 0,
+        "total_strength": 0,
+        "base_strength": 0,
+        "total_tenacity": 0,
+        "base_tenacity": 0,
+        "total_penetrate": 0,
+        "base_penetrate": 0,
+        "total_stunAttr": 0,
+        "base_stunAttr": 0
+      },
+      "calculated": {
+        "base_power": 320,
+        "total_power": 327,
+        "base_agility": 96,
+        "total_agility": 101,
+        "base_intellect": 40,
+        "total_intellect": 45,
+        "base_physique": 160,
+        "total_physique": 167,
+        "base_captain": 1600,
+        "total_captain": 1602,
+        "base_phy_attack": 1402,
+        "total_phy_attack": 4200,
+        "base_magic_attack": 160,
+        "total_magic_attack": 2196,
+        "base_live": 5664,
+        "total_live": 11037,
+        "base_force_hit": 960,
+        "total_force_hit": 960,
+        "base_parry": 80,
+        "total_parry": 80,
+        "base_phy_defence": 704,
+        "total_phy_defence": 2485,
+        "base_magic_defence": 424,
+        "total_magic_defence": 2212,
+        "base_conat_army": 1600,
+        "total_conat_army": 2466,
+        "base_strength": 0,
+        "total_strength": 0,
+        "base_tenacity": 0,
+        "total_tenacity": 0,
+        "base_penetrate": 0,
+        "total_penetrate": 0,
+        "base_stunAttr": 0,
+        "total_stunAttr": 0,
+        "fireResi": 0,
+        "waterResi": 0,
+        "electResi": 0,
+        "windResi": 0,
+        "darkResi": 0,
+        "lightResi": 0,
+        "reduce_resi": 0,
+        "fighting_capacity": 16835
+      },
+      "sources": {
+        "natural": {
+          "raw": {
+            "kind": "natural",
+            "evidence": "local-balance",
+            "values": {
+              "base_power": 320,
+              "total_power": 320,
+              "base_agility": 96,
+              "total_agility": 96,
+              "base_intellect": 40,
+              "total_intellect": 40,
+              "base_physique": 160,
+              "total_physique": 160,
+              "base_captain": 1600,
+              "total_captain": 1600,
+              "base_phy_attack": 56,
+              "total_phy_attack": 56,
+              "base_magic_attack": 0,
+              "total_magic_attack": 0,
+              "base_live": 1520,
+              "total_live": 1520,
+              "base_force_hit": 800,
+              "total_force_hit": 800,
+              "base_parry": 80,
+              "total_parry": 80,
+              "base_phy_defence": 0,
+              "total_phy_defence": 0,
+              "base_magic_defence": 0,
+              "total_magic_defence": 0,
+              "base_conat_army": 0,
+              "total_conat_army": 0,
+              "base_strength": 0,
+              "total_strength": 0,
+              "base_tenacity": 0,
+              "total_tenacity": 0,
+              "base_penetrate": 0,
+              "total_penetrate": 0,
+              "base_stunAttr": 0,
+              "total_stunAttr": 0,
+              "fireResi": 0,
+              "waterResi": 0,
+              "electResi": 0,
+              "windResi": 0,
+              "darkResi": 0,
+              "lightResi": 0,
+              "reduce_resi": 0,
+              "total_initial_fury": 0
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "base_power": 320,
+            "total_power": 320,
+            "base_agility": 96,
+            "total_agility": 96,
+            "base_intellect": 40,
+            "total_intellect": 40,
+            "base_physique": 160,
+            "total_physique": 160,
+            "base_captain": 1600,
+            "total_captain": 1600,
+            "base_phy_attack": 56,
+            "total_phy_attack": 56,
+            "base_magic_attack": 0,
+            "total_magic_attack": 0,
+            "base_live": 1520,
+            "total_live": 1520,
+            "base_force_hit": 800,
+            "total_force_hit": 800,
+            "base_parry": 80,
+            "total_parry": 80,
+            "base_phy_defence": 0,
+            "total_phy_defence": 0,
+            "base_magic_defence": 0,
+            "total_magic_defence": 0,
+            "base_conat_army": 0,
+            "total_conat_army": 0,
+            "base_strength": 0,
+            "total_strength": 0,
+            "base_tenacity": 0,
+            "total_tenacity": 0,
+            "base_penetrate": 0,
+            "total_penetrate": 0,
+            "base_stunAttr": 0,
+            "total_stunAttr": 0,
+            "fireResi": 0,
+            "waterResi": 0,
+            "electResi": 0,
+            "windResi": 0,
+            "darkResi": 0,
+            "lightResi": 0,
+            "reduce_resi": 0,
+            "total_initial_fury": 0
+          },
+          "expanded": {
+            "base_power": 320,
+            "total_power": 320,
+            "base_agility": 96,
+            "total_agility": 96,
+            "base_intellect": 40,
+            "total_intellect": 40,
+            "base_physique": 160,
+            "total_physique": 160,
+            "base_captain": 1600,
+            "total_captain": 1600,
+            "base_phy_attack": 1336,
+            "total_phy_attack": 1336,
+            "base_magic_attack": 160,
+            "total_magic_attack": 160,
+            "base_live": 4720,
+            "total_live": 4720,
+            "base_force_hit": 800,
+            "total_force_hit": 800,
+            "base_parry": 80,
+            "total_parry": 80,
+            "base_phy_defence": 704,
+            "total_phy_defence": 704,
+            "base_magic_defence": 424,
+            "total_magic_defence": 424,
+            "base_conat_army": 1600,
+            "total_conat_army": 1600,
+            "base_strength": 0,
+            "total_strength": 0,
+            "base_tenacity": 0,
+            "total_tenacity": 0,
+            "base_penetrate": 0,
+            "total_penetrate": 0,
+            "base_stunAttr": 0,
+            "total_stunAttr": 0,
+            "fireResi": 0,
+            "waterResi": 0,
+            "electResi": 0,
+            "windResi": 0,
+            "darkResi": 0,
+            "lightResi": 0,
+            "reduce_resi": 0,
+            "total_initial_fury": 0
+          }
+        },
+        "fashion:progression": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {
+              "total_initial_fury": 0
+            },
+            "percentages": {}
+          },
+          "resolved": {
+            "total_initial_fury": 0
+          },
+          "expanded": {
+            "total_initial_fury": 0
+          }
+        },
+        "fashion:appraisal": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {}
+          },
+          "resolved": {},
+          "expanded": {}
+        },
+        "fashion:refinement": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {
+              "total_initial_fury": 0
+            },
+            "scaling": [
+              {
+                "values": {
+                  "total_phy_attack": 0,
+                  "total_magic_attack": 0
+                },
+                "percent": 0
+              },
+              {
+                "values": {
+                  "total_phy_defence": 0,
+                  "total_magic_defence": 0
+                },
+                "percent": 0
+              },
+              {
+                "values": {
+                  "total_live": 0
+                },
+                "percent": 0
+              },
+              {
+                "values": {},
+                "percent": 0
+              },
+              {
+                "values": {},
+                "percent": 0
+              },
+              {
+                "values": {},
+                "percent": 0
+              },
+              {
+                "values": {},
+                "percent": 0
+              }
+            ]
+          },
+          "resolved": {
+            "total_initial_fury": 0,
+            "total_phy_attack": 0,
+            "total_magic_attack": 0,
+            "total_phy_defence": 0,
+            "total_magic_defence": 0,
+            "total_live": 0
+          },
+          "expanded": {
+            "total_initial_fury": 0,
+            "total_phy_attack": 0,
+            "total_magic_attack": 0,
+            "total_phy_defence": 0,
+            "total_magic_defence": 0,
+            "total_live": 0
+          }
+        },
+        "sanctuary": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "values": {
+              "total_phy_attack": 2592,
+              "total_magic_attack": 2016,
+              "total_phy_defence": 1728,
+              "total_magic_defence": 1728,
+              "total_live": 4320,
+              "total_conat_army": 864
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "total_phy_attack": 2592,
+            "total_magic_attack": 2016,
+            "total_phy_defence": 1728,
+            "total_magic_defence": 1728,
+            "total_live": 4320,
+            "total_conat_army": 864
+          },
+          "expanded": {
+            "total_phy_attack": 2592,
+            "total_magic_attack": 2016,
+            "total_phy_defence": 1728,
+            "total_magic_defence": 1728,
+            "total_live": 4320,
+            "total_conat_army": 864
+          }
+        },
+        "skills:basic": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "values": {},
+            "percentages": {
+              "base_phy_attack": 5,
+              "total_phy_attack": 5,
+              "base_phy_defence": 0,
+              "total_phy_defence": 0,
+              "base_magic_attack": 0,
+              "total_magic_attack": 0,
+              "base_magic_defence": 0,
+              "total_magic_defence": 0,
+              "base_live": 20,
+              "total_live": 20,
+              "base_force_hit": 20,
+              "total_force_hit": 20,
+              "base_power": 0,
+              "total_power": 0,
+              "base_agility": 0,
+              "total_agility": 0,
+              "base_intellect": 0,
+              "total_intellect": 0,
+              "base_physique": 0,
+              "total_physique": 0,
+              "base_captain": 0,
+              "total_captain": 0
+            },
+            "derivePrimary": true
+          },
+          "resolved": {},
+          "expanded": {}
+        },
+        "mounts": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {
+              "total_power": 5,
+              "total_intellect": 5,
+              "total_physique": 5,
+              "total_agility": 5
+            },
+            "scaling": [
+              {
+                "values": {
+                  "total_power": 5
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              },
+              {
+                "values": {
+                  "total_intellect": 5
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              },
+              {
+                "values": {
+                  "total_physique": 5
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              },
+              {
+                "values": {
+                  "total_agility": 5
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              }
+            ]
+          },
+          "resolved": {
+            "total_power": 5,
+            "total_intellect": 5,
+            "total_physique": 5,
+            "total_agility": 5
+          },
+          "expanded": {
+            "total_power": 5,
+            "total_intellect": 5,
+            "total_physique": 5,
+            "total_agility": 5,
+            "total_phy_attack": 20,
+            "total_phy_defence": 25,
+            "total_magic_defence": 25,
+            "total_magic_attack": 20,
+            "total_live": 100
+          }
+        },
+        "equipment:initial:1088507": {
+          "raw": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {
+              "total_phy_attack": 33,
+              "total_power": 2,
+              "total_magic_defence": 9,
+              "total_captain": 2
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "total_phy_attack": 33,
+            "total_power": 2,
+            "total_magic_defence": 9,
+            "total_captain": 2
+          },
+          "expanded": {
+            "total_phy_attack": 41,
+            "total_power": 2,
+            "total_magic_defence": 9,
+            "total_captain": 2,
+            "total_phy_defence": 2,
+            "total_conat_army": 2
+          }
+        },
+        "equipment:initial:1088508": {
+          "raw": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {
+              "total_phy_defence": 26,
+              "total_magic_defence": 26,
+              "total_phy_attack": 11,
+              "total_live": 18,
+              "total_physique": 2
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "total_phy_defence": 26,
+            "total_magic_defence": 26,
+            "total_phy_attack": 11,
+            "total_live": 18,
+            "total_physique": 2
+          },
+          "expanded": {
+            "total_phy_defence": 26,
+            "total_magic_defence": 26,
+            "total_phy_attack": 11,
+            "total_live": 58,
+            "total_physique": 2
+          }
+        }
+      },
+      "activeNegativeCount": 0,
+      "archivedNegativeCount": 0
+    },
+    {
+      "id": 1828,
+      "username": "pirata_teste_3",
+      "name": "bryaley",
+      "level": 18,
+      "job": 1,
+      "calculationVersion": 2,
+      "migrationAt": "2026-10-14T19:31:35.061Z",
+      "initialFury": 6,
+      "startingFury": 6,
+      "panel": {
+        "total_power": 247,
+        "total_agility": 165,
+        "total_intellect": 45,
+        "total_captain": 1602,
+        "total_physique": 247,
+        "total_phy_attack": 1485,
+        "total_phy_defence": 1517,
+        "total_magic_attack": 489,
+        "total_magic_defence": 1050,
+        "total_force_hit": 80,
+        "total_parry": 80,
+        "total_conat_army": 1602,
+        "total_live": 15369,
+        "base_power": 240,
+        "base_agility": 160,
+        "base_intellect": 40,
+        "base_captain": 1600,
+        "base_physique": 240,
+        "base_phy_attack": 1066,
+        "base_phy_defence": 1056,
+        "base_magic_attack": 160,
+        "base_magic_defence": 680,
+        "base_force_hit": 80,
+        "base_parry": 80,
+        "base_conat_army": 1600,
+        "base_live": 7584,
+        "fighting_capacity": 9320,
+        "fireResi": 0,
+        "waterResi": 0,
+        "electResi": 0,
+        "windResi": 0,
+        "darkResi": 0,
+        "lightResi": 0,
+        "reduce_resi": 0,
+        "total_strength": 0,
+        "base_strength": 0,
+        "total_tenacity": 0,
+        "base_tenacity": 0,
+        "total_penetrate": 0,
+        "base_penetrate": 0,
+        "total_stunAttr": 0,
+        "base_stunAttr": 0
+      },
+      "calculated": {
+        "base_power": 240,
+        "total_power": 247,
+        "base_agility": 160,
+        "total_agility": 165,
+        "base_intellect": 40,
+        "total_intellect": 45,
+        "base_physique": 240,
+        "total_physique": 247,
+        "base_captain": 1600,
+        "total_captain": 1602,
+        "base_phy_attack": 1066,
+        "total_phy_attack": 1485,
+        "base_magic_attack": 160,
+        "total_magic_attack": 489,
+        "base_live": 7584,
+        "total_live": 15369,
+        "base_force_hit": 80,
+        "total_force_hit": 80,
+        "base_parry": 80,
+        "total_parry": 80,
+        "base_phy_defence": 1056,
+        "total_phy_defence": 1517,
+        "base_magic_defence": 680,
+        "total_magic_defence": 1050,
+        "base_conat_army": 1600,
+        "total_conat_army": 1602,
+        "base_strength": 0,
+        "total_strength": 0,
+        "base_tenacity": 0,
+        "total_tenacity": 0,
+        "base_penetrate": 0,
+        "total_penetrate": 0,
+        "base_stunAttr": 0,
+        "total_stunAttr": 0,
+        "fireResi": 0,
+        "waterResi": 0,
+        "electResi": 0,
+        "windResi": 0,
+        "darkResi": 0,
+        "lightResi": 0,
+        "reduce_resi": 0,
+        "fighting_capacity": 9320
+      },
+      "sources": {
+        "natural": {
+          "raw": {
+            "kind": "natural",
+            "evidence": "local-balance",
+            "values": {
+              "base_power": 240,
+              "total_power": 240,
+              "base_agility": 160,
+              "total_agility": 160,
+              "base_intellect": 40,
+              "total_intellect": 40,
+              "base_physique": 240,
+              "total_physique": 240,
+              "base_captain": 1600,
+              "total_captain": 1600,
+              "base_phy_attack": 56,
+              "total_phy_attack": 56,
+              "base_magic_attack": 0,
+              "total_magic_attack": 0,
+              "base_live": 1520,
+              "total_live": 1520,
+              "base_force_hit": 80,
+              "total_force_hit": 80,
+              "base_parry": 80,
+              "total_parry": 80,
+              "base_phy_defence": 0,
+              "total_phy_defence": 0,
+              "base_magic_defence": 0,
+              "total_magic_defence": 0,
+              "base_conat_army": 0,
+              "total_conat_army": 0,
+              "base_strength": 0,
+              "total_strength": 0,
+              "base_tenacity": 0,
+              "total_tenacity": 0,
+              "base_penetrate": 0,
+              "total_penetrate": 0,
+              "base_stunAttr": 0,
+              "total_stunAttr": 0,
+              "fireResi": 0,
+              "waterResi": 0,
+              "electResi": 0,
+              "windResi": 0,
+              "darkResi": 0,
+              "lightResi": 0,
+              "reduce_resi": 0,
+              "total_initial_fury": 0
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "base_power": 240,
+            "total_power": 240,
+            "base_agility": 160,
+            "total_agility": 160,
+            "base_intellect": 40,
+            "total_intellect": 40,
+            "base_physique": 240,
+            "total_physique": 240,
+            "base_captain": 1600,
+            "total_captain": 1600,
+            "base_phy_attack": 56,
+            "total_phy_attack": 56,
+            "base_magic_attack": 0,
+            "total_magic_attack": 0,
+            "base_live": 1520,
+            "total_live": 1520,
+            "base_force_hit": 80,
+            "total_force_hit": 80,
+            "base_parry": 80,
+            "total_parry": 80,
+            "base_phy_defence": 0,
+            "total_phy_defence": 0,
+            "base_magic_defence": 0,
+            "total_magic_defence": 0,
+            "base_conat_army": 0,
+            "total_conat_army": 0,
+            "base_strength": 0,
+            "total_strength": 0,
+            "base_tenacity": 0,
+            "total_tenacity": 0,
+            "base_penetrate": 0,
+            "total_penetrate": 0,
+            "base_stunAttr": 0,
+            "total_stunAttr": 0,
+            "fireResi": 0,
+            "waterResi": 0,
+            "electResi": 0,
+            "windResi": 0,
+            "darkResi": 0,
+            "lightResi": 0,
+            "reduce_resi": 0,
+            "total_initial_fury": 0
+          },
+          "expanded": {
+            "base_power": 240,
+            "total_power": 240,
+            "base_agility": 160,
+            "total_agility": 160,
+            "base_intellect": 40,
+            "total_intellect": 40,
+            "base_physique": 240,
+            "total_physique": 240,
+            "base_captain": 1600,
+            "total_captain": 1600,
+            "base_phy_attack": 1016,
+            "total_phy_attack": 1016,
+            "base_magic_attack": 160,
+            "total_magic_attack": 160,
+            "base_live": 6320,
+            "total_live": 6320,
+            "base_force_hit": 80,
+            "total_force_hit": 80,
+            "base_parry": 80,
+            "total_parry": 80,
+            "base_phy_defence": 880,
+            "total_phy_defence": 880,
+            "base_magic_defence": 680,
+            "total_magic_defence": 680,
+            "base_conat_army": 1600,
+            "total_conat_army": 1600,
+            "base_strength": 0,
+            "total_strength": 0,
+            "base_tenacity": 0,
+            "total_tenacity": 0,
+            "base_penetrate": 0,
+            "total_penetrate": 0,
+            "base_stunAttr": 0,
+            "total_stunAttr": 0,
+            "fireResi": 0,
+            "waterResi": 0,
+            "electResi": 0,
+            "windResi": 0,
+            "darkResi": 0,
+            "lightResi": 0,
+            "reduce_resi": 0,
+            "total_initial_fury": 0
+          }
+        },
+        "fashion:progression": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {
+              "total_phy_attack": 300,
+              "total_magic_attack": 300,
+              "total_phy_defence": 300,
+              "total_magic_defence": 300,
+              "total_live": 3000,
+              "total_initial_fury": 6
+            },
+            "percentages": {
+              "total_phy_attack": 2,
+              "total_magic_attack": 2,
+              "total_phy_defence": 2,
+              "total_magic_defence": 2,
+              "total_live": 2
+            }
+          },
+          "resolved": {
+            "total_phy_attack": 300,
+            "total_magic_attack": 300,
+            "total_phy_defence": 300,
+            "total_magic_defence": 300,
+            "total_live": 3000,
+            "total_initial_fury": 6
+          },
+          "expanded": {
+            "total_phy_attack": 300,
+            "total_magic_attack": 300,
+            "total_phy_defence": 300,
+            "total_magic_defence": 300,
+            "total_live": 3000,
+            "total_initial_fury": 6
+          }
+        },
+        "fashion:appraisal": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {}
+          },
+          "resolved": {},
+          "expanded": {}
+        },
+        "fashion:refinement": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {
+              "total_initial_fury": 0
+            },
+            "scaling": [
+              {
+                "values": {
+                  "total_phy_attack": 300,
+                  "total_magic_attack": 300
+                },
+                "percent": 0
+              },
+              {
+                "values": {
+                  "total_phy_defence": 300,
+                  "total_magic_defence": 300
+                },
+                "percent": 0
+              },
+              {
+                "values": {
+                  "total_live": 3000
+                },
+                "percent": 0
+              },
+              {
+                "values": {},
+                "percent": 0
+              },
+              {
+                "values": {},
+                "percent": 0
+              },
+              {
+                "values": {},
+                "percent": 0
+              },
+              {
+                "values": {},
+                "percent": 0
+              }
+            ]
+          },
+          "resolved": {
+            "total_initial_fury": 0,
+            "total_phy_attack": 0,
+            "total_magic_attack": 0,
+            "total_phy_defence": 0,
+            "total_magic_defence": 0,
+            "total_live": 0
+          },
+          "expanded": {
+            "total_initial_fury": 0,
+            "total_phy_attack": 0,
+            "total_magic_attack": 0,
+            "total_phy_defence": 0,
+            "total_magic_defence": 0,
+            "total_live": 0
+          }
+        },
+        "sanctuary": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "values": {
+              "total_phy_attack": 0,
+              "total_magic_attack": 0,
+              "total_phy_defence": 0,
+              "total_magic_defence": 0,
+              "total_live": 3120,
+              "total_conat_army": 0
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "total_phy_attack": 0,
+            "total_magic_attack": 0,
+            "total_phy_defence": 0,
+            "total_magic_defence": 0,
+            "total_live": 3120,
+            "total_conat_army": 0
+          },
+          "expanded": {
+            "total_phy_attack": 0,
+            "total_magic_attack": 0,
+            "total_phy_defence": 0,
+            "total_magic_defence": 0,
+            "total_live": 3120,
+            "total_conat_army": 0
+          }
+        },
+        "skills:basic": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "values": {},
+            "percentages": {
+              "base_phy_attack": 5,
+              "total_phy_attack": 5,
+              "base_phy_defence": 20,
+              "total_phy_defence": 20,
+              "base_magic_attack": 0,
+              "total_magic_attack": 0,
+              "base_magic_defence": 0,
+              "total_magic_defence": 0,
+              "base_live": 20,
+              "total_live": 20,
+              "base_force_hit": 0,
+              "total_force_hit": 0,
+              "base_power": 0,
+              "total_power": 0,
+              "base_agility": 0,
+              "total_agility": 0,
+              "base_intellect": 0,
+              "total_intellect": 0,
+              "base_physique": 0,
+              "total_physique": 0,
+              "base_captain": 0,
+              "total_captain": 0
+            },
+            "derivePrimary": true
+          },
+          "resolved": {},
+          "expanded": {}
+        },
+        "mounts": {
+          "raw": {
+            "kind": "permanent",
+            "evidence": "recovered-table",
+            "derivePrimary": true,
+            "values": {
+              "total_power": 5,
+              "total_intellect": 5,
+              "total_physique": 5,
+              "total_agility": 5
+            },
+            "scaling": [
+              {
+                "values": {
+                  "total_power": 5
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              },
+              {
+                "values": {
+                  "total_intellect": 5
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              },
+              {
+                "values": {
+                  "total_physique": 5
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              },
+              {
+                "values": {
+                  "total_agility": 5
+                },
+                "percent": 24,
+                "cap": 100000,
+                "finalPercent": 0,
+                "rounding": "ceil"
+              }
+            ]
+          },
+          "resolved": {
+            "total_power": 5,
+            "total_intellect": 5,
+            "total_physique": 5,
+            "total_agility": 5
+          },
+          "expanded": {
+            "total_power": 5,
+            "total_intellect": 5,
+            "total_physique": 5,
+            "total_agility": 5,
+            "total_phy_attack": 20,
+            "total_phy_defence": 25,
+            "total_magic_defence": 25,
+            "total_magic_attack": 20,
+            "total_live": 100
+          }
+        },
+        "equipment:initial:1088507": {
+          "raw": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {
+              "total_phy_attack": 33,
+              "total_power": 2,
+              "total_magic_defence": 9,
+              "total_captain": 2
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "total_phy_attack": 33,
+            "total_power": 2,
+            "total_magic_defence": 9,
+            "total_captain": 2
+          },
+          "expanded": {
+            "total_phy_attack": 41,
+            "total_power": 2,
+            "total_magic_defence": 9,
+            "total_captain": 2,
+            "total_phy_defence": 2,
+            "total_conat_army": 2
+          }
+        },
+        "equipment:initial:1088508": {
+          "raw": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {
+              "total_phy_defence": 37,
+              "total_magic_defence": 16,
+              "total_phy_attack": 11,
+              "total_live": 18,
+              "total_physique": 2
+            },
+            "derivePrimary": true
+          },
+          "resolved": {
+            "total_phy_defence": 37,
+            "total_magic_defence": 16,
+            "total_phy_attack": 11,
+            "total_live": 18,
+            "total_physique": 2
+          },
+          "expanded": {
+            "total_phy_defence": 37,
+            "total_magic_defence": 16,
+            "total_phy_attack": 11,
+            "total_live": 58,
+            "total_physique": 2
+          }
+        }
+      },
+      "activeNegativeCount": 0,
+      "archivedNegativeCount": 0
+    }
+  ],
+  "validation": {
+    "full": {
+      "tests": 326,
+      "passed": 326,
+      "failed": 0
+    },
+    "supplemental": {
+      "tests": 34,
+      "passed": 34,
+      "failed": 0
+    }
+  },
+  "hashes": {
+    "src/attributes.ts": "40387a0c34038433e7ea76a16a8c4c137ea1e3cee04f8c6d138d43b109d4a0fe",
+    "src/features/attributes/initial-equipment.ts": "93a45ee64d7940d58ccdf5fcefc1236b528f68517c29cd25db6fa087661dff95",
+    "src/features/attributes/fashion.ts": "c406d964208c523b087193e19ef52a94c758b46d2db80315a5b8b51668c9f2ba",
+    "src/features/attributes/fury.ts": "b7e3c4779c7046e4e6824bb86d5c3527f5b7211e3bd6ebd04e030068914c3b2b"
+  }
+}

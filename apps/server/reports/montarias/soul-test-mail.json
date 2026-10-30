@@ -1,0 +1,29 @@
+{
+  "at": "2026-10-15T00:46:14.759Z",
+  "username": "pirata_teste",
+  "userId": 1826,
+  "template": 208070,
+  "packs": 150,
+  "packSize": 999,
+  "hearts": 149850,
+  "mails": [
+    1000202,
+    1000203,
+    1000204,
+    1000205,
+    1000206,
+    1000207,
+    1000208,
+    1000209,
+    1000210,
+    1000211,
+    1000212,
+    1000213,
+    1000214,
+    1000215,
+    1000216
+  ],
+  "mailboxBytes": 63701,
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\mount-soul-mail-2026-10-15T00-46-14.690Z",
+  "progressChanged": false
+}

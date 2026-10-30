@@ -1,0 +1,510 @@
+{
+  "at": "2026-10-14T05:27:38.724Z",
+  "originalBossXpVerification": [
+    {
+      "id": 1001,
+      "name": "Toca dos Lobos",
+      "bossBattleXp": 0,
+      "completionBaseXp": 1100
+    },
+    {
+      "id": 1002,
+      "name": "Planície de Byron",
+      "bossBattleXp": 0,
+      "completionBaseXp": 1200
+    },
+    {
+      "id": 1003,
+      "name": "Templo de Ishtar",
+      "bossBattleXp": 0,
+      "completionBaseXp": 1400
+    },
+    {
+      "id": 1004,
+      "name": "Santuário de Ishtar",
+      "bossBattleXp": 0,
+      "completionBaseXp": 1500
+    },
+    {
+      "id": 1005,
+      "name": "Planície dos Furries",
+      "bossBattleXp": 0,
+      "completionBaseXp": 1700
+    },
+    {
+      "id": 1006,
+      "name": "Montanhas Tribais",
+      "bossBattleXp": 0,
+      "completionBaseXp": 1800
+    },
+    {
+      "id": 1007,
+      "name": "Campo de Carlow",
+      "bossBattleXp": 0,
+      "completionBaseXp": 1900
+    },
+    {
+      "id": 1101,
+      "name": "Abismo do Sussuro",
+      "bossBattleXp": 0,
+      "completionBaseXp": 2000
+    },
+    {
+      "id": 1102,
+      "name": "Pantanal do Rugido",
+      "bossBattleXp": 0,
+      "completionBaseXp": 6000
+    },
+    {
+      "id": 1103,
+      "name": "Campo da Penumbra",
+      "bossBattleXp": 0,
+      "completionBaseXp": 11000
+    },
+    {
+      "id": 1104,
+      "name": "Ninho da Águia Serpente",
+      "bossBattleXp": 0,
+      "completionBaseXp": 11000
+    },
+    {
+      "id": 1105,
+      "name": "Selva Escura",
+      "bossBattleXp": 0,
+      "completionBaseXp": 11700
+    },
+    {
+      "id": 1106,
+      "name": "Vila de Loya",
+      "bossBattleXp": 0,
+      "completionBaseXp": 13200
+    },
+    {
+      "id": 1107,
+      "name": "Penhasco do Destino",
+      "bossBattleXp": 0,
+      "completionBaseXp": 14800
+    },
+    {
+      "id": 1201,
+      "name": "Pântanos da Banshee",
+      "bossBattleXp": 0,
+      "completionBaseXp": 23000
+    },
+    {
+      "id": 1202,
+      "name": "Pântano das Trevas",
+      "bossBattleXp": 0,
+      "completionBaseXp": 25600
+    },
+    {
+      "id": 1203,
+      "name": "Pântano da Morte",
+      "bossBattleXp": 0,
+      "completionBaseXp": 28200
+    },
+    {
+      "id": 1204,
+      "name": "Lago da Tranquilidade",
+      "bossBattleXp": 0,
+      "completionBaseXp": 28200
+    },
+    {
+      "id": 1205,
+      "name": "Templo Timor Ka",
+      "bossBattleXp": 0,
+      "completionBaseXp": 30900
+    },
+    {
+      "id": 1206,
+      "name": "Ruína dos Imortais",
+      "bossBattleXp": 0,
+      "completionBaseXp": 33700
+    },
+    {
+      "id": 1207,
+      "name": "Terra dos Mortos",
+      "bossBattleXp": 0,
+      "completionBaseXp": 33700
+    },
+    {
+      "id": 1301,
+      "name": "Reino em Chamas",
+      "bossBattleXp": 0,
+      "completionBaseXp": 52900
+    },
+    {
+      "id": 1302,
+      "name": "Deserto Amaldiçoado",
+      "bossBattleXp": 0,
+      "completionBaseXp": 57400
+    },
+    {
+      "id": 1303,
+      "name": "Campo do Crepúsculo",
+      "bossBattleXp": 0,
+      "completionBaseXp": 62200
+    },
+    {
+      "id": 1304,
+      "name": "Dunas da Morte",
+      "bossBattleXp": 0,
+      "completionBaseXp": 67000
+    },
+    {
+      "id": 1305,
+      "name": "Reino do Desespero",
+      "bossBattleXp": 0,
+      "completionBaseXp": 67000
+    },
+    {
+      "id": 1306,
+      "name": "Deserto de Ukiha",
+      "bossBattleXp": 0,
+      "completionBaseXp": 69500
+    },
+    {
+      "id": 1307,
+      "name": "Ilusão da Morte",
+      "bossBattleXp": 0,
+      "completionBaseXp": 72100
+    },
+    {
+      "id": 1308,
+      "name": "Cemitério dos Dragões",
+      "bossBattleXp": 0,
+      "completionBaseXp": 72100
+    },
+    {
+      "id": 1401,
+      "name": "Julgamento de Coragem",
+      "bossBattleXp": 0,
+      "completionBaseXp": 114300
+    },
+    {
+      "id": 1402,
+      "name": "Julgamento Sanguinário",
+      "bossBattleXp": 0,
+      "completionBaseXp": 122600
+    },
+    {
+      "id": 1403,
+      "name": "Julgamento do Pesadelo",
+      "bossBattleXp": 0,
+      "completionBaseXp": 131300
+    },
+    {
+      "id": 1404,
+      "name": "Julgamento do Demônio",
+      "bossBattleXp": 0,
+      "completionBaseXp": 131300
+    },
+    {
+      "id": 1405,
+      "name": "Julgamento do Caos",
+      "bossBattleXp": 0,
+      "completionBaseXp": 140100
+    },
+    {
+      "id": 1406,
+      "name": "Julgamento da Morte",
+      "bossBattleXp": 0,
+      "completionBaseXp": 140100
+    },
+    {
+      "id": 1407,
+      "name": "Julgamento da Alma",
+      "bossBattleXp": 0,
+      "completionBaseXp": 149300
+    },
+    {
+      "id": 1501,
+      "name": "Garganta Sanguinária",
+      "bossBattleXp": 0,
+      "completionBaseXp": 239000
+    },
+    {
+      "id": 1502,
+      "name": "Palácio em Chamas",
+      "bossBattleXp": 0,
+      "completionBaseXp": 254400
+    },
+    {
+      "id": 1503,
+      "name": "Mundo do Juízo",
+      "bossBattleXp": 0,
+      "completionBaseXp": 270200
+    },
+    {
+      "id": 1504,
+      "name": "Cemitério das Almas",
+      "bossBattleXp": 0,
+      "completionBaseXp": 270200
+    },
+    {
+      "id": 1505,
+      "name": "Templo do Corruptor",
+      "bossBattleXp": 0,
+      "completionBaseXp": 286500
+    },
+    {
+      "id": 1506,
+      "name": "Trono da Destruição",
+      "bossBattleXp": 0,
+      "completionBaseXp": 303200
+    },
+    {
+      "id": 1507,
+      "name": "Fonte da Maldição",
+      "bossBattleXp": 0,
+      "completionBaseXp": 303200
+    },
+    {
+      "id": 1601,
+      "name": "Santuário Eterno",
+      "bossBattleXp": 0,
+      "completionBaseXp": 490000
+    },
+    {
+      "id": 1602,
+      "name": "Rumo Infinito",
+      "bossBattleXp": 0,
+      "completionBaseXp": 490000
+    },
+    {
+      "id": 11101,
+      "name": "Abismo do Sussuro (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 3000
+    },
+    {
+      "id": 11102,
+      "name": "Pantanal do Rugido (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 9000
+    },
+    {
+      "id": 11103,
+      "name": "Campo da Penumbra (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 16500
+    },
+    {
+      "id": 11104,
+      "name": "Ninho da Águia Serpente (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 16500
+    },
+    {
+      "id": 11105,
+      "name": "Selva Escura (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 17550
+    },
+    {
+      "id": 11106,
+      "name": "Vila de Loya (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 19800
+    },
+    {
+      "id": 11107,
+      "name": "Penhasco do Destino (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 22200
+    },
+    {
+      "id": 11201,
+      "name": "Pântanos da Banshee (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 34500
+    },
+    {
+      "id": 11202,
+      "name": "Pântano das Trevas (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 38400
+    },
+    {
+      "id": 11203,
+      "name": "Pântano da Morte (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 42300
+    },
+    {
+      "id": 11204,
+      "name": "Lago da Tranquilidade (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 42300
+    },
+    {
+      "id": 11205,
+      "name": "Templo Timor Ka (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 46350
+    },
+    {
+      "id": 11206,
+      "name": "Ruína dos Imortais (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 50550
+    },
+    {
+      "id": 11207,
+      "name": "Terra dos Mortos (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 50550
+    },
+    {
+      "id": 11301,
+      "name": "Reino em Chamas (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 79350
+    },
+    {
+      "id": 11302,
+      "name": "Deserto Amaldiçoado (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 86100
+    },
+    {
+      "id": 11303,
+      "name": "Campo do Crepúsculo (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 93300
+    },
+    {
+      "id": 11304,
+      "name": "Dunas da Morte (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 100500
+    },
+    {
+      "id": 11305,
+      "name": "Reino do Desespero (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 100500
+    },
+    {
+      "id": 11306,
+      "name": "Deserto de Ukiha (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 104250
+    },
+    {
+      "id": 11307,
+      "name": "Ilusão da Morte (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 108150
+    },
+    {
+      "id": 11308,
+      "name": "Cemitério dos Dragões (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 108150
+    },
+    {
+      "id": 11401,
+      "name": "Julgamento de Coragem (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 171450
+    },
+    {
+      "id": 11402,
+      "name": "Julgamento Sanguinário (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 183900
+    },
+    {
+      "id": 11403,
+      "name": "Julgamento do Pesadelo (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 196950
+    },
+    {
+      "id": 11404,
+      "name": "Julgamento do Demônio (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 196950
+    },
+    {
+      "id": 11405,
+      "name": "Julgamento do Caos (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 210150
+    },
+    {
+      "id": 11406,
+      "name": "Julgamento da Morte (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 210150
+    },
+    {
+      "id": 11407,
+      "name": "Julgamento da Alma (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 223950
+    },
+    {
+      "id": 11501,
+      "name": "Sangue de Canyon (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 358500
+    },
+    {
+      "id": 11502,
+      "name": "Santuário das Chamas (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 381600
+    },
+    {
+      "id": 11503,
+      "name": "Espelho do Julgamento (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 405300
+    },
+    {
+      "id": 11504,
+      "name": "Cemitério das Almas (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 405300
+    },
+    {
+      "id": 11505,
+      "name": "Templo da Queda (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 429750
+    },
+    {
+      "id": 11506,
+      "name": "Trono da Destruição (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 454800
+    },
+    {
+      "id": 11507,
+      "name": "Fonte da Maldição (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 454800
+    },
+    {
+      "id": 11601,
+      "name": "Santuário Eterno (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 735000
+    },
+    {
+      "id": 11602,
+      "name": "Caminho Infinito (Herói)",
+      "bossBattleXp": 0,
+      "completionBaseXp": 735000
+    }
+  ],
+  "messageChannel": "INFO (3)",
+  "examples": [
+    "Você recebeu 560 de XP pela batalha.",
+    "Você recebeu 3000 de XP pela conclusão da campanha.",
+    "Você recebeu [Gema da Sorte Nv. 3] x5 pela carta da campanha."
+  ],
+  "onReconnect": "UI result/card receipt can replay; earned-reward chat messages are not replayed."
+}

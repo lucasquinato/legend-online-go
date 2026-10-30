@@ -1,0 +1,22 @@
+{
+  "at": "2026-10-13T20:51:58.528Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 3,
+    "boot": "bdfec61f-d694-4674-863c-8d5c0f09f65a",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "uiStatus": 200,
+  "uiHash": "01d1ef3a6c9294093f943ddbbcf8b5a3b964e6225372536dfe1c44a9219ed9e6",
+  "publishedMd5": "9b036946",
+  "tests": 26,
+  "cause": "Hero click accessed singleHeroCount absent from current sealed PlayerInfo. Guarded optional field; backend counter query is explicit.",
+  "workflowChanged": false
+}

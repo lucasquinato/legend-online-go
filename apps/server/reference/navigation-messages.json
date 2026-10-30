@@ -1,0 +1,369 @@
+{
+  "com.road.yishi.proto.pet.NavigationBoatMsg": {
+    "1": {
+      "name": "id",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "2": {
+      "name": "grade",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "state",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "cd",
+      "type": "INT64",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.pet.NavigationBoatUpgradeInviteMsg": {
+    "1": {
+      "name": "playerId",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "playerName",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "3": {
+      "name": "boatId",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "4": {
+      "name": "token",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.pet.NavigationBuyDataMsg": {
+    "1": {
+      "name": "shopId",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "index",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "buy",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.pet.NavigationFishingStateMsg": {
+    "1": {
+      "name": "open",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "startTime",
+      "type": "INT64",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "endTime",
+      "type": "INT64",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.pet.NavigationMsg": {
+    "1": {
+      "name": "strength",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "currency",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "dayBuyShopNum",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "dayBuyStrengthNum",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "shopRefreshCD",
+      "type": "INT64",
+      "wire": 0,
+      "repeated": false
+    },
+    "6": {
+      "name": "inviteNum",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "7": {
+      "name": "assistNum",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "8": {
+      "name": "buyData",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.pet.NavigationBuyDataMsg"
+    },
+    "9": {
+      "name": "port",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.pet.NavigationPortMsg"
+    },
+    "10": {
+      "name": "boat",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.pet.NavigationBoatMsg"
+    },
+    "11": {
+      "name": "fishingTime",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "12": {
+      "name": "fishingTipsList",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": true
+    }
+  },
+  "com.road.yishi.proto.pet.NavigationOpMsg": {
+    "1": {
+      "name": "op",
+      "type": "ENUM",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "param1",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "3": {
+      "name": "param2",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "4": {
+      "name": "param3",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "param4",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "6": {
+      "name": "param5",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": true
+    },
+    "7": {
+      "name": "param6",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": true
+    }
+  },
+  "com.road.yishi.proto.pet.NavigationPortMsg": {
+    "1": {
+      "name": "id",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "2": {
+      "name": "cd",
+      "type": "INT64",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "shippingBoatId",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "4": {
+      "name": "taskId1",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "taskId2",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "6": {
+      "name": "taskId3",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "7": {
+      "name": "taskId4",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "8": {
+      "name": "taskId5",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "9": {
+      "name": "taskId6",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "10": {
+      "name": "taskNum1",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "11": {
+      "name": "taskNum2",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "12": {
+      "name": "taskNum3",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "13": {
+      "name": "taskNum4",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "14": {
+      "name": "taskNum5",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "15": {
+      "name": "taskNum6",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "16": {
+      "name": "selectedTask1",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "17": {
+      "name": "selectedTask2",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "18": {
+      "name": "selectedTask3",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "19": {
+      "name": "selectedTask4",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "20": {
+      "name": "selectedTask5",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "21": {
+      "name": "selectedTask6",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "22": {
+      "name": "payBusinessNum",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "23": {
+      "name": "grades",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.pet.NavigationResMsg": {
+    "1": {
+      "name": "op",
+      "type": "ENUM",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "result",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    }
+  }
+}

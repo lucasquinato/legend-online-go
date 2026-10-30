@@ -1,0 +1,476 @@
+{
+  "com.road.yishi.proto.marriage.EngageMsg": {
+    "1": {
+      "name": "engageInfos",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.marriage.MarriageProMsg"
+    }
+  },
+  "com.road.yishi.proto.marriage.HeartMsg": {
+    "1": {
+      "name": "order",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "templateId",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "result",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "option_a",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "6": {
+      "name": "option_b",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "7": {
+      "name": "remain_time",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "8": {
+      "name": "random",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "options",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": true
+    }
+  },
+  "com.road.yishi.proto.marriage.MarriageDataMsg": {
+    "1": {
+      "name": "user_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "type",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "marriage_state",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "happy",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": false,
+      "message": "com.road.yishi.proto.marriage.MarriageHappyMsg"
+    },
+    "5": {
+      "name": "mate_happy",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": false,
+      "message": "com.road.yishi.proto.marriage.MarriageHappyMsg"
+    },
+    "6": {
+      "name": "ring",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": false,
+      "message": "com.road.yishi.proto.marriage.MarriageRingMsg"
+    },
+    "7": {
+      "name": "god_tree",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": false,
+      "message": "com.road.yishi.proto.marriage.MarriageGodTreeMsg"
+    }
+  },
+  "com.road.yishi.proto.marriage.MarriageGodTreeMsg": {
+    "1": {
+      "name": "tree_gp",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "tree_grade",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "tree_gold_water",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "tree_diamond_water",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "tree_state",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "6": {
+      "name": "tree_state_value",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "7": {
+      "name": "tree_earning_date",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "8": {
+      "name": "tree_mate_state",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.marriage.MarriageHappyMsg": {
+    "1": {
+      "name": "happy_gp",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "happy_grade",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "happy_help",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.marriage.MarriageHeartMsg": {
+    "1": {
+      "name": "cur_question",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": false,
+      "message": "com.road.yishi.proto.marriage.HeartMsg"
+    },
+    "3": {
+      "name": "sync_rate",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "max_order",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "lastQuestions",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.marriage.HeartMsg"
+    }
+  },
+  "com.road.yishi.proto.marriage.MarriageMsg": {
+    "1": {
+      "name": "user_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "state",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "template_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "marriage_time",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "5": {
+      "name": "speTemplate_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "6": {
+      "name": "quest_count",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "7": {
+      "name": "nick_name",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "8": {
+      "name": "over_time",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "9": {
+      "name": "answer_num",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "10": {
+      "name": "logout_days",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "11": {
+      "name": "is_back_player_first_married",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.marriage.MarriageOpMsg": {
+    "1": {
+      "name": "user_id",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "op_type",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "pay_type",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "property1",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "property2",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "6": {
+      "name": "property3",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "7": {
+      "name": "property4",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "8": {
+      "name": "property5",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "11": {
+      "name": "isNoGet",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "9": {
+      "name": "userIds",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": true
+    },
+    "10": {
+      "name": "properties",
+      "type": "MESSAGE",
+      "wire": 2,
+      "repeated": true,
+      "message": "com.road.yishi.proto.marriage.PropertyListMsg"
+    }
+  },
+  "com.road.yishi.proto.marriage.MarriageProMsg": {
+    "1": {
+      "name": "userId_a",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "nickName_a",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "3": {
+      "name": "job_a",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "4": {
+      "name": "userId_b",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "5": {
+      "name": "nickName_b",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "6": {
+      "name": "job_b",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "7": {
+      "name": "property1",
+      "type": "BOOL",
+      "wire": 0,
+      "repeated": false
+    },
+    "8": {
+      "name": "property2",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "9": {
+      "name": "property3",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "10": {
+      "name": "property4",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "11": {
+      "name": "property5",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    },
+    "12": {
+      "name": "property6",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "13": {
+      "name": "property7",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "14": {
+      "name": "property8",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "15": {
+      "name": "property9",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "16": {
+      "name": "property10",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.marriage.MarriageRingMsg": {
+    "1": {
+      "name": "ring_gp",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "ring_grade",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "3": {
+      "name": "ring_skill",
+      "type": "STRING",
+      "wire": 2,
+      "repeated": false
+    }
+  },
+  "com.road.yishi.proto.marriage.PropertyListMsg": {
+    "1": {
+      "name": "property1",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    },
+    "2": {
+      "name": "property2",
+      "type": "INT32",
+      "wire": 0,
+      "repeated": false
+    }
+  }
+}

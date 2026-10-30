@@ -1,0 +1,54 @@
+{
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\navigation-clock-decorations-2026-10-19T00-20-51.124Z",
+  "at": "2026-10-19T00:20:51.124Z",
+  "accounts": [
+    {
+      "userId": 1826,
+      "username": "pirata_teste",
+      "added": 71,
+      "totalTemplates": 73,
+      "missionsReset": true,
+      "houseOwned": true
+    },
+    {
+      "userId": 1827,
+      "username": "pirata_teste_2",
+      "added": 73,
+      "totalTemplates": 73,
+      "missionsReset": false,
+      "houseOwned": false
+    },
+    {
+      "userId": 1828,
+      "username": "pirata_teste_3",
+      "added": 73,
+      "totalTemplates": 73,
+      "missionsReset": false,
+      "houseOwned": false
+    },
+    {
+      "userId": 1829,
+      "username": "teste",
+      "added": 71,
+      "totalTemplates": 73,
+      "missionsReset": false,
+      "houseOwned": true
+    },
+    {
+      "userId": 1830,
+      "username": "teste2",
+      "added": 73,
+      "totalTemplates": 73,
+      "missionsReset": false,
+      "houseOwned": false
+    },
+    {
+      "userId": 1831,
+      "username": "teste3",
+      "added": 71,
+      "totalTemplates": 73,
+      "missionsReset": false,
+      "houseOwned": true
+    }
+  ]
+}

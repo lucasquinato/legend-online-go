@@ -1,0 +1,11 @@
+{
+  "com.road.yishi.proto.player.CommonMsg": {
+    "1": {"name":"param1","type":"INT32","wire":0,"repeated":false},
+    "2": {"name":"param2","type":"INT32","wire":0,"repeated":false},
+    "3": {"name":"param3","type":"INT32","wire":0,"repeated":false},
+    "4": {"name":"param4","type":"STRING","wire":2,"repeated":false},
+    "5": {"name":"param5","type":"STRING","wire":2,"repeated":false},
+    "6": {"name":"param6","type":"INT64","wire":0,"repeated":false},
+    "7": {"name":"param7","type":"INT64","wire":0,"repeated":false}
+  }
+}

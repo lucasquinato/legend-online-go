@@ -1,0 +1,1 @@
+import java.io.*;import com.jpexs.decompiler.flash.SWF;class SocialInventory{public static void main(String[]a)throws Exception{for(String f:a){SWF s=new SWF(new FileInputStream(f),true);for(var p:s.getAS3Packs())if(p.getClassPath().toString().contains("MarriageData")||p.getClassPath().toString().contains("MarriageGodTreeInfo"))System.out.println(f+" "+p.getClassPath());}}}

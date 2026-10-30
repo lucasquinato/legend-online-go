@@ -1,0 +1,736 @@
+{
+  "at": "2026-10-13T15:51:39.153Z",
+  "tableCount": 835,
+  "storyDefinitions": 146,
+  "storyWithinDateWindow": 91,
+  "retiredStory": [
+    400,
+    411,
+    420,
+    450,
+    460,
+    480,
+    490,
+    510,
+    520,
+    560,
+    570,
+    580,
+    600,
+    610,
+    630,
+    640,
+    680,
+    700,
+    710,
+    730,
+    787,
+    808,
+    809,
+    810,
+    811,
+    812,
+    813,
+    814,
+    815,
+    826,
+    835,
+    836,
+    837,
+    838,
+    839,
+    840,
+    841,
+    886,
+    887,
+    888,
+    889,
+    890,
+    891,
+    892,
+    899,
+    900,
+    1833,
+    1835,
+    1837,
+    1842,
+    1845,
+    1846,
+    1849,
+    1851,
+    1853
+  ],
+  "acceptedOnline": [
+    1832,
+    1834,
+    1836,
+    1839,
+    1854,
+    1840,
+    1841,
+    1855,
+    100,
+    763,
+    1838,
+    1843,
+    753,
+    1844,
+    1920,
+    3,
+    471,
+    761,
+    764,
+    1900,
+    1901,
+    504,
+    505,
+    754,
+    756,
+    766,
+    785,
+    786,
+    788,
+    799,
+    816,
+    858,
+    905,
+    922,
+    932,
+    1799,
+    1802,
+    1803,
+    1899,
+    1902,
+    1916,
+    1917,
+    1924,
+    1931,
+    1972,
+    1913,
+    906,
+    921,
+    789,
+    790,
+    791,
+    792,
+    864,
+    865,
+    866,
+    867,
+    868,
+    869,
+    870,
+    871,
+    872,
+    873,
+    874,
+    875,
+    876,
+    877,
+    878,
+    1930,
+    1903,
+    1904,
+    1905,
+    856,
+    1897
+  ],
+  "expiredAcceptedOnline": [],
+  "finishes": [
+    {
+      "file": "packets-2026-10-11.jsonl",
+      "at": "2026-10-11T22:43:06.035Z",
+      "id": 1832,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-11T22:43:06.027Z"
+    },
+    {
+      "file": "packets-2026-10-11.jsonl",
+      "at": "2026-10-11T22:43:25.497Z",
+      "id": 1834,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-11T22:43:25.494Z"
+    },
+    {
+      "file": "packets-2026-10-11.jsonl",
+      "at": "2026-10-11T22:48:02.316Z",
+      "id": 1836,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-11T22:48:02.305Z"
+    },
+    {
+      "file": "packets-2026-10-11.jsonl",
+      "at": "2026-10-11T22:49:19.111Z",
+      "id": 1854,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-11T22:49:19.108Z"
+    },
+    {
+      "file": "packets-2026-10-11.jsonl",
+      "at": "2026-10-11T22:52:20.713Z",
+      "id": 1839,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-11T22:52:20.710Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T00:56:52.491Z",
+      "id": 1840,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T00:56:52.467Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T01:06:15.412Z",
+      "id": 1855,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T01:06:15.400Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T01:10:26.594Z",
+      "id": 1841,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T01:10:26.556Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T01:12:23.959Z",
+      "id": 763,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T01:12:23.956Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T01:12:36.447Z",
+      "id": 1838,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T01:12:36.442Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T01:18:28.684Z",
+      "id": 1843,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T01:18:28.644Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T01:24:08.736Z",
+      "id": 753,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T01:24:08.721Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T01:50:04.571Z",
+      "id": 3,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T01:50:04.566Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T01:51:07.090Z",
+      "id": 471,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T01:51:07.078Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T05:48:47.813Z",
+      "id": 1832,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T05:48:47.778Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T05:48:59.581Z",
+      "id": 1834,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T05:48:59.569Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T05:49:57.074Z",
+      "id": 1836,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T05:49:57.042Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T05:50:13.751Z",
+      "id": 1839,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T05:50:13.742Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T17:37:05.789Z",
+      "id": 1899,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T17:37:05.762Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:21:59.328Z",
+      "id": 1900,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:21:59.315Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:22:00.270Z",
+      "id": 1901,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:22:00.244Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:37.146Z",
+      "id": 763,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:37.140Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:37.900Z",
+      "id": 1920,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:37.892Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:38.332Z",
+      "id": 858,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:38.306Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:38.980Z",
+      "id": 905,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:38.968Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:39.295Z",
+      "id": 922,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:39.283Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:39.495Z",
+      "id": 1924,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:39.489Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:40.000Z",
+      "id": 906,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:39.982Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:40.304Z",
+      "id": 788,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:40.297Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:41.960Z",
+      "id": 789,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:41.947Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:43.310Z",
+      "id": 790,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:43.307Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:47.586Z",
+      "id": 791,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:47.580Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:50.680Z",
+      "id": 792,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:50.674Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:53.543Z",
+      "id": 864,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:53.535Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:54.960Z",
+      "id": 865,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:54.954Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:56.142Z",
+      "id": 866,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:56.136Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:57.123Z",
+      "id": 867,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:57.120Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:58.142Z",
+      "id": 868,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:58.131Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:58.874Z",
+      "id": 869,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:58.867Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:25:59.940Z",
+      "id": 870,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:25:59.934Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:02.329Z",
+      "id": 871,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:02.322Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:04.623Z",
+      "id": 872,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:04.615Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:06.351Z",
+      "id": 873,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:06.344Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:08.593Z",
+      "id": 874,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:08.582Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:09.736Z",
+      "id": 875,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:09.723Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:10.848Z",
+      "id": 876,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:10.844Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:11.834Z",
+      "id": 877,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:11.825Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:12.791Z",
+      "id": 878,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:12.785Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:39.859Z",
+      "id": 753,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:39.845Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:40.607Z",
+      "id": 1902,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:40.587Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:41.557Z",
+      "id": 1903,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:41.539Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:42.380Z",
+      "id": 1904,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:42.366Z"
+    },
+    {
+      "file": "packets-2026-10-12.jsonl",
+      "at": "2026-10-12T18:26:43.169Z",
+      "id": 1905,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-12T18:26:43.145Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:35.589Z",
+      "id": 858,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:35.585Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:36.040Z",
+      "id": 1899,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:36.033Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:36.290Z",
+      "id": 1902,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:36.283Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:36.609Z",
+      "id": 1897,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:36.602Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:36.858Z",
+      "id": 1903,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:36.852Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:37.077Z",
+      "id": 1904,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:37.071Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:37.344Z",
+      "id": 1905,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:37.336Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:37.565Z",
+      "id": 905,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:37.559Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:38.179Z",
+      "id": 922,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:38.175Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:38.975Z",
+      "id": 788,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:38.971Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:40.134Z",
+      "id": 789,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:40.131Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:40.714Z",
+      "id": 790,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:40.710Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:52:41.301Z",
+      "id": 791,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:52:41.297Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:12.695Z",
+      "id": 792,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:12.691Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:13.755Z",
+      "id": 864,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:13.751Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:14.444Z",
+      "id": 865,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:14.441Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:15.110Z",
+      "id": 866,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:15.107Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:15.711Z",
+      "id": 867,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:15.706Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:16.378Z",
+      "id": 868,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:16.374Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:17.110Z",
+      "id": 869,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:17.106Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:17.637Z",
+      "id": 870,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:17.633Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:18.336Z",
+      "id": 871,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:18.332Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:18.914Z",
+      "id": 872,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:18.910Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:19.632Z",
+      "id": 873,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:19.629Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:20.305Z",
+      "id": 874,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:20.303Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:21.205Z",
+      "id": 875,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:21.201Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:24.086Z",
+      "id": 876,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:24.084Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:24.638Z",
+      "id": 877,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:24.635Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T01:54:26.261Z",
+      "id": 878,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T01:54:26.257Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T02:21:11.732Z",
+      "id": 906,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T02:21:11.723Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T03:56:44.105Z",
+      "id": 1920,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T03:56:44.101Z"
+    },
+    {
+      "file": "packets-2026-10-13.jsonl",
+      "at": "2026-10-13T03:59:37.781Z",
+      "id": 1924,
+      "historyBeforeFinish": true,
+      "updateAt": "2026-10-13T03:59:37.778Z"
+    }
+  ]
+}

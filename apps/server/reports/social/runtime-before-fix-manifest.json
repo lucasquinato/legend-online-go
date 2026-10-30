@@ -1,0 +1,220 @@
+{
+  "sourcePath": "/cdn/9_177f9627.png",
+  "sourceSha256": "e9271f2fb5a8dde618a31b69c26bde729d2fea9a0bf9a06d63668952743865e8",
+  "sha256": "fbea140707e183d2fce3286c2e3f940725f3f8a6213ce0c192051efbeffae623",
+  "bytes": 330806,
+  "md5": "63c7a6d1",
+  "audit": {
+    "sourceSha256": "e9271f2fb5a8dde618a31b69c26bde729d2fea9a0bf9a06d63668952743865e8",
+    "candidateSha256": "fbea140707e183d2fce3286c2e3f940725f3f8a6213ce0c192051efbeffae623",
+    "classes": 215,
+    "unchangedTags": 210,
+    "allowedMethods": 26,
+    "otherMethodsPreserved": 179,
+    "emptyAbc": false,
+    "duplicates": false,
+    "protectedTagsByteIdentical": true,
+    "strippedCandidateSha256": "ce67f5c9183fa68a0f8c5cabc0326b654bd382f637ff7200b78a57c6fbd1e653",
+    "addedClasses": [
+      "SocialMarriageBridge"
+    ],
+    "bridgeSha256": "aeed53c73289a4e2cde596771b9845085c1911213a3120b88fcc8b58036242a9"
+  },
+  "runtime": {
+    "baseline": {
+      "at": "2026-10-21T06:15:34.530Z",
+      "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97\\social-baseline-core.swf",
+      "exitCode": 0,
+      "timedOut": false,
+      "loaded": true,
+      "verified": true,
+      "expectedNativeTermination": false,
+      "logs": [
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/social-baseline-core.swf",
+        "social-baseline-level-gates-reproduced",
+        "verified chat.view.ChatItemMenu [class ChatItemMenu]",
+        "verified managers.FreedomTeamManager [class FreedomTeamManager]",
+        "verified mvc.module.marry.MarryModel [class MarryModel]"
+      ],
+      "runtime": "log\tLoading.swf 4860 bytes em 63 ms (AIR WIN 51,4,1,1)\n"
+    },
+    "candidate": {
+      "at": "2026-10-21T06:15:45.709Z",
+      "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97\\social-candidate-core.swf",
+      "exitCode": 0,
+      "timedOut": false,
+      "loaded": true,
+      "verified": true,
+      "expectedNativeTermination": false,
+      "logs": [
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/social-candidate-core.swf",
+        "social-marriage-happy-bytecode-entry-passed",
+        "social-marriage-cold-model-passed",
+        "bridge-after-adapt",
+        "verified mvc.module.marry.MarryModel [class MarryModel]",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/social-ui-alias.swf",
+        "ring-before-construction",
+        "verified managers.FreedomTeamManager [class FreedomTeamManager]",
+        "verified chat.view.ChatItemMenu [class ChatItemMenu]",
+        "bridge-before-adapt",
+        "ring-before-init",
+        "social-level-one-team-private-wedding-passed",
+        "proposal-caught Error: marry.propose.MarryQuestFrame.hasLover Error: marry.propose.MarryQuestFrame.hasLover\n\tat yishi.view.tips::MessageTipManager/show()\n\tat marry.propose::MarryQuestFrame/__proposeHandler()\n\tat MountRuntimeProbe/test()\n\tat MountRuntimeProbe/next()\n\tat Function/<anonymous>()",
+        "social-level-one-proposal-passed",
+        "social-marriage-native-ring-init-passed"
+      ],
+      "runtime": "log\tLoading.swf 4860 bytes em 77 ms (AIR WIN 51,4,1,1)\n"
+    }
+  },
+  "roomsRuntime": {
+    "baseline": {
+      "at": "2026-10-21T06:15:58.685Z",
+      "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97\\rooms-baseline-9.swf",
+      "exitCode": 0,
+      "timedOut": false,
+      "loaded": true,
+      "verified": true,
+      "expectedNativeTermination": false,
+      "logs": [
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/rooms-core.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/rooms-baseline-9.swf",
+        "verified marry.room.MarryRoomItem [class MarryRoomItem]",
+        "verified marry.room.MarryRoomListFrame [class MarryRoomListFrame]",
+        "room-before-frame",
+        "room-before-init",
+        "room-after-init",
+        "wedding-room-baseline-stale-cards-reproduced"
+      ],
+      "runtime": "log\tLoading.swf 4064 bytes em 77 ms (AIR WIN 51,4,1,1)\n"
+    },
+    "candidate": {
+      "at": "2026-10-21T06:16:06.505Z",
+      "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97\\rooms-candidate-9.swf",
+      "exitCode": 0,
+      "timedOut": false,
+      "loaded": true,
+      "verified": true,
+      "expectedNativeTermination": false,
+      "logs": [
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/rooms-core.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/rooms-candidate-9.swf",
+        "verified marry.room.MarryRoomListFrame [class MarryRoomListFrame]",
+        "verified marry.room.MarryRoomItem [class MarryRoomItem]",
+        "room-after-init",
+        "room-before-frame",
+        "room-before-controls",
+        "room-after-refresh",
+        "wedding-room-empty-grow-shrink-clear-passed",
+        "room-before-refresh",
+        "room-before-init",
+        "room-after-controls"
+      ],
+      "runtime": "log\tLoading.swf 4064 bytes em 88 ms (AIR WIN 51,4,1,1)\n"
+    }
+  },
+  "nativeRuntime": {
+    "at": "2026-10-21T06:17:22.607Z",
+    "target": "reference/social/local-ui/local-9.swf",
+    "exitCode": 0,
+    "timedOut": false,
+    "loaded": true,
+    "verified": true,
+    "expectedNativeTermination": false,
+    "logs": [
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/chat/local-ui/local-2.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/social/local-ui/local-9.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/skills/formation-ui/local-5.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/local-ui/local-14.swf",
+      "verified managers.MarryManager [class MarryManager]",
+      "verified marry.income.MarryRingUpgradeView [class MarryRingUpgradeView]",
+      "verified view.ShopFrame [class ShopFrame]",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/local-ui/local-15.swf",
+      "verified armyII.SkillFrame [class SkillFrame]",
+      "verified mvc.module.marry.MarryModel [class MarryModel]",
+      "verified fashion.FashionStoreFrame [class FashionStoreFrame]",
+      "marriage-native-quality-packet-passed",
+      "marriage-native-date-setter-passed",
+      "marriage-native-protocol-and-model-passed"
+    ],
+    "runtime": "log\tLoading.swf 4387 bytes em 66 ms (AIR WIN 51,4,1,1)\n"
+  },
+  "roomDeltaAudit": {
+    "sourceSha256": "acdc9c40e2f03ea1da70bb66370923723e3a31aac7ef69a10dc0f8bac6a96641",
+    "candidateSha256": "7a446f79dfb522f0376eb939ce5077c25abe1edcdfaa0dd275c23f58d2fb9e23",
+    "classes": 216,
+    "unchangedTags": 221,
+    "allowedMethods": 2,
+    "otherMethodsPreserved": 17,
+    "emptyAbc": false,
+    "duplicates": false,
+    "protectedTagsByteIdentical": true
+  },
+  "consentRuntime": {
+    "baseline": {
+      "at": "2026-10-21T06:15:16.022Z",
+      "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97\\consent-baseline-9.swf",
+      "exitCode": 0,
+      "timedOut": false,
+      "loaded": true,
+      "verified": true,
+      "expectedNativeTermination": false,
+      "logs": [
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/consent-library.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/consent-core.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/consent-baseline-9.swf",
+        "verified mvc.module.marry.MarryQuality [class MarryQuality]",
+        "verified marry.quality.MarryConfirmFrame [class MarryConfirmFrame]",
+        "wedding-consent-baseline-zero-cloth-reproduced",
+        "consent-before-preview-1"
+      ],
+      "runtime": "log\tLoading.swf 4491 bytes em 71 ms (AIR WIN 51,4,1,1)\n"
+    },
+    "candidate": {
+      "at": "2026-10-21T06:15:23.785Z",
+      "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97\\consent-candidate-9.swf",
+      "exitCode": 0,
+      "timedOut": false,
+      "loaded": true,
+      "verified": true,
+      "expectedNativeTermination": false,
+      "logs": [
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/consent-library.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/consent-core.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/marriage-runtime-d28b7198-91a5-4a64-b9ff-9ce568b80c97/consent-candidate-9.swf",
+        "verified mvc.module.marry.MarryQuality [class MarryQuality]",
+        "verified marry.quality.MarryConfirmFrame [class MarryConfirmFrame]",
+        "consent-before-preview-2",
+        "consent-before-preview-3",
+        "consent-before-split",
+        "consent-before-preview-1",
+        "consent-before-close",
+        "wedding-consent-preview-accept-close-replace-passed",
+        "consent-before-accept"
+      ],
+      "runtime": "log\tLoading.swf 4491 bytes em 56 ms (AIR WIN 51,4,1,1)\n"
+    }
+  },
+  "consentDeltaAudit": {
+    "sourceSha256": "d26f3a98f12a17508dea0e32bb8a985e517e7c66d5746422c292a41bd41ad39e",
+    "candidateSha256": "ce67f5c9183fa68a0f8c5cabc0326b654bd382f637ff7200b78a57c6fbd1e653",
+    "classes": 215,
+    "unchangedTags": 220,
+    "allowedMethods": 4,
+    "otherMethodsPreserved": 18,
+    "emptyAbc": false,
+    "duplicates": false,
+    "protectedTagsByteIdentical": true
+  },
+  "branchAudit": {
+    "sha256": "fbea140707e183d2fce3286c2e3f940725f3f8a6213ce0c192051efbeffae623",
+    "validBranches": true,
+    "methods": 3377,
+    "jumps": 5750,
+    "failures": "[]"
+  }
+}

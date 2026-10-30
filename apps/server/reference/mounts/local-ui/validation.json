@@ -1,0 +1,39 @@
+{
+  "at": "2026-10-14T05:56:33.049Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 3,
+    "boot": "5f4f59fc-bcab-42aa-a846-b971e0404c26",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "checks": {
+    "typecheck": "passed",
+    "build": "passed",
+    "generalSuite": {
+      "tests": 305,
+      "passed": 305
+    },
+    "mountSuite": {
+      "tests": 14,
+      "passed": 14
+    },
+    "httpModules": [
+      14,
+      15
+    ],
+    "manifests": "hash and sizes match",
+    "nonMountScriptsUnchanged": {
+      "module14": 189,
+      "module15": 80
+    },
+    "accounts": "preserved, no resets"
+  },
+  "visualLauncher": "pending player verification"
+}

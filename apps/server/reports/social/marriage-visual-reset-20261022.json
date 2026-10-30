@@ -1,0 +1,62 @@
+{
+  "at": "2026-10-22T21:54:48.223Z",
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\marriage-visual-reset-2026-10-22T21-54-42.610Z.sqlite",
+  "previousMarriages": [
+    {
+      "id": 1,
+      "a": 1826,
+      "b": 1827,
+      "status": 3,
+      "data": "{\"engagedAt\":1792543935193,\"quality\":1,\"phase\":3,\"payer\":1826,\"payType\":1,\"approved\":true,\"createdAt\":1792578422797,\"guests\":[1827,1826,1828],\"votes\":[1827,1826],\"marriedAt\":1792581168132,\"cake\":1,\"champagne\":1,\"flowerB\":1}"
+    }
+  ],
+  "accounts": [
+    {
+      "userId": 1826,
+      "username": "pirata_teste",
+      "mails": [
+        1000771,
+        1000772,
+        1000773
+      ],
+      "mailboxBytes": 43427,
+      "proposalRings": 10,
+      "basicRingMaterials": 9999,
+      "advancedRingMaterials": 19998,
+      "basicHappinessMaterials": 9999,
+      "advancedHappinessMaterials": 49995,
+      "gold": 1000000000,
+      "diamonds": 500000
+    },
+    {
+      "userId": 1827,
+      "username": "pirata_teste_2",
+      "mails": [
+        1000774,
+        1000775,
+        1000776
+      ],
+      "mailboxBytes": 45756,
+      "proposalRings": 10,
+      "basicRingMaterials": 9999,
+      "advancedRingMaterials": 19998,
+      "basicHappinessMaterials": 9999,
+      "advancedHappinessMaterials": 49995,
+      "gold": 1000000000,
+      "diamonds": 500000
+    }
+  ],
+  "limits": {
+    "ring": 45,
+    "happiness": 30,
+    "tree": "Sem tabela de evolução além do estado inicial; custos e tempos preservados"
+  },
+  "requirements": {
+    "basicRing": 4000,
+    "advancedRing": 14000,
+    "happinessXp": 471800
+  },
+  "integrity": {
+    "quick_check": "ok"
+  }
+}

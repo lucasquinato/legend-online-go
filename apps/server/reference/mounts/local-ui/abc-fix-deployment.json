@@ -1,0 +1,46 @@
+{
+  "at": "2026-10-14T13:44:01.030Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 3,
+    "boot": "caff2f07-6c9e-4459-b6aa-1c8f2f2be520",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "modulesEnabled": [
+    14,
+    15
+  ],
+  "resources": [
+    {
+      "path": "/cdn/14.png",
+      "status": 200,
+      "sha256": "a7a74034b5cafe6c7d1fb50c17fedcb36e46641f83b1346ddf1e1e866121e022",
+      "bytes": 360480
+    },
+    {
+      "path": "/cdn/14_14666132.png",
+      "status": 200,
+      "sha256": "a7a74034b5cafe6c7d1fb50c17fedcb36e46641f83b1346ddf1e1e866121e022",
+      "bytes": 360480
+    },
+    {
+      "path": "/cdn/15.png",
+      "status": 200,
+      "sha256": "e5dc9b18b30363387a3878c8ed56a78f907ff001aca4f616183e5ca447f33dbe",
+      "bytes": 128635
+    },
+    {
+      "path": "/cdn/15_16be898c.png",
+      "status": 200,
+      "sha256": "e5dc9b18b30363387a3878c8ed56a78f907ff001aca4f616183e5ca447f33dbe",
+      "bytes": 128635
+    }
+  ]
+}

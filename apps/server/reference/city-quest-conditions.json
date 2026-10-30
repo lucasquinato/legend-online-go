@@ -1,0 +1,56 @@
+[
+  {
+    "TemplateId": "1832",
+    "CondictionType": "23",
+    "CondictionTitle": "Retornar à cidade",
+    "Para1": "19000",
+    "Para2": "1",
+    "Para3": "0",
+    "Para4": "0"
+  },
+  {
+    "TemplateId": "1834",
+    "CondictionType": "3",
+    "CondictionTitle": "Recrutar Soldados",
+    "Para1": "1",
+    "Para2": "200",
+    "Para3": "0",
+    "Para4": "0"
+  },
+  {
+    "TemplateId": "1836",
+    "CondictionType": "14",
+    "CondictionTitle": "Eleminar Lobos",
+    "Para1": "1001",
+    "Para2": "1",
+    "Para3": "1001",
+    "Para4": "0"
+  },
+  {
+    "TemplateId": "1839",
+    "CondictionType": "59",
+    "CondictionTitle": "Plantar na Fazenda",
+    "Para1": "0",
+    "Para2": "1",
+    "Para3": "0",
+    "Para4": "0"
+  },
+  {
+    "TemplateId": "1840",
+    "CondictionType": "38",
+    "CondictionTitle": "Atacar no Labirinto",
+    "Para1": "8001",
+    "Para2": "2",
+    "Para3": "0",
+    "Para4": "0"
+  },
+  {
+    "TemplateId": "1854",
+    "CondictionType": "21",
+    "CondictionTitle": "Adicionar Amigos",
+    "Para1": "0",
+    "Para2": "1",
+    "Para3": "0",
+    "Para4": "0"
+  }
+]

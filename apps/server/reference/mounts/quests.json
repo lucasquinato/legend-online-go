@@ -1,0 +1,241 @@
+{
+  "sources": {
+    "QuestTemps": "d77d93277738cef375dc005f31e519bb53d452053ca59e8b782f2bef9eea56f5",
+    "QuestCondictionInfos": "3ebb2764bcedb77716f71ed3b49bcf7b1a149795e45d95f8c6cda8ffd017cfb4",
+    "QuestGoods": "bc0ccaa3767228886eaac39c4440264dae0743ad5a3e9584d51a6a4740407b61"
+  },
+  "quests": [
+    {
+      "template": {
+        "TemplateId": "1902",
+        "TemplateType": "0",
+        "Title": "Despertamento do Rei Fera I",
+        "Detail": "<font size='14'color='#12ea17' >Oferta do Deus da Fera, o espírito antigo dos corajosos, após o despertamento da fera, ele irá tornar no seu companheiro mais fiel e corajoso. </font><br>Adestrar alma da fera para nv.5. </font>",
+        "Objective": "",
+        "NeedFightId": "0",
+        "NeedBuildingTemp": "0",
+        "NeedItemTemp": "0",
+        "NeedPos": "0",
+        "NeedMinLevel": "70",
+        "NeedMaxLevel": "100",
+        "PreQuestId": "",
+        "IsLeague": "false",
+        "IsAuto": "true",
+        "IsRepeat": "false",
+        "IsLost": "false",
+        "RepeatInterval": "24",
+        "RepeatMax": "1",
+        "RewardPlayGP": "0",
+        "RewardHeroGP": "0",
+        "RewardGold": "0",
+        "RewardCrystal": "0",
+        "RewardDower": "0",
+        "RewardMoney": "0",
+        "RewardConsortiaOffer": "0",
+        "RewardPlayerOffer": "0",
+        "StartDate": "2000-01-01 00:00:00",
+        "EndDate": "2050-01-01 00:00:00",
+        "WeekSpace": "",
+        "HourSpace": "",
+        "RewardStrategy": "0",
+        "Sort": "2.0",
+        "ShowType": "0"
+      },
+      "conditions": [
+        {
+          "TemplateId": "1902",
+          "CondictionType": "203",
+          "CondictionTitle": "Fera alcançou 5ª ordem",
+          "Para1": "0",
+          "Para2": "5",
+          "Para3": "0",
+          "Para4": "0"
+        }
+      ],
+      "items": [
+        {
+          "TemplateId": "1902",
+          "RewardItemID": "2131500",
+          "IsSelect": "false",
+          "RewardItemCount": "1",
+          "ToJob": "0",
+          "ValidDate": "0"
+        }
+      ]
+    },
+    {
+      "template": {
+        "TemplateId": "1903",
+        "TemplateType": "0",
+        "Title": "Despertamento do Rei Fera Ⅱ",
+        "Detail": "<font size='14'color='#12ea17' >Oferta do Deus da Fera, o espírito antigo dos corajosos, após o despertamento da fera, ele irá tornar no seu companheiro mais fiel e corajoso. </font><br>Adestrar alma da fera para nv.6. </font>",
+        "Objective": "",
+        "NeedFightId": "0",
+        "NeedBuildingTemp": "0",
+        "NeedItemTemp": "0",
+        "NeedPos": "0",
+        "NeedMinLevel": "70",
+        "NeedMaxLevel": "100",
+        "PreQuestId": "1902",
+        "IsLeague": "false",
+        "IsAuto": "true",
+        "IsRepeat": "false",
+        "IsLost": "false",
+        "RepeatInterval": "24",
+        "RepeatMax": "1",
+        "RewardPlayGP": "0",
+        "RewardHeroGP": "0",
+        "RewardGold": "0",
+        "RewardCrystal": "0",
+        "RewardDower": "0",
+        "RewardMoney": "0",
+        "RewardConsortiaOffer": "0",
+        "RewardPlayerOffer": "0",
+        "StartDate": "2000-01-01 00:00:00",
+        "EndDate": "2050-01-01 00:00:00",
+        "WeekSpace": "",
+        "HourSpace": "",
+        "RewardStrategy": "0",
+        "Sort": "2.0",
+        "ShowType": "0"
+      },
+      "conditions": [
+        {
+          "TemplateId": "1903",
+          "CondictionType": "203",
+          "CondictionTitle": "Fera alcançou 6ª ordem",
+          "Para1": "0",
+          "Para2": "6",
+          "Para3": "0",
+          "Para4": "0"
+        }
+      ],
+      "items": [
+        {
+          "TemplateId": "1903",
+          "RewardItemID": "2131500",
+          "IsSelect": "false",
+          "RewardItemCount": "1",
+          "ToJob": "0",
+          "ValidDate": "0"
+        }
+      ]
+    },
+    {
+      "template": {
+        "TemplateId": "1904",
+        "TemplateType": "0",
+        "Title": "Despertamento do Rei Fera Ⅲ",
+        "Detail": "<font size='14'color='#12ea17' >Oferta do Deus da Fera, o espírito antigo dos corajosos, após o despertamento da fera, ele irá tornar no seu companheiro mais fiel e corajoso. </font><br>Adestrar alma da fera para nv.7. </font>",
+        "Objective": "",
+        "NeedFightId": "0",
+        "NeedBuildingTemp": "0",
+        "NeedItemTemp": "0",
+        "NeedPos": "0",
+        "NeedMinLevel": "70",
+        "NeedMaxLevel": "100",
+        "PreQuestId": "1903",
+        "IsLeague": "false",
+        "IsAuto": "true",
+        "IsRepeat": "false",
+        "IsLost": "false",
+        "RepeatInterval": "24",
+        "RepeatMax": "1",
+        "RewardPlayGP": "0",
+        "RewardHeroGP": "0",
+        "RewardGold": "0",
+        "RewardCrystal": "0",
+        "RewardDower": "0",
+        "RewardMoney": "0",
+        "RewardConsortiaOffer": "0",
+        "RewardPlayerOffer": "0",
+        "StartDate": "2000-01-01 00:00:00",
+        "EndDate": "2050-01-01 00:00:00",
+        "WeekSpace": "",
+        "HourSpace": "",
+        "RewardStrategy": "0",
+        "Sort": "2.0",
+        "ShowType": "0"
+      },
+      "conditions": [
+        {
+          "TemplateId": "1904",
+          "CondictionType": "203",
+          "CondictionTitle": "Fera alcançou 7ª ordem",
+          "Para1": "0",
+          "Para2": "7",
+          "Para3": "0",
+          "Para4": "0"
+        }
+      ],
+      "items": [
+        {
+          "TemplateId": "1904",
+          "RewardItemID": "2131500",
+          "IsSelect": "false",
+          "RewardItemCount": "1",
+          "ToJob": "0",
+          "ValidDate": "0"
+        }
+      ]
+    },
+    {
+      "template": {
+        "TemplateId": "1905",
+        "TemplateType": "0",
+        "Title": "Despertamento do Rei Fera Ⅳ",
+        "Detail": "<font size='14'color='#12ea17' >Oferta do Deus da Fera, o espírito antigo dos corajosos, após o despertamento da fera, ele irá tornar no seu companheiro mais fiel e corajoso. </font><br>Adestrar alma da fera para nv.8. </font>",
+        "Objective": "",
+        "NeedFightId": "0",
+        "NeedBuildingTemp": "0",
+        "NeedItemTemp": "0",
+        "NeedPos": "0",
+        "NeedMinLevel": "70",
+        "NeedMaxLevel": "100",
+        "PreQuestId": "1904",
+        "IsLeague": "false",
+        "IsAuto": "true",
+        "IsRepeat": "false",
+        "IsLost": "false",
+        "RepeatInterval": "24",
+        "RepeatMax": "1",
+        "RewardPlayGP": "0",
+        "RewardHeroGP": "0",
+        "RewardGold": "0",
+        "RewardCrystal": "0",
+        "RewardDower": "0",
+        "RewardMoney": "0",
+        "RewardConsortiaOffer": "0",
+        "RewardPlayerOffer": "0",
+        "StartDate": "2000-01-01 00:00:00",
+        "EndDate": "2050-01-01 00:00:00",
+        "WeekSpace": "",
+        "HourSpace": "",
+        "RewardStrategy": "0",
+        "Sort": "2.0",
+        "ShowType": "0"
+      },
+      "conditions": [
+        {
+          "TemplateId": "1905",
+          "CondictionType": "203",
+          "CondictionTitle": "Fera alcançou 8ª ordem",
+          "Para1": "0",
+          "Para2": "8",
+          "Para3": "0",
+          "Para4": "0"
+        }
+      ],
+      "items": [
+        {
+          "TemplateId": "1905",
+          "RewardItemID": "2131500",
+          "IsSelect": "false",
+          "RewardItemCount": "1",
+          "ToJob": "0",
+          "ValidDate": "0"
+        }
+      ]
+    }
+  ]
+}

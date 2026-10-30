@@ -1,0 +1,3642 @@
+{
+  "source": "data\\backups\\campaign-session-2026-10-13T19-53-30.855Z",
+  "phases": [
+    {
+      "id": 1201,
+      "name": "Pântanos da Banshee",
+      "map": 1301,
+      "indices": [
+        175,
+        176,
+        177
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 840,
+          "spirit": 39,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 840,
+          "spirit": 37,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 37,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 23000
+    },
+    {
+      "id": 1202,
+      "name": "Pântano das Trevas",
+      "map": 1311,
+      "indices": [
+        178,
+        179,
+        180
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 896,
+          "spirit": 76,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 896,
+          "spirit": 165,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 79,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 25600
+    },
+    {
+      "id": 1203,
+      "name": "Pântano da Morte",
+      "map": 1341,
+      "indices": [
+        181,
+        182,
+        183
+      ],
+      "stages": [
+        {
+          "node": 2,
+          "xp": 952,
+          "spirit": 62,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 952,
+          "spirit": 193,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 92,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 28200
+    },
+    {
+      "id": 1204,
+      "name": "Lago da Tranquilidade",
+      "map": 1351,
+      "indices": [
+        184,
+        185,
+        186
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 952,
+          "spirit": 45,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 952,
+          "spirit": 215,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 86,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 28200
+    },
+    {
+      "id": 1205,
+      "name": "Templo Timor Ka",
+      "map": 1371,
+      "indices": [
+        187,
+        188,
+        189
+      ],
+      "stages": [
+        {
+          "node": 2,
+          "xp": 1008,
+          "spirit": 432,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 1008,
+          "spirit": 437,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 191,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 30900
+    },
+    {
+      "id": 1206,
+      "name": "Ruína dos Imortais",
+      "map": 1401,
+      "indices": [
+        190,
+        191,
+        192
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 1064,
+          "spirit": 250,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 1064,
+          "spirit": 561,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 675,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 33700
+    },
+    {
+      "id": 1207,
+      "name": "Terra dos Mortos",
+      "map": 1411,
+      "indices": [
+        193,
+        194,
+        195,
+        196
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 1064,
+          "spirit": 440,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 1064,
+          "spirit": 348,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 1064,
+          "spirit": 466,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 445,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 33700
+    },
+    {
+      "id": 1301,
+      "name": "Reino em Chamas",
+      "map": 1441,
+      "indices": [
+        197,
+        198,
+        199
+      ],
+      "stages": [
+        {
+          "node": 2,
+          "xp": 1400,
+          "spirit": 513,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 1400,
+          "spirit": 251,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 838,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 52900
+    },
+    {
+      "id": 1302,
+      "name": "Deserto Amaldiçoado",
+      "map": 1451,
+      "indices": [
+        200,
+        201,
+        202
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 1572,
+          "spirit": 1041,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 1572,
+          "spirit": 629,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 1095,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 57400
+    },
+    {
+      "id": 1303,
+      "name": "Campo do Crepúsculo",
+      "map": 1471,
+      "indices": [
+        203,
+        204,
+        205
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 1652,
+          "spirit": 1024,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 1652,
+          "spirit": 815,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 1072,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 62200
+    },
+    {
+      "id": 1304,
+      "name": "Dunas da Morte",
+      "map": 1501,
+      "indices": [
+        206,
+        207,
+        208
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 1896,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 1896,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 67000
+    },
+    {
+      "id": 1305,
+      "name": "Reino do Desespero",
+      "map": 1521,
+      "indices": [
+        209,
+        210,
+        211
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 2052,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 2216,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 67000
+    },
+    {
+      "id": 1306,
+      "name": "Deserto de Ukiha",
+      "map": 1531,
+      "indices": [
+        212,
+        213,
+        214
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 2216,
+          "spirit": 33,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 2512,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 50,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 69500
+    },
+    {
+      "id": 1307,
+      "name": "Ilusão da Morte",
+      "map": 1561,
+      "indices": [
+        215,
+        216,
+        217
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 2512,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 2512,
+          "spirit": 34,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 442,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 72100
+    },
+    {
+      "id": 1308,
+      "name": "Cemitério dos Dragões",
+      "map": 1581,
+      "indices": [
+        218,
+        219,
+        220,
+        221
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 2800,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 2800,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 2800,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 72100
+    },
+    {
+      "id": 1401,
+      "name": "Julgamento de Coragem",
+      "map": 1601,
+      "indices": [
+        222,
+        223,
+        224
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 3200,
+          "spirit": 33,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 3600,
+          "spirit": 45,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 114300
+    },
+    {
+      "id": 1402,
+      "name": "Julgamento Sanguinário",
+      "map": 1611,
+      "indices": [
+        225,
+        226,
+        227
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 4000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 4000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 35,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 122600
+    },
+    {
+      "id": 1403,
+      "name": "Julgamento do Pesadelo",
+      "map": 1631,
+      "indices": [
+        228,
+        229,
+        230
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 4200,
+          "spirit": 107,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 7000,
+          "spirit": 86,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 131300
+    },
+    {
+      "id": 1404,
+      "name": "Julgamento do Demônio",
+      "map": 1661,
+      "indices": [
+        231,
+        232,
+        233
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 4200,
+          "spirit": 33,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 4200,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 131300
+    },
+    {
+      "id": 1405,
+      "name": "Julgamento do Caos",
+      "map": 1671,
+      "indices": [
+        234,
+        235,
+        236
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 4800,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 5200,
+          "spirit": 25,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 140100
+    },
+    {
+      "id": 1406,
+      "name": "Julgamento da Morte",
+      "map": 1691,
+      "indices": [
+        237,
+        238,
+        239
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 4800,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 5200,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 140100
+    },
+    {
+      "id": 1407,
+      "name": "Julgamento da Alma",
+      "map": 1711,
+      "indices": [
+        240,
+        241,
+        242,
+        243
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 6000,
+          "spirit": 37,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 6000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 6000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 88,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 149300
+    },
+    {
+      "id": 1501,
+      "name": "Garganta Sanguinária",
+      "map": 1741,
+      "indices": [
+        244,
+        245,
+        246
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 6400,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 6400,
+          "spirit": 65,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 112,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 239000
+    },
+    {
+      "id": 1502,
+      "name": "Palácio em Chamas",
+      "map": 1751,
+      "indices": [
+        247,
+        248,
+        249
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 6800,
+          "spirit": 54,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 6800,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 127,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 254400
+    },
+    {
+      "id": 1503,
+      "name": "Mundo do Juízo",
+      "map": 1771,
+      "indices": [
+        250,
+        251,
+        252
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 7200,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 7200,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 349,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 270200
+    },
+    {
+      "id": 1504,
+      "name": "Cemitério das Almas",
+      "map": 1791,
+      "indices": [
+        253,
+        254,
+        255
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 7200,
+          "spirit": 148,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 7200,
+          "spirit": 50,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 61,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 270200
+    },
+    {
+      "id": 1505,
+      "name": "Templo do Corruptor",
+      "map": 1821,
+      "indices": [
+        256,
+        257,
+        258
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 7600,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 7600,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 105,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 286500
+    },
+    {
+      "id": 1506,
+      "name": "Trono da Destruição",
+      "map": 1831,
+      "indices": [
+        259,
+        260,
+        261
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 8000,
+          "spirit": 53,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 8000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 303,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 303200
+    },
+    {
+      "id": 1507,
+      "name": "Fonte da Maldição",
+      "map": 1861,
+      "indices": [
+        262,
+        263,
+        264,
+        265
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 8000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 8000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 8000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 131,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 303200
+    },
+    {
+      "id": 1601,
+      "name": "Santuário Eterno",
+      "map": 1871,
+      "indices": [
+        266,
+        267,
+        268,
+        269
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 12000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 12000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 12000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 184,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129809,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 490000
+    },
+    {
+      "id": 1602,
+      "name": "Rumo Infinito",
+      "map": 1891,
+      "indices": [
+        270,
+        271,
+        272,
+        273
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 12000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 12000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 12000,
+          "spirit": 145,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 215,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129810,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 490000
+    },
+    {
+      "id": 11101,
+      "name": "Abismo do Sussuro (Herói)",
+      "map": 11111,
+      "stages": [
+        {
+          "node": 2,
+          "xp": 560,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129006,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 3000
+    },
+    {
+      "id": 11102,
+      "name": "Pantanal do Rugido (Herói)",
+      "map": 11201,
+      "stages": [
+        {
+          "node": 2,
+          "xp": 588,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129006,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 9000
+    },
+    {
+      "id": 11103,
+      "name": "Campo da Penumbra (Herói)",
+      "map": 11211,
+      "stages": [
+        {
+          "node": 2,
+          "xp": 644,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129006,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 16500
+    },
+    {
+      "id": 11105,
+      "name": "Selva Escura (Herói)",
+      "map": 11231,
+      "stages": [
+        {
+          "node": 2,
+          "xp": 672,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129006,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 17550
+    },
+    {
+      "id": 11106,
+      "name": "Vila de Loya (Herói)",
+      "map": 11261,
+      "stages": [
+        {
+          "node": 2,
+          "xp": 728,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040103,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129006,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 2040103,
+          "count": 5,
+          "bind": 1
+        }
+      ],
+      "completionXp": 19800
+    },
+    {
+      "id": 11201,
+      "name": "Pântanos da Banshee (Herói)",
+      "map": 11301,
+      "indices": [
+        274,
+        275,
+        276
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 840,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 840,
+          "spirit": 91,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 165,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 34500
+    },
+    {
+      "id": 11202,
+      "name": "Pântano das Trevas (Herói)",
+      "map": 11311,
+      "indices": [
+        277,
+        278,
+        279
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 896,
+          "spirit": 257,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 896,
+          "spirit": 111,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 278,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 38400
+    },
+    {
+      "id": 11203,
+      "name": "Pântano da Morte (Herói)",
+      "map": 11341,
+      "indices": [
+        280,
+        281,
+        282
+      ],
+      "stages": [
+        {
+          "node": 2,
+          "xp": 952,
+          "spirit": 189,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 952,
+          "spirit": 155,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 290,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 42300
+    },
+    {
+      "id": 11204,
+      "name": "Lago da Tranquilidade (Herói)",
+      "map": 11351,
+      "indices": [
+        283,
+        284,
+        285
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 952,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 952,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 426,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 42300
+    },
+    {
+      "id": 11205,
+      "name": "Templo Timor Ka (Herói)",
+      "map": 11371,
+      "indices": [
+        286,
+        287,
+        288
+      ],
+      "stages": [
+        {
+          "node": 2,
+          "xp": 1008,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 1008,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 611,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 46350
+    },
+    {
+      "id": 11206,
+      "name": "Ruína dos Imortais (Herói)",
+      "map": 11401,
+      "indices": [
+        289,
+        290,
+        291
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 1064,
+          "spirit": 328,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 1064,
+          "spirit": 601,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 50550
+    },
+    {
+      "id": 11207,
+      "name": "Terra dos Mortos (Herói)",
+      "map": 11411,
+      "indices": [
+        292,
+        293,
+        294,
+        295
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 1064,
+          "spirit": 220,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 1064,
+          "spirit": 310,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 1064,
+          "spirit": 303,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 1202,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 50550
+    },
+    {
+      "id": 11301,
+      "name": "Reino em Chamas (Herói)",
+      "map": 11441,
+      "indices": [
+        296,
+        297,
+        298
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 1400,
+          "spirit": 709,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 1400,
+          "spirit": 1047,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 601,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 79350
+    },
+    {
+      "id": 11302,
+      "name": "Deserto Amaldiçoado (Herói)",
+      "map": 11451,
+      "indices": [
+        299,
+        300,
+        301
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 1572,
+          "spirit": 1202,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 1572,
+          "spirit": 1110,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 64,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 86100
+    },
+    {
+      "id": 11303,
+      "name": "Campo do Crepúsculo (Herói)",
+      "map": 11471,
+      "indices": [
+        302,
+        303,
+        304
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 1652,
+          "spirit": 64,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 1652,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 93300
+    },
+    {
+      "id": 11304,
+      "name": "Dunas da Morte (Herói)",
+      "map": 11501,
+      "indices": [
+        305,
+        306,
+        307
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 1896,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 1896,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 134,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 100500
+    },
+    {
+      "id": 11305,
+      "name": "Reino do Desespero (Herói)",
+      "map": 11521,
+      "indices": [
+        308,
+        309,
+        310
+      ],
+      "stages": [
+        {
+          "node": 2,
+          "xp": 2052,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 2216,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 0,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 100500
+    },
+    {
+      "id": 11306,
+      "name": "Deserto de Ukiha (Herói)",
+      "map": 11531,
+      "indices": [
+        311,
+        312,
+        313
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 2216,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 2216,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 216,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 104250
+    },
+    {
+      "id": 11307,
+      "name": "Ilusão da Morte (Herói)",
+      "map": 11561,
+      "indices": [
+        314,
+        315,
+        316
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 2512,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 2512,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 371,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 108150
+    },
+    {
+      "id": 11308,
+      "name": "Cemitério dos Dragões (Herói)",
+      "map": 11581,
+      "indices": [
+        317,
+        318,
+        319,
+        320
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 2800,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 2800,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 2800,
+          "spirit": 212,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 239,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129700,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 108150
+    },
+    {
+      "id": 11401,
+      "name": "Julgamento de Coragem (Herói)",
+      "map": 11601,
+      "indices": [
+        321,
+        322,
+        323
+      ],
+      "stages": [
+        {
+          "node": 2,
+          "xp": 3200,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 3600,
+          "spirit": 116,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 112,
+          "gold": 0,
+          "drops": [
+            [
+              2040104,
+              5
+            ]
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 171450
+    },
+    {
+      "id": 11402,
+      "name": "Julgamento Sanguinário (Herói)",
+      "map": 11611,
+      "indices": [
+        324,
+        325,
+        326
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 4000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 4000,
+          "spirit": 72,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 171,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 183900
+    },
+    {
+      "id": 11403,
+      "name": "Julgamento do Pesadelo (Herói)",
+      "map": 11631,
+      "indices": [
+        327,
+        328,
+        329
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 4200,
+          "spirit": 63,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 7000,
+          "spirit": 61,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 121,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 196950
+    },
+    {
+      "id": 11404,
+      "name": "Julgamento do Demônio (Herói)",
+      "map": 11661,
+      "indices": [
+        330,
+        331,
+        332
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 4200,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 4200,
+          "spirit": 63,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 186,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 196950
+    },
+    {
+      "id": 11405,
+      "name": "Julgamento do Caos (Herói)",
+      "map": 11671,
+      "indices": [
+        333,
+        334,
+        335
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 4800,
+          "spirit": 87,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 4800,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 193,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 210150
+    },
+    {
+      "id": 11406,
+      "name": "Julgamento da Morte (Herói)",
+      "map": 11691,
+      "indices": [
+        336,
+        337,
+        338
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 4800,
+          "spirit": 132,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 5200,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 421,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 210150
+    },
+    {
+      "id": 11407,
+      "name": "Julgamento da Alma (Herói)",
+      "map": 11711,
+      "indices": [
+        339,
+        340,
+        341,
+        342
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 6000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 6000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 6000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 581,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040104,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 223950
+    },
+    {
+      "id": 11501,
+      "name": "Sangue de Canyon (Herói)",
+      "map": 11741,
+      "indices": [
+        343,
+        344,
+        345
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 6400,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 6400,
+          "spirit": 237,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 601,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 358500
+    },
+    {
+      "id": 11502,
+      "name": "Santuário das Chamas (Herói)",
+      "map": 11751,
+      "indices": [
+        346,
+        347,
+        348
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 6800,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 6800,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 601,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 381600
+    },
+    {
+      "id": 11503,
+      "name": "Espelho do Julgamento (Herói)",
+      "map": 11771,
+      "indices": [
+        349,
+        350,
+        351
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 7200,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 7200,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 601,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 405300
+    },
+    {
+      "id": 11504,
+      "name": "Cemitério das Almas (Herói)",
+      "map": 11791,
+      "indices": [
+        352,
+        353,
+        354
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 7200,
+          "spirit": 117,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 7200,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 601,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 405300
+    },
+    {
+      "id": 11505,
+      "name": "Templo da Queda (Herói)",
+      "map": 11821,
+      "indices": [
+        355,
+        356,
+        357
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 7600,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 7600,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 601,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 429750
+    },
+    {
+      "id": 11506,
+      "name": "Trono da Destruição (Herói)",
+      "map": 11831,
+      "indices": [
+        358,
+        359,
+        360
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 8000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 8000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 1202,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 454800
+    },
+    {
+      "id": 11507,
+      "name": "Fonte da Maldição (Herói)",
+      "map": 11861,
+      "indices": [
+        361,
+        362,
+        363,
+        364
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 8000,
+          "spirit": 97,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 8000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 8000,
+          "spirit": 96,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 601,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129800,
+          "count": 40,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 454800
+    },
+    {
+      "id": 11601,
+      "name": "Santuário Eterno (Herói)",
+      "map": 11871,
+      "indices": [
+        365,
+        366,
+        367,
+        368
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 12000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 12000,
+          "spirit": 345,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 12000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 601,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129809,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 735000
+    },
+    {
+      "id": 11602,
+      "name": "Caminho Infinito (Herói)",
+      "map": 11891,
+      "indices": [
+        369,
+        370,
+        371,
+        372
+      ],
+      "stages": [
+        {
+          "node": 1,
+          "xp": 12000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 2,
+          "xp": 12000,
+          "spirit": 153,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 3,
+          "xp": 12000,
+          "spirit": 0,
+          "gold": 0,
+          "drops": []
+        },
+        {
+          "node": 4,
+          "xp": 0,
+          "spirit": 601,
+          "gold": 0,
+          "drops": []
+        }
+      ],
+      "cards": [
+        {
+          "templateId": 2129810,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 3101071,
+          "count": 1,
+          "bind": 1
+        },
+        {
+          "templateId": 2040105,
+          "count": 1,
+          "bind": 1
+        }
+      ],
+      "completionXp": 735000
+    }
+  ],
+  "unchangedCampaigns": [
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1101,
+    1102,
+    1103,
+    1104,
+    1105,
+    1106,
+    1107,
+    11104,
+    11107
+  ],
+  "total": 83
+}

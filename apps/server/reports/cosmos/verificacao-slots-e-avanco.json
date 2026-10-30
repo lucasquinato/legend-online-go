@@ -1,0 +1,93 @@
+{
+  "at": "2026-10-15T18:35:26.756Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 4,
+    "boot": "0421816b-551d-42ec-8dd8-ce30b8d34599",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "effects": [
+    {
+      "bufferId": 80701,
+      "percent": 2,
+      "maxLevel10": 20,
+      "chance": 10,
+      "cap": null
+    },
+    {
+      "bufferId": 80702,
+      "percent": 5,
+      "maxLevel10": 50,
+      "chance": 10,
+      "cap": null
+    },
+    {
+      "bufferId": 80901,
+      "percent": 2,
+      "maxLevel10": 20,
+      "chance": 10,
+      "cap": null
+    },
+    {
+      "bufferId": 80902,
+      "percent": 5,
+      "maxLevel10": 50,
+      "chance": 10,
+      "cap": null
+    }
+  ],
+  "modules": [
+    {
+      "id": 2,
+      "status": 200,
+      "md5": "21e1f0b3",
+      "sha256": "850c1b536a82903c4bf626cda45061cf49e621cca8db5fdd5276b73bfaa5c24d",
+      "classes": 5155,
+      "protectedTagsByteIdentical": true,
+      "nativeLoaded": true,
+      "nativeVerified": true
+    },
+    {
+      "id": 5,
+      "status": 200,
+      "md5": "e967aba1",
+      "sha256": "712ea7a9f6c26af7003c6587a4993303fac83ddae341564a4707cc0e849fc747",
+      "classes": 407,
+      "protectedTagsByteIdentical": true,
+      "nativeLoaded": true,
+      "nativeVerified": true
+    }
+  ],
+  "tests": {
+    "path": "data/cosmos-slot80-tests.log",
+    "tests": 25,
+    "pass": 25,
+    "fail": 0
+  },
+  "contract": {
+    "path": "data/cosmos-slot80-contract.log",
+    "tests": 7,
+    "pass": 7,
+    "fail": 0
+  },
+  "slotTen": {
+    "minimumLevel": 80,
+    "requiresProfession": false,
+    "requiresQuest1802": false,
+    "nativeBehaviorVerified": true
+  },
+  "advancedNotImplemented": [
+    "slotRefinement",
+    "sacredElevation",
+    "sacredGrowth"
+  ],
+  "backup": "data/backups/cosmos-slot80-2026-10-15T18-27-11.146Z",
+  "visualInteraction": "Pending user validation after reopening launcher"
+}

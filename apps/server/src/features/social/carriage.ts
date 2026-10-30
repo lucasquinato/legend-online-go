@@ -1,0 +1,6 @@
+import type {Message} from '../../messages.js';
+// Native MarryCarAi / MarryCarView move five pixels per frame (nominal 25 fps, EnterFrameManager default).
+export const carriagePixelsPerSecond=125;
+export function carriageRoute(value:string):{x:number;y:number}[]{const route=value.split('|').map(pair=>{const [x,y]=pair.split(',').map(Number);return{x:x!,y:y!};});if(route.length<2||route.some(p=>!Number.isFinite(p.x)||!Number.isFinite(p.y)))throw new Error('Percurso de carruagem inválido');return route;}
+export function carriageDuration(route:{x:number;y:number}[]):number{return Math.ceil(route.slice(1).reduce((n,p,i)=>n+Math.hypot(p.x-route[i]!.x,p.y-route[i]!.y)*20,0)/carriagePixelsPerSecond*1000);}
+export function remainingCarriagePath(trip:Message,now:number):string|undefined{if(now>=Number(trip.endsAt))return;const route=carriageRoute(String(trip.path));let remaining=Math.max(0,now-Number(trip.startedAt))*carriagePixelsPerSecond/1000/20;for(let i=1;i<route.length;i++){const a=route[i-1]!,b=route[i]!,distance=Math.hypot(b.x-a.x,b.y-a.y);if(distance<=remaining){remaining-=distance;continue;}const t=remaining/distance,first={x:a.x+(b.x-a.x)*t,y:a.y+(b.y-a.y)*t};return[first,...route.slice(i)].map(p=>`${Math.round(p.x*100)/100},${Math.round(p.y*100)/100}`).join('|');}return;}

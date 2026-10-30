@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-12T19:36:28.170Z",
+  "sources": [
+    {
+      "name": "current2.png",
+      "bytes": 4495749,
+      "sha256": "962ae0a03dcd555c26be41a28a5d28027886f4b8eb4566fe19177fc3bbdca8e8"
+    },
+    {
+      "name": "current2.swf",
+      "bytes": 4495731,
+      "sha256": "6a758ea0e997bd8b88d1354cecb49ec4eb90620ced8635f36f32c5cc9c64fa75"
+    },
+    {
+      "name": "current3.png",
+      "bytes": 1723012,
+      "sha256": "9f0459d08e9e2a058e5eb4d38a286a377ea4ef6aa3a4a675c85f73452159f995"
+    },
+    {
+      "name": "current3.swf",
+      "bytes": 1722994,
+      "sha256": "ef7d1c7ca051ab005612ad17edd5a34f59f59574b879bb5cfd28817399d40b89"
+    }
+  ],
+  "rules": {
+    "state": {
+      "opcode": 4282,
+      "message": "simple.PropertyMsg",
+      "field": "param1",
+      "source": "version3/scripts/map/campaign/mediator/singlecampaign/SingleCampaignNpcNode.as",
+      "visible": "curIndex == data.Index",
+      "gray": "curIndex > data.Index"
+    },
+    "cardRequest": {
+      "opcode": 5122,
+      "source": "version2/scripts/map/campaign/CampaignSocketOutManager.as",
+      "fields": {
+        "para_int1": "army identity",
+        "para_int2": "card index 0-4",
+        "para_bool1": "request flag"
+      }
+    },
+    "cardResponse": {
+      "opcode": 26,
+      "source": "version2/scripts/map/internals/battle/ChestFrame.as",
+      "exit": "client sends 5180 after selection; server responds 134"
+    }
+  },
+  "limits": [
+    "Original reward probability weights unavailable; local equal weights among Campaigns.Item IDs",
+    "Only one free card reward per campaign; paid additional cards not reconstructed"
+  ]
+}

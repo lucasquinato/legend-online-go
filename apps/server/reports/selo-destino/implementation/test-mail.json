@@ -1,0 +1,129 @@
+{
+  "at": "2026-10-20T08:57:04.273Z",
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\soul-fate-mail-2026-10-20T08-56-53.859Z",
+  "accounts": [
+    {
+      "username": "pirata_teste",
+      "userId": 1826,
+      "materials": [
+        {
+          "template": 208031,
+          "required": 14400,
+          "owned": 0,
+          "sent": 14400,
+          "name": "Selo da Alma"
+        },
+        {
+          "template": 208024,
+          "required": 26735,
+          "owned": 0,
+          "sent": 26735,
+          "name": "Pedra do Destino"
+        },
+        {
+          "template": 211001,
+          "required": 26735,
+          "owned": 0,
+          "sent": 26735,
+          "name": "Selo da Tenacidade"
+        },
+        {
+          "template": 3300101,
+          "required": 26735,
+          "owned": 0,
+          "sent": 26735,
+          "name": "Esfera da Determinação"
+        }
+      ],
+      "mails": [
+        1000752,
+        1000753,
+        1000754
+      ],
+      "mailboxBytes": 40945,
+      "progressChanged": false
+    },
+    {
+      "username": "pirata_teste_2",
+      "userId": 1827,
+      "materials": [
+        {
+          "template": 208031,
+          "required": 14400,
+          "owned": 0,
+          "sent": 14400,
+          "name": "Selo da Alma"
+        },
+        {
+          "template": 208024,
+          "required": 26735,
+          "owned": 0,
+          "sent": 26735,
+          "name": "Pedra do Destino"
+        },
+        {
+          "template": 211001,
+          "required": 26735,
+          "owned": 0,
+          "sent": 26735,
+          "name": "Selo da Tenacidade"
+        },
+        {
+          "template": 3300101,
+          "required": 26735,
+          "owned": 0,
+          "sent": 26735,
+          "name": "Esfera da Determinação"
+        }
+      ],
+      "mails": [
+        1000755,
+        1000756,
+        1000757
+      ],
+      "mailboxBytes": 43253,
+      "progressChanged": false
+    },
+    {
+      "username": "pirata_teste_3",
+      "userId": 1828,
+      "materials": [
+        {
+          "template": 208031,
+          "required": 14400,
+          "owned": 0,
+          "sent": 14400,
+          "name": "Selo da Alma"
+        },
+        {
+          "template": 208024,
+          "required": 26735,
+          "owned": 0,
+          "sent": 26735,
+          "name": "Pedra do Destino"
+        },
+        {
+          "template": 211001,
+          "required": 26735,
+          "owned": 0,
+          "sent": 26735,
+          "name": "Selo da Tenacidade"
+        },
+        {
+          "template": 3300101,
+          "required": 26735,
+          "owned": 0,
+          "sent": 26735,
+          "name": "Esfera da Determinação"
+        }
+      ],
+      "mails": [
+        1000758,
+        1000759,
+        1000760
+      ],
+      "mailboxBytes": 43045,
+      "progressChanged": false
+    }
+  ]
+}

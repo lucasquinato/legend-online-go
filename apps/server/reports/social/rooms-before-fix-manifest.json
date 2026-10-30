@@ -1,0 +1,69 @@
+{
+  "sourcePath": "/cdn/9_177f9627.png",
+  "sourceSha256": "e9271f2fb5a8dde618a31b69c26bde729d2fea9a0bf9a06d63668952743865e8",
+  "sha256": "acdc9c40e2f03ea1da70bb66370923723e3a31aac7ef69a10dc0f8bac6a96641",
+  "bytes": 330967,
+  "md5": "9e512286",
+  "audit": {
+    "sourceSha256": "e9271f2fb5a8dde618a31b69c26bde729d2fea9a0bf9a06d63668952743865e8",
+    "candidateSha256": "acdc9c40e2f03ea1da70bb66370923723e3a31aac7ef69a10dc0f8bac6a96641",
+    "classes": 215,
+    "unchangedTags": 212,
+    "allowedMethods": 21,
+    "otherMethodsPreserved": 147,
+    "emptyAbc": false,
+    "duplicates": false,
+    "protectedTagsByteIdentical": true,
+    "strippedCandidateSha256": "97c85316b7e52dcbcbc70be41119df7d267a84f2ec92c8650c333d70914265c3",
+    "addedClasses": [
+      "SocialMarriageBridge"
+    ],
+    "bridgeSha256": "2ad60be7e83f521c2e4ece05f7ff903778cbbd8f325d4331aff7e2e60767ee79"
+  },
+  "runtime": {
+    "baseline": {
+      "at": "2026-10-20T23:44:29.221Z",
+      "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\6fc30509-6457-4fb1-9d3f-5566e78ab40b\\social-baseline-core.swf",
+      "exitCode": 0,
+      "timedOut": false,
+      "loaded": true,
+      "verified": true,
+      "expectedNativeTermination": false,
+      "logs": [
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/6fc30509-6457-4fb1-9d3f-5566e78ab40b/social-baseline-core.swf",
+        "verified managers.FreedomTeamManager [class FreedomTeamManager]",
+        "verified chat.view.ChatItemMenu [class ChatItemMenu]",
+        "verified mvc.module.marry.MarryModel [class MarryModel]",
+        "social-baseline-level-gates-reproduced"
+      ],
+      "runtime": "log\tLoading.swf 4586 bytes em 87 ms (AIR WIN 51,4,1,1)\n"
+    },
+    "candidate": {
+      "at": "2026-10-20T23:44:40.163Z",
+      "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\6fc30509-6457-4fb1-9d3f-5566e78ab40b\\social-candidate-core.swf",
+      "exitCode": 0,
+      "timedOut": false,
+      "loaded": true,
+      "verified": true,
+      "expectedNativeTermination": false,
+      "logs": [
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/6fc30509-6457-4fb1-9d3f-5566e78ab40b/social-candidate-core.swf",
+        "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/6fc30509-6457-4fb1-9d3f-5566e78ab40b/social-ui-alias.swf",
+        "bridge-before-adapt",
+        "verified mvc.module.marry.MarryModel [class MarryModel]",
+        "social-level-one-team-private-wedding-passed",
+        "ring-before-construction",
+        "bridge-after-adapt",
+        "verified managers.FreedomTeamManager [class FreedomTeamManager]",
+        "verified chat.view.ChatItemMenu [class ChatItemMenu]",
+        "proposal-caught Error: marry.propose.MarryQuestFrame.hasLover Error: marry.propose.MarryQuestFrame.hasLover\n\tat yishi.view.tips::MessageTipManager/show()\n\tat marry.propose::MarryQuestFrame/__proposeHandler()\n\tat MountRuntimeProbe/test()\n\tat MountRuntimeProbe/next()\n\tat Function/<anonymous>()",
+        "social-level-one-proposal-passed",
+        "ring-before-init",
+        "social-marriage-native-ring-init-passed"
+      ],
+      "runtime": "log\tLoading.swf 4586 bytes em 91 ms (AIR WIN 51,4,1,1)\n"
+    }
+  }
+}

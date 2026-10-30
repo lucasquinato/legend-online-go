@@ -1,0 +1,36 @@
+{
+  "baseline": {
+    "at": "2026-10-19T04:32:22.346Z",
+    "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\740c3a4a-b484-40d1-8bbb-ecb9ca135615\\campaign-baseline-alias.swf",
+    "exitCode": 0,
+    "timedOut": false,
+    "loaded": true,
+    "verified": true,
+    "expectedNativeTermination": false,
+    "logs": [
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/chat/local-ui/local-2.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/740c3a4a-b484-40d1-8bbb-ecb9ca135615/campaign-baseline-alias.swf",
+      "verified map.campaign.mediator.singlecampaign.SingleCampaignNpcAvatarView [class SingleCampaignNpcAvatarView]",
+      "baseline-campaign-import-3226-reproduced"
+    ],
+    "runtime": "log\tLoading.swf 3954 bytes em 43 ms (AIR WIN 51,4,1,1)\n"
+  },
+  "candidate": {
+    "at": "2026-10-19T04:32:31.393Z",
+    "target": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\reference\\ui-compat\\staging\\740c3a4a-b484-40d1-8bbb-ecb9ca135615\\campaign-candidate-alias.swf",
+    "exitCode": 0,
+    "timedOut": false,
+    "loaded": true,
+    "verified": true,
+    "expectedNativeTermination": false,
+    "logs": [
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/chat/local-ui/local-2.swf",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/staging/740c3a4a-b484-40d1-8bbb-ecb9ca135615/campaign-candidate-alias.swf",
+      "verified map.campaign.mediator.singlecampaign.SingleCampaignNpcAvatarView [class SingleCampaignNpcAvatarView]",
+      "campaign-avatar-native-import-passed"
+    ],
+    "runtime": "log\tLoading.swf 3954 bytes em 68 ms (AIR WIN 51,4,1,1)\n"
+  }
+}

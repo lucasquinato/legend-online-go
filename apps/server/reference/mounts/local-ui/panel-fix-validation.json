@@ -1,0 +1,30 @@
+{
+  "at": "2026-10-14T06:17:03.644Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 3,
+    "boot": "97a0e9a9-ae64-474a-a355-050e84b1de4d",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "resource": {
+    "md5": "94a95094",
+    "sha256": "50cd35c61e287bf1a33cf6b4320d66a145a60ab2b226a26645d5425ffbc39a99",
+    "bytes": 370255
+  },
+  "integrity": {
+    "preservedMethods": 45,
+    "changedMethods": 1,
+    "constructorPreserved": true,
+    "compiler": "instruction-only patch"
+  },
+  "typecheck": "passed",
+  "mountTests": 14,
+  "visualLauncher": "pending player validation"
+}

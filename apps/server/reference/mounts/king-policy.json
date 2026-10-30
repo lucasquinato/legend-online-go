@@ -1,0 +1,177 @@
+{
+  "source": "reports/montarias/acervo.json",
+  "sourceSha256": "2be9f9ba5f207ccd26718de8869e4ebc793f9e8747c782e265d90784c0f172d4",
+  "evidence": "captured-online",
+  "extraPercent": 100,
+  "packets": 609,
+  "observations": 2388,
+  "levels": [
+    0,
+    59,
+    109,
+    159,
+    180
+  ],
+  "updates": [
+    {
+      "at": "2026-10-12T18:27:21.561Z",
+      "connection": "d72498b5-5c79-434e-b83a-27353de5362f",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9004,
+      "extra_star": 100,
+      "level": 59,
+      "gp": 4950
+    },
+    {
+      "at": "2026-10-12T18:27:24.046Z",
+      "connection": "d72498b5-5c79-434e-b83a-27353de5362f",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9004,
+      "extra_star": 100,
+      "level": 109,
+      "gp": 4900
+    },
+    {
+      "at": "2026-10-12T18:27:26.132Z",
+      "connection": "d72498b5-5c79-434e-b83a-27353de5362f",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9004,
+      "extra_star": 100,
+      "level": 159,
+      "gp": 4850
+    },
+    {
+      "at": "2026-10-12T18:27:27.775Z",
+      "connection": "d72498b5-5c79-434e-b83a-27353de5362f",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9004,
+      "extra_star": 100,
+      "level": 180,
+      "gp": 0
+    },
+    {
+      "at": "2026-10-12T18:27:44.202Z",
+      "connection": "d72498b5-5c79-434e-b83a-27353de5362f",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9001,
+      "extra_star": 100,
+      "level": 59,
+      "gp": 4950
+    },
+    {
+      "at": "2026-10-12T18:27:45.363Z",
+      "connection": "d72498b5-5c79-434e-b83a-27353de5362f",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9001,
+      "extra_star": 100,
+      "level": 109,
+      "gp": 4900
+    },
+    {
+      "at": "2026-10-13T23:09:29.222Z",
+      "connection": "07c50fe6-63c5-46cb-8526-2b601a2cab08",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9001,
+      "extra_star": 100,
+      "level": 159,
+      "gp": 4850
+    },
+    {
+      "at": "2026-10-13T23:09:30.876Z",
+      "connection": "07c50fe6-63c5-46cb-8526-2b601a2cab08",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9001,
+      "extra_star": 100,
+      "level": 180,
+      "gp": 0
+    },
+    {
+      "at": "2026-10-13T23:09:35.963Z",
+      "connection": "07c50fe6-63c5-46cb-8526-2b601a2cab08",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9002,
+      "extra_star": 100,
+      "level": 59,
+      "gp": 4950
+    },
+    {
+      "at": "2026-10-13T23:09:37.555Z",
+      "connection": "07c50fe6-63c5-46cb-8526-2b601a2cab08",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9002,
+      "extra_star": 100,
+      "level": 109,
+      "gp": 4900
+    },
+    {
+      "at": "2026-10-13T23:09:38.534Z",
+      "connection": "07c50fe6-63c5-46cb-8526-2b601a2cab08",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9002,
+      "extra_star": 100,
+      "level": 159,
+      "gp": 4850
+    },
+    {
+      "at": "2026-10-13T23:09:40.310Z",
+      "connection": "07c50fe6-63c5-46cb-8526-2b601a2cab08",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9002,
+      "extra_star": 100,
+      "level": 180,
+      "gp": 0
+    },
+    {
+      "at": "2026-10-13T23:09:46.409Z",
+      "connection": "07c50fe6-63c5-46cb-8526-2b601a2cab08",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9003,
+      "extra_star": 100,
+      "level": 59,
+      "gp": 4950
+    },
+    {
+      "at": "2026-10-13T23:09:47.706Z",
+      "connection": "07c50fe6-63c5-46cb-8526-2b601a2cab08",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9003,
+      "extra_star": 100,
+      "level": 109,
+      "gp": 4900
+    },
+    {
+      "at": "2026-10-13T23:09:49.192Z",
+      "connection": "07c50fe6-63c5-46cb-8526-2b601a2cab08",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9003,
+      "extra_star": 100,
+      "level": 159,
+      "gp": 4850
+    },
+    {
+      "at": "2026-10-13T23:09:50.520Z",
+      "connection": "07c50fe6-63c5-46cb-8526-2b601a2cab08",
+      "user": 1265,
+      "opcode": 4974,
+      "template_id": 9003,
+      "extra_star": 100,
+      "level": 180,
+      "gp": 0
+    }
+  ]
+}

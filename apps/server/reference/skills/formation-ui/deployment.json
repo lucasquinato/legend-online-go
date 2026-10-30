@@ -1,0 +1,22 @@
+{
+  "at": "2026-10-14T16:34:58.166Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 3,
+    "boot": "bd413cf3-379b-454a-b5b3-d3836c5bf4fc",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "url": "/cdn/5_d30c9749.png",
+  "sha256": "efac9af74fafb7fba223224874894c97d54142620b1c3a92375875640ab36648",
+  "bytes": 674099,
+  "nativeClassesVerified": 7,
+  "testsPassed": 51,
+  "accountsReset": false
+}

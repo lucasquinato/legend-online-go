@@ -1,0 +1,77 @@
+{
+  "at": "2026-10-15T16:15:50.705Z",
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\lucky-stone-mail-2026-10-15T16-15-49.206Z",
+  "items": [
+    {
+      "template": 2040101,
+      "count": 999,
+      "name": "Gema da Sorte Nv. 1"
+    },
+    {
+      "template": 2040102,
+      "count": 999,
+      "name": "Gema da Sorte Nv. 2"
+    },
+    {
+      "template": 2040103,
+      "count": 999,
+      "name": "Gema da Sorte Nv. 3"
+    },
+    {
+      "template": 2040104,
+      "count": 999,
+      "name": "Gema da Sorte Nv. 4"
+    },
+    {
+      "template": 2040105,
+      "count": 999,
+      "name": "Gema da Sorte Nv. 5"
+    },
+    {
+      "template": 2040106,
+      "count": 999,
+      "name": "Gema da Sorte Nv. 6"
+    },
+    {
+      "template": 2040107,
+      "count": 999,
+      "name": "Gema da Sorte Nv. 7"
+    },
+    {
+      "template": 2040108,
+      "count": 999,
+      "name": "Gema da Sorte Nv. 8"
+    },
+    {
+      "template": 2040109,
+      "count": 999,
+      "name": "Gema da Sorte Nv. 9"
+    }
+  ],
+  "accounts": [
+    {
+      "username": "pirata_teste",
+      "userId": 1826,
+      "mails": [
+        1000223,
+        1000224
+      ]
+    },
+    {
+      "username": "pirata_teste_2",
+      "userId": 1827,
+      "mails": [
+        1000225,
+        1000226
+      ]
+    },
+    {
+      "username": "pirata_teste_3",
+      "userId": 1828,
+      "mails": [
+        1000227,
+        1000228
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "at": "2026-10-16T03:10:24.119Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 4,
+    "boot": "7a0f3e22-bbda-4a06-abf9-6705494d4e5e",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "tableResponse": {
+    "status": 200,
+    "bytes": 3379937,
+    "declaredCompressedBytes": 3379933,
+    "actualCompressedBytes": 3379933,
+    "headerCorrect": true
+  },
+  "accountsUnchanged": false,
+  "tests": {
+    "passed": 60,
+    "failed": 0
+  },
+  "accountAudit": {
+    "identityUnchanged": true,
+    "backup": "data/backups/loading-header-2026-10-16T03-09-17.158Z",
+    "note": "Os saves continuaram recebendo ações de sessões ativas após a reinicialização; não se exige igualdade do snapshot de gameplay.",
+    "details": "account-check.json"
+  },
+  "nativeRuntime": {
+    "loaded": true,
+    "verified": true,
+    "timedOut": false,
+    "logs": [
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+      "verified com.pickgliss.loader.data.LoaderInfo [class LoaderInfo]",
+      "verified com.pickgliss.loaderii.BaseLoaderII [class BaseLoaderII]",
+      "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/chat/local-ui/local-2.swf",
+      "stale-header-rejection-reproduced",
+      "native-table-loader-passed tables=292 bytes=62259294"
+    ]
+  }
+}

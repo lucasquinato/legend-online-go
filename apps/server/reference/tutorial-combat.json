@@ -1,0 +1,1955 @@
+{
+  "source": "Captured online tutorial; mage icon 6. Other class damage is calibrated using recovered skill tables.",
+  "initialHero": {
+    "hero_id": 1824,
+    "nick_name": "lucasss",
+    "tempate_id": 6,
+    "player_id": 1824,
+    "remain_point": 0,
+    "skill_point": 0,
+    "skill_script": "30711,30811,",
+    "fast_key": "307,308,",
+    "hp": 200,
+    "total_power": 5,
+    "total_agility": 5,
+    "total_intellect": 5,
+    "total_captain": 100,
+    "total_physique": 5,
+    "total_phy_attack": 20,
+    "total_phy_defence": 25,
+    "total_magic_attack": 20,
+    "total_magic_defence": 25,
+    "total_force_hit": 10,
+    "total_parry": 10,
+    "total_conat_army": 100,
+    "total_live": 200,
+    "base_power": 5,
+    "base_agility": 5,
+    "base_intellect": 5,
+    "base_captain": 100,
+    "base_physique": 5,
+    "base_phy_attack": 20,
+    "base_phy_defence": 25,
+    "base_magic_attack": 20,
+    "base_magic_defence": 25,
+    "base_force_hit": 10,
+    "base_parry": 10,
+    "base_conat_army": 100,
+    "base_live": 200,
+    "fight_pos": 3,
+    "skill_index": 0,
+    "is_activeSecond": 0,
+    "head_id": 6,
+    "talent_point": 0,
+    "talent_grade": 1,
+    "talent_skill": "",
+    "fighting_capacity": 271,
+    "rune": {
+      "user_id": 1824,
+      "runeKey": "-1,-1"
+    },
+    "fireResi": 0,
+    "waterResi": 0,
+    "electResi": 0,
+    "windResi": 0,
+    "darkResi": 0,
+    "lightResi": 0,
+    "reduce_resi": 0,
+    "total_strength": 0,
+    "base_strength": 0,
+    "total_tenacity": 0,
+    "base_tenacity": 0,
+    "total_penetrate": 0,
+    "base_penetrate": 0,
+    "total_stunAttr": 0,
+    "base_stunAttr": 0
+  },
+  "cityHero": {
+    "hero_id": 1824,
+    "nick_name": "lucasss",
+    "tempate_id": 6,
+    "player_id": 1824,
+    "remain_point": 0,
+    "skill_point": 0,
+    "skill_script": "30711,30811,30111,30211,31011,",
+    "fast_key": "307,308,310,",
+    "hp": 508,
+    "total_power": 5,
+    "total_agility": 17,
+    "total_intellect": 35,
+    "total_captain": 205,
+    "total_physique": 15,
+    "total_phy_attack": 38,
+    "total_phy_defence": 89,
+    "total_magic_attack": 181,
+    "total_magic_defence": 140,
+    "total_force_hit": 10,
+    "total_parry": 10,
+    "total_conat_army": 205,
+    "total_live": 508,
+    "base_power": 5,
+    "base_agility": 15,
+    "base_intellect": 35,
+    "base_captain": 200,
+    "base_physique": 15,
+    "base_phy_attack": 20,
+    "base_phy_defence": 65,
+    "base_magic_attack": 147,
+    "base_magic_defence": 95,
+    "base_force_hit": 10,
+    "base_parry": 10,
+    "base_conat_army": 200,
+    "base_live": 490,
+    "fight_pos": 3,
+    "skill_index": 0,
+    "is_activeSecond": 0,
+    "head_id": 6,
+    "talent_point": 0,
+    "talent_grade": 1,
+    "talent_skill": "",
+    "fighting_capacity": 796,
+    "rune": {
+      "user_id": 1824,
+      "runeKey": "-1,-1"
+    },
+    "fireResi": 0,
+    "waterResi": 0,
+    "electResi": 0,
+    "windResi": 0,
+    "darkResi": 0,
+    "lightResi": 0,
+    "reduce_resi": 0,
+    "total_strength": 0,
+    "base_strength": 0,
+    "total_tenacity": 0,
+    "base_tenacity": 0,
+    "total_penetrate": 0,
+    "base_penetrate": 0,
+    "total_stunAttr": 0,
+    "base_stunAttr": 0
+  },
+  "encounters": [
+    {
+      "prepare": {
+        "battle_id": "795eb57e-7547-4ffe-91ec-a3b19ba4e354",
+        "battle_type": 6,
+        "map_temp_id": 10002,
+        "need_animation": 1,
+        "side": 1,
+        "use_way": 0,
+        "attack_model": 0,
+        "reinforceCount": 0,
+        "currentReinforce": 0,
+        "battle_capity": 1,
+        "damage_improve": 0,
+        "soldiers": [
+          {
+            "living_id": 2,
+            "temp_id": 2007,
+            "type": 1,
+            "side": 2,
+            "pos": 2,
+            "init_hp": 8,
+            "hp": 8,
+            "qte_time": 0,
+            "cast_time": 4500,
+            "skillId": [
+              40204,
+              40205
+            ]
+          },
+          {
+            "living_id": 3,
+            "temp_id": 2007,
+            "type": 1,
+            "side": 2,
+            "pos": 8,
+            "init_hp": 8,
+            "hp": 8,
+            "qte_time": 0,
+            "cast_time": 4500,
+            "skillId": [
+              40204,
+              40205
+            ]
+          }
+        ],
+        "heros": [
+          {
+            "hero_id": 1824,
+            "living_id": 1,
+            "user_id": 1824,
+            "user_pics": 6,
+            "temp_id": 6,
+            "type": 1,
+            "nick_name": "lucasss",
+            "grade": 1,
+            "side": 1,
+            "pos": 6,
+            "max_hp": 200,
+            "init_hp": 200,
+            "hp": 200,
+            "hp2": 0,
+            "sp": 0,
+            "slot_avata": "",
+            "cloth_avate": "",
+            "cloak_path": "",
+            "hair_path": "",
+            "captain": 100,
+            "res": "",
+            "qte_time": 0,
+            "cast_time": 4500,
+            "pawn_temp_id": 0,
+            "skillId": [
+              30711,
+              30811
+            ],
+            "head_id": 6,
+            "is_show": 0,
+            "server_name": "Remake",
+            "wing_avata": "",
+            "hat_avata": "",
+            "fashion_arm_avata": "",
+            "fashion_cloth_avata": "",
+            "spMax": 100,
+            "hitPointMax": 5
+          }
+        ],
+        "coolDown": [
+          {
+            "templated_id": 30711,
+            "cool_down": 0,
+            "cool_type": 1,
+            "appear_cool_down": 0
+          },
+          {
+            "templated_id": 30811,
+            "cool_down": 0,
+            "cool_type": 1,
+            "appear_cool_down": 0
+          }
+        ]
+      },
+      "actions": [
+        {
+          "battle_id": "795eb57e-7547-4ffe-91ec-a3b19ba4e354",
+          "frame": 88,
+          "order_id": 40205,
+          "is_passive": 0,
+          "living_id": 2,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 14,
+              "left_value": 186,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 88,
+          "frame_num": 26,
+          "attack_millis": "2026-10-11 15:49:15",
+          "buffers": [
+            {
+              "source_id": 2,
+              "target_id": 2,
+              "exec_frame": 88,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "1"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "795eb57e-7547-4ffe-91ec-a3b19ba4e354",
+          "frame": 101,
+          "order_id": 40205,
+          "is_passive": 0,
+          "living_id": 3,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 15,
+              "left_value": 171,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 101,
+          "frame_num": 26,
+          "attack_millis": "2026-10-11 15:49:15",
+          "buffers": [
+            {
+              "source_id": 3,
+              "target_id": 3,
+              "exec_frame": 101,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "1"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "795eb57e-7547-4ffe-91ec-a3b19ba4e354",
+          "frame": 125,
+          "order_id": 30711,
+          "is_passive": 0,
+          "living_id": 1,
+          "sp": 16,
+          "sp_added": 16,
+          "damages": [
+            {
+              "living_id": 3,
+              "damage_type": 6,
+              "damage_value": 11,
+              "left_value": 0,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 125,
+          "frame_num": 39,
+          "attack_millis": "2026-10-11 15:49:18",
+          "buffers": [
+            {
+              "source_id": 1,
+              "target_id": 1,
+              "exec_frame": 125,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "1"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "795eb57e-7547-4ffe-91ec-a3b19ba4e354",
+          "frame": 225,
+          "order_id": 40205,
+          "is_passive": 0,
+          "living_id": 2,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 15,
+              "left_value": 156,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 225,
+          "frame_num": 26,
+          "attack_millis": "2026-10-11 15:49:23",
+          "buffers": [
+            {
+              "source_id": 2,
+              "target_id": 2,
+              "exec_frame": 225,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "2"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "795eb57e-7547-4ffe-91ec-a3b19ba4e354",
+          "frame": 275,
+          "order_id": 30000,
+          "is_passive": 0,
+          "living_id": 1,
+          "sp": 18,
+          "sp_added": 2,
+          "damages": [
+            {
+              "living_id": 2,
+              "damage_type": 6,
+              "damage_value": 10,
+              "left_value": 0,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 275,
+          "frame_num": 39,
+          "attack_millis": "2026-10-11 15:49:25",
+          "buffers": [
+            {
+              "source_id": 1,
+              "target_id": 1,
+              "exec_frame": 275,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "2"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        }
+      ],
+      "finish": {
+        "frame": 366,
+        "prepareOverLivings": [
+          {
+            "calc_type": 3,
+            "living_id": 1,
+            "sp": 18
+          }
+        ]
+      }
+    },
+    {
+      "prepare": {
+        "battle_id": "68e029c2-ab0b-4cda-bca5-995148440213",
+        "battle_type": 304,
+        "map_temp_id": 10002,
+        "need_animation": 1,
+        "side": 1,
+        "use_way": 0,
+        "attack_model": 2,
+        "reinforceCount": 0,
+        "currentReinforce": 0,
+        "battle_capity": 1,
+        "damage_improve": 0,
+        "heros": [
+          {
+            "hero_id": 1824,
+            "living_id": 1,
+            "user_id": 1824,
+            "user_pics": 6,
+            "temp_id": 6,
+            "type": 1,
+            "nick_name": "lucasss",
+            "grade": 2,
+            "side": 1,
+            "pos": 6,
+            "max_hp": 230,
+            "init_hp": 230,
+            "hp": 230,
+            "hp2": 0,
+            "sp": 50,
+            "slot_avata": "",
+            "cloth_avate": "",
+            "cloak_path": "",
+            "hair_path": "",
+            "captain": 110,
+            "res": "",
+            "qte_time": 0,
+            "cast_time": 4500,
+            "pawn_temp_id": 0,
+            "skillId": [
+              30711,
+              30811
+            ],
+            "head_id": 6,
+            "is_show": 0,
+            "server_name": "Remake",
+            "wing_avata": "",
+            "hat_avata": "",
+            "fashion_arm_avata": "",
+            "fashion_cloth_avata": "",
+            "spMax": 100,
+            "hitPointMax": 5
+          },
+          {
+            "hero_id": 2100000000,
+            "living_id": 2,
+            "user_id": 0,
+            "user_pics": 0,
+            "temp_id": 1008,
+            "type": 3,
+            "nick_name": "Cavaleiro das Chamas Débora",
+            "grade": 3,
+            "side": 2,
+            "pos": 5,
+            "max_hp": 100,
+            "init_hp": 100,
+            "hp": 100,
+            "hp2": 0,
+            "sp": 0,
+            "slot_avata": "",
+            "cloth_avate": "",
+            "cloak_path": "",
+            "hair_path": "",
+            "captain": 4,
+            "res": "boss032",
+            "qte_time": 0,
+            "cast_time": 4500,
+            "pawn_temp_id": 0,
+            "skillId": [
+              10000,
+              40210,
+              40211,
+              650493
+            ],
+            "is_show": 0,
+            "spMax": 100,
+            "hitPointMax": 5
+          }
+        ],
+        "soldierTemplated": [
+          2006,
+          2006
+        ],
+        "coolDown": [
+          {
+            "templated_id": 30711,
+            "cool_down": 0,
+            "cool_type": 1,
+            "appear_cool_down": 0
+          },
+          {
+            "templated_id": 30811,
+            "cool_down": 0,
+            "cool_type": 1,
+            "appear_cool_down": 0
+          }
+        ]
+      },
+      "actions": [
+        {
+          "battle_id": "68e029c2-ab0b-4cda-bca5-995148440213",
+          "frame": 88,
+          "order_id": 40210,
+          "is_passive": 0,
+          "living_id": 2,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 18,
+              "left_value": 212,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 88,
+          "frame_num": 31,
+          "attack_millis": "2026-10-11 15:49:55",
+          "buffers": [
+            {
+              "source_id": 2,
+              "target_id": 2,
+              "exec_frame": 88,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "1"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "68e029c2-ab0b-4cda-bca5-995148440213",
+          "frame": 125,
+          "order_id": 30711,
+          "is_passive": 0,
+          "living_id": 1,
+          "sp": 66,
+          "sp_added": 16,
+          "damages": [
+            {
+              "living_id": 2,
+              "damage_type": 6,
+              "damage_value": 12,
+              "left_value": 88,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 125,
+          "frame_num": 39,
+          "attack_millis": "2026-10-11 15:49:56",
+          "buffers": [
+            {
+              "source_id": 1,
+              "target_id": 1,
+              "exec_frame": 125,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "1"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "68e029c2-ab0b-4cda-bca5-995148440213",
+          "frame": 234,
+          "order_id": 40211,
+          "is_passive": 0,
+          "living_id": 2,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 20,
+              "left_value": 192,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 234,
+          "frame_num": 29,
+          "attack_millis": "2026-10-11 15:50:01",
+          "buffers": [
+            {
+              "source_id": 2,
+              "target_id": 2,
+              "exec_frame": 234,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "2"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "68e029c2-ab0b-4cda-bca5-995148440213",
+          "frame": 274,
+          "order_id": 30000,
+          "is_passive": 0,
+          "living_id": 1,
+          "sp": 68,
+          "sp_added": 2,
+          "damages": [
+            {
+              "living_id": 2,
+              "damage_type": 6,
+              "damage_value": 11,
+              "left_value": 77,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 274,
+          "frame_num": 39,
+          "attack_millis": "2026-10-11 15:50:03",
+          "buffers": [
+            {
+              "source_id": 1,
+              "target_id": 1,
+              "exec_frame": 274,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "2"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "68e029c2-ab0b-4cda-bca5-995148440213",
+          "frame": 371,
+          "order_id": 650493,
+          "is_passive": 0,
+          "living_id": 2,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 13,
+              "left_value": 179,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            },
+            {
+              "living_id": 2,
+              "damage_type": 19,
+              "damage_value": 0,
+              "left_value": 0,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 0,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 371,
+          "frame_num": 39,
+          "attack_millis": "2026-10-11 15:50:06",
+          "buffers": [
+            {
+              "source_id": 2,
+              "target_id": 2,
+              "exec_frame": 371,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awakenSoldiers": [
+            {
+              "living_id": 3,
+              "temp_id": 2008,
+              "type": 1,
+              "side": 1,
+              "pos": 4,
+              "init_hp": 200,
+              "hp": 200,
+              "qte_time": 0,
+              "cast_time": 4500,
+              "skillId": [
+                60457,
+                60458
+              ]
+            },
+            {
+              "living_id": 4,
+              "temp_id": 2006,
+              "type": 1,
+              "side": 2,
+              "pos": 1,
+              "init_hp": 8,
+              "hp": 8,
+              "qte_time": 0,
+              "cast_time": 4500,
+              "skillId": [
+                40208,
+                40209
+              ]
+            },
+            {
+              "living_id": 5,
+              "temp_id": 2006,
+              "type": 1,
+              "side": 2,
+              "pos": 7,
+              "init_hp": 8,
+              "hp": 8,
+              "qte_time": 0,
+              "cast_time": 4500,
+              "skillId": [
+                40208,
+                40209
+              ]
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "3"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "68e029c2-ab0b-4cda-bca5-995148440213",
+          "frame": 510,
+          "order_id": 30811,
+          "is_passive": 0,
+          "living_id": 1,
+          "sp": 52,
+          "sp_added": -16,
+          "damages": [
+            {
+              "living_id": 2,
+              "damage_type": 6,
+              "damage_value": 6,
+              "left_value": 71,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            },
+            {
+              "living_id": 2,
+              "damage_type": 6,
+              "damage_value": 6,
+              "left_value": 65,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 1,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            },
+            {
+              "living_id": 4,
+              "damage_type": 6,
+              "damage_value": 9,
+              "left_value": 0,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            },
+            {
+              "living_id": 4,
+              "damage_type": 6,
+              "damage_value": 9,
+              "left_value": 0,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 1,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            },
+            {
+              "living_id": 5,
+              "damage_type": 6,
+              "damage_value": 9,
+              "left_value": 0,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            },
+            {
+              "living_id": 5,
+              "damage_type": 6,
+              "damage_value": 9,
+              "left_value": 0,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 1,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 510,
+          "frame_num": 39,
+          "attack_millis": "2026-10-11 15:50:21",
+          "buffers": [
+            {
+              "source_id": 1,
+              "target_id": 1,
+              "exec_frame": 510,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "3"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "68e029c2-ab0b-4cda-bca5-995148440213",
+          "frame": 519,
+          "order_id": 40212,
+          "is_passive": 0,
+          "living_id": 2,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 3,
+              "damage_type": 6,
+              "damage_value": 31,
+              "left_value": 169,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 519,
+          "frame_num": 29,
+          "attack_millis": "2026-10-11 15:50:23",
+          "buffers": [
+            {
+              "source_id": 2,
+              "target_id": 2,
+              "exec_frame": 519,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "4"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "68e029c2-ab0b-4cda-bca5-995148440213",
+          "frame": 641,
+          "order_id": 60458,
+          "is_passive": 0,
+          "living_id": 3,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 2,
+              "damage_type": 6,
+              "damage_value": 98,
+              "left_value": 0,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 641,
+          "frame_num": 38,
+          "attack_millis": "2026-10-11 15:50:28",
+          "buffers": [
+            {
+              "source_id": 3,
+              "target_id": 3,
+              "exec_frame": 641,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "1"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        }
+      ],
+      "finish": {
+        "frame": 731,
+        "prepareOverLivings": [
+          {
+            "calc_type": 3,
+            "living_id": 1,
+            "sp": 52
+          },
+          {
+            "calc_type": 3,
+            "living_id": 3,
+            "sp": 0
+          }
+        ]
+      }
+    },
+    {
+      "prepare": {
+        "battle_id": "7245763f-378a-4d41-9d44-1285086719e1",
+        "battle_type": 15,
+        "map_temp_id": 1,
+        "need_animation": 1,
+        "side": 1,
+        "use_way": 0,
+        "attack_model": 2,
+        "reinforceCount": 0,
+        "currentReinforce": 0,
+        "battle_capity": 1,
+        "damage_improve": 0,
+        "heros": [
+          {
+            "hero_id": 2100000000,
+            "living_id": 1,
+            "user_id": 0,
+            "user_pics": 0,
+            "temp_id": 1009,
+            "type": 3,
+            "nick_name": "Cavaleiro Encantado Débora",
+            "grade": 3,
+            "side": 2,
+            "pos": 6,
+            "max_hp": 400,
+            "init_hp": 400,
+            "hp": 400,
+            "hp2": 0,
+            "sp": 0,
+            "slot_avata": "",
+            "cloth_avate": "",
+            "cloak_path": "",
+            "hair_path": "",
+            "captain": 4,
+            "res": "boss032a",
+            "qte_time": 0,
+            "cast_time": 4500,
+            "pawn_temp_id": 0,
+            "skillId": [
+              10000,
+              40212,
+              40212,
+              40213
+            ],
+            "is_show": 0,
+            "spMax": 100,
+            "hitPointMax": 5
+          },
+          {
+            "hero_id": 2100000000,
+            "living_id": 2,
+            "user_id": 0,
+            "user_pics": 0,
+            "temp_id": 1010,
+            "type": 3,
+            "nick_name": "Sacrifício de Sofia",
+            "grade": 1,
+            "side": 1,
+            "pos": 3,
+            "max_hp": 250,
+            "init_hp": 250,
+            "hp": 250,
+            "hp2": 0,
+            "sp": 0,
+            "slot_avata": "",
+            "cloth_avate": "",
+            "cloak_path": "",
+            "hair_path": "",
+            "captain": 4,
+            "res": "boss040",
+            "qte_time": 0,
+            "cast_time": 4500,
+            "pawn_temp_id": 0,
+            "skillId": [
+              10000,
+              40183,
+              40183
+            ],
+            "is_show": 0,
+            "spMax": 100,
+            "hitPointMax": 5
+          },
+          {
+            "hero_id": 1824,
+            "living_id": 3,
+            "user_id": 1824,
+            "user_pics": 6,
+            "temp_id": 6,
+            "type": 1,
+            "nick_name": "lucasss",
+            "grade": 10,
+            "side": 1,
+            "pos": 5,
+            "max_hp": 508,
+            "init_hp": 508,
+            "hp": 508,
+            "hp2": 0,
+            "sp": 100,
+            "slot_avata": "",
+            "cloth_avate": "",
+            "cloak_path": "",
+            "hair_path": "",
+            "captain": 205,
+            "res": "",
+            "qte_time": 0,
+            "cast_time": 4500,
+            "pawn_temp_id": 0,
+            "skillId": [
+              30711,
+              30811,
+              30111,
+              30211,
+              31011
+            ],
+            "head_id": 6,
+            "buffers": [
+              {
+                "buffer_id": 1,
+                "template_id": 30111,
+                "source_id": 3,
+                "target_id": 3,
+                "cur_turn": -1,
+                "see_type": 1,
+                "pressed_num": 1,
+                "isPermanent": 1,
+                "$15": {
+                  "wire": 0,
+                  "value": "18446744073709551615"
+                },
+                "$16": {
+                  "wire": 0,
+                  "value": "18446744073709551615"
+                }
+              }
+            ],
+            "is_show": 0,
+            "server_name": "Remake",
+            "wing_avata": "",
+            "hat_avata": "",
+            "fashion_arm_avata": "",
+            "fashion_cloth_avata": "",
+            "spMax": 100,
+            "hitPointMax": 5
+          }
+        ],
+        "coolDown": [
+          {
+            "templated_id": 30711,
+            "cool_down": 0,
+            "cool_type": 1,
+            "appear_cool_down": 0
+          },
+          {
+            "templated_id": 30811,
+            "cool_down": 0,
+            "cool_type": 1,
+            "appear_cool_down": 0
+          },
+          {
+            "templated_id": 31011,
+            "cool_down": 0,
+            "cool_type": 1,
+            "appear_cool_down": 0
+          }
+        ]
+      },
+      "actions": [
+        {
+          "battle_id": "7245763f-378a-4d41-9d44-1285086719e1",
+          "frame": 88,
+          "order_id": 40212,
+          "is_passive": 0,
+          "living_id": 1,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 3,
+              "damage_type": 6,
+              "damage_value": 59,
+              "left_value": 449,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 88,
+          "frame_num": 29,
+          "attack_millis": "2026-10-11 15:51:19",
+          "buffers": [
+            {
+              "source_id": 1,
+              "target_id": 1,
+              "exec_frame": 88,
+              "see_type": 1,
+              "exe_way": 1
+            },
+            {
+              "buffer_id": 1,
+              "template_id": 30111,
+              "source_id": 3,
+              "target_id": 3,
+              "cur_turn": -1,
+              "exec_frame": 0,
+              "see_type": 1,
+              "exe_way": 0,
+              "pressed_num": 1,
+              "max_turn": -1,
+              "isPermanent": 1,
+              "$15": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$16": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$17": {
+                "wire": 0,
+                "value": "0"
+              }
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "1"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "7245763f-378a-4d41-9d44-1285086719e1",
+          "frame": 125,
+          "order_id": 31011,
+          "is_passive": 0,
+          "living_id": 3,
+          "sp": 23,
+          "sp_added": -80,
+          "damages": [
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 80,
+              "left_value": 320,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            },
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 80,
+              "left_value": 240,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 1,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            },
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 80,
+              "left_value": 160,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 2,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 125,
+          "frame_num": 79,
+          "attack_millis": "2026-10-11 15:51:21",
+          "buffers": [
+            {
+              "source_id": 3,
+              "target_id": 3,
+              "exec_frame": 125,
+              "see_type": 1,
+              "exe_way": 1
+            },
+            {
+              "buffer_id": 1,
+              "template_id": 30111,
+              "source_id": 3,
+              "target_id": 3,
+              "cur_turn": -1,
+              "exec_frame": 0,
+              "see_type": 1,
+              "exe_way": 3,
+              "pressed_num": 1,
+              "damage": [
+                {
+                  "living_id": 3,
+                  "damage_type": 9,
+                  "damage_value": 3,
+                  "left_value": 23,
+                  "extra_data": 0,
+                  "parry": 0,
+                  "order": 0,
+                  "hp_limit": 0,
+                  "resi_type": 0,
+                  "resi_value": 0,
+                  "resi_percent": 0,
+                  "buffer_type": 0
+                }
+              ],
+              "max_turn": -1,
+              "isPermanent": 1,
+              "$15": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$16": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$17": {
+                "wire": 0,
+                "value": "0"
+              }
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "1"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "7245763f-378a-4d41-9d44-1285086719e1",
+          "frame": 225,
+          "order_id": 40212,
+          "is_passive": 0,
+          "living_id": 1,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 3,
+              "damage_type": 6,
+              "damage_value": 63,
+              "left_value": 386,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 225,
+          "frame_num": 29,
+          "attack_millis": "2026-10-11 15:51:25",
+          "buffers": [
+            {
+              "source_id": 1,
+              "target_id": 1,
+              "exec_frame": 225,
+              "see_type": 1,
+              "exe_way": 1
+            },
+            {
+              "buffer_id": 1,
+              "template_id": 30111,
+              "source_id": 3,
+              "target_id": 3,
+              "cur_turn": -1,
+              "exec_frame": 0,
+              "see_type": 1,
+              "exe_way": 3,
+              "pressed_num": 1,
+              "max_turn": -1,
+              "isPermanent": 1,
+              "$15": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$16": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$17": {
+                "wire": 0,
+                "value": "0"
+              }
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "2"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "7245763f-378a-4d41-9d44-1285086719e1",
+          "frame": 245,
+          "order_id": 40183,
+          "is_passive": 0,
+          "living_id": 2,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 3,
+              "damage_type": 6,
+              "damage_value": -51,
+              "left_value": 437,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 245,
+          "frame_num": 38,
+          "attack_millis": "2026-10-11 15:51:26",
+          "buffers": [
+            {
+              "source_id": 2,
+              "target_id": 2,
+              "exec_frame": 245,
+              "see_type": 1,
+              "exe_way": 1
+            },
+            {
+              "buffer_id": 1,
+              "template_id": 30111,
+              "source_id": 3,
+              "target_id": 3,
+              "cur_turn": -1,
+              "exec_frame": 0,
+              "see_type": 1,
+              "exe_way": 3,
+              "pressed_num": 1,
+              "max_turn": -1,
+              "isPermanent": 1,
+              "$15": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$16": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$17": {
+                "wire": 0,
+                "value": "0"
+              }
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "1"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "7245763f-378a-4d41-9d44-1285086719e1",
+          "frame": 312,
+          "order_id": 30811,
+          "is_passive": 0,
+          "living_id": 3,
+          "sp": 9,
+          "sp_added": -16,
+          "damages": [
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 54,
+              "left_value": 106,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            },
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 55,
+              "left_value": 51,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 1,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 312,
+          "frame_num": 39,
+          "attack_millis": "2026-10-11 15:51:30",
+          "buffers": [
+            {
+              "source_id": 3,
+              "target_id": 3,
+              "exec_frame": 312,
+              "see_type": 1,
+              "exe_way": 1
+            },
+            {
+              "buffer_id": 1,
+              "template_id": 30111,
+              "source_id": 3,
+              "target_id": 3,
+              "cur_turn": -1,
+              "exec_frame": 0,
+              "see_type": 1,
+              "exe_way": 3,
+              "pressed_num": 1,
+              "damage": [
+                {
+                  "living_id": 3,
+                  "damage_type": 9,
+                  "damage_value": 2,
+                  "left_value": 9,
+                  "extra_data": 0,
+                  "parry": 0,
+                  "order": 0,
+                  "hp_limit": 0,
+                  "resi_type": 0,
+                  "resi_value": 0,
+                  "resi_percent": 0,
+                  "buffer_type": 0
+                }
+              ],
+              "max_turn": -1,
+              "isPermanent": 1,
+              "$15": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$16": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$17": {
+                "wire": 0,
+                "value": "0"
+              }
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "2"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "7245763f-378a-4d41-9d44-1285086719e1",
+          "frame": 366,
+          "order_id": 40213,
+          "is_passive": 0,
+          "living_id": 1,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 2,
+              "damage_type": 6,
+              "damage_value": 88,
+              "left_value": 162,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            },
+            {
+              "living_id": 3,
+              "damage_type": 6,
+              "damage_value": 73,
+              "left_value": 364,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 366,
+          "frame_num": 52,
+          "attack_millis": "2026-10-11 15:51:32",
+          "buffers": [
+            {
+              "source_id": 1,
+              "target_id": 1,
+              "exec_frame": 366,
+              "see_type": 1,
+              "exe_way": 1
+            },
+            {
+              "buffer_id": 1,
+              "template_id": 30111,
+              "source_id": 3,
+              "target_id": 3,
+              "cur_turn": -1,
+              "exec_frame": 0,
+              "see_type": 1,
+              "exe_way": 3,
+              "pressed_num": 1,
+              "max_turn": -1,
+              "isPermanent": 1,
+              "$15": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$16": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$17": {
+                "wire": 0,
+                "value": "0"
+              }
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "3"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "7245763f-378a-4d41-9d44-1285086719e1",
+          "frame": 395,
+          "order_id": 40183,
+          "is_passive": 0,
+          "living_id": 2,
+          "sp": 0,
+          "sp_added": 0,
+          "damages": [
+            {
+              "living_id": 2,
+              "damage_type": 6,
+              "damage_value": -51,
+              "left_value": 213,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 395,
+          "frame_num": 38,
+          "attack_millis": "2026-10-11 15:51:33",
+          "buffers": [
+            {
+              "source_id": 2,
+              "target_id": 2,
+              "exec_frame": 395,
+              "see_type": 1,
+              "exe_way": 1
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "2"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        },
+        {
+          "battle_id": "7245763f-378a-4d41-9d44-1285086719e1",
+          "frame": 465,
+          "order_id": 30711,
+          "is_passive": 0,
+          "living_id": 3,
+          "sp": 26,
+          "sp_added": 16,
+          "damages": [
+            {
+              "living_id": 1,
+              "damage_type": 6,
+              "damage_value": 95,
+              "left_value": 0,
+              "extra_data": 0,
+              "parry": 0,
+              "order": 0,
+              "hp_limit": 0,
+              "resi_type": 12,
+              "resi_value": 0,
+              "resi_percent": 0,
+              "buffer_type": 0
+            }
+          ],
+          "exec_frame": 465,
+          "frame_num": 39,
+          "attack_millis": "2026-10-11 15:51:36",
+          "buffers": [
+            {
+              "source_id": 3,
+              "target_id": 3,
+              "exec_frame": 465,
+              "see_type": 1,
+              "exe_way": 1
+            },
+            {
+              "buffer_id": 1,
+              "template_id": 30111,
+              "source_id": 3,
+              "target_id": 3,
+              "cur_turn": -1,
+              "exec_frame": 0,
+              "see_type": 1,
+              "exe_way": 3,
+              "pressed_num": 1,
+              "damage": [
+                {
+                  "living_id": 3,
+                  "damage_type": 9,
+                  "damage_value": 1,
+                  "left_value": 26,
+                  "extra_data": 0,
+                  "parry": 0,
+                  "order": 0,
+                  "hp_limit": 0,
+                  "resi_type": 0,
+                  "resi_value": 0,
+                  "resi_percent": 0,
+                  "buffer_type": 0
+                }
+              ],
+              "max_turn": -1,
+              "isPermanent": 1,
+              "$15": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$16": {
+                "wire": 0,
+                "value": "18446744073709551615"
+              },
+              "$17": {
+                "wire": 0,
+                "value": "0"
+              }
+            }
+          ],
+          "awake": 0,
+          "hitPoint": 0,
+          "$20": {
+            "wire": 0,
+            "value": "3"
+          },
+          "$21": {
+            "wire": 0,
+            "value": "0"
+          }
+        }
+      ],
+      "finish": {
+        "frame": 556,
+        "prepareOverLivings": [
+          {
+            "calc_type": 3,
+            "living_id": 2,
+            "sp": 0
+          },
+          {
+            "calc_type": 3,
+            "living_id": 3,
+            "sp": 26
+          }
+        ]
+      }
+    }
+  ]
+}

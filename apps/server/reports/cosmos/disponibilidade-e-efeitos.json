@@ -1,0 +1,1859 @@
+{
+  "at": "2026-10-16T02:57:05.352Z",
+  "policy": "Somente equipados e em slots liberados contribuem. Ocultos não aparecem na loja, não são adquiridos nem usados. Existentes ficam preservados em cosmos.suspended.",
+  "storagePath": "attributes.sources.cosmos.combatModifiers",
+  "calculatedPath": "AttributeCalculator.snapshot(state).combatModifiers",
+  "percentUnit": "0–100: 10 significa 10%, não 0,10",
+  "visible": [
+    {
+      "id": 4,
+      "name": "Fonte de Energia",
+      "profile": 6,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 5,
+      "name": "Energia da Estrela",
+      "profile": 6,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 103,
+      "name": "Fortuna",
+      "profile": 3,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 104,
+      "name": "Marca dos Deuses",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 105,
+      "name": "Luz dos Deuses",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 107,
+      "name": "Divino · Leão",
+      "profile": 7,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 202,
+      "name": "Ruptura Militar",
+      "profile": 2,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 203,
+      "name": "Espírito de Combate",
+      "profile": 3,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 204,
+      "name": "Batalha do Imperador",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 205,
+      "name": "Poder dos Titãs",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 207,
+      "name": "Divino · Áries",
+      "profile": 7,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 208,
+      "name": "Sagrado · Áries",
+      "profile": 8,
+      "visible": true,
+      "advanced": true
+    },
+    {
+      "id": 302,
+      "name": "Resiliente",
+      "profile": 2,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 303,
+      "name": "Escudo Estrelar",
+      "profile": 3,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 304,
+      "name": "Refúgio do Caos",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 305,
+      "name": "Coração Sagrado",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 307,
+      "name": "Divino · Touro",
+      "profile": 7,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 308,
+      "name": "Sagrado · Touro",
+      "profile": 8,
+      "visible": true,
+      "advanced": true
+    },
+    {
+      "id": 402,
+      "name": "Espírito Trovão",
+      "profile": 2,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 403,
+      "name": "Hades",
+      "profile": 3,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 404,
+      "name": "Marca do Demônio",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 405,
+      "name": "Espírito do Deus Trovão",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 407,
+      "name": "Divino · Capricórnio",
+      "profile": 7,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 408,
+      "name": "Sagrado · Capricórnio",
+      "profile": 8,
+      "visible": true,
+      "advanced": true
+    },
+    {
+      "id": 502,
+      "name": "Espírito de Proteção",
+      "profile": 2,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 503,
+      "name": "Benção de Deus",
+      "profile": 3,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 504,
+      "name": "Refúgio dos Elementos",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 505,
+      "name": "Espírito da Natureza",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 507,
+      "name": "Divino · Escorpião",
+      "profile": 7,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 508,
+      "name": "Sagrado · Escorpião",
+      "profile": 8,
+      "visible": true,
+      "advanced": true
+    },
+    {
+      "id": 602,
+      "name": "Destruição",
+      "profile": 2,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 603,
+      "name": "Ruptura Espiritual",
+      "profile": 3,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 604,
+      "name": "Caminho do Furacão",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 605,
+      "name": "Espírito Violento",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 607,
+      "name": "Divino · Sagitário",
+      "profile": 7,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 608,
+      "name": "Sagrado · Sagitário",
+      "profile": 8,
+      "visible": true,
+      "advanced": true
+    },
+    {
+      "id": 702,
+      "name": "Brilho de Sangue",
+      "profile": 2,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 703,
+      "name": "Destino",
+      "profile": 3,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 704,
+      "name": "Cristal da Vida",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 705,
+      "name": "Espírito dos Imortais",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 707,
+      "name": "Divino · Aquário",
+      "profile": 7,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 708,
+      "name": "Sagrado · Aquário",
+      "profile": 8,
+      "visible": true,
+      "advanced": true
+    },
+    {
+      "id": 1014,
+      "name": "Demônio Sanguinário",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1015,
+      "name": "Coração Corrompido",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1104,
+      "name": "Escudo de Espinhos",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1105,
+      "name": "Espelho de Ilusão",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1204,
+      "name": "Magia Arcana",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1205,
+      "name": "Olho da Morte",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1304,
+      "name": "Benção Espiritual",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1305,
+      "name": "Sopro do Dragão",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1404,
+      "name": "Oráculo",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1405,
+      "name": "Espírito Nulo",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1502,
+      "name": "Alma",
+      "profile": 2,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1503,
+      "name": "Tirano",
+      "profile": 3,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1504,
+      "name": "Domínio Imortal",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1505,
+      "name": "Asas do Guardião",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1507,
+      "name": "Divino · Libra",
+      "profile": 7,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1508,
+      "name": "Sagrado · Libra",
+      "profile": 8,
+      "visible": true,
+      "advanced": true
+    },
+    {
+      "id": 1604,
+      "name": "Morte Certa",
+      "profile": 4,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1605,
+      "name": "Luz da Sentença",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1705,
+      "name": "Ataque Violento",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1707,
+      "name": "Deus·Gêmeos",
+      "profile": 7,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1708,
+      "name": "Sagrado · Gêmeos",
+      "profile": 8,
+      "visible": true,
+      "advanced": true
+    },
+    {
+      "id": 1805,
+      "name": "Golpe Divino",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1807,
+      "name": "Deus·Peixes",
+      "profile": 7,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1808,
+      "name": "Sagrado · Peixes",
+      "profile": 8,
+      "visible": true,
+      "advanced": true
+    },
+    {
+      "id": 1905,
+      "name": "Tiro Fatal",
+      "profile": 5,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1907,
+      "name": "Santo · Cancer",
+      "profile": 7,
+      "visible": true,
+      "advanced": false
+    },
+    {
+      "id": 1908,
+      "name": "Sagrado · Câncer",
+      "profile": 8,
+      "visible": true,
+      "advanced": true
+    }
+  ],
+  "hidden": [
+    {
+      "id": 1,
+      "name": "Perdição",
+      "profile": 1,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 2,
+      "name": "Profecia",
+      "profile": 1,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 3,
+      "name": "Nulidade",
+      "profile": 1,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 804,
+      "name": "Benção Divina",
+      "profile": 4,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 805,
+      "name": "Espírito de Shura",
+      "profile": 5,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 904,
+      "name": "Deteminação de Destruição",
+      "profile": 4,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 905,
+      "name": "Espírito do Deus Ares",
+      "profile": 5,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 1003,
+      "name": "Benção",
+      "profile": 3,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 1004,
+      "name": "Determinação Indomável",
+      "profile": 4,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 1005,
+      "name": "Toque da Deusa",
+      "profile": 5,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 1313,
+      "name": "Espírito Santo",
+      "profile": 3,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 1314,
+      "name": "Proteção de Pedra",
+      "profile": 4,
+      "visible": false,
+      "advanced": false
+    },
+    {
+      "id": 1315,
+      "name": "Luz da Gaia",
+      "profile": 5,
+      "visible": false,
+      "advanced": false
+    }
+  ],
+  "effects": [
+    {
+      "id": 1014,
+      "name": "Demônio Sanguinário",
+      "description": "Ao atacar, tem 10% de probabilidade de recuperar vida equivalente a {ValuePercent}% do dano causado, sem limite de recuperação por ativação",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1014,
+                  "bufferId": 80701,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "lifeSteal",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1014,
+                "bufferId": 80701,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": 2,
+              "chance": 10,
+              "trigger": "onAttack",
+              "basis": "damageDealt",
+              "source": "cosmos",
+              "magnitude": 2
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1014,
+                  "bufferId": 80701,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "lifeSteal",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1014,
+                "bufferId": 80701,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": 2,
+              "chance": 10,
+              "trigger": "onAttack",
+              "basis": "damageDealt",
+              "source": "cosmos",
+              "magnitude": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1015,
+      "name": "Coração Corrompido",
+      "description": "Ao atacar, tem 10% de probabilidade de recuperar vida equivalente a {ValuePercent}% do dano causado, sem limite de recuperação por ativação",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1015,
+                  "bufferId": 80702,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "lifeSteal",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1015,
+                "bufferId": 80702,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": 5,
+              "chance": 10,
+              "trigger": "onAttack",
+              "basis": "damageDealt",
+              "source": "cosmos",
+              "magnitude": 5
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "lifeSteal",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1015,
+                  "bufferId": 80702,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onAttack",
+                "basis": "damageDealt"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "lifeSteal",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1015,
+                "bufferId": 80702,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": 5,
+              "chance": 10,
+              "trigger": "onAttack",
+              "basis": "damageDealt",
+              "source": "cosmos",
+              "magnitude": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1104,
+      "name": "Escudo de Espinhos",
+      "description": "Ao ser atacado, tem 10% de probabilidade de refletir {ValuePercent}% do dano recebido, sem limite de dano refletido por ativação",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1104,
+                  "bufferId": 80901,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "reflect",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1104,
+                "bufferId": 80901,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": 2,
+              "chance": 10,
+              "trigger": "onDamageReceived",
+              "basis": "damageReceived",
+              "source": "cosmos",
+              "magnitude": 2
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1104,
+                  "bufferId": 80901,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "reflect",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1104,
+                "bufferId": 80901,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": 2,
+              "chance": 10,
+              "trigger": "onDamageReceived",
+              "basis": "damageReceived",
+              "source": "cosmos",
+              "magnitude": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1105,
+      "name": "Espelho de Ilusão",
+      "description": "Ao ser atacado, tem 10% de probabilidade de refletir {ValuePercent}% do dano recebido, sem limite de dano refletido por ativação",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1105,
+                  "bufferId": 80902,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "reflect",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1105,
+                "bufferId": 80902,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": 5,
+              "chance": 10,
+              "trigger": "onDamageReceived",
+              "basis": "damageReceived",
+              "source": "cosmos",
+              "magnitude": 5
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "reflect",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1105,
+                  "bufferId": 80902,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5,
+                "chance": 10,
+                "trigger": "onDamageReceived",
+                "basis": "damageReceived"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "reflect",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1105,
+                "bufferId": 80902,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": 5,
+              "chance": 10,
+              "trigger": "onDamageReceived",
+              "basis": "damageReceived",
+              "source": "cosmos",
+              "magnitude": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1204,
+      "name": "Magia Arcana",
+      "description": "{ValuePercent}% probabilidade de ignorar dano recebido",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1204,
+                  "bufferId": 81001,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 1,
+                "trigger": "onDamageReceived"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "damageImmunityChance",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1204,
+                "bufferId": 81001,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": 1,
+              "trigger": "onDamageReceived",
+              "source": "cosmos",
+              "magnitude": 1,
+              "chance": 1
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1204,
+                  "bufferId": 81001,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 1,
+                "trigger": "onDamageReceived"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "damageImmunityChance",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1204,
+                "bufferId": 81001,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": 1,
+              "trigger": "onDamageReceived",
+              "source": "cosmos",
+              "magnitude": 10,
+              "chance": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1205,
+      "name": "Olho da Morte",
+      "description": "{ValuePercent}% probabilidade de ignorar dano recebido",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1205,
+                  "bufferId": 81002,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "trigger": "onDamageReceived"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "damageImmunityChance",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1205,
+                "bufferId": 81002,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": 2,
+              "trigger": "onDamageReceived",
+              "source": "cosmos",
+              "magnitude": 2,
+              "chance": 2
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageImmunityChance",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1205,
+                  "bufferId": 81002,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 2,
+                "trigger": "onDamageReceived"
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "damageImmunityChance",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1205,
+                "bufferId": 81002,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": 2,
+              "trigger": "onDamageReceived",
+              "source": "cosmos",
+              "magnitude": 20,
+              "chance": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1304,
+      "name": "Benção Espiritual",
+      "description": "Diminui {ValuePercent}% de dano recebido",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1304,
+                  "bufferId": 81101,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -2
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "damageReductionPercent",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1304,
+                "bufferId": 81101,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": -2,
+              "source": "cosmos",
+              "magnitude": 2
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1304,
+                  "bufferId": 81101,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -2
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "damageReductionPercent",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1304,
+                "bufferId": 81101,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": -2,
+              "source": "cosmos",
+              "magnitude": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1305,
+      "name": "Sopro do Dragão",
+      "description": "Diminui {ValuePercent}% de dano recebido",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1305,
+                  "bufferId": 81102,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "damageReductionPercent",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1305,
+                "bufferId": 81102,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": -3,
+              "source": "cosmos",
+              "magnitude": 3
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "damageReductionPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1305,
+                  "bufferId": 81102,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "damageReductionPercent",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1305,
+                "bufferId": 81102,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": -3,
+              "source": "cosmos",
+              "magnitude": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1404,
+      "name": "Oráculo",
+      "description": "Probabilidade de receber dano crítico -{ValuePercent}%",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1404,
+                  "bufferId": 81301,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "criticalAvoidancePoints",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1404,
+                "bufferId": 81301,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": -3,
+              "source": "cosmos",
+              "magnitude": 3
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1404,
+                  "bufferId": 81301,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -3
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "criticalAvoidancePoints",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1404,
+                "bufferId": 81301,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": -3,
+              "source": "cosmos",
+              "magnitude": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1405,
+      "name": "Espírito Nulo",
+      "description": "Probabilidade de receber dano crítico -{ValuePercent}%",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1405,
+                  "bufferId": 81302,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": -5
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "criticalAvoidancePoints",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1405,
+                "bufferId": 81302,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": -5,
+              "source": "cosmos",
+              "magnitude": 5
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalAvoidancePoints",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1405,
+                  "bufferId": 81302,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": -5
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "criticalAvoidancePoints",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1405,
+                "bufferId": 81302,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": -5,
+              "source": "cosmos",
+              "magnitude": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1604,
+      "name": "Morte Certa",
+      "description": "Dano crítico aumenta {ValuePercent}%",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1604,
+                  "bufferId": 81401,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 3
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "criticalDamageBonusPercent",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1604,
+                "bufferId": 81401,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": 3,
+              "source": "cosmos",
+              "magnitude": 3
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1604,
+                  "bufferId": 81401,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 3
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "criticalDamageBonusPercent",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1604,
+                "bufferId": 81401,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": 3,
+              "source": "cosmos",
+              "magnitude": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1605,
+      "name": "Luz da Sentença",
+      "description": "Dano crítico aumenta {ValuePercent}%",
+      "examples": [
+        {
+          "level": 1,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 1,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1605,
+                  "bufferId": 81402,
+                  "slot": 0
+                },
+                "level": 1,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "criticalDamageBonusPercent",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1605,
+                "bufferId": 81402,
+                "slot": 0
+              },
+              "level": 1,
+              "refinement": 0,
+              "value": 0,
+              "percent": 5,
+              "source": "cosmos",
+              "magnitude": 5
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "source": {
+            "kind": "equipment",
+            "evidence": "recovered-table",
+            "values": {},
+            "factors": [
+              {
+                "values": {},
+                "factor": 10,
+                "percent": 0
+              }
+            ],
+            "combatModifiers": [
+              {
+                "kind": "criticalDamageBonusPercent",
+                "origin": {
+                  "instanceId": 1,
+                  "templateId": 1605,
+                  "bufferId": 81402,
+                  "slot": 0
+                },
+                "level": 10,
+                "refinement": 0,
+                "value": 0,
+                "percent": 5
+              }
+            ]
+          },
+          "central": [
+            {
+              "kind": "criticalDamageBonusPercent",
+              "origin": {
+                "instanceId": 1,
+                "templateId": 1605,
+                "bufferId": 81402,
+                "slot": 0
+              },
+              "level": 10,
+              "refinement": 0,
+              "value": 0,
+              "percent": 5,
+              "source": "cosmos",
+              "magnitude": 50
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

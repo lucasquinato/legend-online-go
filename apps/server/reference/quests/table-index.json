@@ -1,0 +1,6561 @@
+[
+  {
+    "table": "BuildingTempInfos",
+    "rows": 2189,
+    "bytes": 1121356,
+    "sha256": "5687932e46be1d6c1e25cac54534c66f1fbab7ca6e77f1e11c7e837848b28c7f",
+    "exported": false,
+    "rowTags": [
+      "BuildingTempInfo"
+    ],
+    "fields": [
+      "Activity",
+      "BuildingGrade",
+      "BuildingName",
+      "Camp",
+      "CrystalsConsume",
+      "Description",
+      "GoldConsume",
+      "Icon",
+      "MasterType",
+      "NextGradeTemplateId",
+      "NextTemplateId",
+      "PicPath",
+      "PlayerGrades",
+      "PosX",
+      "PosY",
+      "PreTemplateId",
+      "Property1",
+      "Property2",
+      "Property3",
+      "Property4",
+      "Property5",
+      "Property6",
+      "Reputation",
+      "SonType",
+      "TemplateId",
+      "TitleX",
+      "TitleY",
+      "UpgradeTime"
+    ]
+  },
+  {
+    "table": "BuildingResInfos",
+    "rows": 496,
+    "bytes": 84837,
+    "sha256": "7aa827a051c385e1c50fa26abf08291bef3311dc7b7eed7a353e433df5a91db1",
+    "exported": false,
+    "rowTags": [
+      "BuildingResInfo"
+    ],
+    "fields": [
+      "Depth",
+      "FlashPath",
+      "Grades",
+      "PicPath",
+      "PosX",
+      "PosY",
+      "SonType",
+      "SortId",
+      "TitleX",
+      "TitleY"
+    ]
+  },
+  {
+    "table": "PawnTempInfos",
+    "rows": 6464,
+    "bytes": 4115037,
+    "sha256": "894840ef5a477ebf4e24d8999f81d0c7c49fcba49efe28608f79156d33824f8a",
+    "exported": false,
+    "rowTags": [
+      "PawnTempInfo"
+    ],
+    "fields": [
+      "AI",
+      "Attack",
+      "AttackType",
+      "Camp",
+      "CrystalsConsume",
+      "DarkResi",
+      "DefaultSkill",
+      "Defence",
+      "Description",
+      "ElectResi",
+      "FireResi",
+      "ForceHit",
+      "GoldConsume",
+      "HeroSkill",
+      "HighSkill",
+      "Icon",
+      "Level",
+      "LightResi",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "MasterType",
+      "NeedBuilding",
+      "NeedPopulation",
+      "NeedTime",
+      "NextLevelTemplateId",
+      "Parry",
+      "PawnName",
+      "Penetrate",
+      "ReduceResi",
+      "ReduceResiAgainst",
+      "ResiPenetrate",
+      "SonType",
+      "StunAttr",
+      "Swf",
+      "TemplateId",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "EffectTempInfos",
+    "rows": 78,
+    "bytes": 25887,
+    "sha256": "5b44fb1ebfbf043242e1b0b2985ba3b7e410b6d49f904f46e747640344de5782",
+    "exported": false,
+    "rowTags": [
+      "EffectTempInfo"
+    ],
+    "fields": [
+      "Camp",
+      "Description",
+      "EffectName",
+      "Icon",
+      "MaxGrade",
+      "OwnTypes",
+      "PlayerGrade",
+      "PreBuildingtemplateId",
+      "PreTemplateId",
+      "Property1",
+      "Property2",
+      "Property3",
+      "PropertyType1",
+      "PropertyType2",
+      "PropertyType3",
+      "TemplateId",
+      "UseType"
+    ]
+  },
+  {
+    "table": "UpGradeTempInfos",
+    "rows": 13335,
+    "bytes": 1599216,
+    "sha256": "26ca175a41cfbcbae66499dd5e6706ab2c84cb289245ee32600a89a4388af417",
+    "exported": false,
+    "rowTags": [
+      "UpGradeTempInfo"
+    ],
+    "fields": [
+      "ActiveObject",
+      "Data",
+      "Grades",
+      "Id",
+      "TemplateId",
+      "TemplateName",
+      "Types"
+    ]
+  },
+  {
+    "table": "MapPhysicsTempInfos",
+    "rows": 44,
+    "bytes": 11450,
+    "sha256": "393022d3971c29809f13ebff953e7185283486b486147b43da44e8ebc0dc5bf6",
+    "exported": false,
+    "rowTags": [
+      "MapPhysicsTempInfo"
+    ],
+    "fields": [
+      "Description",
+      "Grades",
+      "HeroGP",
+      "MapPhysicsTempName",
+      "MasterType",
+      "Property1",
+      "Property2",
+      "Property3",
+      "Property4",
+      "Property5",
+      "Property6",
+      "RefreshTime",
+      "SonType",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "ItemTempInfos",
+    "rows": 12201,
+    "bytes": 6355989,
+    "sha256": "b385a378f617118843d08c8219c3b1211dd57cbf8221514963aa73f61de9f456",
+    "exported": false,
+    "rowTags": [
+      "ItemTempInfo"
+    ],
+    "fields": [
+      "Agility",
+      "Attack",
+      "Avata",
+      "Captain",
+      "Conat",
+      "DarkResi",
+      "DefaultSkill",
+      "Defence",
+      "Description",
+      "ElectResi",
+      "Feed",
+      "FireResi",
+      "ForceHit",
+      "Icon",
+      "Intellect",
+      "IsCanBatch",
+      "Job",
+      "LightResi",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "MasterType",
+      "MaxCount",
+      "NeedChangeJob",
+      "NeedGrades",
+      "Parry",
+      "Penetrate",
+      "Physique",
+      "Power",
+      "Profile",
+      "Property1",
+      "Property2",
+      "Property3",
+      "Property4",
+      "Property5",
+      "Property6",
+      "Property7",
+      "RandomSkillCount",
+      "ReduceResi",
+      "Refresh",
+      "SellGold",
+      "Sexs",
+      "SonType",
+      "StartingPrice",
+      "Strength",
+      "StrengthenMax",
+      "StunAttr",
+      "SuiteId",
+      "TemplateId",
+      "TemplateName",
+      "Tenacity",
+      "TransformId",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "SuiteTempInfos",
+    "rows": 244,
+    "bytes": 106644,
+    "sha256": "68f8e9c6b647a79c4e4f5fa4db9636cb4f52827ca62294ef8611e6fbaf0c72a3",
+    "exported": false,
+    "rowTags": [
+      "SuiteTempInfo"
+    ],
+    "fields": [
+      "Property1",
+      "Property2",
+      "Property3",
+      "Property4",
+      "Property5",
+      "Property6",
+      "Property7",
+      "Property8",
+      "Template1",
+      "Template1s",
+      "Template2",
+      "Template2s",
+      "Template3",
+      "Template3s",
+      "Template4",
+      "Template4s",
+      "Template5",
+      "Template5s",
+      "Template6",
+      "Template6s",
+      "Template7",
+      "Template7s",
+      "Template8",
+      "Template8s",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "ComposeTempInfos",
+    "rows": 3340,
+    "bytes": 890283,
+    "sha256": "c20e09fbb3e1bf79d26c0045ef75b1cbbafa1a43a93cef2e17b48f0306b6bbc1",
+    "exported": false,
+    "rowTags": [
+      "ComposeTempInfo"
+    ],
+    "fields": [
+      "Count1",
+      "Count2",
+      "Count3",
+      "Count4",
+      "Counts",
+      "Id",
+      "IsLearn",
+      "Material1",
+      "Material2",
+      "Material3",
+      "Material4",
+      "NeedBuildingTemp",
+      "NeedGold",
+      "NeedMinLevel",
+      "NewMaterial",
+      "Property1",
+      "Types"
+    ]
+  },
+  {
+    "table": "QuestTemps",
+    "rows": 835,
+    "bytes": 674349,
+    "sha256": "d77d93277738cef375dc005f31e519bb53d452053ca59e8b782f2bef9eea56f5",
+    "exported": true,
+    "rowTags": [
+      "QuestTempInfo"
+    ],
+    "fields": [
+      "Detail",
+      "EndDate",
+      "HourSpace",
+      "IsAuto",
+      "IsLeague",
+      "IsLost",
+      "IsRepeat",
+      "NeedBuildingTemp",
+      "NeedFightId",
+      "NeedItemTemp",
+      "NeedMaxLevel",
+      "NeedMinLevel",
+      "NeedPos",
+      "Objective",
+      "PreQuestId",
+      "RepeatInterval",
+      "RepeatMax",
+      "RewardConsortiaOffer",
+      "RewardCrystal",
+      "RewardDower",
+      "RewardGold",
+      "RewardHeroGP",
+      "RewardMoney",
+      "RewardPlayGP",
+      "RewardPlayerOffer",
+      "RewardStrategy",
+      "ShowType",
+      "Sort",
+      "StartDate",
+      "TemplateId",
+      "TemplateType",
+      "Title",
+      "WeekSpace"
+    ]
+  },
+  {
+    "table": "QuestGoods",
+    "rows": 191,
+    "bytes": 21996,
+    "sha256": "bc0ccaa3767228886eaac39c4440264dae0743ad5a3e9584d51a6a4740407b61",
+    "exported": true,
+    "rowTags": [
+      "QuestGoods"
+    ],
+    "fields": [
+      "IsSelect",
+      "RewardItemCount",
+      "RewardItemID",
+      "TemplateId",
+      "ToJob",
+      "ValidDate"
+    ]
+  },
+  {
+    "table": "QuestCondictionInfos",
+    "rows": 851,
+    "bytes": 135481,
+    "sha256": "3ebb2764bcedb77716f71ed3b49bcf7b1a149795e45d95f8c6cda8ffd017cfb4",
+    "exported": true,
+    "rowTags": [
+      "QuestConditionInfo"
+    ],
+    "fields": [
+      "CondictionTitle",
+      "CondictionType",
+      "Para1",
+      "Para2",
+      "Para3",
+      "Para4",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "RewardTemps",
+    "rows": 414,
+    "bytes": 243758,
+    "sha256": "860434cacf9a5605356a1fabc7ce9fd382873f67f3859cfd1b6baafb3d546bd8",
+    "exported": true,
+    "rowTags": [
+      "RewardTempInfo"
+    ],
+    "fields": [
+      "Detail",
+      "EndDate",
+      "IsLeague",
+      "NeedFightId",
+      "NeedMaxLevel",
+      "NeedMinLevel",
+      "Rands",
+      "RewardGold",
+      "RewardHappy",
+      "RewardPlayGP",
+      "RewardStrategy",
+      "ShowType",
+      "StartDate",
+      "TemplateId",
+      "Title",
+      "Type"
+    ]
+  },
+  {
+    "table": "RewardGoods",
+    "rows": 107,
+    "bytes": 14052,
+    "sha256": "01fb7a71860412b1f8b161d2f11995295628405c0c909dd3da5e7864af932691",
+    "exported": true,
+    "rowTags": [
+      "RewardGoods"
+    ],
+    "fields": [
+      "RepeatMaxLevel",
+      "RepeatMinLevel",
+      "RepeatStep",
+      "RewardItemCount",
+      "RewardItemID",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "RewardCondictionInfos",
+    "rows": 399,
+    "bytes": 72369,
+    "sha256": "ee5b19863718f18e81291826f81a23300200abfbe6ae4b9e10ff2263104f6e82",
+    "exported": true,
+    "rowTags": [
+      "RewardConditionInfo"
+    ],
+    "fields": [
+      "CondictionTitle",
+      "CondictionType",
+      "Para1",
+      "Para2",
+      "Para3",
+      "Para4",
+      "Para5",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "MapInfos",
+    "rows": 1112,
+    "bytes": 247442,
+    "sha256": "fccabfa73a2370fc316c2c781a24fb8d0229c7d961c1f49b68c9018fd8a14a4d",
+    "exported": false,
+    "rowTags": [
+      "MapInfo"
+    ],
+    "fields": [
+      "BattleGround",
+      "CampaignId",
+      "Description",
+      "Height",
+      "Id",
+      "Index",
+      "MapFileId",
+      "MapName",
+      "MaxLevel",
+      "MinLevel",
+      "MusicPath",
+      "Type",
+      "Width"
+    ]
+  },
+  {
+    "table": "Campaigns",
+    "rows": 285,
+    "bytes": 151322,
+    "sha256": "a70101f4e09bd16e50dc973d416e077859b0d41b9aaddb9926cfa706ae058d31",
+    "exported": false,
+    "rowTags": [
+      "CampaignInfo"
+    ],
+    "fields": [
+      "AreaId",
+      "BaseGp",
+      "CampaignId",
+      "CampaignName",
+      "Capacity",
+      "CardPayment",
+      "Description",
+      "DifficultyGrade",
+      "DungeonId",
+      "EnterNumb",
+      "Item",
+      "LandId",
+      "MapIds",
+      "MaxLevel",
+      "MinLevel",
+      "NeedChangeJob",
+      "NeedFightPower",
+      "NeedThirdTransfer",
+      "NeedTransfer",
+      "NeedTransferType",
+      "NextCampaignId",
+      "OpenTime",
+      "PosX",
+      "PosY",
+      "PreCampaignId",
+      "SonTypes",
+      "StandSecond",
+      "StandardDamage",
+      "StandardHurt",
+      "StopTime",
+      "Types"
+    ]
+  },
+  {
+    "table": "CampaignData",
+    "rows": 0,
+    "bytes": 15,
+    "sha256": "db4ec5994eb78554b6867beb5c13b1438ec292de314e6f062d329025e87c22bf",
+    "exported": false,
+    "rowTags": [],
+    "fields": []
+  },
+  {
+    "table": "ActionTempInfos",
+    "rows": 593,
+    "bytes": 72020,
+    "sha256": "7f6878e629edb300b889563fe39dcadfe7ebc0ea435bd555fcbb053e1fdf8b57",
+    "exported": false,
+    "rowTags": [
+      "ActionTempInfo"
+    ],
+    "fields": [
+      "ActionId",
+      "ActionName",
+      "AttackTimes",
+      "AttackType",
+      "FrameNum"
+    ]
+  },
+  {
+    "table": "SkillBufferTempInfos",
+    "rows": 12559,
+    "bytes": 4286653,
+    "sha256": "b20fc418a15bdab1d03bb1461466b6c63f1583df90db9b1c94354a22d5d60ff6",
+    "exported": false,
+    "rowTags": [
+      "SkillBufferTempInfo"
+    ],
+    "fields": [
+      "ActionEffect",
+      "AddEffect",
+      "AddWay",
+      "AttackData",
+      "AttackObject",
+      "AttackType",
+      "AttackValue",
+      "AttackWay",
+      "BufferName",
+      "CountWay",
+      "Dispel",
+      "Icon",
+      "Id",
+      "LastEffect",
+      "Parm3",
+      "PressCount",
+      "TalentEffIds",
+      "ValidCount",
+      "ValuePercent"
+    ]
+  },
+  {
+    "table": "TalentEffectTempInfos",
+    "rows": 6932,
+    "bytes": 2854880,
+    "sha256": "b9cc14ef78e0ff5ac0cc99365cb2d428ba5d228635557ca26df2e239b1c443df",
+    "exported": false,
+    "rowTags": [
+      "TalentEffectTempInfo"
+    ],
+    "fields": [
+      "EffAttackObject",
+      "EffBuffPercent",
+      "EffBuffValue",
+      "EffBuffer",
+      "EffBufferIds",
+      "EffBufferType",
+      "EffCdPercent",
+      "EffCdValue",
+      "EffCountPercent",
+      "EffCountValue",
+      "EffCriValue",
+      "EffCtPercent",
+      "EffCtValue",
+      "EffDamPercent",
+      "EffDamValue",
+      "EffIsActive",
+      "EffRandPercent",
+      "EffRandValue",
+      "EffSkillType",
+      "EffSpPercent",
+      "EffSpValue",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "SkillTempInfos",
+    "rows": 22716,
+    "bytes": 12826802,
+    "sha256": "99b23668cfaa62bf1425703ba3486ab23c43872512c73eaffadff528fb9fd87d",
+    "exported": false,
+    "rowTags": [
+      "SkillTempInfo"
+    ],
+    "fields": [
+      "AcceptObject",
+      "ActionId",
+      "AppearCD",
+      "AppearTime",
+      "BufferIds",
+      "CoolDown",
+      "Cost",
+      "CountWay",
+      "Description",
+      "Grades",
+      "HitPointCost",
+      "Icons",
+      "Index",
+      "IsUseOnDead",
+      "MasterType",
+      "NeedPlayerGrade",
+      "NextTemplateId",
+      "OwnRequirements",
+      "Parameter1",
+      "Parameter2",
+      "Parameter3",
+      "PreTemplateId",
+      "Priority",
+      "Profile",
+      "ProperType",
+      "QTETime",
+      "SonType",
+      "TemplateId",
+      "TemplateName",
+      "UpgradeNeedCount",
+      "UpgradeNeedItem",
+      "UseWay"
+    ]
+  },
+  {
+    "table": "RuneTempInfos",
+    "rows": 132,
+    "bytes": 46733,
+    "sha256": "f9979b27d1103172792ddd3e3b1030cb1eec058b4264c8d3cfd0f15b13727fc3",
+    "exported": false,
+    "rowTags": [
+      "RuneTempInfo"
+    ],
+    "fields": [
+      "Description",
+      "Icon",
+      "Job",
+      "Level",
+      "NeedGp",
+      "NeedGrade",
+      "NextRuneId",
+      "RuneGrade",
+      "RuneIndex",
+      "RuneType",
+      "SkillTemplateId",
+      "SonType",
+      "TemplateId",
+      "TemplateName",
+      "UseCount"
+    ]
+  },
+  {
+    "table": "ActionInfos",
+    "rows": 2740,
+    "bytes": 230973,
+    "sha256": "30d2394cb73e2d9d1f2b6ff2ae8ef808db58e740294b981eab613887a4d8455b",
+    "exported": false,
+    "rowTags": [
+      "ActionInfo"
+    ],
+    "fields": [
+      "ActionId",
+      "ActionType",
+      "Frame",
+      "Para",
+      "Sex"
+    ]
+  },
+  {
+    "table": "HeroAis",
+    "rows": 8080,
+    "bytes": 1715315,
+    "sha256": "1b4e48380b51446ec2848ea2654bfdb6b5d6b87fca2d92bdf3bd5b9e8cf9d608",
+    "exported": false,
+    "rowTags": [
+      "HeroAi"
+    ],
+    "fields": [
+      "AngrySkill",
+      "AwakenSkill",
+      "BottomSkill",
+      "BottomSkills",
+      "ChangeIcon",
+      "ChangeSkills",
+      "CrazySkill",
+      "DeadSkill",
+      "ID",
+      "LessHpSkill",
+      "Skills",
+      "Soldiers"
+    ]
+  },
+  {
+    "table": "ShopTempInfos",
+    "rows": 825,
+    "bytes": 498917,
+    "sha256": "46085a82a663d79eeca5c49b5c398edd4cc99b6b88c6b8081117eaa1c93bbc37",
+    "exported": false,
+    "rowTags": [
+      "ShopTempInfo"
+    ],
+    "fields": [
+      "Area",
+      "ConsortiaOffer",
+      "CrossGuildScore",
+      "CrossLeagueMedal",
+      "Discount",
+      "FirstPrice",
+      "GiftToken",
+      "Gold",
+      "Honor",
+      "Id",
+      "IsHot",
+      "ItemId",
+      "Labels",
+      "LordsScore",
+      "MazeCoin",
+      "MazeLayers",
+      "MazeLayers2",
+      "MineScore",
+      "NeedConsortiaLevels",
+      "NeedGeste",
+      "NeedGrades",
+      "NeedItem",
+      "NeedMaxGrade",
+      "NeedMinGrade",
+      "NeedMinVip",
+      "Point",
+      "PokerScore",
+      "Price",
+      "Rands",
+      "Score",
+      "SellMaxCount",
+      "ShopType",
+      "Sort",
+      "VIP0Count",
+      "VIP1Count",
+      "VIP2Count",
+      "VIP3Count",
+      "VIP4Count",
+      "VIP5Count",
+      "VIP6Count",
+      "ValidDate"
+    ]
+  },
+  {
+    "table": "ConsortiaLevelInfos",
+    "rows": 247,
+    "bytes": 76900,
+    "sha256": "d3d4923d5a8766b1197c8eca943bd6ac0838b2d2d5cc5ca78781478122574f39",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaLevelInfo"
+    ],
+    "fields": [
+      "BuildingType",
+      "CodeTime",
+      "Description",
+      "Icon",
+      "LevelName",
+      "Levels",
+      "NeedOffer",
+      "NextTemplateId",
+      "PreTemplateId",
+      "Property1",
+      "Property2",
+      "Property3",
+      "TemplateId",
+      "Types"
+    ]
+  },
+  {
+    "table": "GradeDrop",
+    "rows": 0,
+    "bytes": 12,
+    "sha256": "518d757ff5628627f4d03d3ec2ea76d61fccb36d2782bd13a9e4096af9c494e6",
+    "exported": false,
+    "rowTags": [],
+    "fields": []
+  },
+  {
+    "table": "SignDrop",
+    "rows": 19,
+    "bytes": 1616,
+    "sha256": "bf513c375a52bccceb4dc94219053281318e10c8ba7615e053b713e6e76899a1",
+    "exported": false,
+    "rowTags": [
+      "SignDropInfo"
+    ],
+    "fields": [
+      "Data",
+      "DropId",
+      "TemplateId",
+      "Times",
+      "ValidDate"
+    ]
+  },
+  {
+    "table": "ReloginDrops",
+    "rows": 0,
+    "bytes": 15,
+    "sha256": "03d82c60ed7c22ba9d014b73989d7bf2dd5478d774af1248e67167e9b26ba689",
+    "exported": false,
+    "rowTags": [],
+    "fields": []
+  },
+  {
+    "table": "TimeDrop",
+    "rows": 53,
+    "bytes": 5006,
+    "sha256": "2f9c3fa200a25002a83ff0e6209849e14e27e99c91b85bb214a3711b6d342829",
+    "exported": false,
+    "rowTags": [
+      "TimeDropInfo"
+    ],
+    "fields": [
+      "Data",
+      "DropId",
+      "Grade",
+      "Job",
+      "TemplateId",
+      "ValidDate"
+    ]
+  },
+  {
+    "table": "GameHeroTemp",
+    "rows": 7370,
+    "bytes": 4351729,
+    "sha256": "997016a434ae3c57d99ac2807cba1b9d370cb16c40007b55e711336256b88cc2",
+    "exported": false,
+    "rowTags": [
+      "GameHeroTempInfo"
+    ],
+    "fields": [
+      "AI",
+      "Agility",
+      "ArmPath",
+      "Attack",
+      "Captain",
+      "ClothPath",
+      "Conat",
+      "DarkResi",
+      "DefaultSkill",
+      "Defence",
+      "ElectResi",
+      "FireResi",
+      "ForceHit",
+      "Grades",
+      "HeroType",
+      "Icon",
+      "Intellect",
+      "Job",
+      "LightResi",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "Parry",
+      "Physique",
+      "Power",
+      "ReduceResi",
+      "ReduceResiAgainst",
+      "RejectType",
+      "ResPath",
+      "ResiPenetrate",
+      "Sexs",
+      "SkillScript",
+      "TemplateId",
+      "TemplateName",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "DistrictDrop",
+    "rows": 28,
+    "bytes": 2172,
+    "sha256": "88538487b326246338341547b312465ea28219372a59221cdb9c07ccfb0316d2",
+    "exported": false,
+    "rowTags": [
+      "DistrictDropInfo"
+    ],
+    "fields": [
+      "Count",
+      "District",
+      "ItemId",
+      "ValidDate"
+    ]
+  },
+  {
+    "table": "LeedDrop",
+    "rows": 33,
+    "bytes": 2516,
+    "sha256": "1bb29f207dec43b03a1774da154cdf0928903806e13b10af8f5789aba3068ed1",
+    "exported": true,
+    "rowTags": [
+      "LeedDropInfo"
+    ],
+    "fields": [
+      "ValidDate",
+      "count",
+      "isWeek",
+      "itemId",
+      "site"
+    ]
+  },
+  {
+    "table": "TitanlandDrop",
+    "rows": 10,
+    "bytes": 739,
+    "sha256": "6bcf491bfbc6f472e84f892d100051bd86954d0404bad65dd13caef073f9a87b",
+    "exported": false,
+    "rowTags": [
+      "TitanlandDropInfo"
+    ],
+    "fields": [
+      "ValidDate",
+      "count",
+      "itemId",
+      "level"
+    ]
+  },
+  {
+    "table": "ConsortiaTreasureTempInfos",
+    "rows": 17,
+    "bytes": 4054,
+    "sha256": "114bcc19f2bb25a029d23da36bdab2dba868e35970b9eb033ef01f69a55e9f09",
+    "exported": false,
+    "rowTags": [
+      "TreasureTempInfo"
+    ],
+    "fields": [
+      "Drop",
+      "HelperDrop",
+      "Quality",
+      "RewardSeconds",
+      "TemplateId",
+      "TemplateName",
+      "Type"
+    ]
+  },
+  {
+    "table": "VipDrop",
+    "rows": 50,
+    "bytes": 3238,
+    "sha256": "dcddb0758247380f7c770bb1f98612e45bde9cb2a3da6431481ee1273d6212f7",
+    "exported": false,
+    "rowTags": [
+      "VipDropInfo"
+    ],
+    "fields": [
+      "ValidDate",
+      "count",
+      "itemId",
+      "site"
+    ]
+  },
+  {
+    "table": "CampaignBufferTemps",
+    "rows": 165,
+    "bytes": 55795,
+    "sha256": "7c8b4357cd7300d2b4e76ec8c42e8237ffa0941b419f2cce8ec01a93c2982971",
+    "exported": false,
+    "rowTags": [
+      "CampaignBufferTempInfo"
+    ],
+    "fields": [
+      "Attack",
+      "Block",
+      "Crit",
+      "Defence",
+      "Description",
+      "Grades",
+      "Icon",
+      "Leadpawn",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "TemplateId",
+      "TemplateName",
+      "Types"
+    ]
+  },
+  {
+    "table": "starTempInfos",
+    "rows": 82,
+    "bytes": 34869,
+    "sha256": "48667b5ffbde2bc45eb90bcd181f9d292692943f057210c448b166e649c91c9c",
+    "exported": false,
+    "rowTags": [
+      "StarTempInfo"
+    ],
+    "fields": [
+      "Agility",
+      "Attack",
+      "Captain",
+      "Conat",
+      "DefaultSkill",
+      "Defence",
+      "Description",
+      "ForceHit",
+      "Icon",
+      "Intellect",
+      "Job",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "MasterType",
+      "NeedGrades",
+      "Parry",
+      "Penetrate",
+      "Physique",
+      "Power",
+      "Profile",
+      "SellGold",
+      "SellGp",
+      "SonType",
+      "StarPoint",
+      "StunAttr",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "SkillPropertyTempInfos",
+    "rows": 11924,
+    "bytes": 937074,
+    "sha256": "80d7041ad6eaa97e9b295f907f990ce5ba09239ead534132403d68d9e68170fc",
+    "exported": false,
+    "rowTags": [
+      "SkillPropertyTempInfo"
+    ],
+    "fields": [
+      "AddType",
+      "Agility",
+      "Attack",
+      "Captain",
+      "DarkResi",
+      "Defence",
+      "ElectResi",
+      "FireResi",
+      "ForceHit",
+      "Intellect",
+      "LightResi",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "Parry",
+      "Penetrate",
+      "Physique",
+      "Power",
+      "ReduceResi",
+      "ReduceResiAgainst",
+      "ResiPenetrate",
+      "StunAttr",
+      "TemplateId",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "ConfigInfos",
+    "rows": 990,
+    "bytes": 139991,
+    "sha256": "bde0e92d3ff993f3033a1185f9e83b6aa306920a5844c12d8b5b66f6ba2423ad",
+    "exported": false,
+    "rowTags": [
+      "ConfigInfo"
+    ],
+    "fields": [
+      "ConfigName",
+      "ConfigValue",
+      "Description"
+    ]
+  },
+  {
+    "table": "SpecialTempInfos",
+    "rows": 561,
+    "bytes": 178110,
+    "sha256": "430a4c486ee10b04324ac9e3b7c4839374540f9abb6abf4618199da074a2624d",
+    "exported": false,
+    "rowTags": [
+      "SpecialTempInfo"
+    ],
+    "fields": [
+      "ChangeNumber",
+      "ChangeRandom",
+      "CurProperty",
+      "Description",
+      "Grades",
+      "MasterType",
+      "PawnMasterType",
+      "ResPath",
+      "TakeRandom",
+      "TarProperty",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "VipPrerogativeTempInfos",
+    "rows": 201,
+    "bytes": 32755,
+    "sha256": "a3b6ce0761a62c313fb782f79de5cd704a68076d1fe4efd84548b90c5d47e024",
+    "exported": false,
+    "rowTags": [
+      "VipPrerogativeTempInfo"
+    ],
+    "fields": [
+      "grade",
+      "id",
+      "name",
+      "para1",
+      "para2",
+      "para3",
+      "type"
+    ]
+  },
+  {
+    "table": "FirstChargeItems",
+    "rows": 18,
+    "bytes": 1018,
+    "sha256": "126bced7a671395b71221c21689405125c3e3b56cd463e4287dfa453d18cf665",
+    "exported": false,
+    "rowTags": [
+      "FirstChageItem"
+    ],
+    "fields": [
+      "counts",
+      "itemid",
+      "job"
+    ]
+  },
+  {
+    "table": "MountTempInfos",
+    "rows": 733,
+    "bytes": 338484,
+    "sha256": "26de0dac4e517b57389293802ecbea18f632f8838c26347fec5e4f0152006806",
+    "exported": false,
+    "rowTags": [
+      "MountTempInfo"
+    ],
+    "fields": [
+      "Agility",
+      "Area",
+      "AvatarPath",
+      "Description",
+      "ExpandLevel",
+      "GradeType",
+      "Intellect",
+      "IsFly",
+      "IsStand",
+      "MountType",
+      "NeedItemId",
+      "NeedMountGrade",
+      "NeedTimeItemId",
+      "Physique",
+      "Power",
+      "Property1",
+      "Property2",
+      "Sort",
+      "SoulScore",
+      "Speed",
+      "StarAddition",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "KingContracts",
+    "rows": 10,
+    "bytes": 1851,
+    "sha256": "59d0cedf5c1b6faef5da3cd3e68aee6707987566f2f06afdc1119c1f843fe3ba",
+    "exported": false,
+    "rowTags": [
+      "KingContract"
+    ],
+    "fields": [
+      "CanAdd",
+      "Description",
+      "Duration",
+      "Id",
+      "Name",
+      "NeedPoint"
+    ]
+  },
+  {
+    "table": "TransformInfos",
+    "rows": 60,
+    "bytes": 12302,
+    "sha256": "7eefe677f08b9d6d2a8b15ff9f7d31eb68a6ff91f599dd54a8b1d3d5e696215c",
+    "exported": false,
+    "rowTags": [
+      "TransformInfo"
+    ],
+    "fields": [
+      "CostGold",
+      "Material1",
+      "Material2",
+      "Material3",
+      "Material4",
+      "Material5",
+      "Material6",
+      "Material7",
+      "Material8",
+      "TransformId"
+    ]
+  },
+  {
+    "table": "AppellInfos",
+    "rows": 951,
+    "bytes": 337988,
+    "sha256": "471e3f6c180483a8ae9e2fcdba04d1279d6bc2edf32da41a4c69a192492fd9e5",
+    "exported": false,
+    "rowTags": [
+      "AppellInfo"
+    ],
+    "fields": [
+      "Buffs",
+      "CondtionType",
+      "Descript",
+      "IsHide",
+      "IsLong",
+      "IsTitleHide",
+      "Job",
+      "Notice",
+      "Para",
+      "Perfix",
+      "Quality",
+      "ShowParam",
+      "Skills",
+      "Sort",
+      "TemplateId",
+      "Time",
+      "Title",
+      "Type"
+    ]
+  },
+  {
+    "table": "VehicleBuffTempInfos",
+    "rows": 44,
+    "bytes": 12520,
+    "sha256": "66038b517da43ebc3856fb3a008ff0b90c61ee79329a9f399ad97444643881de",
+    "exported": false,
+    "rowTags": [
+      "VehicleBuffTempInfo"
+    ],
+    "fields": [
+      "Description",
+      "Duration",
+      "EffectPercent",
+      "EffectType",
+      "EffectValue",
+      "Icon",
+      "Interval",
+      "LastEffect",
+      "Name",
+      "PrepareTime",
+      "TemplateId",
+      "TogglePercent"
+    ]
+  },
+  {
+    "table": "VehicleObjectTempInfos",
+    "rows": 39,
+    "bytes": 10625,
+    "sha256": "527ae1e0c0596a0fb4a880bb3f3964fd086d8d9c775011355eaa365a97dd5af7",
+    "exported": false,
+    "rowTags": [
+      "VehicleObjectTempInfo"
+    ],
+    "fields": [
+      "Attack",
+      "Avatar",
+      "Defence",
+      "Description",
+      "Dodge",
+      "GeniusSkill",
+      "Hp",
+      "NeedDiamond",
+      "NeedGrades",
+      "NormalSkill",
+      "Sort",
+      "Speed",
+      "TemplateId",
+      "TemplateName",
+      "Type"
+    ]
+  },
+  {
+    "table": "VehicleSkillTempInfos",
+    "rows": 77,
+    "bytes": 24610,
+    "sha256": "1936648a6326052b6d0d428f0a0e481d9758c4d00c8337078b0d9b87cc012099",
+    "exported": false,
+    "rowTags": [
+      "VehicleSkillTempInfo"
+    ],
+    "fields": [
+      "ActionId",
+      "AttackRange",
+      "Buffs",
+      "CastTime",
+      "CoolDown",
+      "DamageCoverage",
+      "Description",
+      "IFF",
+      "Icons",
+      "InjuryEffect",
+      "Maximum",
+      "Power",
+      "Power2",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "PetTempInfos",
+    "rows": 108,
+    "bytes": 63622,
+    "sha256": "632ac663710f28f36d60d2e29b0ee9d812dff7317c0e3a7f9c995e342a17e8f1",
+    "exported": false,
+    "rowTags": [
+      "PetTempInfo"
+    ],
+    "fields": [
+      "Armor",
+      "ArmorApt",
+      "ChangeSkills",
+      "DarkResi",
+      "DefaultSkills",
+      "Description",
+      "ElectResi",
+      "FireResi",
+      "FollowSkills",
+      "GrowthRate",
+      "Intel",
+      "IntelApt",
+      "LightResi",
+      "MaxHp",
+      "NeedGrade",
+      "PetAvatar",
+      "PetType",
+      "Physi",
+      "PhysiApt",
+      "Power",
+      "PowerApt",
+      "Property1",
+      "Property2",
+      "Property3",
+      "Property4",
+      "Property5",
+      "Property6",
+      "Quality",
+      "SonType",
+      "TemplateId",
+      "TemplateName",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "PrivilegeDrops",
+    "rows": 0,
+    "bytes": 17,
+    "sha256": "4f6ab92d59ddc1207cd67a9d9ac616f3de4c1b9fe32afe524019bd220a8759bd",
+    "exported": false,
+    "rowTags": [],
+    "fields": []
+  },
+  {
+    "table": "MapNodeInfos",
+    "rows": 58,
+    "bytes": 28544,
+    "sha256": "fe1e09d6ba39acc743d65eaaa8708130155d5dc2c316bf19addfddf328a07055",
+    "exported": false,
+    "rowTags": [
+      "MapNodeInfo"
+    ],
+    "fields": [
+      "BackPosX",
+      "BackPosY",
+      "BornPoints",
+      "Dialogue",
+      "FixX",
+      "FixY",
+      "HandlerRange",
+      "Id",
+      "ItemExchange",
+      "MapId",
+      "MasterType",
+      "MoveToMapId",
+      "MoveToNodeId",
+      "NameColor",
+      "NodeName",
+      "Param1",
+      "Param2",
+      "Param3",
+      "Param4",
+      "Param5",
+      "PatrolPos",
+      "PosX",
+      "PosY",
+      "Resource",
+      "SizeType",
+      "SonType",
+      "Sort",
+      "Toward"
+    ]
+  },
+  {
+    "table": "PetChallengeRewards",
+    "rows": 60,
+    "bytes": 5788,
+    "sha256": "0d9d9f86931dbaec07eb6e293ba5f311b4767066de12723dbc28cf66b2440402",
+    "exported": false,
+    "rowTags": [
+      "PetChallengeReward"
+    ],
+    "fields": [
+      "Count",
+      "Ranking",
+      "RewardType",
+      "TemplateId",
+      "Type"
+    ]
+  },
+  {
+    "table": "GuideValueTemps",
+    "rows": 300,
+    "bytes": 41113,
+    "sha256": "8960dc6af6f14ce98723445a9e91998ec33e6fb5b5e22af65f2cc66456f76f75",
+    "exported": true,
+    "rowTags": [
+      "GuideValueTemp"
+    ],
+    "fields": [
+      "Id",
+      "MaxLv",
+      "MinLv",
+      "Parameter1",
+      "Parameter2",
+      "Parameter3",
+      "Parameter4",
+      "Parameter5",
+      "Type"
+    ]
+  },
+  {
+    "table": "ServenLeadRewards",
+    "rows": 0,
+    "bytes": 20,
+    "sha256": "bb2b08bb38f573df8a09a775fce3f9abc768dfdf92f416e683807b4b179bf03d",
+    "exported": false,
+    "rowTags": [],
+    "fields": []
+  },
+  {
+    "table": "TollgateReward",
+    "rows": 0,
+    "bytes": 17,
+    "sha256": "ca40524ba9c60b1e8c7786799e967272ed53cb2505ca6ae9d1a5ae12a99b2997",
+    "exported": false,
+    "rowTags": [],
+    "fields": []
+  },
+  {
+    "table": "FishTemplateInfos",
+    "rows": 13,
+    "bytes": 3221,
+    "sha256": "919dd4e97ac7a291a8ab4ccd9b9aad35ee9d2c4d79dc1946f7ce20d928f523f7",
+    "exported": false,
+    "rowTags": [
+      "FishTemplateInfo"
+    ],
+    "fields": [
+      "ChannelIds",
+      "GP",
+      "IsBlock",
+      "Length",
+      "Level",
+      "Path",
+      "RageCount1",
+      "RageCount2",
+      "RageId1",
+      "RageId2",
+      "RewardCount",
+      "RewardId",
+      "Score",
+      "Speed",
+      "TemplateId",
+      "TemplateName",
+      "Type"
+    ]
+  },
+  {
+    "table": "MarrySpecTempInfos",
+    "rows": 3,
+    "bytes": 756,
+    "sha256": "140c836d1e533a4c974f5ab21002df3a17f470115d2b6c5f8622ac577b54e907",
+    "exported": false,
+    "rowTags": [
+      "MarrySpecTempInfo"
+    ],
+    "fields": [
+      "CampaignId",
+      "Discount",
+      "DiscountTime",
+      "Gift",
+      "Path",
+      "Points",
+      "Rewards",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "BoxItems",
+    "rows": 0,
+    "bytes": 11,
+    "sha256": "8aeff73a50537f70a03bdb77026e878be8b69e9c14681ac31c2cb2ee0e8a82e7",
+    "exported": false,
+    "rowTags": [],
+    "fields": []
+  },
+  {
+    "table": "HeartTempInfos",
+    "rows": 123,
+    "bytes": 22532,
+    "sha256": "6af7fb277d526ffc41b5059e20c6b0aeee1c1fc43aeca1aece400aa933acaa8f",
+    "exported": false,
+    "rowTags": [
+      "HeartTempInfo"
+    ],
+    "fields": [
+      "Option1",
+      "Option2",
+      "Option3",
+      "Option4",
+      "Question",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "RandomBossBuffInfos",
+    "rows": 72,
+    "bytes": 7171,
+    "sha256": "c51a85b33c295b39fd3268e75d0f9157f2689256fd22f3cfcb3f19c122aa734c",
+    "exported": false,
+    "rowTags": [
+      "RandomBossBuffInfo"
+    ],
+    "fields": [
+      "CanBuyCount",
+      "Index",
+      "NeedCount",
+      "NeedItemId",
+      "SkillId"
+    ]
+  },
+  {
+    "table": "PlanesLayers",
+    "rows": 264,
+    "bytes": 59543,
+    "sha256": "bc25fdfb9ff35a9fdccbb44e5112905e5fa36522b069ceae6c19d4cdcbc3bbec",
+    "exported": false,
+    "rowTags": [
+      "PlanesLayer"
+    ],
+    "fields": [
+      "DailyRewards",
+      "DarkResiBonus",
+      "ElectResiBonus",
+      "EnemySkill",
+      "FireResiBonus",
+      "IconType",
+      "LandType",
+      "LayerNum",
+      "LayerTempId",
+      "LightResiBonus",
+      "PlanesTempId",
+      "ReducePoint",
+      "ReduceResiBonus",
+      "ResistType",
+      "Size",
+      "WaterResiBonus",
+      "WindResiBonus"
+    ]
+  },
+  {
+    "table": "PlanesEvents",
+    "rows": 107,
+    "bytes": 26586,
+    "sha256": "b1b7a87bd2b534475f875b483d2fbf2f093df462ffe5e3dbea690305c30de013",
+    "exported": false,
+    "rowTags": [
+      "PlanesEvent"
+    ],
+    "fields": [
+      "Description",
+      "EnergyCost",
+      "EventTempId",
+      "EventType",
+      "Icon",
+      "Name",
+      "NeedLevel",
+      "Parameter",
+      "Rewards"
+    ]
+  },
+  {
+    "table": "PlanesTemplates",
+    "rows": 24,
+    "bytes": 3065,
+    "sha256": "72f11b26b322883d2ef4f22dae0d02be8dbb94630a8f151d6ecc955c3f575d4f",
+    "exported": false,
+    "rowTags": [
+      "PlanesTemplate"
+    ],
+    "fields": [
+      "AddLifeItem",
+      "LifePoint",
+      "PlanesName",
+      "PlanesTempId",
+      "TotalLayer"
+    ]
+  },
+  {
+    "table": "DistrictSSSDrop",
+    "rows": 24,
+    "bytes": 1953,
+    "sha256": "16340307519a9fe504229ed8f9b4515609afbfab863c6705958ef28c158ddd3c",
+    "exported": false,
+    "rowTags": [
+      "DistrictSSSDropInfo"
+    ],
+    "fields": [
+      "Count",
+      "District",
+      "ItemId",
+      "ValidDate"
+    ]
+  },
+  {
+    "table": "RemotePetTempInfos",
+    "rows": 120,
+    "bytes": 28803,
+    "sha256": "eb15e75b949a5724db4928e07cb91f272cd2af9e173a229382684a186edde096",
+    "exported": false,
+    "rowTags": [
+      "RemotePetTempInfo"
+    ],
+    "fields": [
+      "DropItems",
+      "Fight",
+      "FirstDropItems",
+      "Icon",
+      "Icon2",
+      "Index",
+      "Name",
+      "Property",
+      "Skill",
+      "SweepIndex",
+      "Type"
+    ]
+  },
+  {
+    "table": "ChildTempInfos",
+    "rows": 180,
+    "bytes": 93930,
+    "sha256": "6f869f376176999ef8b036776acb9be41af6980e8452224713e902573c76c238",
+    "exported": false,
+    "rowTags": [
+      "ChildTempInfo"
+    ],
+    "fields": [
+      "ArtifactName",
+      "ArtifactPath",
+      "Attack",
+      "CallNeedItems",
+      "CallTotalGrowth",
+      "DarkResi",
+      "Defence",
+      "ElectResi",
+      "FireResi",
+      "ForceHit",
+      "Grades",
+      "Icon",
+      "JobName",
+      "JobType",
+      "LightResi",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "MasterType",
+      "Parry",
+      "Penetrate",
+      "ReduceResi",
+      "ReduceResiAgainst",
+      "ResPath",
+      "ResiPenetrate",
+      "SkillMasterType",
+      "StunAttr",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "GuardPVETemp",
+    "rows": 2,
+    "bytes": 207188,
+    "sha256": "f972405934d1a6c17331757d5b87d7350309e797de5e85f5bf46760ec50043d8",
+    "exported": false,
+    "rowTags": [
+      "GuardPVEBossTempInfos",
+      "GuardPveExploreRewardInfos"
+    ],
+    "fields": []
+  },
+  {
+    "table": "QuickPassRewards",
+    "rows": 15,
+    "bytes": 978,
+    "sha256": "a0b0107f9ad7a4de112e7bb287d1fbd52afe6af5f487259f9b3c5fa501dc1093",
+    "exported": false,
+    "rowTags": [
+      "QuickPassReward"
+    ],
+    "fields": [
+      "Count",
+      "Ranking",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "FashionPolishs",
+    "rows": 404,
+    "bytes": 49711,
+    "sha256": "996b79a9fa7bad2a23e94d6d4c029f3befa0d6d9a81bd502a65c379164234d13",
+    "exported": false,
+    "rowTags": [
+      "FashionPolish"
+    ],
+    "fields": [
+      "AppraisalAdd",
+      "Exp",
+      "Level",
+      "LevelAdd",
+      "NeedCount",
+      "OtherLevel",
+      "SonType",
+      "SpAdd"
+    ]
+  },
+  {
+    "table": "AllianceShopInfos",
+    "rows": 73,
+    "bytes": 12490,
+    "sha256": "e5e0f84e0d02fec7d2eae0fd8408cf529d718b07858d32286e2389db5fd2db51",
+    "exported": false,
+    "rowTags": [
+      "AllianceShopInfo"
+    ],
+    "fields": [
+      "CommodityAmount",
+      "CommodityId",
+      "CommodityNum",
+      "Id",
+      "JobType",
+      "Limited",
+      "MoneyNum",
+      "PlayerType"
+    ]
+  },
+  {
+    "table": "AllianceActivityTasks",
+    "rows": 280,
+    "bytes": 83262,
+    "sha256": "b59d658d5c0171c0da3b70a942e025fba91676bb632d08104c6d3fe4a069ee3a",
+    "exported": true,
+    "rowTags": [
+      "AllianceActivityTask"
+    ],
+    "fields": [
+      "Para1",
+      "RewardItem1",
+      "RewardItem2",
+      "RewardItem3",
+      "RewardItemNum1",
+      "RewardItemNum2",
+      "RewardItemNum3",
+      "TaskCount",
+      "TaskDes",
+      "TaskId",
+      "TaskList",
+      "TaskNum",
+      "TaskTitle",
+      "TaskType"
+    ]
+  },
+  {
+    "table": "AllianceRewardInfos",
+    "rows": 29,
+    "bytes": 9257,
+    "sha256": "78a431d947831e98437e44eaeda0c42757caa0526b7a997687979a41dca558b1",
+    "exported": false,
+    "rowTags": [
+      "AllianceRewardInfo"
+    ],
+    "fields": [
+      "Id",
+      "NeedCount",
+      "RewardItem1",
+      "RewardItem2",
+      "RewardItem3",
+      "RewardItem4",
+      "RewardItem5",
+      "RewardItem6",
+      "RewardItemNum1",
+      "RewardItemNum2",
+      "RewardItemNum3",
+      "RewardItemNum4",
+      "RewardItemNum5",
+      "RewardItemNum6",
+      "RewardNum",
+      "RewardType"
+    ]
+  },
+  {
+    "table": "AlliancePrivileges",
+    "rows": 126,
+    "bytes": 21589,
+    "sha256": "c915898f647eb65ed7f3276d207e2394ec035f3b3f33ce9e599bc77351295cce",
+    "exported": false,
+    "rowTags": [
+      "AlliancePrivilege"
+    ],
+    "fields": [
+      "ContractLevel",
+      "Id",
+      "PlayerType",
+      "PrivilegeDes",
+      "PrivilegeMode",
+      "PrivilegeType",
+      "PrivilegeValue"
+    ]
+  },
+  {
+    "table": "GloryRoadDrop",
+    "rows": 6,
+    "bytes": 992,
+    "sha256": "8d477b52833eccb97ed3495424791b2436c6564b37fa96ec7ba12b24bce12b84",
+    "exported": false,
+    "rowTags": [
+      "GloryRoadDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "GuardPvpDrop",
+    "rows": 40,
+    "bytes": 5960,
+    "sha256": "8d4b3b351a07748e8689504e9ec30e9f3be19dc15a1f7b83f2c4a7069e8b2129",
+    "exported": false,
+    "rowTags": [
+      "GuardPvpDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "AreaMapDropInfos",
+    "rows": 36,
+    "bytes": 3114,
+    "sha256": "70be1846498ee5ca628cf58483831f2bf2c5280a4977bb42933bec1d61bfd840",
+    "exported": false,
+    "rowTags": [
+      "AreaMapDropInfo"
+    ],
+    "fields": [
+      "campaignDataId",
+      "count",
+      "itemTempId",
+      "mapId"
+    ]
+  },
+  {
+    "table": "LordTrialTempInfos",
+    "rows": 90,
+    "bytes": 11148,
+    "sha256": "af8d5633fca2ed5bcadb21d1e889bc2c2668e97050b24194aa5c941ed1828643",
+    "exported": false,
+    "rowTags": [
+      "LordTrialDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "id",
+      "isBind",
+      "itemId",
+      "para1",
+      "para2",
+      "validDate"
+    ]
+  },
+  {
+    "table": "SkyOrderRewards",
+    "rows": 36,
+    "bytes": 2786,
+    "sha256": "d8b30e42ca1fd76540cc10eda5fb478cd5c2973ef82288c5f613af7ddabc7a0d",
+    "exported": false,
+    "rowTags": [
+      "SkyOrderReward"
+    ],
+    "fields": [
+      "Count",
+      "Index",
+      "Max",
+      "Min",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "SkyRewards",
+    "rows": 1620,
+    "bytes": 136618,
+    "sha256": "27d275f0fa955e18648c5785ce4624817cb7b22578d535ecdb2f2c6e16e8b681",
+    "exported": false,
+    "rowTags": [
+      "SkyReward"
+    ],
+    "fields": [
+      "CampaignId",
+      "Count",
+      "Index",
+      "Param2",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "TimeVortexRewards",
+    "rows": 201,
+    "bytes": 19223,
+    "sha256": "2fea457aad76a0cb098f874c4c03fca8980280a4200427acec770a20f11a4c6e",
+    "exported": false,
+    "rowTags": [
+      "TimeVortexReward"
+    ],
+    "fields": [
+      "CampaignId",
+      "Count",
+      "Index",
+      "RewardType",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "UnrealWeekRewards",
+    "rows": 14,
+    "bytes": 905,
+    "sha256": "44b13b7308b40881c23f5c96df7b56c8c387f4474ae5322920dbbb29f4f97587",
+    "exported": false,
+    "rowTags": [
+      "UnrealWeekReward"
+    ],
+    "fields": [
+      "Count",
+      "Order",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "StargazingDrop",
+    "rows": 116,
+    "bytes": 17204,
+    "sha256": "1fc77bf9843a76e37a91c3be46ddbb1ccc0302db4685545ff78a2fe9e7140b65",
+    "exported": false,
+    "rowTags": [
+      "StargazingDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "CrisisDrop",
+    "rows": 72,
+    "bytes": 11191,
+    "sha256": "24d0b9b6ab863dea4d7026161309c427a8b23f9404b3017a5963523851add8b4",
+    "exported": false,
+    "rowTags": [
+      "CrisisDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "EclipticPalaceDrop",
+    "rows": 91,
+    "bytes": 13905,
+    "sha256": "8ff175f85d3148a6b32963cafe331122513f4057a2b4d03aebb5651ba92a619e",
+    "exported": false,
+    "rowTags": [
+      "EclipticPalaceDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "UpgradePresentBoxDrop",
+    "rows": 31,
+    "bytes": 3903,
+    "sha256": "99f070981f2c90da35f927742263825c4157ed97ea840f3a10f7a0dcf6869a62",
+    "exported": false,
+    "rowTags": [
+      "UpgradePresentBoxDropInfo"
+    ],
+    "fields": [
+      "AppearType",
+      "BoxTempId",
+      "Count",
+      "Id",
+      "ItemTempId",
+      "ValidDate"
+    ]
+  },
+  {
+    "table": "EvilLandDrop",
+    "rows": 1200,
+    "bytes": 104559,
+    "sha256": "c5711afa43fa1e349da5eb2111cdcc68eed99eb4eec1699898b65c0759d5f2d0",
+    "exported": false,
+    "rowTags": [
+      "EvilLandDropInfo"
+    ],
+    "fields": [
+      "Count",
+      "DropId",
+      "IsBind",
+      "ItemId",
+      "ValidDate"
+    ]
+  },
+  {
+    "table": "EvilLandBoxDrop",
+    "rows": 25,
+    "bytes": 3798,
+    "sha256": "5ff9fb4b68e58fb5a60ccf8a75c2a6173d04f8595b8e290c29a63d0bdbda2074",
+    "exported": false,
+    "rowTags": [
+      "EvilLandBoxDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ConsortiaPveDrop",
+    "rows": 406,
+    "bytes": 37159,
+    "sha256": "342787f254070d1dbc5820b19aaf202ec18bfbd8d6dd368467b0718798a7b217",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaPveDropInfo"
+    ],
+    "fields": [
+      "Count",
+      "DropId",
+      "IsBind",
+      "ItemId",
+      "ValidDate"
+    ]
+  },
+  {
+    "table": "ConsortiaPveRankDrop",
+    "rows": 16,
+    "bytes": 2638,
+    "sha256": "3f0e1031ebaee31e5a9db166feaa9f40e7580a39639f76338671f420803c52a4",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaPveRankDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ApexRewardDrop",
+    "rows": 60,
+    "bytes": 9281,
+    "sha256": "a6ecef88b0c1ce803f9533a16737b021da7ebde2c70337785cd1aa05ff27f10a",
+    "exported": false,
+    "rowTags": [
+      "ApexRewardDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ApexRewardSingleDrop",
+    "rows": 2,
+    "bytes": 350,
+    "sha256": "79a7365d9864a154ba5c47db61213a8c31c9adfc2f2f92eceef4bc8b4290a154",
+    "exported": false,
+    "rowTags": [
+      "ApexRewardSingleDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ConsortiaWarSeasonDrop",
+    "rows": 7,
+    "bytes": 1150,
+    "sha256": "5b7d440efd5e5cc5ec2454348ebb25199ad4f3ecd8f5374317cd701c530e27ad",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaWarSeasonDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ConsortiaWarFightDrop",
+    "rows": 12,
+    "bytes": 1887,
+    "sha256": "19c0ca3dc6026db8bee6eedb8a47cfc128d115e3a6cec469629f33cae1331b6a",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaWarFightDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ConsortiaWarUserDrop",
+    "rows": 9,
+    "bytes": 1465,
+    "sha256": "acac9435d6bbaee5f0750aeafbe4b411e1d6af8dbdc27567a42c1c5617db4102",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaWarUserDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "MonsterCookDrop",
+    "rows": 9,
+    "bytes": 1385,
+    "sha256": "93c0a4e9053853aded74af4f52def929e0295c805ba27081777d164bdc2ed8e8",
+    "exported": false,
+    "rowTags": [
+      "MonsterCookDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "MonsterExploreDrop",
+    "rows": 1015,
+    "bytes": 95306,
+    "sha256": "6c64b1a7f89462e523cf580f6810b47638db43caeb6b543d60a082628c3499f1",
+    "exported": false,
+    "rowTags": [
+      "MonsterExploreDropInfo"
+    ],
+    "fields": [
+      "Count",
+      "DropId",
+      "IsBind",
+      "ItemId",
+      "ValidDate"
+    ]
+  },
+  {
+    "table": "DreamArenaDrop",
+    "rows": 39,
+    "bytes": 5928,
+    "sha256": "7a034cde07a9d31739251f970669e3460cbc80fb0d069f6e89048da7ebd2719f",
+    "exported": false,
+    "rowTags": [
+      "DreamArenaDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "EasterLotteryDrop",
+    "rows": 260,
+    "bytes": 39932,
+    "sha256": "5591fd5f278846036a3d2456f20a45ed5d75647cb3dc6cdf27a8e81ea1b0a11a",
+    "exported": false,
+    "rowTags": [
+      "EasterLotteryDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "RevengeRoadBoxDrop",
+    "rows": 8,
+    "bytes": 1252,
+    "sha256": "5fea20d7dd9966ee92a40af477cd00828beb7af5deb80f5f8687d422606b2e98",
+    "exported": false,
+    "rowTags": [
+      "RevengeRoadBoxDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "RevengeRoadDrop",
+    "rows": 200,
+    "bytes": 30281,
+    "sha256": "730e7041f723a5c05dc644139df284bd49bdccfde5f6161d8df8923280c6b730",
+    "exported": false,
+    "rowTags": [
+      "RevengeRoadDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ConsortiaWantDrop",
+    "rows": 19,
+    "bytes": 2960,
+    "sha256": "b958d532b0daacdd3876d27c603a5753150aa256518c95711d185d9bace6a543",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaWantDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "SevenYearRewardDrop",
+    "rows": 503,
+    "bytes": 73887,
+    "sha256": "ab641e5414b293fce89b9d130a45d68f303510f2a80d71e57a94e8cc6a78d463",
+    "exported": false,
+    "rowTags": [
+      "SevenYearRewardDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "StarAreaDrop",
+    "rows": 11,
+    "bytes": 1664,
+    "sha256": "7f844fc73df5f2e87ed9b08e0bbafb0da0243c01aa7c7034491d67d369263e22",
+    "exported": false,
+    "rowTags": [
+      "StarAreaDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "TreasureBoxDrop",
+    "rows": 190,
+    "bytes": 29865,
+    "sha256": "7ff7698cffdbc35a5e64c2b78e0e9d749a79871d8ab53eaf08c8e5c140a87b1a",
+    "exported": false,
+    "rowTags": [
+      "TreasureBoxDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "GloryRewardDrop",
+    "rows": 6,
+    "bytes": 960,
+    "sha256": "14aa17a3e04920cbed0894fcf302e8f6534ec46a05083c9483fc0aa66d06d813",
+    "exported": false,
+    "rowTags": [
+      "GloryRewardDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "GuardEndlessDrop",
+    "rows": 896,
+    "bytes": 137365,
+    "sha256": "fba3de53aa4de298622b33cf28d3bde7a912331c42a19ab1a0d588b697d18e6e",
+    "exported": false,
+    "rowTags": [
+      "GuardEndlessDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "GuardEndlessHorribleDrop",
+    "rows": 630,
+    "bytes": 101159,
+    "sha256": "4f89937abf66f6f7a657ff65f0e52639afe7d2236173e4cde91df7bd4872244b",
+    "exported": false,
+    "rowTags": [
+      "GuardEndlessHorribleDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "RushCampaignDrop",
+    "rows": 13,
+    "bytes": 2015,
+    "sha256": "ba2f56ac209b6ece04ee9ddaa7f0784528fa530985e2b6623062fd41f80235c5",
+    "exported": false,
+    "rowTags": [
+      "RushCampaignDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ExpeditionFightDrop",
+    "rows": 60,
+    "bytes": 9349,
+    "sha256": "28f0e15a4827ce73f5e1063a05f0364e4637120d5fd3e45a470797cfee05c973",
+    "exported": false,
+    "rowTags": [
+      "ExpeditionFightDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ExpeditionStarDrop",
+    "rows": 8,
+    "bytes": 1284,
+    "sha256": "95420c73bc27a85b7bcc07d2c087f3144e3bc1f0b520eb170cb8647343b5c259",
+    "exported": false,
+    "rowTags": [
+      "ExpeditionStarDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "SevenYearFreeRewardDrop",
+    "rows": 513,
+    "bytes": 76826,
+    "sha256": "475da8859c8e375190613ad9069e140417ce670403eda6197ef31b8c570d47be",
+    "exported": false,
+    "rowTags": [
+      "SevenYearFreeRewardDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ShadowLandFightDrop",
+    "rows": 208,
+    "bytes": 33202,
+    "sha256": "096eae96ad2666c5cc5467ea6d4a259dca1f02b79d55385d734765e0c0c673f7",
+    "exported": false,
+    "rowTags": [
+      "ShadowLandFightDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ShadowLandBoxDrop",
+    "rows": 10,
+    "bytes": 1557,
+    "sha256": "42e57f38ba958535b2504add7d53831b9ae8ca62160274e0f19a5eea521dfbad",
+    "exported": false,
+    "rowTags": [
+      "ShadowLandBoxDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "RemainsExploreDrop",
+    "rows": 336,
+    "bytes": 52457,
+    "sha256": "1accf5a852a45a27447932056c3ca4e6198d8d51e55cbd679ffa50e379a67d5f",
+    "exported": false,
+    "rowTags": [
+      "RemainsExploreDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "RemainsExploreBox",
+    "rows": 18,
+    "bytes": 2846,
+    "sha256": "062f4429224c74f04b26c9176e088fbc7116ce28ede4a052414adabd16ad9896",
+    "exported": false,
+    "rowTags": [
+      "RemainsExploreBoxInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "SkyStepDrop",
+    "rows": 7,
+    "bytes": 1077,
+    "sha256": "f90137eace385fccc3b740aaf0d1284325066d83540b85a7dc35dd96af513729",
+    "exported": false,
+    "rowTags": [
+      "SkyStepDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ConsortiaNewBossReward",
+    "rows": 2010,
+    "bytes": 323936,
+    "sha256": "6004a1590f7f25d6bf844f3f7173fb0bb68f5f0e386cee53a8f4d3aaa6af1d6b",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaNewBossRewardInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ConsortiaNewBossDamageReward",
+    "rows": 5000,
+    "bytes": 921985,
+    "sha256": "30132254c2f080c47636bab174492d6256f623079431411270732a0637bd3ea2",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaNewBossDamageRewardInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "AchievementTaskBuyDrop",
+    "rows": 360,
+    "bytes": 60355,
+    "sha256": "bdd528c8cd90345285fcc05353ebf25847b82f1e6e1250bfdd5245ad17268e02",
+    "exported": true,
+    "rowTags": [
+      "AchievementTaskBuyDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "FirstPayDrop",
+    "rows": 1,
+    "bytes": 185,
+    "sha256": "3e3449e8a5f7f64b6ee2e423ba85fa4cf26f9a5ac065753d34a922c905ec62e1",
+    "exported": false,
+    "rowTags": [
+      "FirstPayDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "QuestionDrop",
+    "rows": 5,
+    "bytes": 780,
+    "sha256": "13e12984d4e994db44659cc1d2903f5f569aa655339fa0faf65ac2a7335a0bc8",
+    "exported": false,
+    "rowTags": [
+      "QuestionDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ForbiddenBossBelongDrop",
+    "rows": 730,
+    "bytes": 120578,
+    "sha256": "e3b5352679a11e6011912669944e3ec4bfdf4b8191669999e58cbd48d1ff23be",
+    "exported": false,
+    "rowTags": [
+      "ForbiddenBossBelongDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ForbiddenBossJoinDrop",
+    "rows": 730,
+    "bytes": 119102,
+    "sha256": "104b8e143df44a234f0f34c7ee4f6719f3a40d7d2354027144258bb4722f95ab",
+    "exported": false,
+    "rowTags": [
+      "ForbiddenBossJoinDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ActivityDailyDrop",
+    "rows": 40,
+    "bytes": 6271,
+    "sha256": "a1965ecd1ff28605ce1a56d681f16a4155ecefeaf8ce1255749990d9c0d1f92c",
+    "exported": false,
+    "rowTags": [
+      "ActivityDailyDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "ActivityWeekDrop",
+    "rows": 48,
+    "bytes": 7499,
+    "sha256": "a0b2d72b7d7f3f5f013b7d13670a98898cdef494de165a7a63458f7b360fc960",
+    "exported": false,
+    "rowTags": [
+      "ActivityWeekDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "YearEggDrop",
+    "rows": 19,
+    "bytes": 2863,
+    "sha256": "a5c92e812570f463d4a7d9898a15e92d7317127aba431d27ee04193e06089c34",
+    "exported": false,
+    "rowTags": [
+      "YearEggDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "CollectionGetDrop",
+    "rows": 9,
+    "bytes": 1383,
+    "sha256": "67d9e6aa75463621b7b05081b118ddc66a45c42a54b241de47bb677d462e8fd5",
+    "exported": false,
+    "rowTags": [
+      "CollectionGetDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "CollectionOpenDrop",
+    "rows": 154,
+    "bytes": 23247,
+    "sha256": "a2533f54822a864948821aabcfa11010a2c53ae25393a66888000d9af5fdeb6e",
+    "exported": false,
+    "rowTags": [
+      "CollectionOpenDropInfo"
+    ],
+    "fields": [
+      "appearType",
+      "count",
+      "dropId",
+      "id",
+      "isBind",
+      "isShow",
+      "itemId",
+      "para2",
+      "site",
+      "validDate"
+    ]
+  },
+  {
+    "table": "MagicCardTempInfos",
+    "rows": 180,
+    "bytes": 47290,
+    "sha256": "7cad21e8ad21ca0ef0eec785aa01fbce7ad2556ed304c57a6da770ad68d4d5f4",
+    "exported": false,
+    "rowTags": [
+      "MagicCardTempInfo"
+    ],
+    "fields": [
+      "ActiveNeedTempId",
+      "ActiveScene",
+      "Description1",
+      "Description2",
+      "Grades",
+      "Icon",
+      "NeedMagicDust",
+      "Pos",
+      "Profile",
+      "SkillTempIds",
+      "TemplateId",
+      "TemplateName",
+      "Types"
+    ]
+  },
+  {
+    "table": "MapShopItemTemplateInfos",
+    "rows": 746,
+    "bytes": 174991,
+    "sha256": "4e3d1a5c9633aaf497105d2895292cbc1826e11f0936ac47ba58f3d5ef9cbcd5",
+    "exported": false,
+    "rowTags": [
+      "MapShopItemTemplateInfo"
+    ],
+    "fields": [
+      "Count",
+      "Crystal",
+      "IsDrop",
+      "ItemId",
+      "MapShopId",
+      "MaxLevel",
+      "MinLevel",
+      "NeedJob",
+      "NeedTransJob",
+      "Point",
+      "Random",
+      "Score",
+      "SecretStone",
+      "Sort",
+      "Strategy",
+      "Type"
+    ]
+  },
+  {
+    "table": "SkyTrialLayerTempInfos",
+    "rows": 20,
+    "bytes": 2538,
+    "sha256": "e8c386ce7e6d0a29182e7ff1cce9b700e1d4d203e4661a7c61001bdbbfb9592b",
+    "exported": false,
+    "rowTags": [
+      "SkyTrialLayerTempInfo"
+    ],
+    "fields": [
+      "ClearReward",
+      "LayerNum",
+      "PortalCount"
+    ]
+  },
+  {
+    "table": "SkyTrialPortalTempInfos",
+    "rows": 90,
+    "bytes": 22461,
+    "sha256": "11d940c0e1a4cf71d445635cd16d7bdd616203f4a8f37d591edc274e5a09bde4",
+    "exported": false,
+    "rowTags": [
+      "SkyTrialPortalTempInfo"
+    ],
+    "fields": [
+      "ClearReward",
+      "EnergyCost",
+      "LayerNum",
+      "NatureType",
+      "PortalId",
+      "PortalName",
+      "ResourcePath",
+      "ScenePath",
+      "TotalSearchCount"
+    ]
+  },
+  {
+    "table": "SkyTrialEventTempInfos",
+    "rows": 132,
+    "bytes": 15901,
+    "sha256": "a74778acf50b207d7d26d22e964a01df8855c2b179aba528a0d0e8f16ccc9b5a",
+    "exported": false,
+    "rowTags": [
+      "SkyTrialEventTempInfo"
+    ],
+    "fields": [
+      "BigBonus",
+      "EventId",
+      "Monster",
+      "NeedMinLayer",
+      "Reward",
+      "SearchPoint"
+    ]
+  },
+  {
+    "table": "GameBoxShopTempInfos",
+    "rows": 14,
+    "bytes": 1329,
+    "sha256": "200b8a736228fb45ebabc77a902a100e58ed58b9b2fe75306e9ed20b7829dad2",
+    "exported": false,
+    "rowTags": [
+      "GameBoxShopTempInfo"
+    ],
+    "fields": [
+      "Area",
+      "Count",
+      "ItemTempId",
+      "NeedPay",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "ConsortiaBossTempInfos",
+    "rows": 10,
+    "bytes": 2065,
+    "sha256": "e8484a668b60ef7a6e823240d9c6a50e7365799716b5bba714368999d060f892",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaBossTempInfo"
+    ],
+    "fields": [
+      "ASection",
+      "ATotal",
+      "AttackPercent",
+      "BSection",
+      "BTotal",
+      "CSection",
+      "CTotal",
+      "HpPercent",
+      "Level",
+      "LostReward",
+      "WinReward"
+    ]
+  },
+  {
+    "table": "PetComponseInfos",
+    "rows": 34,
+    "bytes": 12636,
+    "sha256": "52ddf2fbc100ec5a5096c5e98d8bf34e0ede9324e30c7542242f36e311cdb810",
+    "exported": false,
+    "rowTags": [
+      "PetComponseInfo"
+    ],
+    "fields": [
+      "NeedGold",
+      "NeedItemTempId1",
+      "NeedItemTempId2",
+      "NeedItemTempId3",
+      "NeedItemTempIdCount1",
+      "NeedItemTempIdCount2",
+      "NeedItemTempIdCount3",
+      "NeedPoint",
+      "Pet1Grade",
+      "Pet1Quality",
+      "Pet1Types",
+      "Pet2Grade",
+      "Pet2Quality",
+      "Pet2Types",
+      "ResultPetGrade",
+      "ResultPetTypes",
+      "ResultQuality",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "ArchaeologyBookTemps",
+    "rows": 63,
+    "bytes": 20732,
+    "sha256": "087dcbf4f3a62f4725ac63dd751ded520ddac94898ad66530e6cbd4058740608",
+    "exported": false,
+    "rowTags": [
+      "ArchaeologyBookTemp"
+    ],
+    "fields": [
+      "Collection1",
+      "Collection2",
+      "Collection3",
+      "Id",
+      "Name",
+      "RewardAppell",
+      "RewardCount1",
+      "RewardCount2",
+      "RewardCount3",
+      "RewardCount4",
+      "RewardFurnitureCount",
+      "RewardFurnitureId",
+      "RewardId1",
+      "RewardId2",
+      "RewardId3",
+      "RewardId4",
+      "Type"
+    ]
+  },
+  {
+    "table": "ArchaeologyItemTemps",
+    "rows": 200,
+    "bytes": 59946,
+    "sha256": "5ba85a482930763c95f18ebb1b01df250c6ff2f435c988fc3c6b8078a8f4e9db",
+    "exported": false,
+    "rowTags": [
+      "ArchaeologyItemTemp"
+    ],
+    "fields": [
+      "Detail",
+      "Id",
+      "MapId",
+      "MinLevel",
+      "Name",
+      "NeedChip",
+      "Pic",
+      "PicLayout",
+      "RewardCount",
+      "RewardId",
+      "Type"
+    ]
+  },
+  {
+    "table": "FurnitureTempInfos",
+    "rows": 73,
+    "bytes": 17097,
+    "sha256": "92e7da49bced1e53961d597e1eca72b4b5814cd140455ee2dde9ba83ddd86778",
+    "exported": false,
+    "rowTags": [
+      "FurnitureTempInfo"
+    ],
+    "fields": [
+      "FurnitureType",
+      "Grade",
+      "Icon1",
+      "Icon2",
+      "Icon3",
+      "Luxury",
+      "NeedItem",
+      "NeedPoints",
+      "Property1",
+      "Property2",
+      "Property3",
+      "TemplateId",
+      "TemplateName",
+      "Type"
+    ]
+  },
+  {
+    "table": "TitanTempInfos",
+    "rows": 12,
+    "bytes": 4861,
+    "sha256": "521a2de5f9674064b90942aff95a2c919a4ea4d27ea9032e29fececd52c0bb1d",
+    "exported": false,
+    "rowTags": [
+      "TitanTempInfo"
+    ],
+    "fields": [
+      "Attack",
+      "AvatarPath",
+      "DarkResi",
+      "Defence",
+      "Description",
+      "ElectResi",
+      "FireResi",
+      "ForceHit",
+      "LightResi",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "Parry",
+      "Penetrate",
+      "QualiLimit",
+      "ReduceResi",
+      "SkillIds",
+      "Strength",
+      "StunAttr",
+      "TemplateId",
+      "TemplateName",
+      "Tenacity",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "ChildPatrolMissionTempInfos",
+    "rows": 78,
+    "bytes": 21247,
+    "sha256": "f110f2acdaa035af296a1b42713faf61d76331366f4abd06f8574d62901c7b1a",
+    "exported": true,
+    "rowTags": [
+      "ChildPatrolMissionTempInfo"
+    ],
+    "fields": [
+      "CalcType",
+      "Description",
+      "Diffculty",
+      "MissionType",
+      "NeedJob",
+      "RewardCount1",
+      "RewardCount2",
+      "RewardCount3",
+      "RewardId1",
+      "RewardId2",
+      "RewardId3",
+      "TargetValue",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "CattoysTemplateInfos",
+    "rows": 49,
+    "bytes": 17438,
+    "sha256": "f35207719c7ca2fac411cd5ceac4833c7b44567181fb103da9bdab5b01a13673",
+    "exported": false,
+    "rowTags": [
+      "CattoysTemplateInfo"
+    ],
+    "fields": [
+      "Avatar",
+      "CatCount",
+      "CatProfileLimit",
+      "CatProfileMax",
+      "GrowingMinute",
+      "Icon",
+      "NeedCount1",
+      "NeedCount2",
+      "NeedCount3",
+      "NeedItem1",
+      "NeedItem2",
+      "NeedItem3",
+      "OutGold",
+      "OutTempCount",
+      "OutTempId",
+      "Profile",
+      "TemplateId",
+      "TemplateName",
+      "Types"
+    ]
+  },
+  {
+    "table": "ShareTemplateInfos",
+    "rows": 14,
+    "bytes": 2860,
+    "sha256": "119ffef38eb1f837c55f5a79a5030579d7393930ea3990be2efcf753f68e4d67",
+    "exported": false,
+    "rowTags": [
+      "ShareTemplateInfo"
+    ],
+    "fields": [
+      "ConditionType",
+      "Contents",
+      "Param1",
+      "Param2",
+      "Param3",
+      "Param4",
+      "Param5",
+      "Param6",
+      "Rewards",
+      "SharePic",
+      "TemplateId",
+      "Titles"
+    ]
+  },
+  {
+    "table": "RegressTemplateInfos",
+    "rows": 8,
+    "bytes": 1024,
+    "sha256": "02503851bcb8b9912589bdac6504c69057df3d6e4af3767ef063bdeb8a589dc1",
+    "exported": false,
+    "rowTags": [
+      "RegressTemplateInfo"
+    ],
+    "fields": [
+      "LoginCount",
+      "NeedCharge",
+      "NeedGrades",
+      "TakeData",
+      "TakePercent",
+      "TemplateId",
+      "Types"
+    ]
+  },
+  {
+    "table": "NavigationTaskTempInfos",
+    "rows": 155,
+    "bytes": 20074,
+    "sha256": "a06f9572bd02ccb4fd058eb02c4e5df50b82ef3167dfa507443f1d9000a4372d",
+    "exported": true,
+    "rowTags": [
+      "NavigationTaskTempInfo"
+    ],
+    "fields": [
+      "ConsumedItems",
+      "ObtainedCurrency",
+      "Quality",
+      "RefreshPort",
+      "TemplateId",
+      "Types"
+    ]
+  },
+  {
+    "table": "NavigationShopTempInfos",
+    "rows": 66,
+    "bytes": 6964,
+    "sha256": "9fe5733b413e6663c5719245219bdf13485cb72be1a755b7401746e0746faaf0",
+    "exported": false,
+    "rowTags": [
+      "NavigationShopTempInfo"
+    ],
+    "fields": [
+      "Count",
+      "Currency",
+      "Diamond",
+      "ItemId",
+      "Random",
+      "ShopId"
+    ]
+  },
+  {
+    "table": "ChildTypeTempInfos",
+    "rows": 50,
+    "bytes": 7286,
+    "sha256": "400c4c2f7fe39936157d7480588f31a2fed25e89e702b80afa21457d73a6ddac",
+    "exported": false,
+    "rowTags": [
+      "ChildTypeTempInfo"
+    ],
+    "fields": [
+      "ChildType",
+      "NeedArmyPawnTempIds",
+      "NeedItemCount",
+      "NeedSpecialsTempId",
+      "Percentage",
+      "SoulWakeGrade"
+    ]
+  },
+  {
+    "table": "HugeHeadMapNodeTempInfos",
+    "rows": 69,
+    "bytes": 9842,
+    "sha256": "167e6556f46813ef63865a25ec7a7f307f778680475a64762add5d53dd62b93a",
+    "exported": false,
+    "rowTags": [
+      "HugeHeadMapNodeTempInfo"
+    ],
+    "fields": [
+      "CanOccupy",
+      "InitForce",
+      "MapId",
+      "NodeLink",
+      "NodeTempId",
+      "NodeType",
+      "PosX",
+      "PosY"
+    ]
+  },
+  {
+    "table": "StackHeadExploreTempInfos",
+    "rows": 8,
+    "bytes": 2708,
+    "sha256": "a79ed989faa6104ecb635ad9db47bb1e961c3f5f202067221191d0679e8846ca",
+    "exported": false,
+    "rowTags": [
+      "StackHeadExploreTempInfo"
+    ],
+    "fields": [
+      "Description",
+      "EventId",
+      "EventType",
+      "MaxCount",
+      "MinCount",
+      "Name",
+      "Param1",
+      "Param2",
+      "Param3",
+      "Param4",
+      "Param5",
+      "Rare",
+      "Rate",
+      "Resource"
+    ]
+  },
+  {
+    "table": "GloryRoadBufferInfos",
+    "rows": 40,
+    "bytes": 6175,
+    "sha256": "da804dcd6861bc13dfae1d93992f4669987f53630d706afda44b85750728a17f",
+    "exported": false,
+    "rowTags": [
+      "GloryRoadBufferInfo"
+    ],
+    "fields": [
+      "Desc",
+      "Percent",
+      "Pos",
+      "Price",
+      "TemplateId",
+      "Type",
+      "Value"
+    ]
+  },
+  {
+    "table": "FurnitureShopTempInfos",
+    "rows": 12,
+    "bytes": 1669,
+    "sha256": "34b8250cf07b13f1705c8b19cd4015cc48d915453aad796205f1b91edd5df5d2",
+    "exported": false,
+    "rowTags": [
+      "FurnitureShopTempInfo"
+    ],
+    "fields": [
+      "CostItemCount",
+      "CostItemId",
+      "Id",
+      "SellFurnitureCount",
+      "SellFurnitureId",
+      "ShopType"
+    ]
+  },
+  {
+    "table": "PetContracTempInfos",
+    "rows": 168,
+    "bytes": 31400,
+    "sha256": "c77c296d9743f51553a285d83245f8cce23b9bbf4b75de38c94ba92d1a9dd5f4",
+    "exported": false,
+    "rowTags": [
+      "PetContracTempInfo"
+    ],
+    "fields": [
+      "Grades",
+      "HallowType",
+      "LineIndex",
+      "NeedItemCount",
+      "PetSonType",
+      "PrePetSonTypes",
+      "PropertyData",
+      "PropertyType",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "PetHallowsTempInfos",
+    "rows": 297,
+    "bytes": 75499,
+    "sha256": "ab23e8a7ac0503f4dffe72c356e7a65eaffaf2c9449a3b6b98a85be262ab2d9a",
+    "exported": false,
+    "rowTags": [
+      "PetHallowsTempInfo"
+    ],
+    "fields": [
+      "EquipPetSonTypes",
+      "Grades",
+      "HallowType",
+      "NeedItemCount1",
+      "NeedItemCount2",
+      "PropertyDatas",
+      "SkillTempId",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "ShuttleTempInfos",
+    "rows": 28,
+    "bytes": 3201,
+    "sha256": "ce0f7ba1cce687aa5e9449e29a11f8cef4f17db96d1660fa977322950775fc73",
+    "exported": false,
+    "rowTags": [
+      "ShuttleTempInfo"
+    ],
+    "fields": [
+      "Area",
+      "Difficulty",
+      "HeroTempId",
+      "MaxChallenge",
+      "ShuttleScore",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "ShuttleRewardTempInfos",
+    "rows": 60,
+    "bytes": 6501,
+    "sha256": "75e680c3b243b55f97608c34182572c39bdfd39593614a7d1215863621ae76d2",
+    "exported": false,
+    "rowTags": [
+      "ShuttleRewardTempInfo"
+    ],
+    "fields": [
+      "Difficulty",
+      "RewardItem",
+      "ShuttleScore",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "MagicPubNpcInfos",
+    "rows": 5,
+    "bytes": 597,
+    "sha256": "fc06f19e2c97e8ad69f19af904b2095756b65d9ffc2cc8aca688df60eedac648",
+    "exported": false,
+    "rowTags": [
+      "MagicPubNpcInfo"
+    ],
+    "fields": [
+      "IconPath",
+      "ResourcePath",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "MagicPubChatInfos",
+    "rows": 20,
+    "bytes": 11787,
+    "sha256": "0adc868e952c9cdfa3ca4ccf0a82bf0688649dc2664a150f07d79e70c1aacc7c",
+    "exported": false,
+    "rowTags": [
+      "MagicPubChatInfo"
+    ],
+    "fields": [
+      "AskWord",
+      "Grade",
+      "GreetWord",
+      "TemplateId",
+      "ThankWord"
+    ]
+  },
+  {
+    "table": "HeroRoadTempInfos",
+    "rows": 293,
+    "bytes": 113825,
+    "sha256": "0b6ad14989ffad8c33a3767ae5f216e60994c801150a191453a18ad41a93a11c",
+    "exported": false,
+    "rowTags": [
+      "HeroRoadTempInfo"
+    ],
+    "fields": [
+      "BuyNeedFinish",
+      "BuyNeedPoint",
+      "BuysItems",
+      "BuysItemsIcon",
+      "Describe",
+      "HeroRoadScore",
+      "MasterType",
+      "OpenGrades",
+      "Param1",
+      "Param2",
+      "Param3",
+      "PreTaskTempId",
+      "Priority",
+      "QuestType",
+      "SonType",
+      "TakeItems",
+      "TakeItemsIcon",
+      "TaskTempId"
+    ]
+  },
+  {
+    "table": "PlanesFuncTempInfos",
+    "rows": 2,
+    "bytes": 463,
+    "sha256": "8ec7ee0c2f8698e1ab32f8d5837a63e5881e4c2e76e0591d60e2eec815f2c1eb",
+    "exported": false,
+    "rowTags": [
+      "PlanesFuncTempInfo"
+    ],
+    "fields": [
+      "Desc",
+      "Icon",
+      "NeedEnergy",
+      "NeedPoint",
+      "TemplateId",
+      "Type"
+    ]
+  },
+  {
+    "table": "ChildComposeTempInfos",
+    "rows": 5,
+    "bytes": 593,
+    "sha256": "fbbea48785caae61e69283383a3391b257f27373b5c52631a901b163946debde",
+    "exported": false,
+    "rowTags": [
+      "ChildComposeTempInfo"
+    ],
+    "fields": [
+      "JobType",
+      "NeedGrade",
+      "NeedJobType",
+      "NeedMaterial"
+    ]
+  },
+  {
+    "table": "ExploreEventTemplates",
+    "rows": 42,
+    "bytes": 8726,
+    "sha256": "cb21bc3d62d52479d23fd001d0de7a5db1e7a1a6ca328b1647911adde69c8b40",
+    "exported": false,
+    "rowTags": [
+      "ExploreEventTemplate"
+    ],
+    "fields": [
+      "Desc",
+      "EventId",
+      "EventType",
+      "Icon",
+      "Name",
+      "RangeMax",
+      "RangeMin"
+    ]
+  },
+  {
+    "table": "TopToolBtnInfos",
+    "rows": 96,
+    "bytes": 12643,
+    "sha256": "703290e5bdd67b5b0a52fa212fe288a4b45d0883339c4cf59d6692466b0856ad",
+    "exported": false,
+    "rowTags": [
+      "TopToolBtnInfo"
+    ],
+    "fields": [
+      "BoxType",
+      "BoxTypeTo",
+      "BtnKey",
+      "Icon",
+      "Sort",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "ArtifactTemplateInfos",
+    "rows": 12,
+    "bytes": 5463,
+    "sha256": "8d0156df4880ea5859fb4321d0e9e9c7869f22148baa460ed9622b047f3cb691",
+    "exported": false,
+    "rowTags": [
+      "ArtifactTemplateInfo"
+    ],
+    "fields": [
+      "AttackApt",
+      "AttackConv",
+      "DefenceApt",
+      "DefenceConv",
+      "Icon",
+      "IsOpen",
+      "LiveApt",
+      "LiveConv",
+      "MagicAttackApt",
+      "MagicAttackConv",
+      "MagicDefenceApt",
+      "MagicDefenceConv",
+      "NeedItem",
+      "ParryApt",
+      "ParryConv",
+      "PenetrateApt",
+      "PenetrateConv",
+      "Skills",
+      "SonType",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "ArftiArmoryTemplateInfos",
+    "rows": 30,
+    "bytes": 15833,
+    "sha256": "de7c65e8f43d047347e5b531adc7c1de9d177cb66cc20a2ea00590dbb6521544",
+    "exported": false,
+    "rowTags": [
+      "ArftiArmoryTemplateInfo"
+    ],
+    "fields": [
+      "AdvanceNeedCount",
+      "AttackAdd",
+      "Attacks",
+      "ComposeNeedCount",
+      "Desc",
+      "Live",
+      "LiveAdd",
+      "MagicDefence",
+      "MagicDefenceAdd",
+      "MaxCount",
+      "NeedActiveTempId",
+      "Parry",
+      "ParryAdd",
+      "Penetrate",
+      "PenetrateAdd",
+      "PhyDefence",
+      "PhyDefenceAdd",
+      "Profile",
+      "ResolvedCount",
+      "ResolvedRate",
+      "SuiteId",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "AlchemyMineTemplates",
+    "rows": 24,
+    "bytes": 3127,
+    "sha256": "b10b46683d8b07da00e3ce947790cb7336cdbec81a378cf0eea2cd37e9b83107",
+    "exported": false,
+    "rowTags": [
+      "AlchemyMineTemplate"
+    ],
+    "fields": [
+      "Grade",
+      "Icon",
+      "Id",
+      "MaxCount",
+      "Name",
+      "NeedScore",
+      "Pos",
+      "Speed"
+    ]
+  },
+  {
+    "table": "AlchemyFormulaTemplates",
+    "rows": 50,
+    "bytes": 10932,
+    "sha256": "7d691f911db17168e66ca3ae4ae990dfc2f878dc793492d970b46662bdfa263b",
+    "exported": false,
+    "rowTags": [
+      "AlchemyFormulaTemplate"
+    ],
+    "fields": [
+      "Id",
+      "Name",
+      "NeedItem",
+      "NeedScore",
+      "Reward",
+      "RewardType",
+      "Type"
+    ]
+  },
+  {
+    "table": "DragonTalkerFightMountTemplates",
+    "rows": 8,
+    "bytes": 1689,
+    "sha256": "0380e379b405f31a1cc6b49bd22db4d83f1cfb805483fe3f31fdb22189d44143",
+    "exported": false,
+    "rowTags": [
+      "DragonTalkerFightMountTemplate"
+    ],
+    "fields": [
+      "Agility",
+      "AvatarPath",
+      "Description",
+      "Grade",
+      "HitPoint",
+      "Intellect",
+      "MountTempId",
+      "Physique",
+      "Power",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "CrisisMapInfos",
+    "rows": 295,
+    "bytes": 31015,
+    "sha256": "a81bac3174500ea5f23edf34bc2fba106242af8e97008669e674ab7add2a4ac6",
+    "exported": false,
+    "rowTags": [
+      "CrisisMapInfo"
+    ],
+    "fields": [
+      "LineNode",
+      "MapId",
+      "NodeId",
+      "NodeType",
+      "TemplateId",
+      "X",
+      "Y"
+    ]
+  },
+  {
+    "table": "CrisisEventInfos",
+    "rows": 32,
+    "bytes": 9926,
+    "sha256": "210f465f242e91b95d0e75f851bfd0688d5deafedbb521fd1fe1992aef16538c",
+    "exported": false,
+    "rowTags": [
+      "CrisisEventInfo"
+    ],
+    "fields": [
+      "Description",
+      "EventId",
+      "EventType",
+      "Icon",
+      "Property1",
+      "Property2",
+      "Property3",
+      "Property4",
+      "Property5"
+    ]
+  },
+  {
+    "table": "MagicSpringTempInfos",
+    "rows": 21,
+    "bytes": 7829,
+    "sha256": "e023d47557e8a338a9137f4a942a10d823862909a4e2254c2457f1d9c1f10718",
+    "exported": false,
+    "rowTags": [
+      "MagicSpringTempInfo"
+    ],
+    "fields": [
+      "AddValue",
+      "Desc",
+      "Icon",
+      "IsActive",
+      "ItemTempId1",
+      "ItemTempId2",
+      "ItemTempId3",
+      "NeedGrade",
+      "PotionCount1",
+      "PotionCount2",
+      "PotionCount3",
+      "TemplateId",
+      "TemplateName",
+      "ValidTime"
+    ]
+  },
+  {
+    "table": "EclipticPalaceTempInfos",
+    "rows": 12,
+    "bytes": 1461,
+    "sha256": "46f76cd674bdf383af921a3653404d26b3a5053e771016d7f7008e6e51fb0947",
+    "exported": false,
+    "rowTags": [
+      "EclipticPalaceTempInfo"
+    ],
+    "fields": [
+      "BossAdditionSkillId",
+      "Layer",
+      "LayerName",
+      "SpiritCost"
+    ]
+  },
+  {
+    "table": "GoddessTemplateInfos",
+    "rows": 5,
+    "bytes": 1105,
+    "sha256": "adee5b8e2bf55a32f30cc9368fff98730b67e1746afeef0fc8b6bb89247801c0",
+    "exported": false,
+    "rowTags": [
+      "GoddessTemplateInfo"
+    ],
+    "fields": [
+      "BattlePic",
+      "MaxDevote",
+      "MaxGrade",
+      "MaxStep",
+      "NeedItemCount",
+      "NeedItemId",
+      "Pic",
+      "Resource",
+      "TemplateId",
+      "TemplateName",
+      "Type"
+    ]
+  },
+  {
+    "table": "GoddessUpgradeTemplates",
+    "rows": 1200,
+    "bytes": 224671,
+    "sha256": "7a091ac381bef980a3ad8536531b3424b531c8f1982c83a3266ba024769a4bc8",
+    "exported": false,
+    "rowTags": [
+      "GoddessUpgradeTemplate"
+    ],
+    "fields": [
+      "Attack",
+      "Defance",
+      "Level",
+      "Live",
+      "MagicAttack",
+      "MagicDefance",
+      "NeedGp",
+      "NeedItemId",
+      "TemplateId",
+      "Type"
+    ]
+  },
+  {
+    "table": "GoddessStepTemplates",
+    "rows": 205,
+    "bytes": 40185,
+    "sha256": "a82b4b25972fe1eb6fb6b3f61b9347f4e9aef1201887229d95624846b4028f55",
+    "exported": false,
+    "rowTags": [
+      "GoddessStepTemplate"
+    ],
+    "fields": [
+      "ActionBelief",
+      "AddPer",
+      "InitBelief",
+      "Level",
+      "NeedGp",
+      "NeedGrade",
+      "NeedItemId",
+      "Quality",
+      "SkillId",
+      "Star",
+      "TemplateId",
+      "Type"
+    ]
+  },
+  {
+    "table": "GoddessDevoteTemplates",
+    "rows": 25,
+    "bytes": 2899,
+    "sha256": "50c1641364a2d1485085449be215def90a2ca44bb7972b9ba9781e29a7ca76e1",
+    "exported": false,
+    "rowTags": [
+      "GoddessDevoteTemplate"
+    ],
+    "fields": [
+      "Level",
+      "NeedGp",
+      "NeedItemId",
+      "SkillId",
+      "TemplateId",
+      "Type"
+    ]
+  },
+  {
+    "table": "EvilLandTemplates",
+    "rows": 300,
+    "bytes": 65146,
+    "sha256": "5ed66de84813440abea7fdf090b4172a6e155e51ba47ba7503d7039bb6fbd368",
+    "exported": false,
+    "rowTags": [
+      "EvilLandTemplate"
+    ],
+    "fields": [
+      "AttackCount",
+      "AttackDropId",
+      "Bosses",
+      "ChapterId",
+      "Cost",
+      "DialogId",
+      "FirstDropId",
+      "Name",
+      "NodeId",
+      "Npcs"
+    ]
+  },
+  {
+    "table": "ConsortiaQuestTempInfos",
+    "rows": 26,
+    "bytes": 5473,
+    "sha256": "4797abd366a240e1dde8ba40cad65fe4460bab0ee4c051eab1207795b14317c2",
+    "exported": true,
+    "rowTags": [
+      "ConsortiaQuestTempInfo"
+    ],
+    "fields": [
+      "ConsortiaActivePoint",
+      "ConsortiaAsset",
+      "PersonReputation",
+      "QuestType",
+      "ResetType",
+      "RewardItems",
+      "Sort",
+      "TemplateId",
+      "Title"
+    ]
+  },
+  {
+    "table": "ConsortiaQuestConditionTempInfos",
+    "rows": 26,
+    "bytes": 4993,
+    "sha256": "c7ca2a05e64ba21fe44aa11cdedc43ee18628f4be17ecb2569004d601191f5c5",
+    "exported": true,
+    "rowTags": [
+      "ConsortiaQuestConditionTempInfo"
+    ],
+    "fields": [
+      "ConditionDetail",
+      "ConditionId",
+      "ConditionType",
+      "Param1",
+      "Param2",
+      "QuestTemplateId",
+      "Target"
+    ]
+  },
+  {
+    "table": "ConsortiaShopTempInfos",
+    "rows": 6,
+    "bytes": 1056,
+    "sha256": "25281540711a2febf80efb7c9447cc28f938beed7cebadee122c242fb784fddc",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaShopTempInfo"
+    ],
+    "fields": [
+      "CostConsortiaAsset",
+      "CostPersonReputation",
+      "ItemTempId",
+      "MaxSupplyCount",
+      "PersonBuyLimit",
+      "ShopLevel",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "ConsortiaPveTemplates",
+    "rows": 120,
+    "bytes": 18671,
+    "sha256": "80282a4b2aa1e09ca22da9c9809d73de9283ba58c441f3919724be246b8efb46",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaPveTemplate"
+    ],
+    "fields": [
+      "AreaDropId",
+      "AreaId",
+      "Difficulty",
+      "Name",
+      "NextNodeId",
+      "NodeDropId",
+      "NodeId"
+    ]
+  },
+  {
+    "table": "GoddessUnitedResiTemplates",
+    "rows": 50,
+    "bytes": 5195,
+    "sha256": "8170274f895251c333522f368919cabb42f32eaf0c57c12d9c848eec72f0041b",
+    "exported": false,
+    "rowTags": [
+      "GoddessUnitedResiTemplate"
+    ],
+    "fields": [
+      "Level",
+      "NeedGp",
+      "Permillage",
+      "ReduceResi",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "GoddessUnitedSkillTemplates",
+    "rows": 4,
+    "bytes": 362,
+    "sha256": "0368c783eb8cc0520f06b535db4301acc7cb132a62a3f347d16f112e3eb011fe",
+    "exported": false,
+    "rowTags": [
+      "GoddessUnitedSkillTemplate"
+    ],
+    "fields": [
+      "MinLevel",
+      "SkillId",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "GameHallTemplates",
+    "rows": 4,
+    "bytes": 1359,
+    "sha256": "789dea6bb3174a9fa5e72b0c84d54c3704a4a1bf54bd57ad966e71b4f000f47e",
+    "exported": false,
+    "rowTags": [
+      "GameHallTemplate"
+    ],
+    "fields": [
+      "Count",
+      "GameId",
+      "GameName",
+      "Group",
+      "GroupName",
+      "OpenDays",
+      "OpenGrade",
+      "Recommend",
+      "ResetDays",
+      "ShowItems",
+      "StartDate",
+      "StopDate",
+      "Tag"
+    ]
+  },
+  {
+    "table": "ConsortiaWarQuestTemplates",
+    "rows": 10,
+    "bytes": 1362,
+    "sha256": "5035e5c77614367221789efef2a51968552878965dfe08b90a409e3d4908477f",
+    "exported": true,
+    "rowTags": [
+      "ConsortiaWarQuestTemplate"
+    ],
+    "fields": [
+      "Description",
+      "Para1",
+      "Para2",
+      "TemplateId",
+      "Type"
+    ]
+  },
+  {
+    "table": "MonsterTemplates",
+    "rows": 73,
+    "bytes": 23541,
+    "sha256": "7271fc881a987eabb0a0115d92ba83a266f83e607ee81969b8b77f6d00e602ca",
+    "exported": false,
+    "rowTags": [
+      "MonsterTemplate"
+    ],
+    "fields": [
+      "DefaultAttack",
+      "DefaultSkill",
+      "Icon",
+      "MaxLevel",
+      "Name",
+      "Offset",
+      "PassiveSkillSonTypes",
+      "PropertyId",
+      "ResPath",
+      "ResType",
+      "Scale",
+      "SkillSonTypes",
+      "Star",
+      "TemplateId",
+      "Type"
+    ]
+  },
+  {
+    "table": "RecipeTemplates",
+    "rows": 5,
+    "bytes": 1808,
+    "sha256": "c3b6b9a580fe2731d0c925ae73e8ec36d4d1d44bcd4e71f53d920bcda46c7693",
+    "exported": false,
+    "rowTags": [
+      "RecipeTemplate"
+    ],
+    "fields": [
+      "Desc",
+      "Name",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "MonsterExploreTemplates",
+    "rows": 145,
+    "bytes": 45635,
+    "sha256": "59a532e3714b80c4b7b3ee16519d81a94489df33bf468885b25379c34ac416ec",
+    "exported": false,
+    "rowTags": [
+      "MonsterExploreTemplate"
+    ],
+    "fields": [
+      "BossDrop",
+      "BossExp",
+      "BossGold",
+      "ChapterId",
+      "ChapterMapPath",
+      "ChapterName",
+      "FightMapPath",
+      "MinuteExp",
+      "MinuteGold",
+      "MusicPath",
+      "NodeId",
+      "NodeMapPath",
+      "NodeName",
+      "NpcExp",
+      "NpcGold",
+      "PosX",
+      "PosY"
+    ]
+  },
+  {
+    "table": "DreamArenaTemplates",
+    "rows": 71,
+    "bytes": 15843,
+    "sha256": "e89f5a1bf6a9b43359a5f2294b91d4facecda3c9238f7775ef6d4dc987ec75e9",
+    "exported": false,
+    "rowTags": [
+      "DreamArenaTemplate"
+    ],
+    "fields": [
+      "Param1",
+      "Param2",
+      "PassiveSkill1",
+      "PassiveSkill2",
+      "PropertyId",
+      "Skill1",
+      "Skill2",
+      "Skill3",
+      "Skill4",
+      "TemplateId",
+      "Type",
+      "TypeTemplateId"
+    ]
+  },
+  {
+    "table": "EasterTemplates",
+    "rows": 120,
+    "bytes": 48473,
+    "sha256": "e1911778c7deff267c784f9a54cb7c05e1420e9c9c7f34699e2ef2751683e3c5",
+    "exported": false,
+    "rowTags": [
+      "EasterTemplate"
+    ],
+    "fields": [
+      "Boss1",
+      "Boss2",
+      "Boss3",
+      "Boss4",
+      "Buff1",
+      "Buff2",
+      "Buff3",
+      "Buff4",
+      "Drop1",
+      "Drop2",
+      "Drop3",
+      "Drop4",
+      "DropWishes",
+      "MapId",
+      "PreView",
+      "Probability",
+      "TemplateId",
+      "TemplateName",
+      "TicketCount"
+    ]
+  },
+  {
+    "table": "AirGardenNodeTemplates",
+    "rows": 4,
+    "bytes": 483,
+    "sha256": "bab8d7b43a60c31010abb7eddfb2118b06c52822e061f242b8b43f7e1fd41d2c",
+    "exported": false,
+    "rowTags": [
+      "AirGardenNodeTemplate"
+    ],
+    "fields": [
+      "Cost",
+      "ItemTempId",
+      "NodeType",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "AvengerSkillTemplates",
+    "rows": 180,
+    "bytes": 58241,
+    "sha256": "d98f6e6e43ea469a2584940d872561ae3108d29ba156e2eabb4c0a857c154588",
+    "exported": false,
+    "rowTags": [
+      "AvengerSkillTemplate"
+    ],
+    "fields": [
+      "Id",
+      "JobType",
+      "NeedBodyGrade",
+      "NeedItem1",
+      "NeedItem2",
+      "NeedItem3",
+      "NeedItem4",
+      "NeedItem5",
+      "NeedItem6",
+      "NeedItemNum1",
+      "NeedItemNum2",
+      "NeedItemNum3",
+      "NeedItemNum4",
+      "NeedItemNum5",
+      "NeedItemNum6",
+      "SkillGrade",
+      "SkillSonType"
+    ]
+  },
+  {
+    "table": "AvengerBodyTemplates",
+    "rows": 221,
+    "bytes": 42096,
+    "sha256": "d03d2e87e0eaafeb1d8e0c4943eb725c76ba9d69788191a43586b7cd6e1ec431",
+    "exported": false,
+    "rowTags": [
+      "AvengerBodyTemplate"
+    ],
+    "fields": [
+      "BodyGrade",
+      "BodyType",
+      "Health",
+      "Id",
+      "MagAttack",
+      "MagDefence",
+      "NeedItem",
+      "NeedItemNum",
+      "PhyAttack",
+      "PhyDefence"
+    ]
+  },
+  {
+    "table": "RevengeRoadTemplates",
+    "rows": 50,
+    "bytes": 10301,
+    "sha256": "0ae9dcecfa98864cba64d8b2df5d7923a1d101b4c54781c8274cedf75a4affaa",
+    "exported": false,
+    "rowTags": [
+      "RevengeRoadTemplate"
+    ],
+    "fields": [
+      "AttackCount",
+      "AttackDropId",
+      "Bosses",
+      "Cost",
+      "DialogId",
+      "FirstDropId",
+      "Name",
+      "NodeId",
+      "Npcs"
+    ]
+  },
+  {
+    "table": "GoddessEquipmentTempInfos",
+    "rows": 992,
+    "bytes": 264552,
+    "sha256": "9989b3ccff4315c8e05a9a027da02137c6979905cc885a3c22461bcdbac5581d",
+    "exported": false,
+    "rowTags": [
+      "GoddessEquipmentTempInfo"
+    ],
+    "fields": [
+      "AdvanceCost",
+      "AdvanceType",
+      "AttackValue",
+      "Blessing",
+      "EquipType",
+      "Grade",
+      "HitValue",
+      "HpValue",
+      "Id",
+      "MagicalDefenceValue",
+      "PenetrationValue",
+      "PhysicalDefenceValue",
+      "StrengthenLevelMax"
+    ]
+  },
+  {
+    "table": "ProficiencyTemplates",
+    "rows": 700,
+    "bytes": 92428,
+    "sha256": "bd7cf068611667b210cc946c3ad4247353664db849a3821497004a8089081bae",
+    "exported": false,
+    "rowTags": [
+      "ProficiencyTemplate"
+    ],
+    "fields": [
+      "Attack",
+      "Exp",
+      "Grade",
+      "Id",
+      "Layer",
+      "Live",
+      "MagDefence",
+      "PhyDefence"
+    ]
+  },
+  {
+    "table": "OlderRefluxTempInfos",
+    "rows": 72,
+    "bytes": 17801,
+    "sha256": "427154d7f01fa58dc7e97db662693aa74ecbbbe245328869f87f261a2446de27",
+    "exported": false,
+    "rowTags": [
+      "OlderRefluxTempInfo"
+    ],
+    "fields": [
+      "ConditionType",
+      "CostItems",
+      "Desc",
+      "IsCondition",
+      "IsExist",
+      "MinGrade",
+      "MinPower",
+      "Param1",
+      "Param2",
+      "Point",
+      "RewardTemplate",
+      "SubType",
+      "TempId",
+      "Topic",
+      "Type"
+    ]
+  },
+  {
+    "table": "StarAreaRoadInfos",
+    "rows": 152,
+    "bytes": 9094,
+    "sha256": "afe727bef4292032d5220751babbb7fa5441bde37555f6c23054373a57b0e7a7",
+    "exported": false,
+    "rowTags": [
+      "StarAreaRoadInfo"
+    ],
+    "fields": [
+      "Group",
+      "Id",
+      "Node1",
+      "Node2"
+    ]
+  },
+  {
+    "table": "SevenYearAchievementTemplates",
+    "rows": 42,
+    "bytes": 8957,
+    "sha256": "dcb529e06694c47392b79ac9746528b339bfdfc5f51e9efce23621d157c1186f",
+    "exported": false,
+    "rowTags": [
+      "SevenYearAchievementTemplate"
+    ],
+    "fields": [
+      "Desc",
+      "Grade",
+      "IconPath",
+      "Score",
+      "Target",
+      "TemplateId",
+      "TemplateName",
+      "Type"
+    ]
+  },
+  {
+    "table": "SevenYearQuestionTemplates",
+    "rows": 388,
+    "bytes": 72669,
+    "sha256": "5a5d495cad9e33566cba069cff74540b5580d1ed9b9cd125ac8b6e63ae77f74f",
+    "exported": false,
+    "rowTags": [
+      "SevenYearQuestionTemplate"
+    ],
+    "fields": [
+      "AnswerIconPath",
+      "AnswerName",
+      "IconPath",
+      "TemplateId",
+      "TemplateName",
+      "Type"
+    ]
+  },
+  {
+    "table": "AvengerHoleTemplates",
+    "rows": 20,
+    "bytes": 3616,
+    "sha256": "b69067250802cbe5570518637a6b250aab85ba2e322c9d7536ba042b0f17266e",
+    "exported": false,
+    "rowTags": [
+      "AvengerHoleTemplate"
+    ],
+    "fields": [
+      "Grade",
+      "Health",
+      "Id",
+      "MagAttack",
+      "MagDefence",
+      "NeedItem",
+      "NeedItemNum",
+      "PhyAttack",
+      "PhyDefence",
+      "Type"
+    ]
+  },
+  {
+    "table": "ItemResolveTemplates",
+    "rows": 2600,
+    "bytes": 418638,
+    "sha256": "be92adf8fd000b2f0472620fcbc23407dece8e03dbea7d5448bf6ef15cbd6d16",
+    "exported": false,
+    "rowTags": [
+      "ItemResolveTemplate"
+    ],
+    "fields": [
+      "Count1",
+      "Count2",
+      "Count3",
+      "Count4",
+      "Id",
+      "Item1",
+      "Item2",
+      "Item3",
+      "Item4",
+      "ResolvedItem",
+      "Type"
+    ]
+  },
+  {
+    "table": "ExpeditionTemplates",
+    "rows": 60,
+    "bytes": 7429,
+    "sha256": "da9392b73de7396bdea1b466bce6cb80cfa05ae96af77f7b3e2500ae9e367ee3",
+    "exported": false,
+    "rowTags": [
+      "ExpeditionTemplate"
+    ],
+    "fields": [
+      "AreaId",
+      "Bosses",
+      "Id",
+      "NodeId",
+      "Npcs",
+      "Star"
+    ]
+  },
+  {
+    "table": "ChildAssistUpgradeTemplates",
+    "rows": 10,
+    "bytes": 1398,
+    "sha256": "e66c99abf6682d387559edf124e55cb0eb18c656f5af8c39b21f12915c6e2d25",
+    "exported": false,
+    "rowTags": [
+      "ChildAssistUpgradeTemplate"
+    ],
+    "fields": [
+      "AdvanceLevel",
+      "AwakeLevel",
+      "Id",
+      "Level",
+      "Percentage",
+      "SoulStoneCost",
+      "TalentLevel"
+    ]
+  },
+  {
+    "table": "ChildCampTemps",
+    "rows": 10,
+    "bytes": 4105,
+    "sha256": "24cadbfb161a23037cea48b9990a8f82f73f73d581b8788e4b69688adda104cb",
+    "exported": false,
+    "rowTags": [
+      "ChildCampTemp"
+    ],
+    "fields": [
+      "Desc",
+      "Exp",
+      "Grade",
+      "Id",
+      "Monster",
+      "SneakAward2",
+      "SneakAward3",
+      "SneakCount2",
+      "SneakCount3",
+      "SneakFinishAward2",
+      "SneakFinishAward3",
+      "StationedAward",
+      "StationedTime"
+    ]
+  },
+  {
+    "table": "ShadowLandTemplates",
+    "rows": 60,
+    "bytes": 14383,
+    "sha256": "0f70e715cfb96e18730a56c9f15a19f758bbb71a43bc71da39adcf3b7d903abe",
+    "exported": false,
+    "rowTags": [
+      "ShadowLandTemplate"
+    ],
+    "fields": [
+      "AreaId",
+      "Bosses",
+      "CheckpointId",
+      "Difficulty",
+      "NodeId",
+      "Npc1",
+      "Npc2",
+      "Npc3"
+    ]
+  },
+  {
+    "table": "AutoChessHeroInfos",
+    "rows": 112,
+    "bytes": 40903,
+    "sha256": "879d3ebfa09120d3f8fd8aa55e2b7febb27215a9d3bd64bf5c6bb349cab304f2",
+    "exported": false,
+    "rowTags": [
+      "AutoChessHeroInfo"
+    ],
+    "fields": [
+      "Attack",
+      "DefaultSkill",
+      "Defence",
+      "ForceHit",
+      "Grade",
+      "Hit",
+      "Icon",
+      "Job",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "MasterType",
+      "NextTemplateId",
+      "Parry",
+      "ResPath",
+      "ResType",
+      "Scale",
+      "SkillScript",
+      "Star",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "AutoChessBuffInfos",
+    "rows": 24,
+    "bytes": 5511,
+    "sha256": "9df2ea009cdee16e6343da7351cdb26f7ec2d06228d134e36558d3ee270070c3",
+    "exported": false,
+    "rowTags": [
+      "AutoChessBuffInfo"
+    ],
+    "fields": [
+      "AcceptObject",
+      "Amount",
+      "AppearTime",
+      "Desc",
+      "Icon",
+      "Job",
+      "SkillId",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "DarkMazeLayerTemplates",
+    "rows": 560,
+    "bytes": 47145,
+    "sha256": "8e045924e63a53690086869c1e9e3082d50831fbd3fa8535198f06d80297acba",
+    "exported": false,
+    "rowTags": [
+      "DarkMazeLayerTemplate"
+    ],
+    "fields": [
+      "Area",
+      "EventCount",
+      "EventType",
+      "Id",
+      "Layer"
+    ]
+  },
+  {
+    "table": "DarkMazeEventTemplates",
+    "rows": 340,
+    "bytes": 49883,
+    "sha256": "25271bbe510d5e66c6335e8a94e2de54ab17588c6ea434bd2196a92a18b2c537",
+    "exported": false,
+    "rowTags": [
+      "DarkMazeEventTemplate"
+    ],
+    "fields": [
+      "Area",
+      "EventType",
+      "Id",
+      "Layer",
+      "Param1",
+      "Param2",
+      "Param3",
+      "Reward"
+    ]
+  },
+  {
+    "table": "DarkMazeChildTemplates",
+    "rows": 600,
+    "bytes": 232369,
+    "sha256": "a2b3bdb876970b60a9d36dd23a628dfc5094cb6e873b5b39ee1d330dd35b3480",
+    "exported": false,
+    "rowTags": [
+      "DarkMazeChildTemplate"
+    ],
+    "fields": [
+      "Area",
+      "Attack",
+      "DarkResi",
+      "Defence",
+      "ElectResi",
+      "FireResi",
+      "ForceHit",
+      "Id",
+      "JobType",
+      "Layer",
+      "LightResi",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "Parry",
+      "Penetrate",
+      "ReduceResi",
+      "ReduceResiAgainst",
+      "ResiPenetrate",
+      "StunAttr",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "StelaTemplates",
+    "rows": 28,
+    "bytes": 4932,
+    "sha256": "c26226bfb1cb11912bfdac6028f7cdaf80e098430fbd5bcf44ce0dd69c4ca84e",
+    "exported": false,
+    "rowTags": [
+      "StelaTemplate"
+    ],
+    "fields": [
+      "Description",
+      "Exp",
+      "Icon",
+      "MasterType",
+      "Rarity",
+      "StepLimit",
+      "TemplateId",
+      "TemplateName"
+    ]
+  },
+  {
+    "table": "StelaStepTemplates",
+    "rows": 396,
+    "bytes": 167933,
+    "sha256": "2a7c24025bfacb5a0b7056298a913ff3113fc8486d1a1b47e4a966b03992b33c",
+    "exported": false,
+    "rowTags": [
+      "StelaStepTemplate"
+    ],
+    "fields": [
+      "Attack",
+      "BaptizeCostItem",
+      "BaptizeCostNum",
+      "BaptizeLimit",
+      "CostItem",
+      "CostItemStep",
+      "CostNum",
+      "Defence",
+      "Description",
+      "ForceHit",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "Parry",
+      "PassiveSkills",
+      "Penetrate",
+      "Profile",
+      "ReduceResiAgainst",
+      "ResiPenetrate",
+      "SkillMasterType",
+      "StelaId",
+      "Step",
+      "StrengthLimit",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "StelaPropertyTemplates",
+    "rows": 3750,
+    "bytes": 938779,
+    "sha256": "a905e06b8f1df033df065c2eb7d0c7e6af2ca9fa81e61ef26f70dfc85f9affcc",
+    "exported": false,
+    "rowTags": [
+      "StelaPropertyTemplate"
+    ],
+    "fields": [
+      "Attack",
+      "Defence",
+      "Exp",
+      "ForceHit",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "Parry",
+      "Penetrate",
+      "ReduceResiAgainst",
+      "ResiPenetrate",
+      "StelaId",
+      "StrengthLevel",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "StelaResistTemplates",
+    "rows": 366,
+    "bytes": 34992,
+    "sha256": "66a8777152cbd2d573864f8d30284773e64e3d391661d79668436f5dff97ed7b",
+    "exported": false,
+    "rowTags": [
+      "StelaResistTemplate"
+    ],
+    "fields": [
+      "SkillId",
+      "StelaId",
+      "StrengthLevel",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "RemainsExploreChapterTemps",
+    "rows": 4,
+    "bytes": 673,
+    "sha256": "7e6d73f4ad2f406ecabf8512c923f581c59e3916351313e83b17e9d4c2a1ce2a",
+    "exported": false,
+    "rowTags": [
+      "RemainsExploreChapterTemp"
+    ],
+    "fields": [
+      "ChapterDescription",
+      "ChapterId",
+      "ChapterName"
+    ]
+  },
+  {
+    "table": "RemainsExploreNodeTemps",
+    "rows": 12,
+    "bytes": 1251,
+    "sha256": "c526353b3d5c5fa0c6dcc1ebef4d23697dc52bb276e83b3b02594e902821b2c8",
+    "exported": false,
+    "rowTags": [
+      "RemainsExploreNodeTemp"
+    ],
+    "fields": [
+      "ChapterId",
+      "CheckPointId",
+      "EventCount",
+      "EventGroup",
+      "Node"
+    ]
+  },
+  {
+    "table": "RemainsExploreEventTemps",
+    "rows": 120,
+    "bytes": 20453,
+    "sha256": "eef892ea250c04ad1a7bbd8a4eed820cf7af3b759f382981970d51df9a506d85",
+    "exported": false,
+    "rowTags": [
+      "RemainsExploreEventTemp"
+    ],
+    "fields": [
+      "EventDescription",
+      "EventGroup",
+      "EventId",
+      "EventType",
+      "Param1",
+      "Param2",
+      "Param3",
+      "Param4"
+    ]
+  },
+  {
+    "table": "RemainsLeedTemps",
+    "rows": 12,
+    "bytes": 2069,
+    "sha256": "7a6c0318d1dc42d86e4f1d2d33c3273bae45171ba811844b4a328af5d902d123",
+    "exported": true,
+    "rowTags": [
+      "RemainsLeedTemp"
+    ],
+    "fields": [
+      "Description",
+      "EventType",
+      "GaintPoint",
+      "MasterType",
+      "Param1",
+      "Param2",
+      "Param3",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "SingleCampaignDatas",
+    "rows": 301,
+    "bytes": 65409,
+    "sha256": "d991860342b209f0de5940db985cbb33a325aa2bcf01cb22d009d7a2fe354887",
+    "exported": false,
+    "rowTags": [
+      "SingleCampaignData"
+    ],
+    "fields": [
+      "CampaignId",
+      "HeroGp",
+      "Heros",
+      "Id",
+      "Index",
+      "MasterType",
+      "NodeName",
+      "Param1",
+      "Param2",
+      "ResPath",
+      "Scale",
+      "Soldiers"
+    ]
+  },
+  {
+    "table": "ConsortiaNewBossTemplates",
+    "rows": 1000,
+    "bytes": 87810,
+    "sha256": "83807f47f852c83c929d41147949cd27292b2bc07d64f409b8176f65cf211483",
+    "exported": false,
+    "rowTags": [
+      "ConsortiaNewBossTemplate"
+    ],
+    "fields": [
+      "BossId",
+      "HpMultiple",
+      "Id",
+      "Level"
+    ]
+  },
+  {
+    "table": "AchievementTaskTemplates",
+    "rows": 436,
+    "bytes": 141843,
+    "sha256": "06ea7f713abbdfd789da27d88446902b8230965ce29cc5f788d91983b54a8afe",
+    "exported": true,
+    "rowTags": [
+      "AchievementTaskTemplate"
+    ],
+    "fields": [
+      "Classify",
+      "ConditionParm1",
+      "ConditionParm2",
+      "ConditionParm3",
+      "ConditionTitle",
+      "ConditionType",
+      "Id",
+      "IsPopout",
+      "PackageName",
+      "PreAchievementId",
+      "Rewards"
+    ]
+  },
+  {
+    "table": "FirstPayTemplates",
+    "rows": 54,
+    "bytes": 11565,
+    "sha256": "4d0885c5ff3c507088e1c1825c0c54b8b3f94b56c724d07ba1252e7645a1e795",
+    "exported": false,
+    "rowTags": [
+      "FirstPayTemplate"
+    ],
+    "fields": [
+      "AvatarPath",
+      "Gender",
+      "Id",
+      "ImagePath",
+      "Item",
+      "Jobs",
+      "PayQuality",
+      "Time"
+    ]
+  },
+  {
+    "table": "QuestionTemplates",
+    "rows": 12,
+    "bytes": 4504,
+    "sha256": "6e6cbf0fb6d0ecd986213f1f90895e76ae4e1cf073c60373f27e806ba0b43285",
+    "exported": false,
+    "rowTags": [
+      "QuestionTemplate"
+    ],
+    "fields": [
+      "Id",
+      "MaxChoose",
+      "Options",
+      "Subject"
+    ]
+  },
+  {
+    "table": "RoyaltyTemplates",
+    "rows": 40,
+    "bytes": 13759,
+    "sha256": "e032efce627a00898c0669bd729307f50d4b50a2e5750ba4481569a391b1eec6",
+    "exported": false,
+    "rowTags": [
+      "RoyaltyTemplate"
+    ],
+    "fields": [
+      "BossLevel",
+      "Id",
+      "OpenCoreTreasureHoke",
+      "OpenDungeon",
+      "OpenFinalRoad",
+      "OpenForbidenBoss",
+      "OpenInsideTreasureHoke",
+      "OpenOutsideTreasureHoke",
+      "OpenPvp",
+      "OpenSecret",
+      "OpenShopLevel",
+      "OpenSlate",
+      "OpenTheseus",
+      "OpenTower",
+      "OpenWarSoul",
+      "OpenWarSoulTower",
+      "RoyaltyLevel",
+      "SkillId"
+    ]
+  },
+  {
+    "table": "RoyaltyBossTemplates",
+    "rows": 600,
+    "bytes": 111596,
+    "sha256": "27e813f031e78e6c3dd0007588cc8f9242861dc229065060a5bb542db744feee",
+    "exported": false,
+    "rowTags": [
+      "RoyaltyBossTemplate"
+    ],
+    "fields": [
+      "ArmourValue",
+      "BossSkill",
+      "DropItem",
+      "HeroIcon",
+      "Heros",
+      "Id",
+      "Level",
+      "Soldiers",
+      "SoulValue"
+    ]
+  },
+  {
+    "table": "PoseidonShopTemplates",
+    "rows": 115,
+    "bytes": 16225,
+    "sha256": "2e4ccb61429c2de603ff1fe2f51807551a16ba8ad440b8eeb8d693d9f79f3c49",
+    "exported": false,
+    "rowTags": [
+      "PoseidonShopTemplate"
+    ],
+    "fields": [
+      "Id",
+      "ItemId",
+      "LimitNumber",
+      "LimitType",
+      "OpenCondition",
+      "Price",
+      "ShopLevel",
+      "ShopType"
+    ]
+  },
+  {
+    "table": "ForbiddenBossTemplates",
+    "rows": 47,
+    "bytes": 15338,
+    "sha256": "4d7b9472fcf5187ee26c411a7a95a32806f165d4d81e1326ee59fbf49922ec58",
+    "exported": false,
+    "rowTags": [
+      "ForbiddenBossTemplate"
+    ],
+    "fields": [
+      "BAV",
+      "BossCD",
+      "BossInfo",
+      "BossSkill",
+      "BossType",
+      "CampaignId",
+      "Category",
+      "FirstRewards",
+      "HpMultiple",
+      "Id",
+      "MarkImage",
+      "RefreshParm",
+      "RefreshType",
+      "RewardShow1",
+      "RewardShow2"
+    ]
+  },
+  {
+    "table": "TheseusEquipSuiteTemplates",
+    "rows": 106,
+    "bytes": 19373,
+    "sha256": "55b40eba86f6477fb87799a60f90fcd5cb243bcf6b41b9e56f86834133793a66",
+    "exported": false,
+    "rowTags": [
+      "TheseusEquipSuiteTemplate"
+    ],
+    "fields": [
+      "NeedIndex",
+      "NeedMinLevel",
+      "NeedPart",
+      "SkillId",
+      "SuiteLevel",
+      "SuiteName",
+      "SuiteType",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "TheseusRageTemplates",
+    "rows": 1752,
+    "bytes": 643729,
+    "sha256": "bf620dc81e6683642cfcaeb091510525ac748cdc954fd19db5054a4682649684",
+    "exported": false,
+    "rowTags": [
+      "TheseusRageTemplate"
+    ],
+    "fields": [
+      "DarkResi",
+      "ElectResi",
+      "FireResi",
+      "ForceHit",
+      "Level",
+      "LightResi",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "MasterType",
+      "NeedItem",
+      "NeedItemNum",
+      "Parry",
+      "Penetrate",
+      "PhyAttack",
+      "PhyDefence",
+      "ReduceResi",
+      "ReduceResiAgainst",
+      "ResiPenetrate",
+      "TemplateId",
+      "Type",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "TheseusRageSuiteTemplates",
+    "rows": 20,
+    "bytes": 1566,
+    "sha256": "8b3267387a2535fe3a4e322d1b30839937d71b8575b035b105f0f75013c3e54c",
+    "exported": false,
+    "rowTags": [
+      "TheseusRageSuiteTemplate"
+    ],
+    "fields": [
+      "MinLevel",
+      "SkillId",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "SecretMapLevelTemplates",
+    "rows": 4,
+    "bytes": 896,
+    "sha256": "9ddc5615345af332fd0629c95ab1bb7ada220bf636ee35d2c32a9d9fd6b5302f",
+    "exported": false,
+    "rowTags": [
+      "SecretMapLevelTemplate"
+    ],
+    "fields": [
+      "Description",
+      "Drop",
+      "MapId",
+      "MapName",
+      "Type"
+    ]
+  },
+  {
+    "table": "SecretSonLevelTemplates",
+    "rows": 12,
+    "bytes": 750,
+    "sha256": "b540141099b805b55cdb89b4227113add7fea722ec07e3210cc612277ddf9586",
+    "exported": false,
+    "rowTags": [
+      "SecretSonLevelTemplate"
+    ],
+    "fields": [
+      "LevelId",
+      "MapId",
+      "MapNum"
+    ]
+  },
+  {
+    "table": "SecretMapDataTemplates",
+    "rows": 11,
+    "bytes": 7317,
+    "sha256": "5cf967ad37bdd7323efc0a2aabe649261957cced09e8f70db07d0fa3958602a5",
+    "exported": false,
+    "rowTags": [
+      "SecretMapDataTemplate"
+    ],
+    "fields": [
+      "AdoptCondition",
+      "Id",
+      "Introduction",
+      "MapDatas",
+      "TaskTitle"
+    ]
+  },
+  {
+    "table": "SecretEventTemplates",
+    "rows": 149,
+    "bytes": 36428,
+    "sha256": "3d4ab945af0c879b9fc772d3f3ac4b8fd55cda16384ea2f2d16ca152c00633c4",
+    "exported": false,
+    "rowTags": [
+      "SecretEventTemplate"
+    ],
+    "fields": [
+      "Description",
+      "FunType",
+      "Icon",
+      "Id",
+      "LevelId",
+      "Name",
+      "NoteName",
+      "Para1",
+      "Para2",
+      "Resource",
+      "Type"
+    ]
+  },
+  {
+    "table": "TheseusTreasureHokeTemplates",
+    "rows": 12,
+    "bytes": 1393,
+    "sha256": "cb15fb18ee13704b0bf6a1d4766282ca5faaafb542ced37444adaab60f8071bd",
+    "exported": false,
+    "rowTags": [
+      "TheseusTreasureHokeTemplate"
+    ],
+    "fields": [
+      "Description",
+      "HokeId",
+      "Property1",
+      "Property2",
+      "TemplateId",
+      "Type"
+    ]
+  },
+  {
+    "table": "TheseusTreasureCoreTemplates",
+    "rows": 150,
+    "bytes": 82658,
+    "sha256": "e82f809888ebe0047f40a3fa68f219214d60da293917be72825606f7b16f85bb",
+    "exported": false,
+    "rowTags": [
+      "TheseusTreasureCoreTemplate"
+    ],
+    "fields": [
+      "BreachItem",
+      "BreachItemNum",
+      "CoreSkills",
+      "DarkResi",
+      "Description",
+      "ElectResi",
+      "FireResi",
+      "ForceHit",
+      "Icon",
+      "Level",
+      "LightResi",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "Parry",
+      "Penetrate",
+      "PhyAttack",
+      "PhyDefence",
+      "Profile",
+      "Property1",
+      "ReduceResi",
+      "ReduceResiAgainst",
+      "ResiPenetrate",
+      "SecretLevel",
+      "StrengthenItem",
+      "StrengthenItemNum",
+      "TemplateId",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "TheseusTreasureGrowupTemplates",
+    "rows": 797,
+    "bytes": 320251,
+    "sha256": "9da7ef42ffc9760f217ac58ce06b946a84d01935fae909a75020b29c45b90000",
+    "exported": false,
+    "rowTags": [
+      "TheseusTreasureGrowupTemplate"
+    ],
+    "fields": [
+      "DarkResi",
+      "ElectResi",
+      "FireResi",
+      "ForceHit",
+      "LightResi",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "Parry",
+      "Penetrate",
+      "PhyAttack",
+      "PhyDefence",
+      "ReduceResi",
+      "ReduceResiAgainst",
+      "ResiPenetrate",
+      "StrengthenItem",
+      "StrengthenItemNum",
+      "TemplateId",
+      "TreasureId",
+      "TreasureLevel",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "ActivityDailyTemplates",
+    "rows": 78,
+    "bytes": 19451,
+    "sha256": "2b1783ad06142035b245b414f22291d480ea383c0dc17885742a9a4b1c1f0225",
+    "exported": false,
+    "rowTags": [
+      "ActivityDailyTemplate"
+    ],
+    "fields": [
+      "Description",
+      "Id",
+      "MasterType",
+      "Num",
+      "Para1",
+      "Para2",
+      "PassCount",
+      "RewardDes",
+      "SonType",
+      "Sort",
+      "TaskTime",
+      "TaskType",
+      "Title"
+    ]
+  },
+  {
+    "table": "CarnivalDailyChallengeTemplates",
+    "rows": 8,
+    "bytes": 1623,
+    "sha256": "88d47612649ab489a65023625188ef1a0327068d376890ea756732312a92eedd",
+    "exported": false,
+    "rowTags": [
+      "CarnivalDailyChallengeTemplate"
+    ],
+    "fields": [
+      "Description",
+      "Id",
+      "Para1",
+      "Para2",
+      "Para3",
+      "Para4",
+      "Points",
+      "TaskType",
+      "Title"
+    ]
+  },
+  {
+    "table": "CarnivalLuckDrawTemplates",
+    "rows": 84,
+    "bytes": 8707,
+    "sha256": "950cd5becf663b3f63682821168237ee1baca26d97e5016e0fa9ef6bc4e9c6a4",
+    "exported": false,
+    "rowTags": [
+      "CarnivalLuckDrawTemplate"
+    ],
+    "fields": [
+      "Id",
+      "Item",
+      "ItemNum",
+      "MasterType",
+      "Random",
+      "SonType"
+    ]
+  },
+  {
+    "table": "CarnivalPlayGroundTemplates",
+    "rows": 3,
+    "bytes": 620,
+    "sha256": "5f98512de598f848021395dd4e4c7191d4b4d22cd33c19d6ead673ad6bfa9d07",
+    "exported": false,
+    "rowTags": [
+      "CarnivalPlayGroundTemplate"
+    ],
+    "fields": [
+      "Id",
+      "Item1",
+      "Item2",
+      "Item3",
+      "Item4",
+      "ItemNum1",
+      "ItemNum2",
+      "ItemNum3",
+      "ItemNum4",
+      "PlayCount",
+      "Target",
+      "Type"
+    ]
+  },
+  {
+    "table": "CarnivalPointExchangeTemplates",
+    "rows": 35,
+    "bytes": 7073,
+    "sha256": "b1b9a6d3e1b0328c894eb117aa804efeb530af51054dd6a94300a1df96dae3e9",
+    "exported": false,
+    "rowTags": [
+      "CarnivalPointExchangeTemplate"
+    ],
+    "fields": [
+      "Id",
+      "Item1",
+      "Item2",
+      "Item3",
+      "Item4",
+      "ItemNum1",
+      "ItemNum2",
+      "ItemNum3",
+      "ItemNum4",
+      "Price",
+      "Sort",
+      "Target",
+      "Type"
+    ]
+  },
+  {
+    "table": "WarSoulTowerLevelTemplates",
+    "rows": 500,
+    "bytes": 234763,
+    "sha256": "54c41e2dea2bb4e17369b28c118e6ee46c2b7cef777ae5748be41f86768ad0b1",
+    "exported": false,
+    "rowTags": [
+      "WarSoulTowerLevelTemplate"
+    ],
+    "fields": [
+      "BossSkill",
+      "FirstRewardItemId1",
+      "FirstRewardItemId2",
+      "FirstRewardItemId3",
+      "FirstRewardItemNum1",
+      "FirstRewardItemNum2",
+      "FirstRewardItemNum3",
+      "Heroes",
+      "LevelId",
+      "NeedArmourValue",
+      "Pawns",
+      "RepeatRewardItemId1",
+      "RepeatRewardItemId2",
+      "RepeatRewardItemId3",
+      "RepeatRewardItemNum1",
+      "RepeatRewardItemNum2",
+      "RepeatRewardItemNum3"
+    ]
+  },
+  {
+    "table": "WarSoulTowerStageRewardTemplates",
+    "rows": 50,
+    "bytes": 10766,
+    "sha256": "87a488ed5cb8d7638e7a7c8caea36c01756111414feb96d3d629333cc98ec7b3",
+    "exported": false,
+    "rowTags": [
+      "WarSoulTowerStageRewardTemplate"
+    ],
+    "fields": [
+      "Id",
+      "LevelId",
+      "StageRewardItemId1",
+      "StageRewardItemId2",
+      "StageRewardItemId3",
+      "StageRewardItemNum1",
+      "StageRewardItemNum2",
+      "StageRewardItemNum3"
+    ]
+  },
+  {
+    "table": "FinalRoadChapterTemplates",
+    "rows": 3,
+    "bytes": 356,
+    "sha256": "ccec073522b7336efc76c6162d2b973e3205124d4a3afa8a14d8fffdfb5b9044",
+    "exported": false,
+    "rowTags": [
+      "FinalRoadChapterTemplate"
+    ],
+    "fields": [
+      "ChapterId",
+      "Description"
+    ]
+  },
+  {
+    "table": "FinalRoadGroupTemplates",
+    "rows": 18,
+    "bytes": 2221,
+    "sha256": "c4d3f47e43e11b172115fde6d6c31f19d24ae061ac5422b7b776457f2d292d67",
+    "exported": false,
+    "rowTags": [
+      "FinalRoadGroupTemplate"
+    ],
+    "fields": [
+      "BelongChapter",
+      "Description",
+      "GroupId",
+      "Reward",
+      "Sort"
+    ]
+  },
+  {
+    "table": "FinalRoadLevelTemplates",
+    "rows": 90,
+    "bytes": 8691,
+    "sha256": "836be97ef641e91b333a4cf37379f2587544371a74549e95ccc4c7d8818b865d",
+    "exported": false,
+    "rowTags": [
+      "FinalRoadLevelTemplate"
+    ],
+    "fields": [
+      "BelongGroup",
+      "Description",
+      "EventNum",
+      "LevelId",
+      "Sort"
+    ]
+  },
+  {
+    "table": "FinalRoadEventTemplates",
+    "rows": 1296,
+    "bytes": 203329,
+    "sha256": "b98ea626f21fca2bb1657e0ea6b90ebe5342fd31f3f4ae92c7bc63e447fcb16e",
+    "exported": false,
+    "rowTags": [
+      "FinalRoadEventTemplate"
+    ],
+    "fields": [
+      "BelongLevel",
+      "EventId",
+      "EventType",
+      "Para1",
+      "Para2",
+      "Para3",
+      "Para4"
+    ]
+  },
+  {
+    "table": "WarSoulTmpls",
+    "rows": 54,
+    "bytes": 15530,
+    "sha256": "4fea81a5f2c064ec9ebbebeb13c3a730ad5808acd89419fc50300e5dce7ef229",
+    "exported": false,
+    "rowTags": [
+      "WarSoulTmpl"
+    ],
+    "fields": [
+      "Attack",
+      "ClearItem",
+      "ClearSkill",
+      "Decompose",
+      "Defence",
+      "Description",
+      "Icon",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "MainType",
+      "MaxStar",
+      "Name",
+      "Profile",
+      "Rank",
+      "SonType",
+      "WarSoulId"
+    ]
+  },
+  {
+    "table": "WarSoulStarTmpls",
+    "rows": 729,
+    "bytes": 167275,
+    "sha256": "ea4cd58377c962ad6449e07bb288adb080a8f16d49930e0f8d1697019e7d18d3",
+    "exported": false,
+    "rowTags": [
+      "WarSoulStarTmpl"
+    ],
+    "fields": [
+      "Attack",
+      "Decompose",
+      "Defence",
+      "Grades",
+      "Id",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "MaxClear",
+      "MaxGrade",
+      "MaxReform",
+      "NeedWarSoul",
+      "WarSoulId"
+    ]
+  },
+  {
+    "table": "WarSoulStrengthenTmpls",
+    "rows": 10179,
+    "bytes": 2811865,
+    "sha256": "cdcff4cbe11b8858e76cd12d1e1db6b03929fae95c85ef15c21622fdd32a254c",
+    "exported": false,
+    "rowTags": [
+      "WarSoulStrengthenTmpl"
+    ],
+    "fields": [
+      "Attack",
+      "DecompositionReturn",
+      "Defence",
+      "Grades",
+      "Id",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "NeedItem",
+      "OpenActiveSkill",
+      "OpenPassiveSkill",
+      "SkillStrengthening",
+      "WarSoulId"
+    ]
+  },
+  {
+    "table": "WarSoulReformTmpls",
+    "rows": 378,
+    "bytes": 107825,
+    "sha256": "1187be228843302c726cd70abcb185c41ccce33fe45d2bd88e62977043616b04",
+    "exported": false,
+    "rowTags": [
+      "WarSoulReformTmpl"
+    ],
+    "fields": [
+      "Attack",
+      "Defence",
+      "FailProbability",
+      "Grades",
+      "Id",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "MaxRageGrades",
+      "MaxWarpath",
+      "MinRageGrades",
+      "NeedItem",
+      "NeedStone",
+      "SuccessProbability",
+      "UnchangedProbability",
+      "WarSoulId"
+    ]
+  },
+  {
+    "table": "TheseusPvpTmpls",
+    "rows": 16,
+    "bytes": 3197,
+    "sha256": "2fd7afed024e70a0add40e9a97150a66e89a1816ea32fcc0b2860d5e17671c1e",
+    "exported": false,
+    "rowTags": [
+      "TheseusPvpTmpl"
+    ],
+    "fields": [
+      "Icon",
+      "Id",
+      "MainType",
+      "MatchingSection",
+      "Name",
+      "NeedIntegral",
+      "OpenShop",
+      "SonType",
+      "WinningStreak"
+    ]
+  },
+  {
+    "table": "TheseusPvpIntegralTmpls",
+    "rows": 352,
+    "bytes": 35555,
+    "sha256": "ca290cc38241c35d4e90e9aeff69d6e5fc990241c012652c2f80794fb2b71e66",
+    "exported": false,
+    "rowTags": [
+      "TheseusPvpIntegralTmpl"
+    ],
+    "fields": [
+      "Defeat",
+      "Id",
+      "Mode",
+      "PvpId",
+      "Section",
+      "Victory"
+    ]
+  },
+  {
+    "table": "TheseusPvpRewardTmpls",
+    "rows": 25,
+    "bytes": 3189,
+    "sha256": "e04dee3e9b8b700014d63b52f5c9a90a6150a283fa3842c7ed4fe1f9ac2a2b8e",
+    "exported": true,
+    "rowTags": [
+      "TheseusPvpRewardTmpl"
+    ],
+    "fields": [
+      "Area",
+      "Id",
+      "Name",
+      "Reward",
+      "Sort",
+      "TaskNum",
+      "TaskType"
+    ]
+  },
+  {
+    "table": "SpecialRewardTmpls",
+    "rows": 63,
+    "bytes": 10911,
+    "sha256": "449ee23d68309fa36f9236f30e07ff4563ed366f221f270400da04222e543be6",
+    "exported": false,
+    "rowTags": [
+      "SpecialRewardTmpl"
+    ],
+    "fields": [
+      "FreeReward",
+      "Gear",
+      "Id",
+      "IsTips",
+      "NeedItem",
+      "NeedNum",
+      "PayReward",
+      "RandReward",
+      "Type"
+    ]
+  },
+  {
+    "table": "RuneGemInfos",
+    "rows": 375,
+    "bytes": 49912,
+    "sha256": "b0e56b3c41f7f9fcc2d770f3ebd21f11077da33b39bfdfcee6cfa4e1de0260c9",
+    "exported": false,
+    "rowTags": [
+      "RuneGemInfo"
+    ],
+    "fields": [
+      "Agility",
+      "Captain",
+      "Grades",
+      "Id",
+      "Intellect",
+      "Physique",
+      "Power",
+      "RuneGemTypes",
+      "Types"
+    ]
+  },
+  {
+    "table": "RuneHoleInfos",
+    "rows": 133,
+    "bytes": 25710,
+    "sha256": "964650943a76269d09ab13a12c08c0ac878de6b8e982d2ec801bc4df1646c7d2",
+    "exported": false,
+    "rowTags": [
+      "RuneHoleInfo"
+    ],
+    "fields": [
+      "BanRuneType",
+      "Description",
+      "ExtractTags",
+      "GainEffectID1",
+      "GainEffectID2",
+      "Hole1",
+      "Hole2",
+      "Hole3",
+      "Hole4",
+      "Hole5",
+      "Id",
+      "Length",
+      "Random"
+    ]
+  },
+  {
+    "table": "RuneFsgainInfos",
+    "rows": 179,
+    "bytes": 31310,
+    "sha256": "fd11cafb8f2523573d4caeae4824f5708c7c1bc26f2c92ada3dd6b1cf6bebc12",
+    "exported": false,
+    "rowTags": [
+      "RuneFsgainInfo"
+    ],
+    "fields": [
+      "AttributeType",
+      "Condition",
+      "ConditionParam",
+      "Description",
+      "EffectType",
+      "Id",
+      "NewRuneSkill",
+      "RuneType",
+      "ValueParam",
+      "ValueType"
+    ]
+  },
+  {
+    "table": "ExploitsShopTemplates",
+    "rows": 12,
+    "bytes": 1785,
+    "sha256": "62c29f316943f6ea68e76ef06eb27f70ea26ed09adab473fbb0186e4078d4177",
+    "exported": false,
+    "rowTags": [
+      "ExploitsShopTemplate"
+    ],
+    "fields": [
+      "Count",
+      "IsDrop",
+      "ItemId",
+      "MapShopId",
+      "MaxLevel",
+      "MinLevel",
+      "MlitaryExploits",
+      "Weight"
+    ]
+  },
+  {
+    "table": "CommerceShopTemplates",
+    "rows": 9,
+    "bytes": 1132,
+    "sha256": "6df641c68f34943a14a8e7c2835ecd70edbea30e4c325bab7892b876f2b64cc5",
+    "exported": false,
+    "rowTags": [
+      "CommerceShopTemplate"
+    ],
+    "fields": [
+      "CostPersonReputation",
+      "Count",
+      "ItemTempId",
+      "MapShopId",
+      "Point",
+      "Weight"
+    ]
+  },
+  {
+    "table": "MinosLevelTmpls",
+    "rows": 4,
+    "bytes": 467,
+    "sha256": "70bf6f237d59b69049ed19d001ec6bb73424e288e05ed4a1393371606c0e3b48",
+    "exported": false,
+    "rowTags": [
+      "MinosLevelTmpl"
+    ],
+    "fields": [
+      "GuildLevel",
+      "Id",
+      "LevelImage",
+      "LevelName",
+      "NodeNum"
+    ]
+  },
+  {
+    "table": "MinosNodeTmpls",
+    "rows": 212,
+    "bytes": 64401,
+    "sha256": "d36260a7e3c97d2a707c236059b900b82d926512136411409ddc7f5754759503",
+    "exported": false,
+    "rowTags": [
+      "MinosNodeTmpl"
+    ],
+    "fields": [
+      "ForLevel",
+      "GardenValue",
+      "Heroes",
+      "Id",
+      "NodeGrade",
+      "NodeId",
+      "NodeName",
+      "NodeType",
+      "NodeValueMax",
+      "Pawns",
+      "RewardItem1",
+      "RewardItem2",
+      "RewardItem3",
+      "RewardNum1",
+      "RewardNum2",
+      "RewardNum3"
+    ]
+  },
+  {
+    "table": "MinosRewardTmpls",
+    "rows": 12,
+    "bytes": 3043,
+    "sha256": "c8493805be883e97e546b4ebc076d56c6ac54a6e262a6458b0a338915c2ece27",
+    "exported": false,
+    "rowTags": [
+      "MinosRewardTmpl"
+    ],
+    "fields": [
+      "Id",
+      "RewardCondition",
+      "RewardItem1",
+      "RewardItem2",
+      "RewardItem3",
+      "RewardItem4",
+      "RewardItem5",
+      "RewardNum1",
+      "RewardNum2",
+      "RewardNum3",
+      "RewardNum4",
+      "RewardNum5",
+      "RewardType"
+    ]
+  },
+  {
+    "table": "ChristmasLotteryTemplates",
+    "rows": 99,
+    "bytes": 11228,
+    "sha256": "fd372b7e73864606f23df26111b283fbaf4f3e35f6b75c6a71bbfe463720fec8",
+    "exported": false,
+    "rowTags": [
+      "ChristmasLotteryTemplate"
+    ],
+    "fields": [
+      "Id",
+      "ItemId",
+      "MasterType",
+      "Num",
+      "Random",
+      "Score",
+      "SonType"
+    ]
+  },
+  {
+    "table": "ChristmasActivitiesTemplates",
+    "rows": 40,
+    "bytes": 8297,
+    "sha256": "1176c593e08b46ae3a18f0d8ca6a31d0dd26b70d9ba7fcf85e34fde33dc17572",
+    "exported": false,
+    "rowTags": [
+      "ChristmasActivitiesTemplate"
+    ],
+    "fields": [
+      "Id",
+      "Limit",
+      "MasterType",
+      "Num1",
+      "Num2",
+      "Num3",
+      "Num4",
+      "Para1",
+      "Para2",
+      "Reward1",
+      "Reward2",
+      "Reward3",
+      "Reward4",
+      "SonType"
+    ]
+  },
+  {
+    "table": "ChristmasAnswersTemplates",
+    "rows": 40,
+    "bytes": 5205,
+    "sha256": "ffa4d34f5dcc81a519f127543ba2dba3d35676df5320f67d246dda76c4f49cd3",
+    "exported": false,
+    "rowTags": [
+      "ChristmasAnswersTemplate"
+    ],
+    "fields": [
+      "Id",
+      "OptionA",
+      "OptionB",
+      "Topic"
+    ]
+  },
+  {
+    "table": "ChristmasAchievementsTemplates",
+    "rows": 27,
+    "bytes": 3167,
+    "sha256": "231d91cff826c4e9751aad87d532de47b1383a691c6522b13a2efef47888225c",
+    "exported": false,
+    "rowTags": [
+      "ChristmasAchievementsTemplate"
+    ],
+    "fields": [
+      "Describe",
+      "Id",
+      "Para",
+      "Score",
+      "Type"
+    ]
+  },
+  {
+    "table": "ChildPvpTmpls",
+    "rows": 26,
+    "bytes": 3651,
+    "sha256": "225e5f88883a3005f25f3996551cf26e7c7adaba2d99f417646bb30070c0a57e",
+    "exported": false,
+    "rowTags": [
+      "ChildPvpTmpl"
+    ],
+    "fields": [
+      "Icon",
+      "Id",
+      "MainType",
+      "MatchingSection",
+      "Name",
+      "NeedIntegral",
+      "OpenShop",
+      "SonType"
+    ]
+  },
+  {
+    "table": "ChildPvpRewardTmpls",
+    "rows": 24,
+    "bytes": 2973,
+    "sha256": "c3638ec251abd79a657c5832a30e3dc9dddd0b120d46058d1b887e89509e3662",
+    "exported": true,
+    "rowTags": [
+      "ChildPvpRewardTmpl"
+    ],
+    "fields": [
+      "Area",
+      "Id",
+      "Name",
+      "Reward",
+      "Sort",
+      "TaskNum",
+      "TaskType"
+    ]
+  },
+  {
+    "table": "ItemResolveSortTemplates",
+    "rows": 14,
+    "bytes": 1746,
+    "sha256": "3fa89002f7b2c798ff7665a408bacd47592775440a1cc1cecfcf628945a8affc",
+    "exported": false,
+    "rowTags": [
+      "ItemResolveSortTemplate"
+    ],
+    "fields": [
+      "Color",
+      "Propety1",
+      "Propety2",
+      "PropetyName1",
+      "Sontype",
+      "TemplateID"
+    ]
+  },
+  {
+    "table": "TheseusEquipStrengthenTmpls",
+    "rows": 4010,
+    "bytes": 774665,
+    "sha256": "81f0ca9a066c9ed66d266ec70374501b874bb4b7354e7fa720366ba6e51af8ba",
+    "exported": false,
+    "rowTags": [
+      "TheseusEquipStrengthenTmpl"
+    ],
+    "fields": [
+      "Attr",
+      "Cost",
+      "CountFraction",
+      "Fraction",
+      "Id",
+      "Recovery",
+      "Strengthen",
+      "Type"
+    ]
+  },
+  {
+    "table": "TheseusEquipQualityTmpls",
+    "rows": 3632,
+    "bytes": 711886,
+    "sha256": "609ae0ecd52c38d800b2265a49e97ec452edf6ce93b6754a744da75c94114fbe",
+    "exported": false,
+    "rowTags": [
+      "TheseusEquipQualityTmpl"
+    ],
+    "fields": [
+      "Attr",
+      "Cost",
+      "CountFraction",
+      "Fraction",
+      "Id",
+      "Quality",
+      "Recovery",
+      "StrengthenLimit",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "TheseusMultiPvpTmpls",
+    "rows": 16,
+    "bytes": 3072,
+    "sha256": "d2ce2b19f02fa0e3200d8b01076eef42719d9566a5a5d7cadd543647ad7ac785",
+    "exported": false,
+    "rowTags": [
+      "TheseusMultiPvpTmpl"
+    ],
+    "fields": [
+      "Icon",
+      "Id",
+      "MainType",
+      "MatchingSection",
+      "Name",
+      "NeedIntegral",
+      "SonType",
+      "WinningStreak"
+    ]
+  },
+  {
+    "table": "TheseusMultiPvpIntegralTmpls",
+    "rows": 176,
+    "bytes": 18170,
+    "sha256": "636174c52dbaee44a80cd339ac495340e4824e823f1d8ffbba6cf3c1ed94d6a0",
+    "exported": false,
+    "rowTags": [
+      "TheseusMultiPvpIntegralTmpl"
+    ],
+    "fields": [
+      "Defeat",
+      "Id",
+      "Mode",
+      "PvpId",
+      "Section",
+      "Victory"
+    ]
+  },
+  {
+    "table": "TheseusMultiPvpRewardTmpls",
+    "rows": 16,
+    "bytes": 2147,
+    "sha256": "0bd23f82e2e58f35ae54b271e10509697107fda9bd402c2152437e3cc7173d5c",
+    "exported": true,
+    "rowTags": [
+      "TheseusMultiPvpRewardTmpl"
+    ],
+    "fields": [
+      "Area",
+      "Id",
+      "Name",
+      "Reward",
+      "Sort",
+      "TaskNum",
+      "TaskType"
+    ]
+  },
+  {
+    "table": "TheseusTowerTmpls",
+    "rows": 100,
+    "bytes": 22835,
+    "sha256": "6a7f0708819b674b77b76d3675941fdcfbc3c5c52e889a7874f965731e8bc90d",
+    "exported": false,
+    "rowTags": [
+      "TheseusTowerTmpl"
+    ],
+    "fields": [
+      "FirstRewards",
+      "Heroes",
+      "LevelId",
+      "MapId",
+      "Pawns",
+      "SweepRandom",
+      "SweepRewards"
+    ]
+  },
+  {
+    "table": "StoreHouseChapterTmpls",
+    "rows": 20,
+    "bytes": 4019,
+    "sha256": "25993034eee505280ba2c969fdff4690ded95a7a303396f7aa1fa1d38305fbd9",
+    "exported": false,
+    "rowTags": [
+      "StoreHouseChapterTmpl"
+    ],
+    "fields": [
+      "CampaignId",
+      "ChaptersName",
+      "FirstPassAward",
+      "Icon",
+      "Id",
+      "PassDropAward"
+    ]
+  },
+  {
+    "table": "StoreHouseMapTmpls",
+    "rows": 530,
+    "bytes": 349631,
+    "sha256": "19538a3aba980cbb5044d9baa6fac3ba78987c1e53ae99fa183a3347de2a97c4",
+    "exported": false,
+    "rowTags": [
+      "StoreHouseMapTmpl"
+    ],
+    "fields": [
+      "Award",
+      "Chapters",
+      "MapId",
+      "SkillGroup"
+    ]
+  },
+  {
+    "table": "CollectionTemplates",
+    "rows": 330,
+    "bytes": 197303,
+    "sha256": "ee8d981de6a3da9e0063ca356d142127eff95a76728e998657ce07e463170444",
+    "exported": false,
+    "rowTags": [
+      "CollectionTemplate"
+    ],
+    "fields": [
+      "Agility",
+      "Attack",
+      "Captain",
+      "CollectionName",
+      "Conat",
+      "DarkResi",
+      "Defence",
+      "Description",
+      "ElectResi",
+      "FireResi",
+      "ForceHit",
+      "Icon",
+      "Id",
+      "Intellect",
+      "LightResi",
+      "Live",
+      "MagicAttack",
+      "MagicDefence",
+      "Parry",
+      "Penetrate",
+      "Physique",
+      "Power",
+      "Quality",
+      "ReduceResi",
+      "ReduceResiAgainst",
+      "ResiPenetrate",
+      "Specialeffect",
+      "SpecialeffectDesc",
+      "Star",
+      "Strength",
+      "StunAttr",
+      "TemplateId",
+      "Tenacity",
+      "UpGold",
+      "UpNeed",
+      "WaterResi",
+      "WindResi"
+    ]
+  },
+  {
+    "table": "CollectionSuitTemplates",
+    "rows": 6,
+    "bytes": 2497,
+    "sha256": "aa800ad34c2e818dbe5d4935a4c979b65a05d62e5c782f65da81f1c67ad26d19",
+    "exported": false,
+    "rowTags": [
+      "CollectionSuitTemplate"
+    ],
+    "fields": [
+      "Id",
+      "Star0",
+      "Star0Desc",
+      "Star10",
+      "Star10Desc",
+      "Star3",
+      "Star3Desc",
+      "Star6",
+      "Star6Desc",
+      "Suit",
+      "SuitName"
+    ]
+  },
+  {
+    "table": "CollectionRewardTemplates",
+    "rows": 75,
+    "bytes": 7498,
+    "sha256": "027d0237f7fa07990417c31e7a21c6e172379bceb3bb9f839c6f88584f95bddf",
+    "exported": false,
+    "rowTags": [
+      "CollectionRewardTemplate"
+    ],
+    "fields": [
+      "Id",
+      "Level",
+      "NeedNum",
+      "Reward",
+      "Type"
+    ]
+  },
+  {
+    "table": "AssistantTemplates",
+    "rows": 9,
+    "bytes": 1138,
+    "sha256": "a587cdff6726d8260394e71079eb0f13b2fee4af5b4518e0de493e7241a48a5a",
+    "exported": false,
+    "rowTags": [
+      "AssistantTemplate"
+    ],
+    "fields": [
+      "Id",
+      "MaterType",
+      "Notes",
+      "RoleName",
+      "SonType",
+      "TypeName"
+    ]
+  },
+  {
+    "table": "SlateTmpls",
+    "rows": 144,
+    "bytes": 38574,
+    "sha256": "c283c32963d0dc453fb23c504cb2a5c5ddecc77a2dd3a8248c35ceb23d22e682",
+    "exported": false,
+    "rowTags": [
+      "SlateTmpl"
+    ],
+    "fields": [
+      "SlateAttr",
+      "SlateDecomposition",
+      "SlateIcon",
+      "SlateLvAttr",
+      "SlateName",
+      "SlateProfile",
+      "SlateShape",
+      "SlateSkillTemplate",
+      "SlateStarLevel",
+      "SlateType",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "SlateUpgradeTmpls",
+    "rows": 360,
+    "bytes": 40595,
+    "sha256": "e4320bfdb2ba54b9c83fdc7046245d9f07dddd8ea2d3d14590e55405d0c2e8ee",
+    "exported": false,
+    "rowTags": [
+      "SlateUpgradeTmpl"
+    ],
+    "fields": [
+      "Consume",
+      "EquipLv",
+      "EquipProfile",
+      "Item",
+      "TemplateId",
+      "Type"
+    ]
+  },
+  {
+    "table": "SlateTaskTmpls",
+    "rows": 16,
+    "bytes": 2599,
+    "sha256": "40e31333f1efcd2c072c229652126ec54ef20865a5578c8da116e38617c3c31c",
+    "exported": true,
+    "rowTags": [
+      "SlateTaskTmpl"
+    ],
+    "fields": [
+      "Part1",
+      "Part2",
+      "Part3",
+      "TaskDescription",
+      "TaskReward",
+      "TaskType",
+      "TemplateId"
+    ]
+  },
+  {
+    "table": "TheseusDungeonTemplates",
+    "rows": 28,
+    "bytes": 4826,
+    "sha256": "9039c1c86540b4a3a2be34b065734c502c54bf1a12a879b2d57f3e1ef962be96",
+    "exported": false,
+    "rowTags": [
+      "TheseusDungeonTemplate"
+    ],
+    "fields": [
+      "EventGroup",
+      "Grid",
+      "Prelayersid",
+      "TemplateId",
+      "TemplateName",
+      "TimeUnlock"
+    ]
+  },
+  {
+    "table": "TheseusDungeonEventTemplates",
+    "rows": 91,
+    "bytes": 21108,
+    "sha256": "ea4f07e8bb4b050ff88edb77fe02dcdae952ada900477120d96734e155165104",
+    "exported": false,
+    "rowTags": [
+      "TheseusDungeonEventTemplate"
+    ],
+    "fields": [
+      "BattleGround",
+      "CondictionType",
+      "Icon",
+      "Id",
+      "Notes",
+      "Property1",
+      "Property2",
+      "Property3",
+      "Reward1",
+      "Reward2"
+    ]
+  },
+  {
+    "table": "TheseusDungeonTaskTemplates",
+    "rows": 30,
+    "bytes": 4537,
+    "sha256": "13cc7a70aa20089c6f20adba51ca0894895fb1cec0ee68e8d151073c9fd10dbb",
+    "exported": true,
+    "rowTags": [
+      "TheseusDungeonTaskTemplate"
+    ],
+    "fields": [
+      "Detail",
+      "PassCount",
+      "Reward",
+      "Sort",
+      "TemplateId",
+      "Type"
+    ]
+  }
+]

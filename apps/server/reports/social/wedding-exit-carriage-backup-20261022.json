@@ -1,0 +1,13 @@
+{
+  "backupPath": "data/backups/before-wedding-exit-carriage-20261022.sqlite",
+  "marriagePreserved": {
+    "id": 2,
+    "a": 1826,
+    "b": 1827,
+    "status": 3,
+    "data": "{\"engagedAt\":1792706394758,\"quality\":1,\"phase\":3,\"payer\":1826,\"payType\":1,\"approved\":true,\"createdAt\":1792706432152,\"guests\":[1826,1827],\"votes\":[1827,1826],\"marriedAt\":1792706507875,\"champagne\":1,\"flowerA\":1,\"sweets\":1,\"cake\":1}"
+  },
+  "integrity": {
+    "quick_check": "ok"
+  }
+}

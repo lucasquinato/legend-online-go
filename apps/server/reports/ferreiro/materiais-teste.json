@@ -1,0 +1,138 @@
+{
+  "at": "2026-10-15T06:56:21.127Z",
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\equipment-mail-2026-10-15T06-56-09.099Z",
+  "accounts": [
+    {
+      "username": "pirata_teste",
+      "userId": 1826,
+      "job": 3,
+      "recipes": 32,
+      "copiesPerRecipe": 5,
+      "goldBudget": 1668000000,
+      "materials": [
+        {
+          "template": 2129006,
+          "count": 24000,
+          "name": "Pedra de Sintetização nv. 6"
+        },
+        {
+          "template": 2129700,
+          "count": 18000,
+          "name": "Pedra Legendária nv. 70"
+        },
+        {
+          "template": 2129800,
+          "count": 16000,
+          "name": "Pedra Legendária nv. 80"
+        },
+        {
+          "template": 2129809,
+          "count": 8000,
+          "name": "Fragmento de Pedra dos Titãs"
+        },
+        {
+          "template": 2129810,
+          "count": 8000,
+          "name": "Fragmentos de Aço dos Titãs"
+        },
+        {
+          "template": 2030102,
+          "count": 4170,
+          "name": "Bolsa de Ouro"
+        }
+      ],
+      "mails": [
+        1000217,
+        1000218
+      ]
+    },
+    {
+      "username": "pirata_teste_2",
+      "userId": 1827,
+      "job": 2,
+      "recipes": 32,
+      "copiesPerRecipe": 5,
+      "goldBudget": 1668000000,
+      "materials": [
+        {
+          "template": 2129006,
+          "count": 24000,
+          "name": "Pedra de Sintetização nv. 6"
+        },
+        {
+          "template": 2129700,
+          "count": 18000,
+          "name": "Pedra Legendária nv. 70"
+        },
+        {
+          "template": 2129800,
+          "count": 16000,
+          "name": "Pedra Legendária nv. 80"
+        },
+        {
+          "template": 2129809,
+          "count": 8000,
+          "name": "Fragmento de Pedra dos Titãs"
+        },
+        {
+          "template": 2129810,
+          "count": 8000,
+          "name": "Fragmentos de Aço dos Titãs"
+        },
+        {
+          "template": 2030102,
+          "count": 4170,
+          "name": "Bolsa de Ouro"
+        }
+      ],
+      "mails": [
+        1000219,
+        1000220
+      ]
+    },
+    {
+      "username": "pirata_teste_3",
+      "userId": 1828,
+      "job": 1,
+      "recipes": 32,
+      "copiesPerRecipe": 5,
+      "goldBudget": 1668000000,
+      "materials": [
+        {
+          "template": 2129006,
+          "count": 24000,
+          "name": "Pedra de Sintetização nv. 6"
+        },
+        {
+          "template": 2129700,
+          "count": 18000,
+          "name": "Pedra Legendária nv. 70"
+        },
+        {
+          "template": 2129800,
+          "count": 16000,
+          "name": "Pedra Legendária nv. 80"
+        },
+        {
+          "template": 2129809,
+          "count": 8000,
+          "name": "Fragmento de Pedra dos Titãs"
+        },
+        {
+          "template": 2129810,
+          "count": 8000,
+          "name": "Fragmentos de Aço dos Titãs"
+        },
+        {
+          "template": 2030102,
+          "count": 4170,
+          "name": "Bolsa de Ouro"
+        }
+      ],
+      "mails": [
+        1000221,
+        1000222
+      ]
+    }
+  ]
+}

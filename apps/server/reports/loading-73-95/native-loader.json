@@ -1,0 +1,18 @@
+{
+  "at": "2026-10-16T03:10:10.245Z",
+  "target": "reference/chat/local-ui/local-2.swf",
+  "exitCode": 0,
+  "timedOut": false,
+  "loaded": true,
+  "verified": true,
+  "expectedNativeTermination": false,
+  "logs": [
+    "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+    "verified com.pickgliss.loader.data.LoaderInfo [class LoaderInfo]",
+    "verified com.pickgliss.loaderii.BaseLoaderII [class BaseLoaderII]",
+    "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/chat/local-ui/local-2.swf",
+    "stale-header-rejection-reproduced",
+    "native-table-loader-passed tables=292 bytes=62259294"
+  ],
+  "runtime": "log\tLoading.swf 4113 bytes em 54 ms (AIR WIN 51,4,1,1)\n"
+}

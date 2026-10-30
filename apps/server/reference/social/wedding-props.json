@@ -1,0 +1,143 @@
+{
+  "source": "Recovered map layouts: reports/social/evidence/wedding-map-content.json",
+  "maps": {
+    "4301": [
+      {
+        "id": 430103,
+        "asset": "mapmaterial/build/8007.swf",
+        "sonType": 8007,
+        "x": 34,
+        "y": 59,
+        "fixX": 690,
+        "fixY": 1192,
+        "masterType": 61,
+        "range": 0
+      },
+      {
+        "id": 430104,
+        "asset": "mapmaterial/build/8003.swf",
+        "sonType": 8003,
+        "x": 49,
+        "y": 70,
+        "fixX": 991,
+        "fixY": 1412,
+        "masterType": 61,
+        "range": 0
+      },
+      {
+        "id": 430101,
+        "asset": "mapmaterial/build/2336.swf",
+        "sonType": 2336,
+        "x": 94,
+        "y": 77,
+        "fixX": 1890,
+        "fixY": 1551,
+        "masterType": 40,
+        "range": 0
+      },
+      {
+        "id": 430102,
+        "asset": "mapmaterial/build/8002.swf",
+        "sonType": 8002,
+        "x": 35,
+        "y": 29,
+        "fixX": 711,
+        "fixY": 590,
+        "masterType": 61,
+        "range": 8
+      }
+    ],
+    "4302": [
+      {
+        "id": 430203,
+        "asset": "mapmaterial/build/8007.swf",
+        "sonType": 8007,
+        "x": 34,
+        "y": 59,
+        "fixX": 690,
+        "fixY": 1192,
+        "masterType": 61,
+        "range": 0
+      },
+      {
+        "id": 430204,
+        "asset": "mapmaterial/build/8003.swf",
+        "sonType": 8003,
+        "x": 41,
+        "y": 73,
+        "fixX": 829,
+        "fixY": 1469,
+        "masterType": 61,
+        "range": 0
+      },
+      {
+        "id": 430202,
+        "asset": "mapmaterial/build/8002.swf",
+        "sonType": 8002,
+        "x": 35,
+        "y": 29,
+        "fixX": 711,
+        "fixY": 590,
+        "masterType": 61,
+        "range": 8
+      },
+      {
+        "id": 430201,
+        "asset": "mapmaterial/build/2336.swf",
+        "sonType": 2336,
+        "x": 94,
+        "y": 77,
+        "fixX": 1890,
+        "fixY": 1551,
+        "masterType": 40,
+        "range": 0
+      }
+    ],
+    "4303": [
+      {
+        "id": 430304,
+        "asset": "mapmaterial/build/8003.swf",
+        "sonType": 8003,
+        "x": 66,
+        "y": 49,
+        "fixX": 1330,
+        "fixY": 990,
+        "masterType": 61,
+        "range": 0
+      },
+      {
+        "id": 430303,
+        "asset": "mapmaterial/build/8007.swf",
+        "sonType": 8007,
+        "x": 34,
+        "y": 59,
+        "fixX": 690,
+        "fixY": 1192,
+        "masterType": 61,
+        "range": 0
+      },
+      {
+        "id": 430302,
+        "asset": "mapmaterial/build/8002.swf",
+        "sonType": 8002,
+        "x": 35,
+        "y": 29,
+        "fixX": 711,
+        "fixY": 590,
+        "masterType": 61,
+        "range": 8
+      },
+      {
+        "id": 430301,
+        "asset": "mapmaterial/build/2336.swf",
+        "sonType": 2336,
+        "x": 94,
+        "y": 77,
+        "fixX": 1890,
+        "fixY": 1551,
+        "masterType": 40,
+        "range": 0
+      }
+    ]
+  }
+}

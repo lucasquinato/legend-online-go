@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Motor do launcher de PC (Engine.as). Empacotado como bundle com o runtime
+     (captive) por launcher/desktop/build.ps1; o launcher abre um processo por conta. -->
+<application xmlns="http://ns.adobe.com/air/application/51.4">
+    <id>com.legendremake.engine</id>
+    <filename>LegendEngine</filename>
+    <name>Legend Online</name>
+    <versionNumber>2.0.0</versionNumber>
+    <versionLabel>2.0.0</versionLabel>
+    <copyright>Legend Remake</copyright>
+
+    <!-- Uma conta = um processo: várias abertas ao mesmo tempo. -->
+    <allowMultipleInstances>true</allowMultipleInstances>
+
+    <initialWindow>
+        <content>Engine.swf</content>
+        <title>LegendEngine</title>
+        <!-- Sem borda e invisível: o launcher embute a janela na aba e o motor a
+             mostra quando o jogo começa. -->
+        <systemChrome>none</systemChrome>
+        <transparent>false</transparent>
+        <visible>false</visible>
+        <!-- direct: o motor dos Arredores e o Starling (Reino do Céu) usam Stage3D. -->
+        <renderMode>direct</renderMode>
+        <depthAndStencil>true</depthAndStencil>
+        <width>1280</width>
+        <height>720</height>
+    </initialWindow>
+
+    <icon>
+        <image16x16>icons/icon16.png</image16x16>
+        <image32x32>icons/icon32.png</image32x32>
+        <image48x48>icons/icon48.png</image48x48>
+        <image128x128>icons/icon128.png</image128x128>
+    </icon>
+
+    <supportedProfiles>extendedDesktop desktop</supportedProfiles>
+</application>

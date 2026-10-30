@@ -1,0 +1,58 @@
+{
+  "at": "2026-10-13T20:26:46.959Z",
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 3,
+    "boot": "f51f1582-1132-4c7a-876d-5f075f290e36",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "phaseCount": 83,
+  "backup": "data/backups/all-campaigns-before-2026-10-13T20-08-49.338Z",
+  "assetsVerified": 14,
+  "monster002cServedFromCache": true,
+  "affectedIntegrationTests": {
+    "passed": 123,
+    "failed": 0
+  },
+  "otherFullSuiteTestsPassed": 134,
+  "workflowChanged": false,
+  "accounts": {
+    "at": "2026-10-13T20:25:42.978Z",
+    "liveAccountsUnchanged": true,
+    "results": [
+      {
+        "username": "pirata_teste",
+        "level": 30,
+        "icon": 3,
+        "preservedLiveMap": 1,
+        "isolatedCampaign": 1201,
+        "ownBattle": {
+          "icon": 3,
+          "userId": 1826,
+          "level": 30
+        },
+        "campaignCount": 83
+      },
+      {
+        "username": "pirata_teste_2",
+        "level": 14,
+        "icon": 5,
+        "preservedLiveMap": 1,
+        "isolatedCampaign": 1001,
+        "ownBattle": {
+          "icon": 5,
+          "userId": 1827,
+          "level": 14
+        },
+        "campaignCount": 83
+      }
+    ]
+  }
+}

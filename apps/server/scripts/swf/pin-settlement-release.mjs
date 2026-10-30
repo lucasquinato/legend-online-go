@@ -1,0 +1,24 @@
+import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { DatabaseSync } from 'node:sqlite';
+import { inflateSync } from 'node:zlib';
+import { createHash } from 'node:crypto';
+import assert from 'node:assert/strict';
+const sha = b => createHash('sha256').update(b).digest('hex');
+const file = 'reference/ui-compat/release-lock.json', lock = JSON.parse(readFileSync(file));
+const db = new DatabaseSync('data/state.sqlite', { readOnly: true });
+const index = db.prepare('SELECT * FROM assets WHERE path=?').get('/client/code_md5.dat');
+assert.equal(index.sha256, lock.index.sha256);
+const xml = inflateSync(inflateSync(readFileSync('data/assets/objects/' + index.sha256 + '.bin'))).toString();
+const token = xml.match(/<Item\b[^>]*name="4\.png"[^>]*md5="([^"]+)"/)?.[1];
+assert.ok(token);
+const sourcePath = '/cdn/4_' + token + '.png', row = db.prepare('SELECT * FROM assets WHERE path=?').get(sourcePath);
+assert.ok(row, sourcePath);
+const wire = readFileSync('data/assets/objects/' + row.sha256 + '.bin'); assert.equal(sha(wire), row.sha256);
+const t = wire.subarray(wire.subarray(0, 5).toString() === 'road7' ? 37 : 0);
+const bytes = wire.subarray(0, 3).toString() === 'CWS' ? wire : Buffer.concat([Buffer.from('CWS'), t.subarray(-121), t.subarray(21, -121)]);
+const baseline = `reference/ui-compat/baselines/4-${token}.swf`;
+mkdirSync('reference/ui-compat/baselines', { recursive: true });
+const entry = { sourcePath, token, wireSha256: row.sha256, wireBytes: wire.length, file: baseline, sha256: sha(bytes), bytes: bytes.length, allowedMethods: ['buildings.politics.view.LevyView.refreshView'] };
+if (lock.modules[4]) assert.deepEqual(lock.modules[4], entry);
+else { writeFileSync(baseline, bytes); lock.modules[4] = entry; writeFileSync(file, JSON.stringify(lock, null, 2)); }
+db.close(); console.log(entry);

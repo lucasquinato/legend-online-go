@@ -1,0 +1,27 @@
+import { readFileSync, writeFileSync, mkdirSync, copyFileSync } from 'node:fs';
+import { resolve, join } from 'node:path';
+import { execFileSync } from 'node:child_process';
+import { createHash, randomUUID } from 'node:crypto';
+import assert from 'node:assert/strict';
+const lock = JSON.parse(readFileSync('reference/ui-compat/release-lock.json')), entry = lock.modules[4];
+const sha = b => createHash('sha256').update(b).digest('hex');
+assert.equal(sha(readFileSync(entry.file)), entry.sha256);
+const stage = resolve('reference/ui-compat/staging', randomUUID()); mkdirSync(stage, { recursive: true });
+const jar = resolve('../../vendor/ffdec/ffdec.jar'), candidate = join(stage, 'local-4.swf'), audit = join(stage, 'audit-4.json');
+const java = (file, args) => execFileSync('java', ['-Djava.awt.headless=true', '-cp', jar, resolve(file), ...args], { encoding: 'utf8', windowsHide: true, timeout: 120000 });
+java('scripts/swf/SettlementTaxPatch.java', [resolve(entry.file), candidate]);
+execFileSync(process.execPath, ['scripts/swf/audit.mjs', '4', candidate, audit], { stdio: 'inherit', windowsHide: true });
+const test = join(stage, 'tax-test.swf'), baseline = join(stage, 'tax-baseline.swf'), probe = join(stage, 'TaxProbe.swf');
+java('scripts/swf/SettlementTaxTestAliases.java', [candidate, test]);
+java('scripts/swf/SettlementTaxTestAliases.java', [resolve(entry.file), baseline, 'no-spring-buff']);
+execFileSync('java', ['-Djava.awt.headless=true', '-jar', jar, '-replace', resolve('reference/mounts/probe/Probe.swf'), probe, 'MountRuntimeProbe', resolve('scripts/swf/SettlementTaxProbe.as')], { stdio: 'inherit', windowsHide: true, timeout: 120000 });
+const check = swf => execFileSync(process.execPath, ['scripts/probe-mount-runtime.mjs', swf, '--core=reference/chat/local-ui/local-2.swf', '--probe=' + probe, '--classes=buildings.politics.view.LevyView'], { encoding: 'utf8', windowsHide: true, timeout: 30000 });
+let baselineLog;try { baselineLog = check(baseline); throw new Error('Baseline unexpectedly passed'); } catch (e) { if (!e.stdout?.includes('Tax preview divergence')) throw e; baselineLog = e.stdout.toString(); }
+const behavioral = check(test); assert.ok(behavioral.includes('settlement-tax-preview-passed'));
+const targets = [candidate, 'reference/skills/formation-ui/local-5.swf', 'reference/mounts/local-ui/local-14.swf', 'reference/mounts/local-ui/local-15.swf'];
+const runtime = execFileSync(process.execPath, ['scripts/probe-mount-runtime.mjs', candidate, '--core=reference/chat/local-ui/local-2.swf', '--targets=' + JSON.stringify(targets), '--classes=buildings.politics.view.LevyView,fashion.FashionStoreFrame,view.ShopFrame,armyII.SkillFrame,store.StoreView1'], { encoding: 'utf8', windowsHide: true, timeout: 30000 });
+const folder = 'reference/settlement/local-ui'; mkdirSync(folder, { recursive: true });
+const bytes = readFileSync(candidate), manifest = { at: new Date().toISOString(), sourcePath: entry.sourcePath, sourceSha256: entry.sha256, sha256: sha(bytes), md5: createHash('md5').update(bytes).digest('hex').slice(8, 16), bytes: bytes.length, taxPreviewPassed: true, runtimePassed: true };
+copyFileSync(candidate, join(folder, 'local-4.swf')); copyFileSync(audit, join(folder, 'audit-4.json'));
+writeFileSync(join(folder, 'runtime.log'), baselineLog + '\n' + behavioral + '\n' + runtime);
+writeFileSync(join(folder, 'manifest.json'), JSON.stringify(manifest, null, 2)); console.log(manifest);

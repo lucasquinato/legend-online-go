@@ -1,0 +1,96 @@
+{
+  "at": "2026-10-20T05:55:17.811Z",
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\tattoo-max-2026-10-20T05-55-16.045Z",
+  "accounts": [
+    {
+      "username": "pirata_teste",
+      "userId": 1826,
+      "job": 3,
+      "icon": 3,
+      "slots": 8,
+      "positive": "intelligence",
+      "plusPerSlot": 5000,
+      "negative": "strength",
+      "minusPerSlot": 5000,
+      "engravingLevels": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "netSource": {
+        "total_intellect": 60000,
+        "total_power": -60000,
+        "total_agility": 0,
+        "total_captain": 0,
+        "total_physique": 0
+      },
+      "hero": {
+        "physicalAttack": 2431099,
+        "magicAttack": 7101486,
+        "power": 520525,
+        "intellect": 740965
+      }
+    },
+    {
+      "username": "pirata_teste_2",
+      "userId": 1827,
+      "job": 2,
+      "icon": 5,
+      "slots": 8,
+      "positive": "strength",
+      "plusPerSlot": 5000,
+      "negative": "intelligence",
+      "minusPerSlot": 5000,
+      "engravingLevels": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "netSource": {
+        "total_power": 60000,
+        "total_agility": 0,
+        "total_intellect": -60000,
+        "total_captain": 0,
+        "total_physique": 0
+      },
+      "hero": {
+        "physicalAttack": 7663719,
+        "magicAttack": 2437435,
+        "power": 739875,
+        "intellect": 521965
+      }
+    },
+    {
+      "username": "pirata_teste_3",
+      "userId": 1828,
+      "job": 1,
+      "icon": 1,
+      "slots": 8,
+      "positive": "strength",
+      "plusPerSlot": 5000,
+      "negative": "intelligence",
+      "minusPerSlot": 5000,
+      "engravingLevels": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "netSource": {
+        "total_power": 60000,
+        "total_agility": 0,
+        "total_intellect": -60000,
+        "total_captain": 0,
+        "total_physique": 0
+      },
+      "hero": {
+        "physicalAttack": 5929736,
+        "magicAttack": 2437435,
+        "power": 682115,
+        "intellect": 521965
+      }
+    }
+  ]
+}

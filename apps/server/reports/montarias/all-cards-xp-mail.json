@@ -1,0 +1,5032 @@
+{
+  "at": "2026-10-14T18:08:26.636Z",
+  "apply": true,
+  "username": "pirata_teste",
+  "userId": 1826,
+  "currentLevel": 32,
+  "currentXp": 1397058,
+  "cards": 696,
+  "mountMails": 140,
+  "xp79": 1292656921,
+  "xp80": 110946655,
+  "selection": [
+    {
+      "template": 2180003,
+      "mountId": 1003,
+      "name": "Carta da Cavalaria Noturna",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180004,
+      "mountId": 1004,
+      "name": "Carta da Cavalaria da Realeza",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180005,
+      "mountId": 1005,
+      "name": "Carta da Cavalaria do Vento",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180013,
+      "mountId": 1010,
+      "name": "Carta da Noite Mágica",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180014,
+      "mountId": 1101,
+      "name": "Carta do Coelho de Jade",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180015,
+      "mountId": 1102,
+      "name": "Carta da Fera · Imperial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180016,
+      "mountId": 1103,
+      "name": "Carta da Alpaca Demônio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180017,
+      "mountId": 1104,
+      "name": "Carta de montaria Alpaca Violento",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180018,
+      "mountId": 1105,
+      "name": "Carta do Chocobo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180021,
+      "mountId": 1107,
+      "name": "Carta de montaria do Porco Alentejano",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180022,
+      "mountId": 1108,
+      "name": "Carta do Lobo Venenoso",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180120,
+      "mountId": 1114,
+      "name": "Ancião Dourado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180032,
+      "mountId": 1119,
+      "name": "Carta do Panda Cebola",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180035,
+      "mountId": 1122,
+      "name": "Carta do Paladino Ares",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180036,
+      "mountId": 1123,
+      "name": "Carta de Montaria Fera de Tamba",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180037,
+      "mountId": 1124,
+      "name": "Carta do Rinoceronte Demoníaco",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180038,
+      "mountId": 1125,
+      "name": "Carta de Montaria Tapir",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180039,
+      "mountId": 1126,
+      "name": "Carta do Leão Glacial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180040,
+      "mountId": 1127,
+      "name": "Carta de Montaria Elefante dos Nove Dentes",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180041,
+      "mountId": 1128,
+      "name": "Carta do Guerreiro Tigre",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180042,
+      "mountId": 1129,
+      "name": "Carta do Pássaro Andarilho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180043,
+      "mountId": 1130,
+      "name": "Carta de Chamas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180045,
+      "mountId": 1131,
+      "name": "Carta de Montaria Asas Imperiais Azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180046,
+      "mountId": 1132,
+      "name": "Cartão do Cavalo Imperial Vermelho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180047,
+      "mountId": 1133,
+      "name": "Carta do Unicórnio Celestial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180048,
+      "mountId": 1134,
+      "name": "Carta de montaria Antílope Dourado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180049,
+      "mountId": 1135,
+      "name": "Carta de Montaria de guerra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180050,
+      "mountId": 1136,
+      "name": "Carta do Dragão da Masmorra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180051,
+      "mountId": 1137,
+      "name": "Carta de Griffin Jovem",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180052,
+      "mountId": 1138,
+      "name": "Carta do Leão do Gelo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180053,
+      "mountId": 1139,
+      "name": "Carta da Chama Nobre",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180054,
+      "mountId": 1140,
+      "name": "Carta do Leão da Luz",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180055,
+      "mountId": 1141,
+      "name": "Urso Glacial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180056,
+      "mountId": 1142,
+      "name": "Carta do Gato Demônico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180057,
+      "mountId": 1143,
+      "name": "Carta da Fera Auspiciosa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180059,
+      "mountId": 1145,
+      "name": "Cartão do Camelo Branco",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180060,
+      "mountId": 1146,
+      "name": "Carta do Escorpião Mágico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180061,
+      "mountId": 1147,
+      "name": "Carta do Leopando Congelado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180062,
+      "mountId": 1148,
+      "name": "Carta da Fera das Nuvens",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180063,
+      "mountId": 1149,
+      "name": "Tigre das Trevas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180096,
+      "mountId": 1150,
+      "name": "Carta da Voação Dupla",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180809,
+      "mountId": 1151,
+      "name": "Carta de Pássaro Majestoso",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180810,
+      "mountId": 1152,
+      "name": "Carta da Raposa Encantadora",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180811,
+      "mountId": 1153,
+      "name": "Carta de Caos",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180812,
+      "mountId": 1154,
+      "name": "Carta do Pato Amarelo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180006,
+      "mountId": 2002,
+      "name": "Carta da Fera Infernal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180007,
+      "mountId": 2003,
+      "name": "Carta da Sombra em Chamas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180200,
+      "mountId": 3002,
+      "name": "Cartão do Lobo de Masmorra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180009,
+      "mountId": 3003,
+      "name": "Carta do Divino · Tempestade",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180008,
+      "mountId": 3004,
+      "name": "Carta do Infernal · Eclipse",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180064,
+      "mountId": 3005,
+      "name": "Cartão do Sonho Azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180065,
+      "mountId": 3006,
+      "name": "Cartão do Burrinho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180066,
+      "mountId": 3007,
+      "name": "Carta do Nevoado Sagrado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180067,
+      "mountId": 3008,
+      "name": "Carta do Pesadelo do Dragão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180069,
+      "mountId": 3009,
+      "name": "Cavalo mecênico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180070,
+      "mountId": 3010,
+      "name": "Cartão Dragão do Relâmpago Azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180071,
+      "mountId": 3011,
+      "name": "Sr. Smart",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180072,
+      "mountId": 3012,
+      "name": "Cartão do Espectro Dourado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180073,
+      "mountId": 3013,
+      "name": "Cartão do Dragão Infernal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180074,
+      "mountId": 3014,
+      "name": "Carta do Touro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180077,
+      "mountId": 3015,
+      "name": "Cartão do Porquinho da Índia",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180078,
+      "mountId": 3016,
+      "name": "Cartão da Blindagem de Rinoceronte",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180079,
+      "mountId": 3017,
+      "name": "Cartão da Quimera",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180080,
+      "mountId": 3018,
+      "name": "Cartão do Tamanduá",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180081,
+      "mountId": 3019,
+      "name": "Leão-Coruja",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180082,
+      "mountId": 3020,
+      "name": "Carta do Unicórnio das Runas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180083,
+      "mountId": 3021,
+      "name": "Câncer",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180084,
+      "mountId": 3022,
+      "name": "Triceratops",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180085,
+      "mountId": 3023,
+      "name": "Leopardo Venenoso",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180086,
+      "mountId": 3024,
+      "name": "Carta do Dragão da Variação",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180087,
+      "mountId": 3025,
+      "name": "Cabeça de Ferro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180088,
+      "mountId": 3026,
+      "name": "Carta Tarântula Orquídea",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180089,
+      "mountId": 3027,
+      "name": "Tartaruga Imperial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180090,
+      "mountId": 3028,
+      "name": "Carta de Montaria Cavalo Ósseo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180091,
+      "mountId": 3029,
+      "name": "Senhora Bolha",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180092,
+      "mountId": 3030,
+      "name": "Besouro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180093,
+      "mountId": 3031,
+      "name": "Carta do Escorpião",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180094,
+      "mountId": 3032,
+      "name": "Carta do Lobo de Aço",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180095,
+      "mountId": 3033,
+      "name": "Husky Siberiano",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180097,
+      "mountId": 3034,
+      "name": "Zebra da Infantaria",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180098,
+      "mountId": 3035,
+      "name": "Camaleão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180400,
+      "mountId": 3037,
+      "name": "Carta do Cão Zumbi",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180401,
+      "mountId": 3038,
+      "name": "Áries",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180402,
+      "mountId": 3039,
+      "name": "Carta da Raposa Branca",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180403,
+      "mountId": 3040,
+      "name": "Peixe Dourado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180404,
+      "mountId": 3041,
+      "name": "Cartão de Enke 2000",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180405,
+      "mountId": 3042,
+      "name": "Carta do Protetor Shambala",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180406,
+      "mountId": 3043,
+      "name": "Carta do Javali Dentuço",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180407,
+      "mountId": 3044,
+      "name": "Carta do Áries",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180408,
+      "mountId": 3045,
+      "name": "Carta do Potro de Lava",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180410,
+      "mountId": 3047,
+      "name": "Carta do Hipopótamo Ágil",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180411,
+      "mountId": 3048,
+      "name": "Carta de Aranha de Vapor",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180412,
+      "mountId": 3049,
+      "name": "Carta da Vontade Divina",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180413,
+      "mountId": 3050,
+      "name": "Cartão da Besta Mitológica",
+      "permanent": false,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180414,
+      "mountId": 3051,
+      "name": "Carta de Cavalo Zumbi",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180415,
+      "mountId": 3052,
+      "name": "Cartão da Águia Guardiã",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180418,
+      "mountId": 3055,
+      "name": "Carta de Leão Armado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180427,
+      "mountId": 3063,
+      "name": "Carta de Pangolim",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180419,
+      "mountId": 3066,
+      "name": "Carta do Antílope Demoníaco",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180430,
+      "mountId": 3067,
+      "name": "Carta do Leão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180431,
+      "mountId": 3068,
+      "name": "Carta do Cavalo das Lavas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180432,
+      "mountId": 3069,
+      "name": "Carta da Rena dos Sonhos",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180433,
+      "mountId": 3070,
+      "name": "Carta de Aeronave de Goblin",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180434,
+      "mountId": 3071,
+      "name": "Carta do Peixe Roxo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180436,
+      "mountId": 3073,
+      "name": "Carta da Fera das Nuvens",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180437,
+      "mountId": 3074,
+      "name": "Carta do Furão de Natal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180439,
+      "mountId": 3076,
+      "name": "Carta da Libra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180440,
+      "mountId": 3077,
+      "name": "Carta do Peixe Diabo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180441,
+      "mountId": 3078,
+      "name": "Carta do Touro Legal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180442,
+      "mountId": 3079,
+      "name": "Cartão da Baleia Azul Profunda",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180443,
+      "mountId": 3080,
+      "name": "Carta do Peru do Samba",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180444,
+      "mountId": 3081,
+      "name": "Carta do Homem-Árvore Violento",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180446,
+      "mountId": 3083,
+      "name": "Carta de Montaria Capivara",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180449,
+      "mountId": 3086,
+      "name": "Cartão de Ewing",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180450,
+      "mountId": 3087,
+      "name": "Cartão de Caça",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180452,
+      "mountId": 3089,
+      "name": "Carta da Rena Santa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180453,
+      "mountId": 3090,
+      "name": "Carta de Montaria do Aquário",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180456,
+      "mountId": 3093,
+      "name": "Carta do Caracal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180457,
+      "mountId": 3094,
+      "name": "Carta do Panda Vermelho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180184,
+      "mountId": 3222,
+      "name": "Carta do Dragão de 3 Ângulos",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180185,
+      "mountId": 3223,
+      "name": "Cavalo das Rosas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180195,
+      "mountId": 3333,
+      "name": "Carta do Husky",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180028,
+      "mountId": 7002,
+      "name": "Carta do Bestial · Espírito Sombrio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180801,
+      "mountId": 7003,
+      "name": "Cartão do Hipopótamo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180802,
+      "mountId": 7004,
+      "name": "Cartão do Escorpião-Leão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180805,
+      "mountId": 8005,
+      "name": "Cartão da Rena de Natal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180806,
+      "mountId": 8006,
+      "name": "Carta Salamandra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180807,
+      "mountId": 8007,
+      "name": "Dragão de 3 cabeças",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180808,
+      "mountId": 8008,
+      "name": "Carta Gato Azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180112,
+      "mountId": 8010,
+      "name": "Carta de montaria Pioneiro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180114,
+      "mountId": 8012,
+      "name": "Carta do Unicórnio Espectral Azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180300,
+      "mountId": 8013,
+      "name": "Cartão de Moto",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180301,
+      "mountId": 8014,
+      "name": "Harley Cross",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180302,
+      "mountId": 8015,
+      "name": "Carta Kirin",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180303,
+      "mountId": 8016,
+      "name": "Carta do Leão Preto",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180304,
+      "mountId": 8017,
+      "name": "Dragão do Mundo Antigo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180305,
+      "mountId": 8018,
+      "name": "Carta do Escorpião das Gemas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180306,
+      "mountId": 8019,
+      "name": "Leão Sanguinário",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180815,
+      "mountId": 8020,
+      "name": "Carta do Coelho da Páscoa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180816,
+      "mountId": 8021,
+      "name": "Carta da Aeronave",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180817,
+      "mountId": 8022,
+      "name": "Cartão Osso do Dragrão ",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180818,
+      "mountId": 8023,
+      "name": "Carta Dragão-Peixe",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180819,
+      "mountId": 8024,
+      "name": "Carta de Dragão Azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180821,
+      "mountId": 8026,
+      "name": "Carta do Foguete",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180822,
+      "mountId": 8027,
+      "name": "Carta de Kirin das Nuvens",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180308,
+      "mountId": 8029,
+      "name": "Carta de Nether",
+      "permanent": false,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2181002,
+      "mountId": 8030,
+      "name": "Carta de Siertan",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2181003,
+      "mountId": 8031,
+      "name": "Griffin Fantasma",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2181007,
+      "mountId": 8035,
+      "name": "Carta do Tricerátopo Antigo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2181008,
+      "mountId": 8036,
+      "name": "Carta de Aranha Roxa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2181009,
+      "mountId": 8037,
+      "name": "Cartão do Burro Entregador",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2181011,
+      "mountId": 8039,
+      "name": "Cartão do Cão Infernal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2181012,
+      "mountId": 8040,
+      "name": "Carta do Smilodon",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180115,
+      "mountId": 8042,
+      "name": "Carta do Cavalo Fantasma",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180823,
+      "mountId": 8044,
+      "name": "Carta do Dragão Chinês",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180824,
+      "mountId": 8045,
+      "name": "Carta da Vassoura Mágica",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180825,
+      "mountId": 8046,
+      "name": "Carta de Montaria Tigre Voador",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180826,
+      "mountId": 8047,
+      "name": "Carta da Tartaruga",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180827,
+      "mountId": 8048,
+      "name": "Carta do Pavão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180828,
+      "mountId": 8049,
+      "name": "Águia Bicéfala",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180829,
+      "mountId": 8050,
+      "name": "Carta do Monstro da Justiça",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180831,
+      "mountId": 8052,
+      "name": "Carta do Urso Voador de Natal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180832,
+      "mountId": 8053,
+      "name": "Carta da Touro da Prisão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180833,
+      "mountId": 8054,
+      "name": "Carta do Capricórnio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180834,
+      "mountId": 8055,
+      "name": "Carta do Esquilo-Choque",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180835,
+      "mountId": 8056,
+      "name": "Carta da Bicicleta",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180836,
+      "mountId": 8057,
+      "name": "Carta da Fera Florestal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180837,
+      "mountId": 8058,
+      "name": "Carta do Limpa-Neve",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180838,
+      "mountId": 8059,
+      "name": "Carta Mecânica Tempestade",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180839,
+      "mountId": 8060,
+      "name": "Carta da Banana Voadora",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180840,
+      "mountId": 8061,
+      "name": "Carta do Cavalo de Guerra Preto",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180841,
+      "mountId": 8062,
+      "name": "Carta do Dragão da Prisão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180843,
+      "mountId": 8064,
+      "name": "Carta do Lynx",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180844,
+      "mountId": 8065,
+      "name": "Carta de Montaria Crocodilo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180845,
+      "mountId": 8066,
+      "name": "Carta do Dragão Quinta-neto",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180846,
+      "mountId": 8067,
+      "name": "Carta do Pato de Fero",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180847,
+      "mountId": 8068,
+      "name": "Carta do Lobo Cavalheiro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180849,
+      "mountId": 8070,
+      "name": "Carta de Montaria Cavalo Marinho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180850,
+      "mountId": 8071,
+      "name": "Carta do Grande Sapo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180851,
+      "mountId": 8072,
+      "name": "Carta do Esquilo Voador",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180852,
+      "mountId": 8073,
+      "name": "Carta do Tubarão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180853,
+      "mountId": 8074,
+      "name": "Carta de Tamboril",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180854,
+      "mountId": 8075,
+      "name": "Carto Grilo de Ouro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180856,
+      "mountId": 8077,
+      "name": "Carta de Montaria Arara",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180857,
+      "mountId": 8078,
+      "name": "Carta de Kirin Aquático",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180858,
+      "mountId": 8079,
+      "name": "Carta do Cavalo do Carnaval do Céu",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180862,
+      "mountId": 8083,
+      "name": "Carta do Pato de Mandarino",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180865,
+      "mountId": 8086,
+      "name": "Carta da Borboleta-Luz",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180866,
+      "mountId": 8087,
+      "name": "Carta da Ave Encantada",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180868,
+      "mountId": 8089,
+      "name": "Carta de Montaria Lamassu",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180869,
+      "mountId": 8090,
+      "name": "Carta do Morcego Gótico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180870,
+      "mountId": 8091,
+      "name": "Carta da Sombra Maligna",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180872,
+      "mountId": 8093,
+      "name": "Carta de Montaria Lago Lunar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180873,
+      "mountId": 8094,
+      "name": "Carta do Glazer",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180874,
+      "mountId": 8095,
+      "name": "Carta da Coruja Mutante",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180875,
+      "mountId": 8096,
+      "name": "Carta Mota das nuvens",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180880,
+      "mountId": 8101,
+      "name": "Carta do Dragão de Gelo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180881,
+      "mountId": 8102,
+      "name": "Carta da Abóbora",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180883,
+      "mountId": 8104,
+      "name": "Carta do Guindaste",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180884,
+      "mountId": 8105,
+      "name": "Carta do Pássaro Estátua",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180885,
+      "mountId": 8106,
+      "name": "Carta da Juba",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180886,
+      "mountId": 8107,
+      "name": "Carta do Camarão-Ovo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180888,
+      "mountId": 8109,
+      "name": "Carta de Montaria de Peru",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180889,
+      "mountId": 8110,
+      "name": "Carta do Coelho de Alice",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180890,
+      "mountId": 8111,
+      "name": "Carta Rei Carangueijo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180891,
+      "mountId": 8112,
+      "name": "Carta de Montaria Besta Lanly",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180892,
+      "mountId": 8113,
+      "name": "Carta do Trenó de Natal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180894,
+      "mountId": 8115,
+      "name": "Carta Gato da Lua",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180895,
+      "mountId": 8116,
+      "name": "Carta do Dragão Sagrado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180896,
+      "mountId": 8117,
+      "name": "Carta do Rei-Serpente",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180897,
+      "mountId": 8118,
+      "name": "Carta do Besouro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180898,
+      "mountId": 8119,
+      "name": "Carta Gato-Águia",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180901,
+      "mountId": 8122,
+      "name": "Carta do Cervo Mágico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180902,
+      "mountId": 8123,
+      "name": "Carta do Dragão Gelo-Fogo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180903,
+      "mountId": 8124,
+      "name": "Carta da Cobra Gancho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180904,
+      "mountId": 8125,
+      "name": "Carta de Montaria Gugu",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180905,
+      "mountId": 8126,
+      "name": "Carta de Montaria Cavalo Zumbi",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180907,
+      "mountId": 8128,
+      "name": "Carta do Ramo de Ameixa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180909,
+      "mountId": 8130,
+      "name": "Carta do Baloiço",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180910,
+      "mountId": 8131,
+      "name": "Carta do Híbrido",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180915,
+      "mountId": 8136,
+      "name": "Carta da Abelha do Arco-Íris",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180920,
+      "mountId": 8141,
+      "name": "Carta Rã de Ouro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180922,
+      "mountId": 8143,
+      "name": "Carta do Coelho da Páscoa 2017",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180923,
+      "mountId": 8144,
+      "name": "Carta da Fera Suzaki",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180925,
+      "mountId": 8146,
+      "name": "Carta do Chama Viva",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180927,
+      "mountId": 8148,
+      "name": "Carta Jade-Chamas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180928,
+      "mountId": 8149,
+      "name": "Carta Guarda-Costas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180930,
+      "mountId": 8151,
+      "name": "Carta do Javali Selvagem",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180933,
+      "mountId": 8154,
+      "name": "Carta Polvo Paul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180934,
+      "mountId": 8155,
+      "name": "Carta Alienígena",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180938,
+      "mountId": 8159,
+      "name": "Carta Anubis",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180940,
+      "mountId": 8161,
+      "name": "Carta do Poderoso Pintinho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180941,
+      "mountId": 8162,
+      "name": "Carta Carruagem do Sol",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180942,
+      "mountId": 8163,
+      "name": "Carta Nave Espacial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180943,
+      "mountId": 8164,
+      "name": "Carta do Navio dos Piratas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180944,
+      "mountId": 8165,
+      "name": "Carta da Aeronave Pixel",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180945,
+      "mountId": 8166,
+      "name": "Carta do Golfinho Rosa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180946,
+      "mountId": 8167,
+      "name": "Carta Águia-Leão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180947,
+      "mountId": 8168,
+      "name": "Carta de Maripoza",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180948,
+      "mountId": 8169,
+      "name": "Carta do Dragão Aço-Estrela",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180949,
+      "mountId": 8170,
+      "name": "Montaria de Dragão de Vaso",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180950,
+      "mountId": 8171,
+      "name": "Carta de Montaria Dragão-Elfo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180951,
+      "mountId": 8172,
+      "name": "Carta Tarantula Vermelha",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180952,
+      "mountId": 8173,
+      "name": "Carta de Lagartixa Trovoada",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180953,
+      "mountId": 8174,
+      "name": "Cartão de Corgi",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180954,
+      "mountId": 8175,
+      "name": "Cartão de Raposa de fogo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180955,
+      "mountId": 8176,
+      "name": "Cartão de Rato Mágico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180956,
+      "mountId": 8177,
+      "name": "Cartão de Lontra de mar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180957,
+      "mountId": 8178,
+      "name": "Cartão de Flamingo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180958,
+      "mountId": 8179,
+      "name": "Crisântemo rasgado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180959,
+      "mountId": 8180,
+      "name": "Carta do Cão Pérola",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180960,
+      "mountId": 8181,
+      "name": "Carta de Unicórnio do vento",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180961,
+      "mountId": 8182,
+      "name": "Carta de Pequeno dinossauro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180962,
+      "mountId": 8183,
+      "name": "Carta de Elementos de fogo violentos",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180963,
+      "mountId": 8184,
+      "name": "Carta de Carro de abobora do Vaticano",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180965,
+      "mountId": 8186,
+      "name": "Carta de Tomahawk moto",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180966,
+      "mountId": 8187,
+      "name": "Carta de Tubarão azul do diabo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180967,
+      "mountId": 8188,
+      "name": "Carta de Montária de Ação de Graças",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180968,
+      "mountId": 8189,
+      "name": "Carta de Leão-marinho ancestral",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180969,
+      "mountId": 8190,
+      "name": "Carta de Leão de pedra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180970,
+      "mountId": 8191,
+      "name": "Carta da Liteira Espectral",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180971,
+      "mountId": 8192,
+      "name": "Carta do Boneco de Neve",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180972,
+      "mountId": 8193,
+      "name": "Carta do Míssil Cor-de-rosa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180973,
+      "mountId": 8194,
+      "name": "Carta do Pinguim de Férias",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180975,
+      "mountId": 8196,
+      "name": "Carta do Tigre das Neves",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180976,
+      "mountId": 8197,
+      "name": "Carta da Besta Gladiadora",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180977,
+      "mountId": 8198,
+      "name": "Carta de Alma da Cachoeira",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180978,
+      "mountId": 8199,
+      "name": "Carta do Gato Fantástico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180979,
+      "mountId": 8200,
+      "name": "Carta de Antílope do crânio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180980,
+      "mountId": 8201,
+      "name": "Carta de Bomba",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180981,
+      "mountId": 8202,
+      "name": "Carta de Cão de rena",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180983,
+      "mountId": 8204,
+      "name": "Carta da Penas Brancas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180984,
+      "mountId": 8205,
+      "name": "Carta do Cão Auspicioso",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180985,
+      "mountId": 8206,
+      "name": "Carta da Montaria do Amor 2018",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180986,
+      "mountId": 8207,
+      "name": "Carta do Fogo Dourado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180987,
+      "mountId": 8208,
+      "name": "Sombrinha Monstruosa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180988,
+      "mountId": 8209,
+      "name": "Urso-de-óculos",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180989,
+      "mountId": 8210,
+      "name": "Riquexó do Macaco",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180990,
+      "mountId": 8211,
+      "name": "Andorinha-dáurica",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180991,
+      "mountId": 8212,
+      "name": "Imperador-roxo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180992,
+      "mountId": 8213,
+      "name": "Gárgula",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180993,
+      "mountId": 8214,
+      "name": "Elemento Ferro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180994,
+      "mountId": 8215,
+      "name": "Monociclo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180995,
+      "mountId": 8216,
+      "name": "Carta do Behemoth",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180996,
+      "mountId": 8217,
+      "name": "Carta do Dragão de Ouro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180997,
+      "mountId": 8218,
+      "name": "Carta do Espírito do Relâmpago",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180998,
+      "mountId": 8219,
+      "name": "Carta do 4x4 Todo o Terreno",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2180999,
+      "mountId": 8220,
+      "name": "Carta do Super Urso Polar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183001,
+      "mountId": 8221,
+      "name": "Carta de Urso de Metal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183002,
+      "mountId": 8222,
+      "name": "Carta do Pato Voador",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183003,
+      "mountId": 8223,
+      "name": "Carta de Homem-peixe Rugido",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183004,
+      "mountId": 8224,
+      "name": "Carta de Coelho de Orelhas grandes",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183005,
+      "mountId": 8225,
+      "name": "Cata do dragão  voador de três cabeças",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183006,
+      "mountId": 8226,
+      "name": "Carta carrossel",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183007,
+      "mountId": 8227,
+      "name": "Carta de Dinossauro Inflável",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183008,
+      "mountId": 8228,
+      "name": "Carta do Mosassauro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183009,
+      "mountId": 8229,
+      "name": "Carta do Avião de Papel",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183010,
+      "mountId": 8230,
+      "name": "Cartão da Fera Uda",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183011,
+      "mountId": 8231,
+      "name": "Cartão do Dragão do fogo da estrela",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183012,
+      "mountId": 8232,
+      "name": "Carta de Papagaio de lava",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183013,
+      "mountId": 8233,
+      "name": "Carta do Golem Totem",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183014,
+      "mountId": 8234,
+      "name": "Carta do Centauro Sensível",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183015,
+      "mountId": 8235,
+      "name": "Carta da Mini Nave Espacial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183016,
+      "mountId": 8236,
+      "name": "Carta do Louva-a-deus Mecânico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183017,
+      "mountId": 8237,
+      "name": "Carta do Dragão do Penhasco Verde",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183018,
+      "mountId": 8238,
+      "name": "Carta do Elemento Ar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183019,
+      "mountId": 8239,
+      "name": "Carta do Verão Fresco",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183020,
+      "mountId": 8240,
+      "name": "Carta do Dragão das Sombras",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183021,
+      "mountId": 8241,
+      "name": "Carta da Gatinha Rosa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183022,
+      "mountId": 8242,
+      "name": "Carta da Rena de Grande Chifres",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183023,
+      "mountId": 8243,
+      "name": "Carta do Lagarto Vermelho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183024,
+      "mountId": 8244,
+      "name": "Carta do Sacerdote Tau",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183025,
+      "mountId": 8245,
+      "name": "Carta da Besta Pisoteadora",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183026,
+      "mountId": 8246,
+      "name": "Carta do Coelho Lunar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183027,
+      "mountId": 8247,
+      "name": "Carta de Camelo do deserto",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183028,
+      "mountId": 8248,
+      "name": "Carta de Monstro do Deserto",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183029,
+      "mountId": 8249,
+      "name": "Carta de Foca das Nuvens",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183030,
+      "mountId": 8250,
+      "name": "Carta de Essarian",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183031,
+      "mountId": 8251,
+      "name": "Carta de Tartaruga Assassina",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183032,
+      "mountId": 8252,
+      "name": "Carta de Peixe Sábio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183033,
+      "mountId": 8253,
+      "name": "Carta de Besta Zumbi",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183034,
+      "mountId": 8254,
+      "name": "Carta de Edmundraptor",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183035,
+      "mountId": 8255,
+      "name": "Carta de Protetor",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183036,
+      "mountId": 8256,
+      "name": "Carta de Gatoclope",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183037,
+      "mountId": 8257,
+      "name": "Carta de Besta Terremoto",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183038,
+      "mountId": 8258,
+      "name": "Carta de Sir Cão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183039,
+      "mountId": 8259,
+      "name": "Carta de Canguru da Neve",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183040,
+      "mountId": 8260,
+      "name": "Carta de Lâmpada Fantasma",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183041,
+      "mountId": 8261,
+      "name": "Carta de Tigráguia",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183042,
+      "mountId": 8262,
+      "name": "Carta de Besta Voadora",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183043,
+      "mountId": 8263,
+      "name": "Carta de Dragão Orc",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183044,
+      "mountId": 8264,
+      "name": "Carta de Dragão Mórbido",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183045,
+      "mountId": 8265,
+      "name": "Carta de Grinch",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183046,
+      "mountId": 8266,
+      "name": "Carta de Palco Móvel",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183047,
+      "mountId": 8267,
+      "name": "Carta de Morcego da Luz",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183048,
+      "mountId": 8268,
+      "name": "Carta de Veneno Mortal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183049,
+      "mountId": 8269,
+      "name": "Carta de Coruja da Neve",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183050,
+      "mountId": 8270,
+      "name": "Carta de Réptil do Gelo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183051,
+      "mountId": 8271,
+      "name": "Carta de Elefante de Cristal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183052,
+      "mountId": 8272,
+      "name": "Carta de Hellboy",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183053,
+      "mountId": 8273,
+      "name": "Carta de Argor Confuso",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183054,
+      "mountId": 8274,
+      "name": "Carta de Pinguim Imperial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183055,
+      "mountId": 8275,
+      "name": "Carta do Dragão de Lava",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183056,
+      "mountId": 8276,
+      "name": "Carta de Porco dourado da sorte",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183057,
+      "mountId": 8277,
+      "name": "Carta de Pega rosa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183058,
+      "mountId": 8278,
+      "name": "Carta da Vespa Mecânica",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183059,
+      "mountId": 8279,
+      "name": "Carta de Ogro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183060,
+      "mountId": 8280,
+      "name": "Carta de Ovelha Espacial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183061,
+      "mountId": 8281,
+      "name": "Carta de Besta de Ferro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183062,
+      "mountId": 8282,
+      "name": "Carta do Dragão Duas Cabeças",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183063,
+      "mountId": 8283,
+      "name": "Cartão de Louva-a-deus Furioso",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183064,
+      "mountId": 8284,
+      "name": "Cartão de Devorador de Luz",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183065,
+      "mountId": 8285,
+      "name": "Cartão de Carpa Dourada",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183066,
+      "mountId": 8286,
+      "name": "Carta do Balão Celeste",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183067,
+      "mountId": 8287,
+      "name": "Carta da Besta Alien",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183068,
+      "mountId": 8288,
+      "name": "Carta do Misterioso Alce Selvagem",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183069,
+      "mountId": 8289,
+      "name": "Carta do Gatinho Gorducho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183070,
+      "mountId": 8290,
+      "name": "Carta de Coelho Verdejante",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183071,
+      "mountId": 8291,
+      "name": "Carta de Águia do Dragão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183072,
+      "mountId": 8292,
+      "name": "Carta de Besta Onírica",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183073,
+      "mountId": 8293,
+      "name": "Carta da Libélula Verde",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183074,
+      "mountId": 8294,
+      "name": "Carta de Raposa de nove caudas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183075,
+      "mountId": 8295,
+      "name": "Carta de Carro de equilíbrio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183076,
+      "mountId": 8296,
+      "name": "Carta de Cavalo Espacial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183077,
+      "mountId": 8297,
+      "name": "Carta do Mini Carro Esportivo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183078,
+      "mountId": 8298,
+      "name": "Carta do Dragão Gigante de Lava",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183079,
+      "mountId": 8299,
+      "name": "Carta do Dragão do Céu Partido",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183080,
+      "mountId": 8300,
+      "name": "Carta do Dragão do Céu Partido (Dourado)",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183081,
+      "mountId": 8301,
+      "name": "Carta da Espada da Nuvem Celeste",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183082,
+      "mountId": 8302,
+      "name": "Carta da Carruagem Romântica",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183083,
+      "mountId": 8303,
+      "name": "Carta de Multi-asas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183084,
+      "mountId": 8304,
+      "name": "Carta do Rei da Majestade",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183085,
+      "mountId": 8305,
+      "name": "Carta do Gêmeos de Ouro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183086,
+      "mountId": 8306,
+      "name": "Carta de Deus da lâmpada",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183087,
+      "mountId": 8307,
+      "name": "Carta do Objeto Aquoso",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183089,
+      "mountId": 8309,
+      "name": "Carta do Urso Carinhoso",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183090,
+      "mountId": 8310,
+      "name": "Cara de Gato-Cobra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183091,
+      "mountId": 8311,
+      "name": "Carta de Pesadelo de Akasha",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183092,
+      "mountId": 8312,
+      "name": "Carta de Explorador Metálico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183093,
+      "mountId": 8313,
+      "name": "Carta de Raposa Alada",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183094,
+      "mountId": 8314,
+      "name": "Carta Interestelar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183096,
+      "mountId": 8316,
+      "name": "Carta de Foice da Morte",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183097,
+      "mountId": 8317,
+      "name": "Carta de Dragão Ilusório",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183098,
+      "mountId": 8318,
+      "name": "Carta do Fantasma Vagante",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183099,
+      "mountId": 8319,
+      "name": "Carta de Chefe da Tribo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183100,
+      "mountId": 8320,
+      "name": "Carta de Almofada ou Cavalo Zumbi",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183101,
+      "mountId": 8321,
+      "name": "Carta do Grifo Perfeito",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183102,
+      "mountId": 8322,
+      "name": "Carta do Trono do Inverno",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183103,
+      "mountId": 8323,
+      "name": "Carta do Não é tampa de bueiro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183104,
+      "mountId": 8324,
+      "name": "Carta de Espírito Noturno",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183109,
+      "mountId": 8329,
+      "name": "Carta do Carro do duende azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183110,
+      "mountId": 8330,
+      "name": "Carta da Nuvem fantasma escarlate",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183111,
+      "mountId": 8331,
+      "name": "Carta do Sino Nefasto",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183112,
+      "mountId": 8332,
+      "name": "Carta do Elfo Roedor",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183113,
+      "mountId": 8333,
+      "name": "Carta do Charme Noturno",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183114,
+      "mountId": 8334,
+      "name": "Carta do Centauro DJ",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183115,
+      "mountId": 8335,
+      "name": "Carta do Carro-bola de Luz",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183116,
+      "mountId": 8336,
+      "name": "Carta Dragão perna-curta",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183118,
+      "mountId": 8338,
+      "name": "Carta do Dragão da Floresta",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183120,
+      "mountId": 8340,
+      "name": "Carta da Nave Interestelar de Ouro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183121,
+      "mountId": 8341,
+      "name": "Carta Lobo do demônio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183122,
+      "mountId": 8342,
+      "name": "Carta Chapéu de bruxa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183123,
+      "mountId": 8343,
+      "name": "Carta Rei da selva",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183124,
+      "mountId": 8344,
+      "name": "Carta da Besta Selvagem",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183126,
+      "mountId": 8346,
+      "name": "Carta da Anêmona",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183127,
+      "mountId": 8347,
+      "name": "Carta do Guardião Azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183128,
+      "mountId": 8348,
+      "name": "Carta do Cavalo de Madeira",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183129,
+      "mountId": 8349,
+      "name": "Carta do Angmar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183130,
+      "mountId": 8350,
+      "name": "Carta do Vento do Norte",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183131,
+      "mountId": 8351,
+      "name": "Carta do Cavalo de Guerra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183132,
+      "mountId": 8352,
+      "name": "Carta do Sonic",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183133,
+      "mountId": 8353,
+      "name": "Carta do Fogo do Inferno",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183134,
+      "mountId": 8354,
+      "name": "Carta do Dragão da Noite",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183135,
+      "mountId": 8355,
+      "name": "Carta do Gato Azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183136,
+      "mountId": 8356,
+      "name": "Carta do Tigre Fantasma",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183137,
+      "mountId": 8357,
+      "name": "Carta da Coruja Azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183138,
+      "mountId": 8358,
+      "name": "Carta do Pânico Estrelar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183139,
+      "mountId": 8359,
+      "name": "Carta do Dragão Chama Negra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183140,
+      "mountId": 8360,
+      "name": "Carta do Reksai",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183141,
+      "mountId": 8361,
+      "name": "Carta da Raposa Rosa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183142,
+      "mountId": 8362,
+      "name": "Carta do Elemento Mar de Fúria",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183143,
+      "mountId": 8363,
+      "name": "Carta do Varredor",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183144,
+      "mountId": 8364,
+      "name": "Carta Mecha de Guerra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183145,
+      "mountId": 8365,
+      "name": "Carta do Morcego do Castelo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183146,
+      "mountId": 8366,
+      "name": "Carta da Carruagem Negra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183147,
+      "mountId": 8367,
+      "name": "Carta da Raia Mágica",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183148,
+      "mountId": 8368,
+      "name": "Carta do Dragão Elfo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183149,
+      "mountId": 8369,
+      "name": "Carta do Gato Tapete Voador",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183150,
+      "mountId": 8370,
+      "name": "Carta do Balanço da Neve",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183151,
+      "mountId": 8371,
+      "name": "Carta do Fênix de Gelo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183152,
+      "mountId": 8372,
+      "name": "Carta do Druida da Neve",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183153,
+      "mountId": 8373,
+      "name": "Carta do Chalé de Natal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183154,
+      "mountId": 8374,
+      "name": "Carta do Fantasy Dragon",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183155,
+      "mountId": 8375,
+      "name": "Carta da Força de Inverno",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183156,
+      "mountId": 8376,
+      "name": "Carta da Fé do Arcanjo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183157,
+      "mountId": 8377,
+      "name": "Carta do Thomas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183158,
+      "mountId": 8378,
+      "name": "Carta de Swarovski",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183159,
+      "mountId": 8379,
+      "name": "Carta da Pitaia",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183160,
+      "mountId": 8380,
+      "name": "Carta do Elemento Morte",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183161,
+      "mountId": 8381,
+      "name": "Carta da Grinalda Rosa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183162,
+      "mountId": 8382,
+      "name": "Carta do Andante da Floresta",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183163,
+      "mountId": 8383,
+      "name": "Carta do Pesadelo Puro Sangue",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183164,
+      "mountId": 8384,
+      "name": "Carta da Cenoura",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183165,
+      "mountId": 8385,
+      "name": "Carta do Avatar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183166,
+      "mountId": 8386,
+      "name": "Carta do Coração de Lava",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183167,
+      "mountId": 8387,
+      "name": "Carta do Mercúrio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183168,
+      "mountId": 8388,
+      "name": "Carta do Carro Alegórico de Páscoa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183169,
+      "mountId": 8389,
+      "name": "Carta do Motouro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183170,
+      "mountId": 8390,
+      "name": "Carta do Rocha Negra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183171,
+      "mountId": 8391,
+      "name": "Carta do Caranguejo da Lava",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183172,
+      "mountId": 8392,
+      "name": "Carta do Orvalho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183173,
+      "mountId": 8393,
+      "name": "Carta do Gatufo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183174,
+      "mountId": 8394,
+      "name": "Carta do Louva-a-Deus Negro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183175,
+      "mountId": 8395,
+      "name": "Carta do Dragão de Pixel",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183176,
+      "mountId": 8396,
+      "name": "Carta do Unicórnio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183177,
+      "mountId": 8397,
+      "name": "Carta do Dragão de Mithril",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183178,
+      "mountId": 8398,
+      "name": "Carta do Foguinho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183179,
+      "mountId": 8399,
+      "name": "Carta do Dragão do Poder",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183180,
+      "mountId": 8400,
+      "name": "Carta do Trombado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183181,
+      "mountId": 8401,
+      "name": "Carta do Cavalo-Balão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183182,
+      "mountId": 8402,
+      "name": "Carta da Ossada Glacial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183184,
+      "mountId": 8404,
+      "name": "Carta da Montaria do 9º Aniversário",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183185,
+      "mountId": 8405,
+      "name": "Carta do Coração Valente",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183186,
+      "mountId": 8406,
+      "name": "Carta do Brasa-Móvel",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183187,
+      "mountId": 8407,
+      "name": "Carta do Guardião Arcano",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183188,
+      "mountId": 8408,
+      "name": "Carta do Corvo Arcano",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183189,
+      "mountId": 8409,
+      "name": "Carta do Leviatã",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183190,
+      "mountId": 8410,
+      "name": "Carta do Morcego Estátua",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183191,
+      "mountId": 8411,
+      "name": "Carta do Esquilo Viajante",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183192,
+      "mountId": 8412,
+      "name": "Carta do Porteiro do Castelo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183193,
+      "mountId": 8413,
+      "name": "Carta da Abóbora Lanterna",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183194,
+      "mountId": 8414,
+      "name": "Carta da Sela do Corcel",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183195,
+      "mountId": 8415,
+      "name": "Carta do Peru de Ação de Graças 2021",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183196,
+      "mountId": 8416,
+      "name": "Carta da Videira Milenar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183197,
+      "mountId": 8417,
+      "name": "Carta do Cisne Boia",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183198,
+      "mountId": 8418,
+      "name": "Carta da Lontra-Marinha Comilona",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183199,
+      "mountId": 8419,
+      "name": "Carta do Mano Polvo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183200,
+      "mountId": 8420,
+      "name": "Carta do Foguete Mágico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183201,
+      "mountId": 8421,
+      "name": "Carta da Gatinha de Natal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183202,
+      "mountId": 8422,
+      "name": "Carta do Estripador",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183203,
+      "mountId": 8423,
+      "name": "Carta da Raposa Fada de Nove Caudas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183204,
+      "mountId": 8424,
+      "name": "Carta do Inquisidor",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183205,
+      "mountId": 8425,
+      "name": "Carta do Voador Prateado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183206,
+      "mountId": 8426,
+      "name": "Carta do Punho Pesado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183207,
+      "mountId": 8427,
+      "name": "Carta do Tom",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183208,
+      "mountId": 8428,
+      "name": "Carta da Magia Verde",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183209,
+      "mountId": 8429,
+      "name": "Carta da Nuvem Fantasmagórica",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183210,
+      "mountId": 8430,
+      "name": "Carta da Besta Ametista",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183211,
+      "mountId": 8431,
+      "name": "Carta do Mensageiro da Floresta",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183212,
+      "mountId": 8432,
+      "name": "Carta do Ovo de Páscoa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183213,
+      "mountId": 8433,
+      "name": "Carta da Sombra do Vazio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183214,
+      "mountId": 8434,
+      "name": "Carta do Touro Diabólico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183215,
+      "mountId": 8435,
+      "name": "Carta do Enviado das Sombras",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183216,
+      "mountId": 8436,
+      "name": "Carta do Olho do Inferno",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183217,
+      "mountId": 8437,
+      "name": "Carta do Elfo Marinho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183218,
+      "mountId": 8438,
+      "name": "Carta do Corpo Motorizado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183219,
+      "mountId": 8439,
+      "name": "Carta Dentes de Sabre",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183220,
+      "mountId": 8440,
+      "name": "Carta da Besta do Vazio Partido",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183221,
+      "mountId": 8441,
+      "name": "Carta do Balão de Ar Quente",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183222,
+      "mountId": 8442,
+      "name": "Carta do Pinguim Cavalheiro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183223,
+      "mountId": 8443,
+      "name": "Carta do Dinossauro Primaveril",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183224,
+      "mountId": 8444,
+      "name": "Carta do Ciclone de Rua",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183225,
+      "mountId": 8445,
+      "name": "Carta da Pega Azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183226,
+      "mountId": 8446,
+      "name": "Carta do Thaurissan",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183227,
+      "mountId": 8447,
+      "name": "Carta do Golfinho Amarelo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183228,
+      "mountId": 8448,
+      "name": "Carta do Trovão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183229,
+      "mountId": 8449,
+      "name": "Carta do Panda Fofinho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183230,
+      "mountId": 8450,
+      "name": "Carta do Dragão de Gelo Abissal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183231,
+      "mountId": 8451,
+      "name": "Carta do Pacto Futurista",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183232,
+      "mountId": 8452,
+      "name": "Carta do Iate Praiano",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183233,
+      "mountId": 8453,
+      "name": "Carta de Levitra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183234,
+      "mountId": 8454,
+      "name": "Carta do Campsis",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183235,
+      "mountId": 8455,
+      "name": "Carta do Urso de Morango",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183236,
+      "mountId": 8456,
+      "name": "Carta do Rato Voador",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183237,
+      "mountId": 8457,
+      "name": "Carta da Fênix",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183238,
+      "mountId": 8458,
+      "name": "Carta do Livro Mágico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183249,
+      "mountId": 8469,
+      "name": "Carta da Meia Voadora de Natal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183250,
+      "mountId": 8470,
+      "name": "Carta do Dragão Elemental",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183251,
+      "mountId": 8471,
+      "name": "Carta do Leão da Pradaria",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183252,
+      "mountId": 8472,
+      "name": "Carta da Rosa Cor de Rosa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183253,
+      "mountId": 8473,
+      "name": "Carta do Koala",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183254,
+      "mountId": 8474,
+      "name": "Carta do Deus Errante do Gelo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183255,
+      "mountId": 8475,
+      "name": "Carta do Carro da Alfafa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183256,
+      "mountId": 8476,
+      "name": "Carta de Sir Crocodilo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183257,
+      "mountId": 8477,
+      "name": "Carta do Alce da Floresta",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183258,
+      "mountId": 8478,
+      "name": "Carta da Besta Fantasma",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183259,
+      "mountId": 8479,
+      "name": "Carta do Dragão Perninha",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183260,
+      "mountId": 8480,
+      "name": "Carta do Ganso Voador",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183261,
+      "mountId": 8481,
+      "name": "Carta do Canguru de Páscoa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183262,
+      "mountId": 8482,
+      "name": "Carta da Besta Devoradora",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183263,
+      "mountId": 8483,
+      "name": "Carta do Tigre Chama Negra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183264,
+      "mountId": 8484,
+      "name": "Carta do Porco-Espinho Rei",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183265,
+      "mountId": 8485,
+      "name": "Carta do Pombo da Ilusão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183266,
+      "mountId": 8486,
+      "name": "Carta de Foca Brincalhona",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183267,
+      "mountId": 8487,
+      "name": "Carta de Pipa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183268,
+      "mountId": 8488,
+      "name": "Carta do Dragão Arraia Dourado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183269,
+      "mountId": 8489,
+      "name": "Carta do Dinunicórnio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183270,
+      "mountId": 8490,
+      "name": "Carta de Aquila",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183271,
+      "mountId": 8491,
+      "name": "Carta de Empilhadeira Mecânica",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183272,
+      "mountId": 8492,
+      "name": "Carta do Salão das Sombras",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183273,
+      "mountId": 8493,
+      "name": "Carta de Velocidade da Paixão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183274,
+      "mountId": 8494,
+      "name": "Carta do Dente de Leão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183275,
+      "mountId": 8495,
+      "name": "Carta do Chá dos Imortais",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183276,
+      "mountId": 8496,
+      "name": "Carta de Boia Cisne",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183277,
+      "mountId": 8497,
+      "name": "Carta Gato Tapete Voador",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183278,
+      "mountId": 8498,
+      "name": "Carta Peixe Demônio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183279,
+      "mountId": 8499,
+      "name": "Carta de Estrela-do-mar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183280,
+      "mountId": 8500,
+      "name": "Carta de Patinho Divertido",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183281,
+      "mountId": 8501,
+      "name": "Carta do Carro Bola Noturno",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183282,
+      "mountId": 8502,
+      "name": "Carta de Toque Malígno",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183283,
+      "mountId": 8503,
+      "name": "Carta de Visão da Ponte",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183284,
+      "mountId": 8504,
+      "name": "Carta de Espírito Destemido",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183285,
+      "mountId": 8505,
+      "name": "Carta de Cavalo Coberto",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183286,
+      "mountId": 8506,
+      "name": "Carta de Gato Faxineiro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183287,
+      "mountId": 8507,
+      "name": "Carta de Dinorafa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183288,
+      "mountId": 8508,
+      "name": "Carta de Gato Bruxa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183289,
+      "mountId": 8509,
+      "name": "Carta de Baleia Majestosa",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183290,
+      "mountId": 8510,
+      "name": "Carta de Coruja da Morte",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183291,
+      "mountId": 8511,
+      "name": "Gato Comilão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183292,
+      "mountId": 8512,
+      "name": "Carta de Bolo Gostoso",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183293,
+      "mountId": 8513,
+      "name": "Carta do Cavalo Fantasma",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183294,
+      "mountId": 8514,
+      "name": "Carta do Leão Guardião",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183295,
+      "mountId": 8515,
+      "name": "Carta da Rena Gélida",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183297,
+      "mountId": 8517,
+      "name": "Carta da Bola de Neve",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183298,
+      "mountId": 8518,
+      "name": "Carta do Urso das Neves",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183299,
+      "mountId": 8519,
+      "name": "Carta do Dragão Pálido Prateado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183300,
+      "mountId": 8520,
+      "name": "Carta do Relâmpago Vermelho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183301,
+      "mountId": 8521,
+      "name": "Carta do Coellho das Neves",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183302,
+      "mountId": 8522,
+      "name": "Carta de Jörmungandr",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183303,
+      "mountId": 8523,
+      "name": "Carta do Crepúsculo dos Deuses",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183304,
+      "mountId": 8524,
+      "name": "Carta de Panda da Felicidade",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183305,
+      "mountId": 8525,
+      "name": "Carta de Palco do Coração",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183306,
+      "mountId": 8526,
+      "name": "Carta de Trono Flamejante",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183307,
+      "mountId": 8527,
+      "name": "Carta de Grinalda Verde",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183308,
+      "mountId": 8528,
+      "name": "Carta do Elfo das Flores",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183309,
+      "mountId": 8529,
+      "name": "Carta de Monstro Gigantesco",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183310,
+      "mountId": 8530,
+      "name": "Carta do Olho Carmesim",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183311,
+      "mountId": 8531,
+      "name": "Carta de Sirius",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183312,
+      "mountId": 8532,
+      "name": "Carta do Devorador de Tempo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183313,
+      "mountId": 8533,
+      "name": "Carta da Harmonia Celestial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183314,
+      "mountId": 8534,
+      "name": "Carta do Cerberus Mecânico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183315,
+      "mountId": 8535,
+      "name": "Carta do Carro de Duna",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183316,
+      "mountId": 8536,
+      "name": "Carta do Senhor Marmota",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183317,
+      "mountId": 8537,
+      "name": "Carta da Baleia Espacial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183318,
+      "mountId": 8538,
+      "name": "Carta de Pétalas de Damasco",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183319,
+      "mountId": 8539,
+      "name": "Carta de Porco Fofinho",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183320,
+      "mountId": 8540,
+      "name": "Carta do Cavalo do Oceano",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183321,
+      "mountId": 8541,
+      "name": "Carta de Vontade de Ferro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183322,
+      "mountId": 8542,
+      "name": "Carta de Pégaso das Profundezas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183323,
+      "mountId": 8543,
+      "name": "Carta de Trator",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183324,
+      "mountId": 8544,
+      "name": "Carta do Mensageiro Polar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183325,
+      "mountId": 8545,
+      "name": "Carta do Fanático da Guerra",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183326,
+      "mountId": 8546,
+      "name": "Carta do Urso de Verão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183327,
+      "mountId": 8547,
+      "name": "Carta de Fenrir",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183328,
+      "mountId": 8548,
+      "name": "Carta de Jovem Estrela-do-mar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183329,
+      "mountId": 8549,
+      "name": "Carta do Chapéu de Bruxa Verdadeiro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183330,
+      "mountId": 8550,
+      "name": "Carta de Viagem com Tesouros",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183331,
+      "mountId": 8551,
+      "name": "Carta de Juventude",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183332,
+      "mountId": 8552,
+      "name": "Carta de Rinoceronte do Inferno",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183333,
+      "mountId": 8553,
+      "name": "Carta de Sombra da Lua",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183334,
+      "mountId": 8554,
+      "name": "Carta de Notas Saltitantes",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183335,
+      "mountId": 8555,
+      "name": "Carta de Concha Mística",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183336,
+      "mountId": 8556,
+      "name": "Carta de Corrupção Desconhecida",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183337,
+      "mountId": 8557,
+      "name": "Carta de Tempestade Súbita",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183338,
+      "mountId": 8558,
+      "name": "Carta de Nave-Mouse",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183339,
+      "mountId": 8559,
+      "name": "Carta de Jangada Verde",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183340,
+      "mountId": 8560,
+      "name": "Carta de Espírito das Ruínas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183341,
+      "mountId": 8561,
+      "name": "Carta de Bola Dente-de-Leão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183342,
+      "mountId": 8562,
+      "name": "Carta de Peru Abóbora",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183343,
+      "mountId": 8563,
+      "name": "Carta de Montaria de Natal 2024",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183344,
+      "mountId": 8564,
+      "name": "Carta de Super Canhão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183345,
+      "mountId": 8565,
+      "name": "Carta de Grande Avelã",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183347,
+      "mountId": 8568,
+      "name": "Carta do Lobo do Inferno Roxo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183348,
+      "mountId": 8569,
+      "name": "Carta da Pantera do Submundo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183349,
+      "mountId": 8570,
+      "name": "Carta de Carrinho Infantil",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183350,
+      "mountId": 8571,
+      "name": "Carta de Rei Javali",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183352,
+      "mountId": 8572,
+      "name": "Carta de Busca Lunar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183353,
+      "mountId": 8573,
+      "name": "Carta de Gato de 3 Caudas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183354,
+      "mountId": 8574,
+      "name": "Carta de Porco Tapete Voador",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183355,
+      "mountId": 8575,
+      "name": "Carta de Amor Intenso",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183356,
+      "mountId": 8576,
+      "name": "Carta de Ferida Sangrenta",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183357,
+      "mountId": 8577,
+      "name": "Carta do Plano Romântico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183358,
+      "mountId": 8578,
+      "name": "Carta do Duque Juíz",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183359,
+      "mountId": 8579,
+      "name": "Carta do Gato Fantasma",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183360,
+      "mountId": 8580,
+      "name": "Carta de Super Galio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183361,
+      "mountId": 8581,
+      "name": "Carta de Bastão da Bondade",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183362,
+      "mountId": 8582,
+      "name": "Carta do Canguru de Páscoa 2025",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183363,
+      "mountId": 8583,
+      "name": "Carta de Pássaro Serpente das Chamas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183364,
+      "mountId": 8584,
+      "name": "Carta da Pérola Carmesim",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183365,
+      "mountId": 8585,
+      "name": "Carta de Borboleta Estelar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183366,
+      "mountId": 8586,
+      "name": "Carta de Água Viva Dourada",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183367,
+      "mountId": 8587,
+      "name": "Carta do Dragão Ametista",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183369,
+      "mountId": 8589,
+      "name": "Carta de Jardim das Cores",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183370,
+      "mountId": 8590,
+      "name": "Carta de Dança das Estrelas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183371,
+      "mountId": 8591,
+      "name": "Carta do Deus Errante do Fogo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183372,
+      "mountId": 8592,
+      "name": "Carta de Lenda Prateada",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183373,
+      "mountId": 8593,
+      "name": "Carta de Lótus Ígnea",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183374,
+      "mountId": 8594,
+      "name": "Carta de Dragão do Frio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183375,
+      "mountId": 8595,
+      "name": "Carta de Bolo de Dia das Crianças",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183376,
+      "mountId": 8596,
+      "name": "Carta de Formação Oito Estrelas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183377,
+      "mountId": 8597,
+      "name": "Carta do Unicórnio de Verão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183378,
+      "mountId": 8598,
+      "name": "Carta de Tubarão Surfe da Fúria",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183379,
+      "mountId": 8599,
+      "name": "Carta de Avião de Papel de Verão",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183381,
+      "mountId": 8601,
+      "name": "Carta de Cervo Banheira",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183382,
+      "mountId": 8602,
+      "name": "Carta de Lapupu",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183383,
+      "mountId": 8603,
+      "name": "Carta de Espada Flamejante",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183384,
+      "mountId": 8604,
+      "name": "Carta de Baleia-Luar Cantante",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183385,
+      "mountId": 8605,
+      "name": "Carta de Espírito da Natureza",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183386,
+      "mountId": 8606,
+      "name": "Carta de Capricórnio de Escamas Etéreas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183387,
+      "mountId": 8607,
+      "name": "Carta de Abóbora de Halloween",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183388,
+      "mountId": 8608,
+      "name": "Carta de Borboleta da Pérola",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183389,
+      "mountId": 8609,
+      "name": "Carta de Sonho Florido",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183390,
+      "mountId": 8611,
+      "name": "Carta de Carroça de Ação de Graças",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183391,
+      "mountId": 8612,
+      "name": "Carta de Aruanã-Prateado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183392,
+      "mountId": 8613,
+      "name": "Carta de Aço Azul",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183393,
+      "mountId": 8614,
+      "name": "Carta da Rena do Papai Noel",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183394,
+      "mountId": 8615,
+      "name": "Carta do Barco do Lírio",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183395,
+      "mountId": 8616,
+      "name": "Carta do Titã de Gelo",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183396,
+      "mountId": 8617,
+      "name": "Carta do Cavalo Fantasma",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183397,
+      "mountId": 8618,
+      "name": "Carta do Rei das Cem Toneladas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183398,
+      "mountId": 8619,
+      "name": "Carta do Trono Imortal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183399,
+      "mountId": 8620,
+      "name": "Carta do Não É Dragão Maligno",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183400,
+      "mountId": 8621,
+      "name": "Carta do Motor do Apocalipse",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183401,
+      "mountId": 8622,
+      "name": "Carta do Milhafre do Sol Florestal",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183402,
+      "mountId": 8623,
+      "name": "Carta do Flecha de Cupido",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183403,
+      "mountId": 8624,
+      "name": "Carta do Baleia Abissal Óssea",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183404,
+      "mountId": 8625,
+      "name": "Carta do Lobo Douronegro",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183405,
+      "mountId": 8626,
+      "name": "Carta do Ave Arcana Lendária",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183406,
+      "mountId": 8627,
+      "name": "Carta do Forma Flutuante Lunar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183407,
+      "mountId": 8628,
+      "name": "Carta de Gole de Cervejinha",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183408,
+      "mountId": 8629,
+      "name": "Carta de Cão de Três Olhos",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183409,
+      "mountId": 8630,
+      "name": "Carta de Devorador de Ossos",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183410,
+      "mountId": 8631,
+      "name": "Carta de Cisne Elegante",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183411,
+      "mountId": 8632,
+      "name": "Carta da Baleia Sombria do Mar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183412,
+      "mountId": 8633,
+      "name": "Carta do Fantasma das Profundezas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183413,
+      "mountId": 8634,
+      "name": "Carta do Trilho Estelar Onírico",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183414,
+      "mountId": 8635,
+      "name": "Carta do Milagre",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183417,
+      "mountId": 8638,
+      "name": "Carta de Rito Dourado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183418,
+      "mountId": 8639,
+      "name": "Carta de Pioneiro da Infraestrutura",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183419,
+      "mountId": 8640,
+      "name": "Carta de Fortuna e Reunião",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183421,
+      "mountId": 8642,
+      "name": "Carta de Elemento da Noite Fantasia",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183422,
+      "mountId": 8643,
+      "name": "Carta de Sombra das Nuvens",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183423,
+      "mountId": 8644,
+      "name": "Carta de Guaxinim",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183424,
+      "mountId": 8645,
+      "name": "Carta de Carruagem de Jade",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183425,
+      "mountId": 8646,
+      "name": "Carta do Unicórnio Astral",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183426,
+      "mountId": 8647,
+      "name": "Carta da Alpaca Nobre",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183427,
+      "mountId": 8648,
+      "name": "Carta de Nave Verde",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183428,
+      "mountId": 8649,
+      "name": "Carta do Cavalo de Balanço Amanteigado",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183429,
+      "mountId": 8650,
+      "name": "Carta do Dragão Luminar",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183431,
+      "mountId": 8652,
+      "name": "Carta de Globo de Cristal Musical",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183432,
+      "mountId": 8653,
+      "name": "Carta do Pássaro das Flores Enlaçadas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183433,
+      "mountId": 8654,
+      "name": "Carta de Coelho das Ondas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183434,
+      "mountId": 8655,
+      "name": "Carta da Serpente das Ruínas",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183435,
+      "mountId": 8656,
+      "name": "Carta do Som Radiante",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2183436,
+      "mountId": 8657,
+      "name": "Carta do Leão Glacial",
+      "permanent": true,
+      "requiredLevel": 16
+    },
+    {
+      "template": 2182008,
+      "mountId": 20008,
+      "name": "Carta da Besta do Desastre",
+      "permanent": true,
+      "requiredLevel": 16
+    }
+  ],
+  "mails": [
+    1000060,
+    1000061,
+    1000062,
+    1000063,
+    1000064,
+    1000065,
+    1000066,
+    1000067,
+    1000068,
+    1000069,
+    1000070,
+    1000071,
+    1000072,
+    1000073,
+    1000074,
+    1000075,
+    1000076,
+    1000077,
+    1000078,
+    1000079,
+    1000080,
+    1000081,
+    1000082,
+    1000083,
+    1000084,
+    1000085,
+    1000086,
+    1000087,
+    1000088,
+    1000089,
+    1000090,
+    1000091,
+    1000092,
+    1000093,
+    1000094,
+    1000095,
+    1000096,
+    1000097,
+    1000098,
+    1000099,
+    1000100,
+    1000101,
+    1000102,
+    1000103,
+    1000104,
+    1000105,
+    1000106,
+    1000107,
+    1000108,
+    1000109,
+    1000110,
+    1000111,
+    1000112,
+    1000113,
+    1000114,
+    1000115,
+    1000116,
+    1000117,
+    1000118,
+    1000119,
+    1000120,
+    1000121,
+    1000122,
+    1000123,
+    1000124,
+    1000125,
+    1000126,
+    1000127,
+    1000128,
+    1000129,
+    1000130,
+    1000131,
+    1000132,
+    1000133,
+    1000134,
+    1000135,
+    1000136,
+    1000137,
+    1000138,
+    1000139,
+    1000140,
+    1000141,
+    1000142,
+    1000143,
+    1000144,
+    1000145,
+    1000146,
+    1000147,
+    1000148,
+    1000149,
+    1000150,
+    1000151,
+    1000152,
+    1000153,
+    1000154,
+    1000155,
+    1000156,
+    1000157,
+    1000158,
+    1000159,
+    1000160,
+    1000161,
+    1000162,
+    1000163,
+    1000164,
+    1000165,
+    1000166,
+    1000167,
+    1000168,
+    1000169,
+    1000170,
+    1000171,
+    1000172,
+    1000173,
+    1000174,
+    1000175,
+    1000176,
+    1000177,
+    1000178,
+    1000179,
+    1000180,
+    1000181,
+    1000182,
+    1000183,
+    1000184,
+    1000185,
+    1000186,
+    1000187,
+    1000188,
+    1000189,
+    1000190,
+    1000191,
+    1000192,
+    1000193,
+    1000194,
+    1000195,
+    1000196,
+    1000197,
+    1000198,
+    1000199,
+    1000200,
+    1000201
+  ],
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\all-mount-cards-xp-2026-10-14T18-08-26.638Z",
+  "mailboxBytes": 57953
+}

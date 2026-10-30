@@ -1,0 +1,30 @@
+{
+  "at": "2026-10-22T22:33:11.885Z",
+  "target": "reference/social/local-ui/local-9.swf",
+  "exitCode": 0,
+  "timedOut": false,
+  "loaded": true,
+  "verified": true,
+  "expectedNativeTermination": false,
+  "logs": [
+    "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/probe/loading-library.swf",
+    "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/chat/local-ui/local-2.swf",
+    "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/social/local-ui/local-9.swf",
+    "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/ui-compat/baselines/3-fba7215e.swf",
+    "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/skills/formation-ui/local-5.swf",
+    "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/local-ui/local-14.swf",
+    "loaded file:///C:/Users/Lucas%20Rodrigues/Downloads/LegendOnline/wartune_server/reference/mounts/local-ui/local-15.swf",
+    "verified fashion.FashionStoreFrame [class FashionStoreFrame]",
+    "verified managers.MarryManager [class MarryManager]",
+    "verified marry.income.MarryRingUpgradeView [class MarryRingUpgradeView]",
+    "verified mvc.module.marry.MarryModel [class MarryModel]",
+    "verified view.ShopFrame [class ShopFrame]",
+    "verified armyII.SkillFrame [class SkillFrame]",
+    "wedding-native-proposal-cleared-carriage-exit-props-passed",
+    "marriage-native-quality-packet-passed",
+    "marriage-native-date-setter-passed",
+    "marriage-native-protocol-and-model-passed",
+    "wedding-home-native-presence-npc-reception-passed"
+  ],
+  "runtime": "log\tLoading.swf 5199 bytes em 81 ms (AIR WIN 51,4,1,1)\n"
+}

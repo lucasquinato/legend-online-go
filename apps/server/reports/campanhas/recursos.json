@@ -1,0 +1,128 @@
+{
+  "at": "2026-10-13T20:19:33.703Z",
+  "phaseCount": 83,
+  "requiredPaths": 275,
+  "existing": 260,
+  "downloaded": [
+    {
+      "id": "14dffa7cc6ef1a8ea8fb6fd79c04ded41877c97d615c1d726acec8efb11c4d45",
+      "path": "/cdn/skilleffect/hit_magical003.swf",
+      "bytes": 154939,
+      "sha256": "8bb23c3355f68e3a7186fea42ec438e305139e33a5d6748d199c07249f8edca4",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:31.410Z"
+    },
+    {
+      "id": "134952187a017493e172a9a336393f488b279371fc5fc74a9fa763b060d94a7d",
+      "path": "/cdn/swf/001/001.swf",
+      "bytes": 204919,
+      "sha256": "a5e786a82ac5f81268c6fa0ea4af0497ac2b90c5ef283ffdae907e274c214726",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:31.457Z"
+    },
+    {
+      "id": "17d66b68c070e927884a37629d0fe25ada3fcfe265d392ce327451658a9f5788",
+      "path": "/cdn/swf/monster002c/monster002c.swf",
+      "bytes": 316916,
+      "sha256": "31535e717ff21b1c5c90be8f825bea00a3f84cf75b083567d5b2fc0583a4d924",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:31.644Z"
+    },
+    {
+      "id": "9c8b8b8946ed5c61be01230351ff600d783f4af382527fb41c2b4ce9df605164",
+      "path": "/cdn/sceneima/10/map10.swf",
+      "bytes": 186982,
+      "sha256": "75ad8e38d42fbc667d0150c8544b36adc38ab8d58ad72654c70d72222d3b91ca",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:33.034Z"
+    },
+    {
+      "id": "8e17d525868a56f3632ae39591e2786d07a5f5642a394333ab665c569a7e343a",
+      "path": "/cdn/skilleffect/dust_surround.swf",
+      "bytes": 8253,
+      "sha256": "b34ec5c95ba2ef2db58db6c285ffca88e0fde778451db1d7f18617f875b93b68",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:33.095Z"
+    },
+    {
+      "id": "66d370ca1eaaa2be49b8e7c011910a878d7ca423d1e7f009d0e843796abb8272",
+      "path": "/cdn/skilleffect/buff_add_silence.swf",
+      "bytes": 76766,
+      "sha256": "742cd796e42ae5ba420979301986b1e761e202d0fc1d0a2104537481acd0f1c9",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:33.119Z"
+    },
+    {
+      "id": "3d5936d89cff1cb54b09c39b9726a58fd534cefc4df6cb8dfcaf2ceff74f68f7",
+      "path": "/cdn/skilleffect/wizard_thunder01.swf",
+      "bytes": 99560,
+      "sha256": "1ddd74c4f055ccc4ae08483c9271192b7b6650db2ea2b291bc500b49a341d9f1",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:33.127Z"
+    },
+    {
+      "id": "6bdeec0257dca15c2c1a642de51d0721976c033d1032ac9954619659de4fffdd",
+      "path": "/cdn/skilleffect/buff_action_speedup.swf",
+      "bytes": 186490,
+      "sha256": "c26c7747330a9cde3770b5eaa34819bb2f64e380eb7b78f4af715bb2db89a17d",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:33.168Z"
+    },
+    {
+      "id": "91cd457cd4c49e206048cd45fc6ff04333861d334cecf61bca468aead3df1f2d",
+      "path": "/cdn/skilleffect/monster028d_skill01_hit.swf",
+      "bytes": 85345,
+      "sha256": "344f6bbe152a6444e3351236241b01c17af72c110fd298f8edd0d8969f99df30",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:33.253Z"
+    },
+    {
+      "id": "49e285485a80158df7e04d1ec082f5a303706ad675968972221dd85c5e43fe49",
+      "path": "/cdn/skilleffect/monster023b_hit.swf",
+      "bytes": 117113,
+      "sha256": "ecf1f7172e2cc25d05febf7bdc24a3aa48569d4c49162628cf5da47c02ee45be",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:33.339Z"
+    },
+    {
+      "id": "016cbd9fc4cfa37135f64cb5c9c4e405f76d683cbecd352314f6320a4cd45a15",
+      "path": "/cdn/skilleffect/monster023b_skill01.swf",
+      "bytes": 260157,
+      "sha256": "452b466b13628768653877ce5443359ea316ec35452dde478df20fdcb324c032",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:33.372Z"
+    },
+    {
+      "id": "26c53858f85532c630b359dc269d4306f7a015508d0ff406bda34dfe42f3f891",
+      "path": "/cdn/skilleffect/hunter_skill06_flying.swf",
+      "bytes": 7932,
+      "sha256": "0440b7990111b1e3920c9876bfd01ae908f8f490d91a32014c53194822ba8ebc",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:33.607Z"
+    },
+    {
+      "id": "59d1323ca6683ac234b45b8fcabc1d0812f6a348efe331eafaf365ce89150801",
+      "path": "/cdn/skilleffect/buff_add_mdfup.swf",
+      "bytes": 46021,
+      "sha256": "901a4d52c3762501f0ffe2a6324376390e6bdc85707d474ec38ec7758b2254c9",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:33.627Z"
+    },
+    {
+      "id": "716e87df5169ba1d970b5a37628a99ac7a3790d685ecf407eacfa61e2921e01b",
+      "path": "/cdn/skilleffect/hunter_skill06_hit.swf",
+      "bytes": 101490,
+      "sha256": "ec0bc07d51fe1c995fb1425f1b73799590aaac30f4aa47866318d6078e7369aa",
+      "content_type": "application/x-shockwave-flash",
+      "saved_at": "2026-10-13T20:19:33.699Z"
+    }
+  ],
+  "failures": [
+    {
+      "path": "/cdn/skilleffect/physical009.swf",
+      "status": 403,
+      "error": "Recurso indisponível no upstream"
+    }
+  ],
+  "scope": "Enemy sprites, original AI action/buffer effects and chapter/area/battle scenes. Not all player cosmetics or recursively chained talent effects."
+}

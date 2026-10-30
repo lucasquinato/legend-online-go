@@ -1,0 +1,2 @@
+import java.io.*;import com.jpexs.decompiler.flash.SWF;
+class LocateSocialUi{public static void main(String[]args)throws Exception{for(File f:new File(args[0]).listFiles())if(f.getName().endsWith(".swf")){try{SWF s=new SWF(new FileInputStream(f),true);for(var p:s.getAS3Packs())if(p.getClassPath().toString().matches(".*(MarryQuestFrame|MarryRingUpgradeFrame|MarryQualityFrame|WeddingScene|WeddingMap|MarryAnswerFrame).*"))System.out.println(f.getName()+" "+p.getClassPath());}catch(Exception e){System.out.println("ERROR "+f+" "+e);}}}}

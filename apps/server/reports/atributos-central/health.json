@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "mode": "tutorial",
+  "balanceVersion": 4,
+  "boot": "7d5661d2-0d21-4833-8f98-912f1a19f3b3",
+  "gameListening": true,
+  "resourceMode": "cache-first",
+  "capture": {
+    "tcp": false,
+    "http": false,
+    "assets": true
+  }
+}

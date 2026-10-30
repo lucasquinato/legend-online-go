@@ -1,0 +1,5406 @@
+{
+  "source": {
+    "path": "/xml/tempinfos.xml",
+    "sha256": "3cf327b92ca79b3393336e7f8762968a79a59cf6544ca0c3dba71caf78b1ec77"
+  },
+  "levels": [
+    {
+      "Id": "1130001",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801001,40802001",
+      "Grades": "1",
+      "Data": "300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130002",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801002,40802002",
+      "Grades": "2",
+      "Data": "400",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130003",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801003,40802003",
+      "Grades": "3",
+      "Data": "500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130004",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801004,40802004",
+      "Grades": "4",
+      "Data": "600",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130005",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801005,40802005",
+      "Grades": "5",
+      "Data": "700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130006",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801006,40802006",
+      "Grades": "6",
+      "Data": "800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130007",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801007,40802007",
+      "Grades": "7",
+      "Data": "900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130008",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801008,40802008",
+      "Grades": "8",
+      "Data": "1000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130009",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801009,40802009",
+      "Grades": "9",
+      "Data": "1200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130010",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801010,40802010",
+      "Grades": "10",
+      "Data": "1400",
+      "ActiveObject": "1090401"
+    },
+    {
+      "Id": "1130011",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801011,40802011",
+      "Grades": "11",
+      "Data": "1600",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130012",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801012,40802012",
+      "Grades": "12",
+      "Data": "1800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130013",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801013,40802013",
+      "Grades": "13",
+      "Data": "2000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130014",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801014,40802014",
+      "Grades": "14",
+      "Data": "2200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130015",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801015,40802015",
+      "Grades": "15",
+      "Data": "2400",
+      "ActiveObject": "1090402"
+    },
+    {
+      "Id": "1130016",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801016,40802016",
+      "Grades": "16",
+      "Data": "2600",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130017",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801017,40802017",
+      "Grades": "17",
+      "Data": "2800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130018",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801018,40802018",
+      "Grades": "18",
+      "Data": "3000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130019",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801019,40802019",
+      "Grades": "19",
+      "Data": "3200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130020",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801020,40802020",
+      "Grades": "20",
+      "Data": "3400",
+      "ActiveObject": "1100401"
+    },
+    {
+      "Id": "1130021",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801021,40802021",
+      "Grades": "21",
+      "Data": "3600",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130022",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801022,40802022",
+      "Grades": "22",
+      "Data": "3800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130023",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801023,40802023",
+      "Grades": "23",
+      "Data": "4000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130024",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801024,40802024",
+      "Grades": "24",
+      "Data": "4200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130025",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801025,40802025",
+      "Grades": "25",
+      "Data": "4400",
+      "ActiveObject": "1100402"
+    },
+    {
+      "Id": "1130026",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801026,40802026",
+      "Grades": "26",
+      "Data": "4600",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130027",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801027,40802027",
+      "Grades": "27",
+      "Data": "4800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130028",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801028,40802028",
+      "Grades": "28",
+      "Data": "5000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130029",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801029,40802029",
+      "Grades": "29",
+      "Data": "5200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130030",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801030,40802030",
+      "Grades": "30",
+      "Data": "5400",
+      "ActiveObject": "1100403"
+    },
+    {
+      "Id": "1130031",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801031,40802031",
+      "Grades": "31",
+      "Data": "5600",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130032",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801032,40802032",
+      "Grades": "32",
+      "Data": "5800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130033",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801033,40802033",
+      "Grades": "33",
+      "Data": "6000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130034",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801034,40802034",
+      "Grades": "34",
+      "Data": "6200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130035",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801035,40802035",
+      "Grades": "35",
+      "Data": "6400",
+      "ActiveObject": "1110401"
+    },
+    {
+      "Id": "1130036",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801036,40802036",
+      "Grades": "36",
+      "Data": "6600",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130037",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801037,40802037",
+      "Grades": "37",
+      "Data": "6800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130038",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801038,40802038",
+      "Grades": "38",
+      "Data": "7000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130039",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801039,40802039",
+      "Grades": "39",
+      "Data": "7200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130040",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801040,40802040",
+      "Grades": "40",
+      "Data": "7400",
+      "ActiveObject": "1120401"
+    },
+    {
+      "Id": "1130041",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801041,40802041",
+      "Grades": "41",
+      "Data": "7600",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130042",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801042,40802042",
+      "Grades": "42",
+      "Data": "7800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130043",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801043,40802043",
+      "Grades": "43",
+      "Data": "8000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130044",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801044,40802044",
+      "Grades": "44",
+      "Data": "8200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130045",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801045,40802045",
+      "Grades": "45",
+      "Data": "8400",
+      "ActiveObject": "1120402"
+    },
+    {
+      "Id": "1130046",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801046,40802046",
+      "Grades": "46",
+      "Data": "8600",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130047",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801047,40802047",
+      "Grades": "47",
+      "Data": "8800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130048",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801048,40802048",
+      "Grades": "48",
+      "Data": "9000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130049",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801049,40802049",
+      "Grades": "49",
+      "Data": "9200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130050",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801050,40802050",
+      "Grades": "50",
+      "Data": "9400",
+      "ActiveObject": "1120403"
+    },
+    {
+      "Id": "1130051",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801051,40802051",
+      "Grades": "51",
+      "Data": "9600",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130052",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801052,40802052",
+      "Grades": "52",
+      "Data": "9800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130053",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801053,40802053",
+      "Grades": "53",
+      "Data": "10000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130054",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801054,40802054",
+      "Grades": "54",
+      "Data": "10300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130055",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801055,40802055",
+      "Grades": "55",
+      "Data": "10600",
+      "ActiveObject": "1091101"
+    },
+    {
+      "Id": "1130056",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801056,40802056",
+      "Grades": "56",
+      "Data": "10900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130057",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801057,40802057",
+      "Grades": "57",
+      "Data": "11200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130058",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801058,40802058",
+      "Grades": "58",
+      "Data": "11500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130059",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801059,40802059",
+      "Grades": "59",
+      "Data": "11800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130060",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801060,40802060",
+      "Grades": "60",
+      "Data": "12100",
+      "ActiveObject": "1102301"
+    },
+    {
+      "Id": "1130061",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801061,40802061",
+      "Grades": "61",
+      "Data": "12400",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130062",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801062,40802062",
+      "Grades": "62",
+      "Data": "12700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130063",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801063,40802063",
+      "Grades": "63",
+      "Data": "13000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130064",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801064,40802064",
+      "Grades": "64",
+      "Data": "13300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130065",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801065,40802065",
+      "Grades": "65",
+      "Data": "13600",
+      "ActiveObject": "1112301"
+    },
+    {
+      "Id": "1130066",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801066,40802066",
+      "Grades": "66",
+      "Data": "13900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130067",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801067,40802067",
+      "Grades": "67",
+      "Data": "14200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130068",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801068,40802068",
+      "Grades": "68",
+      "Data": "14500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130069",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801069,40802069",
+      "Grades": "69",
+      "Data": "14800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130070",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801070,40802070",
+      "Grades": "70",
+      "Data": "15100",
+      "ActiveObject": "1122301"
+    },
+    {
+      "Id": "1130071",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801071,40802071",
+      "Grades": "71",
+      "Data": "15400",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130072",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801072,40802072",
+      "Grades": "72",
+      "Data": "15700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130073",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801073,40802073",
+      "Grades": "73",
+      "Data": "16000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130074",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801074,40802074",
+      "Grades": "74",
+      "Data": "16300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130075",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801075,40802075",
+      "Grades": "75",
+      "Data": "16600",
+      "ActiveObject": "1092501"
+    },
+    {
+      "Id": "1130076",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801076,40802076",
+      "Grades": "76",
+      "Data": "16900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130077",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801077,40802077",
+      "Grades": "77",
+      "Data": "17200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130078",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801078,40802078",
+      "Grades": "78",
+      "Data": "17500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130079",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801079,40802079",
+      "Grades": "79",
+      "Data": "17800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130080",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801080,40802080",
+      "Grades": "80",
+      "Data": "18100",
+      "ActiveObject": "1102501"
+    },
+    {
+      "Id": "1130081",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801081,40802081",
+      "Grades": "81",
+      "Data": "18400",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130082",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801082,40802082",
+      "Grades": "82",
+      "Data": "18700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130083",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801083,40802083",
+      "Grades": "83",
+      "Data": "19000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130084",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801084,40802084",
+      "Grades": "84",
+      "Data": "19300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130085",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801085,40802085",
+      "Grades": "85",
+      "Data": "19600",
+      "ActiveObject": "1112501"
+    },
+    {
+      "Id": "1130086",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801086,40802086",
+      "Grades": "86",
+      "Data": "19900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130087",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801087,40802087",
+      "Grades": "87",
+      "Data": "20200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130088",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801088,40802088",
+      "Grades": "88",
+      "Data": "20500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130089",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801089,40802089",
+      "Grades": "89",
+      "Data": "20800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130090",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801090,40802090",
+      "Grades": "90",
+      "Data": "21100",
+      "ActiveObject": "1122501"
+    },
+    {
+      "Id": "1130091",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801091,40802091",
+      "Grades": "91",
+      "Data": "21400",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130092",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801092,40802092",
+      "Grades": "92",
+      "Data": "21700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130093",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801093,40802093",
+      "Grades": "93",
+      "Data": "22000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130094",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801094,40802094",
+      "Grades": "94",
+      "Data": "22300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130095",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801095,40802095",
+      "Grades": "95",
+      "Data": "22600",
+      "ActiveObject": "1090603"
+    },
+    {
+      "Id": "1130096",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801096,40802096",
+      "Grades": "96",
+      "Data": "22900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130097",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801097,40802097",
+      "Grades": "97",
+      "Data": "23200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130098",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801098,40802098",
+      "Grades": "98",
+      "Data": "23500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130099",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801099,40802099",
+      "Grades": "99",
+      "Data": "23800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130100",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801100,40802100",
+      "Grades": "100",
+      "Data": "24100",
+      "ActiveObject": "1100801"
+    },
+    {
+      "Id": "1130101",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801101,40802101",
+      "Grades": "101",
+      "Data": "24400",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130102",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801102,40802102",
+      "Grades": "102",
+      "Data": "24700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130103",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801103,40802103",
+      "Grades": "103",
+      "Data": "25000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130104",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801104,40802104",
+      "Grades": "104",
+      "Data": "25300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130105",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801105,40802105",
+      "Grades": "105",
+      "Data": "25600",
+      "ActiveObject": "1110801"
+    },
+    {
+      "Id": "1130106",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801106,40802106",
+      "Grades": "106",
+      "Data": "25900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130107",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801107,40802107",
+      "Grades": "107",
+      "Data": "26200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130108",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801108,40802108",
+      "Grades": "108",
+      "Data": "26500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130109",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801109,40802109",
+      "Grades": "109",
+      "Data": "26800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130110",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801110,40802110",
+      "Grades": "110",
+      "Data": "27100",
+      "ActiveObject": "1120801"
+    },
+    {
+      "Id": "1130111",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801111,40802111",
+      "Grades": "111",
+      "Data": "27400",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130112",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801112,40802112",
+      "Grades": "112",
+      "Data": "27700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130113",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801113,40802113",
+      "Grades": "113",
+      "Data": "28000",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130114",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801114,40802114",
+      "Grades": "114",
+      "Data": "28300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130115",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801115,40802115",
+      "Grades": "115",
+      "Data": "28600",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130116",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801116,40802116",
+      "Grades": "116",
+      "Data": "28900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130117",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801117,40802117",
+      "Grades": "117",
+      "Data": "29200",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130118",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801118,40802118",
+      "Grades": "118",
+      "Data": "29500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130119",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801119,40802119",
+      "Grades": "119",
+      "Data": "29800",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130120",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801120,40802120",
+      "Grades": "120",
+      "Data": "30100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130121",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801121,40802121",
+      "Grades": "121",
+      "Data": "30500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130122",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801122,40802122",
+      "Grades": "122",
+      "Data": "30900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130123",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801123,40802123",
+      "Grades": "123",
+      "Data": "31300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130124",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801124,40802124",
+      "Grades": "124",
+      "Data": "31700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130125",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801125,40802125",
+      "Grades": "125",
+      "Data": "32100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130126",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801126,40802126",
+      "Grades": "126",
+      "Data": "32500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130127",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801127,40802127",
+      "Grades": "127",
+      "Data": "32900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130128",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801128,40802128",
+      "Grades": "128",
+      "Data": "33300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130129",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801129,40802129",
+      "Grades": "129",
+      "Data": "33700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130130",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801130,40802130",
+      "Grades": "130",
+      "Data": "34100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130131",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801131,40802131",
+      "Grades": "131",
+      "Data": "34500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130132",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801132,40802132",
+      "Grades": "132",
+      "Data": "34900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130133",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801133,40802133",
+      "Grades": "133",
+      "Data": "35300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130134",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801134,40802134",
+      "Grades": "134",
+      "Data": "35700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130135",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801135,40802135",
+      "Grades": "135",
+      "Data": "36100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130136",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801136,40802136",
+      "Grades": "136",
+      "Data": "36500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130137",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801137,40802137",
+      "Grades": "137",
+      "Data": "36900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130138",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801138,40802138",
+      "Grades": "138",
+      "Data": "37300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130139",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801139,40802139",
+      "Grades": "139",
+      "Data": "37700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130140",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801140,40802140",
+      "Grades": "140",
+      "Data": "38100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130141",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801141,40802141",
+      "Grades": "141",
+      "Data": "38500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130142",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801142,40802142",
+      "Grades": "142",
+      "Data": "38900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130143",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801143,40802143",
+      "Grades": "143",
+      "Data": "39300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130144",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801144,40802144",
+      "Grades": "144",
+      "Data": "39700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130145",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801145,40802145",
+      "Grades": "145",
+      "Data": "40100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130146",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801146,40802146",
+      "Grades": "146",
+      "Data": "40500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130147",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801147,40802147",
+      "Grades": "147",
+      "Data": "40900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130148",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801148,40802148",
+      "Grades": "148",
+      "Data": "41300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130149",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801149,40802149",
+      "Grades": "149",
+      "Data": "41700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130150",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801150,40802150",
+      "Grades": "150",
+      "Data": "42100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130151",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801151,40802151",
+      "Grades": "151",
+      "Data": "42500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130152",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801152,40802152",
+      "Grades": "152",
+      "Data": "42900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130153",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801153,40802153",
+      "Grades": "153",
+      "Data": "43300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130154",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801154,40802154",
+      "Grades": "154",
+      "Data": "43700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130155",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801155,40802155",
+      "Grades": "155",
+      "Data": "44100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130156",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801156,40802156",
+      "Grades": "156",
+      "Data": "44500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130157",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801157,40802157",
+      "Grades": "157",
+      "Data": "44900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130158",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801158,40802158",
+      "Grades": "158",
+      "Data": "45300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130159",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801159,40802159",
+      "Grades": "159",
+      "Data": "45700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130160",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801160,40802160",
+      "Grades": "160",
+      "Data": "46100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130161",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801161,40802161",
+      "Grades": "161",
+      "Data": "46500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130162",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801162,40802162",
+      "Grades": "162",
+      "Data": "46900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130163",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801163,40802163",
+      "Grades": "163",
+      "Data": "47300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130164",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801164,40802164",
+      "Grades": "164",
+      "Data": "47700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130165",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801165,40802165",
+      "Grades": "165",
+      "Data": "48100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130166",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801166,40802166",
+      "Grades": "166",
+      "Data": "48500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130167",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801167,40802167",
+      "Grades": "167",
+      "Data": "48900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130168",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801168,40802168",
+      "Grades": "168",
+      "Data": "49300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130169",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801169,40802169",
+      "Grades": "169",
+      "Data": "49700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130170",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801170,40802170",
+      "Grades": "170",
+      "Data": "50100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130171",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801171,40802171",
+      "Grades": "171",
+      "Data": "50500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130172",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801172,40802172",
+      "Grades": "172",
+      "Data": "50900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130173",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801173,40802173",
+      "Grades": "173",
+      "Data": "51300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130174",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801174,40802174",
+      "Grades": "174",
+      "Data": "51700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130175",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801175,40802175",
+      "Grades": "175",
+      "Data": "52100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130176",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801176,40802176",
+      "Grades": "176",
+      "Data": "52500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130177",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801177,40802177",
+      "Grades": "177",
+      "Data": "52900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130178",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801178,40802178",
+      "Grades": "178",
+      "Data": "53300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130179",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801179,40802179",
+      "Grades": "179",
+      "Data": "53700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130180",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801180,40802180",
+      "Grades": "180",
+      "Data": "54100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130181",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801181,40802181",
+      "Grades": "181",
+      "Data": "54500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130182",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801182,40802182",
+      "Grades": "182",
+      "Data": "54900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130183",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801183,40802183",
+      "Grades": "183",
+      "Data": "55300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130184",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801184,40802184",
+      "Grades": "184",
+      "Data": "55700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130185",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801185,40802185",
+      "Grades": "185",
+      "Data": "56100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130186",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801186,40802186",
+      "Grades": "186",
+      "Data": "56500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130187",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801187,40802187",
+      "Grades": "187",
+      "Data": "56900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130188",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801188,40802188",
+      "Grades": "188",
+      "Data": "57300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130189",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801189,40802189",
+      "Grades": "189",
+      "Data": "57700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130190",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801190,40802190",
+      "Grades": "190",
+      "Data": "58100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130191",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801191,40802191",
+      "Grades": "191",
+      "Data": "58500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130192",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801192,40802192",
+      "Grades": "192",
+      "Data": "58900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130193",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801193,40802193",
+      "Grades": "193",
+      "Data": "59300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130194",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801194,40802194",
+      "Grades": "194",
+      "Data": "59700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130195",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801195,40802195",
+      "Grades": "195",
+      "Data": "60100",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130196",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801196,40802196",
+      "Grades": "196",
+      "Data": "60500",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130197",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801197,40802197",
+      "Grades": "197",
+      "Data": "60900",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130198",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801198,40802198",
+      "Grades": "198",
+      "Data": "61300",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130199",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801199,40802199",
+      "Grades": "199",
+      "Data": "61700",
+      "ActiveObject": "0"
+    },
+    {
+      "Id": "1130200",
+      "Types": "113",
+      "TemplateId": "0",
+      "TemplateName": "40801200,40802200",
+      "Grades": "200",
+      "Data": "62100",
+      "ActiveObject": "0"
+    }
+  ],
+  "config": {
+    "Fashion_Lucky": 200,
+    "Fashion_Soul": 200,
+    "Fashion_Wing": 1600,
+    "Fashion_Other": 300
+  },
+  "properties": [
+    {
+      "TemplateId": "40801001",
+      "AddType": "0"
+    },
+    {
+      "TemplateId": "40801002",
+      "AddType": "0",
+      "Attack": "1",
+      "Defence": "1",
+      "MagicAttack": "1",
+      "MagicDefence": "1",
+      "Live": "1"
+    },
+    {
+      "TemplateId": "40801003",
+      "AddType": "0",
+      "Attack": "2",
+      "Defence": "2",
+      "MagicAttack": "2",
+      "MagicDefence": "2",
+      "Live": "2"
+    },
+    {
+      "TemplateId": "40801004",
+      "AddType": "0",
+      "Attack": "2",
+      "Defence": "2",
+      "MagicAttack": "2",
+      "MagicDefence": "2",
+      "Live": "2"
+    },
+    {
+      "TemplateId": "40801005",
+      "AddType": "0",
+      "Attack": "2",
+      "Defence": "2",
+      "MagicAttack": "2",
+      "MagicDefence": "2",
+      "Live": "2"
+    },
+    {
+      "TemplateId": "40801006",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "2",
+      "MagicAttack": "3",
+      "MagicDefence": "2",
+      "Live": "2"
+    },
+    {
+      "TemplateId": "40801007",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "2",
+      "MagicAttack": "3",
+      "MagicDefence": "2",
+      "Live": "2"
+    },
+    {
+      "TemplateId": "40801008",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "3",
+      "MagicAttack": "3",
+      "MagicDefence": "3",
+      "Live": "2"
+    },
+    {
+      "TemplateId": "40801009",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "3",
+      "MagicAttack": "3",
+      "MagicDefence": "3",
+      "Live": "2"
+    },
+    {
+      "TemplateId": "40801010",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "3",
+      "MagicAttack": "3",
+      "MagicDefence": "3",
+      "Live": "2"
+    },
+    {
+      "TemplateId": "40801011",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "3",
+      "MagicAttack": "3",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801012",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "3",
+      "MagicAttack": "3",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801013",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "3",
+      "MagicAttack": "3",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801014",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "3",
+      "MagicAttack": "3",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801015",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "3",
+      "MagicAttack": "3",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801016",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "3",
+      "MagicAttack": "3",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801017",
+      "AddType": "0",
+      "Attack": "3",
+      "Defence": "3",
+      "MagicAttack": "3",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801018",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "3",
+      "MagicAttack": "4",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801019",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "3",
+      "MagicAttack": "4",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801020",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "3",
+      "MagicAttack": "4",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801021",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "3",
+      "MagicAttack": "4",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801022",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "3",
+      "MagicAttack": "4",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801023",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "3",
+      "MagicAttack": "4",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801024",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "3",
+      "MagicAttack": "4",
+      "MagicDefence": "3",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801025",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "4",
+      "MagicAttack": "4",
+      "MagicDefence": "4",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801026",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "4",
+      "MagicAttack": "4",
+      "MagicDefence": "4",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801027",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "4",
+      "MagicAttack": "4",
+      "MagicDefence": "4",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801028",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "4",
+      "MagicAttack": "4",
+      "MagicDefence": "4",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801029",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "4",
+      "MagicAttack": "4",
+      "MagicDefence": "4",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801030",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "4",
+      "MagicAttack": "4",
+      "MagicDefence": "4",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801031",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "4",
+      "MagicAttack": "4",
+      "MagicDefence": "4",
+      "Live": "3"
+    },
+    {
+      "TemplateId": "40801032",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "4",
+      "MagicAttack": "4",
+      "MagicDefence": "4",
+      "Live": "4"
+    },
+    {
+      "TemplateId": "40801033",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "4",
+      "MagicAttack": "4",
+      "MagicDefence": "4",
+      "Live": "4"
+    },
+    {
+      "TemplateId": "40801034",
+      "AddType": "0",
+      "Attack": "4",
+      "Defence": "4",
+      "MagicAttack": "4",
+      "MagicDefence": "4",
+      "Live": "4"
+    },
+    {
+      "TemplateId": "40801035",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "4",
+      "MagicAttack": "5",
+      "MagicDefence": "4",
+      "Live": "4"
+    },
+    {
+      "TemplateId": "40801036",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "4",
+      "MagicAttack": "5",
+      "MagicDefence": "4",
+      "Live": "4"
+    },
+    {
+      "TemplateId": "40801037",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "4",
+      "MagicAttack": "5",
+      "MagicDefence": "4",
+      "Live": "4"
+    },
+    {
+      "TemplateId": "40801038",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "5",
+      "MagicAttack": "5",
+      "MagicDefence": "5",
+      "Live": "4"
+    },
+    {
+      "TemplateId": "40801039",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "5",
+      "MagicAttack": "5",
+      "MagicDefence": "5",
+      "Live": "4"
+    },
+    {
+      "TemplateId": "40801040",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "5",
+      "MagicAttack": "5",
+      "MagicDefence": "5",
+      "Live": "4"
+    },
+    {
+      "TemplateId": "40801041",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "5",
+      "MagicAttack": "5",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801042",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "5",
+      "MagicAttack": "5",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801043",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "5",
+      "MagicAttack": "5",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801044",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "5",
+      "MagicAttack": "5",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801045",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "5",
+      "MagicAttack": "5",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801046",
+      "AddType": "0",
+      "Attack": "5",
+      "Defence": "5",
+      "MagicAttack": "5",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801047",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "5",
+      "MagicAttack": "6",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801048",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "5",
+      "MagicAttack": "6",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801049",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "5",
+      "MagicAttack": "6",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801050",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "5",
+      "MagicAttack": "6",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801051",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "5",
+      "MagicAttack": "6",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801052",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "5",
+      "MagicAttack": "6",
+      "MagicDefence": "5",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801053",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801054",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801055",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801056",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801057",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801058",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "5"
+    },
+    {
+      "TemplateId": "40801059",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801060",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801061",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801062",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801063",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801064",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801065",
+      "AddType": "0",
+      "Attack": "6",
+      "Defence": "6",
+      "MagicAttack": "6",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801066",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "6",
+      "MagicAttack": "7",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801067",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "6",
+      "MagicAttack": "7",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801068",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "6",
+      "MagicAttack": "7",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801069",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "6",
+      "MagicAttack": "7",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801070",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "6",
+      "MagicAttack": "7",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801071",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "6",
+      "MagicAttack": "7",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801072",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "6",
+      "MagicAttack": "7",
+      "MagicDefence": "6",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801073",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801074",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801075",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801076",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801077",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801078",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801079",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "6"
+    },
+    {
+      "TemplateId": "40801080",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801081",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801082",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801083",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801084",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801085",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801086",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801087",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801088",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801089",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801090",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801091",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801092",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801093",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801094",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801095",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801096",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801097",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801098",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801099",
+      "AddType": "0",
+      "Attack": "7",
+      "Defence": "7",
+      "MagicAttack": "7",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801100",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801101",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801102",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801103",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801104",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801105",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801106",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801107",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801108",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801109",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801110",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801111",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801112",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801113",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801114",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801115",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801116",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801117",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801118",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801119",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "7",
+      "MagicAttack": "8",
+      "MagicDefence": "7",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801120",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801121",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801122",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801123",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801124",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801125",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801126",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801127",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801128",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801129",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801130",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801131",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801132",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801133",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801134",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801135",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801136",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801137",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801138",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801139",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "7"
+    },
+    {
+      "TemplateId": "40801140",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801141",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801142",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801143",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801144",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801145",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801146",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801147",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801148",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801149",
+      "AddType": "0",
+      "Attack": "8",
+      "Defence": "8",
+      "MagicAttack": "8",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801150",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "8",
+      "MagicAttack": "9",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801151",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "8",
+      "MagicAttack": "9",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801152",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "8",
+      "MagicAttack": "9",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801153",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "8",
+      "MagicAttack": "9",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801154",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "8",
+      "MagicAttack": "9",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801155",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "8",
+      "MagicAttack": "9",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801156",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "8",
+      "MagicAttack": "9",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801157",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "8",
+      "MagicAttack": "9",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801158",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "8",
+      "MagicAttack": "9",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801159",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "8",
+      "MagicAttack": "9",
+      "MagicDefence": "8",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801160",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801161",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801162",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801163",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801164",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801165",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801166",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801167",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801168",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801169",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "8"
+    },
+    {
+      "TemplateId": "40801170",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801171",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801172",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801173",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801174",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801175",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801176",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801177",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801178",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801179",
+      "AddType": "0",
+      "Attack": "9",
+      "Defence": "9",
+      "MagicAttack": "9",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801180",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "9",
+      "MagicAttack": "10",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801181",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "9",
+      "MagicAttack": "10",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801182",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "9",
+      "MagicAttack": "10",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801183",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "9",
+      "MagicAttack": "10",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801184",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "9",
+      "MagicAttack": "10",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801185",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "9",
+      "MagicAttack": "10",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801186",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "9",
+      "MagicAttack": "10",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801187",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "9",
+      "MagicAttack": "10",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801188",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "9",
+      "MagicAttack": "10",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801189",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "9",
+      "MagicAttack": "10",
+      "MagicDefence": "9",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801190",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "10",
+      "MagicAttack": "10",
+      "MagicDefence": "10",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801191",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "10",
+      "MagicAttack": "10",
+      "MagicDefence": "10",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801192",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "10",
+      "MagicAttack": "10",
+      "MagicDefence": "10",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801193",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "10",
+      "MagicAttack": "10",
+      "MagicDefence": "10",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801194",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "10",
+      "MagicAttack": "10",
+      "MagicDefence": "10",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801195",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "10",
+      "MagicAttack": "10",
+      "MagicDefence": "10",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801196",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "10",
+      "MagicAttack": "10",
+      "MagicDefence": "10",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801197",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "10",
+      "MagicAttack": "10",
+      "MagicDefence": "10",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801198",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "10",
+      "MagicAttack": "10",
+      "MagicDefence": "10",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801199",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "10",
+      "MagicAttack": "10",
+      "MagicDefence": "10",
+      "Live": "9"
+    },
+    {
+      "TemplateId": "40801200",
+      "AddType": "0",
+      "Attack": "10",
+      "Defence": "10",
+      "MagicAttack": "10",
+      "MagicDefence": "10",
+      "Live": "10"
+    },
+    {
+      "TemplateId": "40802001",
+      "AddType": "1"
+    },
+    {
+      "TemplateId": "40802002",
+      "AddType": "1",
+      "Attack": "240",
+      "Defence": "240",
+      "MagicAttack": "240",
+      "MagicDefence": "240",
+      "Live": "2400"
+    },
+    {
+      "TemplateId": "40802003",
+      "AddType": "1",
+      "Attack": "300",
+      "Defence": "240",
+      "MagicAttack": "300",
+      "MagicDefence": "240",
+      "Live": "2400"
+    },
+    {
+      "TemplateId": "40802004",
+      "AddType": "1",
+      "Attack": "300",
+      "Defence": "300",
+      "MagicAttack": "300",
+      "MagicDefence": "300",
+      "Live": "2400"
+    },
+    {
+      "TemplateId": "40802005",
+      "AddType": "1",
+      "Attack": "300",
+      "Defence": "300",
+      "MagicAttack": "300",
+      "MagicDefence": "300",
+      "Live": "3000"
+    },
+    {
+      "TemplateId": "40802006",
+      "AddType": "1",
+      "Attack": "360",
+      "Defence": "300",
+      "MagicAttack": "360",
+      "MagicDefence": "300",
+      "Live": "3000"
+    },
+    {
+      "TemplateId": "40802007",
+      "AddType": "1",
+      "Attack": "360",
+      "Defence": "360",
+      "MagicAttack": "360",
+      "MagicDefence": "360",
+      "Live": "3000"
+    },
+    {
+      "TemplateId": "40802008",
+      "AddType": "1",
+      "Attack": "360",
+      "Defence": "360",
+      "MagicAttack": "360",
+      "MagicDefence": "360",
+      "Live": "3600"
+    },
+    {
+      "TemplateId": "40802009",
+      "AddType": "1",
+      "Attack": "420",
+      "Defence": "360",
+      "MagicAttack": "420",
+      "MagicDefence": "360",
+      "Live": "3600"
+    },
+    {
+      "TemplateId": "40802010",
+      "AddType": "1",
+      "Attack": "420",
+      "Defence": "420",
+      "MagicAttack": "420",
+      "MagicDefence": "420",
+      "Live": "3600"
+    },
+    {
+      "TemplateId": "40802011",
+      "AddType": "1",
+      "Attack": "420",
+      "Defence": "420",
+      "MagicAttack": "420",
+      "MagicDefence": "420",
+      "Live": "4200"
+    },
+    {
+      "TemplateId": "40802012",
+      "AddType": "1",
+      "Attack": "480",
+      "Defence": "420",
+      "MagicAttack": "480",
+      "MagicDefence": "420",
+      "Live": "4200"
+    },
+    {
+      "TemplateId": "40802013",
+      "AddType": "1",
+      "Attack": "480",
+      "Defence": "480",
+      "MagicAttack": "480",
+      "MagicDefence": "480",
+      "Live": "4200"
+    },
+    {
+      "TemplateId": "40802014",
+      "AddType": "1",
+      "Attack": "480",
+      "Defence": "480",
+      "MagicAttack": "480",
+      "MagicDefence": "480",
+      "Live": "4800"
+    },
+    {
+      "TemplateId": "40802015",
+      "AddType": "1",
+      "Attack": "540",
+      "Defence": "480",
+      "MagicAttack": "540",
+      "MagicDefence": "480",
+      "Live": "4800"
+    },
+    {
+      "TemplateId": "40802016",
+      "AddType": "1",
+      "Attack": "540",
+      "Defence": "540",
+      "MagicAttack": "540",
+      "MagicDefence": "540",
+      "Live": "4800"
+    },
+    {
+      "TemplateId": "40802017",
+      "AddType": "1",
+      "Attack": "540",
+      "Defence": "540",
+      "MagicAttack": "540",
+      "MagicDefence": "540",
+      "Live": "5400"
+    },
+    {
+      "TemplateId": "40802018",
+      "AddType": "1",
+      "Attack": "600",
+      "Defence": "540",
+      "MagicAttack": "600",
+      "MagicDefence": "540",
+      "Live": "5400"
+    },
+    {
+      "TemplateId": "40802019",
+      "AddType": "1",
+      "Attack": "600",
+      "Defence": "600",
+      "MagicAttack": "600",
+      "MagicDefence": "600",
+      "Live": "5400"
+    },
+    {
+      "TemplateId": "40802020",
+      "AddType": "1",
+      "Attack": "600",
+      "Defence": "600",
+      "MagicAttack": "600",
+      "MagicDefence": "600",
+      "Live": "6000"
+    },
+    {
+      "TemplateId": "40802021",
+      "AddType": "1",
+      "Attack": "660",
+      "Defence": "600",
+      "MagicAttack": "660",
+      "MagicDefence": "600",
+      "Live": "6000"
+    },
+    {
+      "TemplateId": "40802022",
+      "AddType": "1",
+      "Attack": "660",
+      "Defence": "660",
+      "MagicAttack": "660",
+      "MagicDefence": "660",
+      "Live": "6000"
+    },
+    {
+      "TemplateId": "40802023",
+      "AddType": "1",
+      "Attack": "660",
+      "Defence": "660",
+      "MagicAttack": "660",
+      "MagicDefence": "660",
+      "Live": "6600"
+    },
+    {
+      "TemplateId": "40802024",
+      "AddType": "1",
+      "Attack": "720",
+      "Defence": "660",
+      "MagicAttack": "720",
+      "MagicDefence": "660",
+      "Live": "6600"
+    },
+    {
+      "TemplateId": "40802025",
+      "AddType": "1",
+      "Attack": "720",
+      "Defence": "720",
+      "MagicAttack": "720",
+      "MagicDefence": "720",
+      "Live": "6600"
+    },
+    {
+      "TemplateId": "40802026",
+      "AddType": "1",
+      "Attack": "720",
+      "Defence": "720",
+      "MagicAttack": "720",
+      "MagicDefence": "720",
+      "Live": "7200"
+    },
+    {
+      "TemplateId": "40802027",
+      "AddType": "1",
+      "Attack": "780",
+      "Defence": "720",
+      "MagicAttack": "780",
+      "MagicDefence": "720",
+      "Live": "7200"
+    },
+    {
+      "TemplateId": "40802028",
+      "AddType": "1",
+      "Attack": "780",
+      "Defence": "780",
+      "MagicAttack": "780",
+      "MagicDefence": "780",
+      "Live": "7200"
+    },
+    {
+      "TemplateId": "40802029",
+      "AddType": "1",
+      "Attack": "780",
+      "Defence": "780",
+      "MagicAttack": "780",
+      "MagicDefence": "780",
+      "Live": "7800"
+    },
+    {
+      "TemplateId": "40802030",
+      "AddType": "1",
+      "Attack": "840",
+      "Defence": "780",
+      "MagicAttack": "840",
+      "MagicDefence": "780",
+      "Live": "7800"
+    },
+    {
+      "TemplateId": "40802031",
+      "AddType": "1",
+      "Attack": "840",
+      "Defence": "840",
+      "MagicAttack": "840",
+      "MagicDefence": "840",
+      "Live": "7800"
+    },
+    {
+      "TemplateId": "40802032",
+      "AddType": "1",
+      "Attack": "840",
+      "Defence": "840",
+      "MagicAttack": "840",
+      "MagicDefence": "840",
+      "Live": "8400"
+    },
+    {
+      "TemplateId": "40802033",
+      "AddType": "1",
+      "Attack": "900",
+      "Defence": "840",
+      "MagicAttack": "900",
+      "MagicDefence": "840",
+      "Live": "8400"
+    },
+    {
+      "TemplateId": "40802034",
+      "AddType": "1",
+      "Attack": "900",
+      "Defence": "900",
+      "MagicAttack": "900",
+      "MagicDefence": "900",
+      "Live": "8400"
+    },
+    {
+      "TemplateId": "40802035",
+      "AddType": "1",
+      "Attack": "900",
+      "Defence": "900",
+      "MagicAttack": "900",
+      "MagicDefence": "900",
+      "Live": "9000"
+    },
+    {
+      "TemplateId": "40802036",
+      "AddType": "1",
+      "Attack": "960",
+      "Defence": "900",
+      "MagicAttack": "960",
+      "MagicDefence": "900",
+      "Live": "9000"
+    },
+    {
+      "TemplateId": "40802037",
+      "AddType": "1",
+      "Attack": "960",
+      "Defence": "960",
+      "MagicAttack": "960",
+      "MagicDefence": "960",
+      "Live": "9000"
+    },
+    {
+      "TemplateId": "40802038",
+      "AddType": "1",
+      "Attack": "960",
+      "Defence": "960",
+      "MagicAttack": "960",
+      "MagicDefence": "960",
+      "Live": "9600"
+    },
+    {
+      "TemplateId": "40802039",
+      "AddType": "1",
+      "Attack": "1020",
+      "Defence": "960",
+      "MagicAttack": "1020",
+      "MagicDefence": "960",
+      "Live": "9600"
+    },
+    {
+      "TemplateId": "40802040",
+      "AddType": "1",
+      "Attack": "1020",
+      "Defence": "1020",
+      "MagicAttack": "1020",
+      "MagicDefence": "1020",
+      "Live": "9600"
+    },
+    {
+      "TemplateId": "40802041",
+      "AddType": "1",
+      "Attack": "1020",
+      "Defence": "1020",
+      "MagicAttack": "1020",
+      "MagicDefence": "1020",
+      "Live": "10200"
+    },
+    {
+      "TemplateId": "40802042",
+      "AddType": "1",
+      "Attack": "1080",
+      "Defence": "1020",
+      "MagicAttack": "1080",
+      "MagicDefence": "1020",
+      "Live": "10200"
+    },
+    {
+      "TemplateId": "40802043",
+      "AddType": "1",
+      "Attack": "1080",
+      "Defence": "1080",
+      "MagicAttack": "1080",
+      "MagicDefence": "1080",
+      "Live": "10200"
+    },
+    {
+      "TemplateId": "40802044",
+      "AddType": "1",
+      "Attack": "1080",
+      "Defence": "1080",
+      "MagicAttack": "1080",
+      "MagicDefence": "1080",
+      "Live": "10800"
+    },
+    {
+      "TemplateId": "40802045",
+      "AddType": "1",
+      "Attack": "1140",
+      "Defence": "1080",
+      "MagicAttack": "1140",
+      "MagicDefence": "1080",
+      "Live": "10800"
+    },
+    {
+      "TemplateId": "40802046",
+      "AddType": "1",
+      "Attack": "1140",
+      "Defence": "1140",
+      "MagicAttack": "1140",
+      "MagicDefence": "1140",
+      "Live": "10800"
+    },
+    {
+      "TemplateId": "40802047",
+      "AddType": "1",
+      "Attack": "1140",
+      "Defence": "1140",
+      "MagicAttack": "1140",
+      "MagicDefence": "1140",
+      "Live": "11400"
+    },
+    {
+      "TemplateId": "40802048",
+      "AddType": "1",
+      "Attack": "1200",
+      "Defence": "1140",
+      "MagicAttack": "1200",
+      "MagicDefence": "1140",
+      "Live": "11400"
+    },
+    {
+      "TemplateId": "40802049",
+      "AddType": "1",
+      "Attack": "1200",
+      "Defence": "1200",
+      "MagicAttack": "1200",
+      "MagicDefence": "1200",
+      "Live": "11400"
+    },
+    {
+      "TemplateId": "40802050",
+      "AddType": "1",
+      "Attack": "1200",
+      "Defence": "1200",
+      "MagicAttack": "1200",
+      "MagicDefence": "1200",
+      "Live": "12000"
+    },
+    {
+      "TemplateId": "40802051",
+      "AddType": "1",
+      "Attack": "1260",
+      "Defence": "1200",
+      "MagicAttack": "1260",
+      "MagicDefence": "1200",
+      "Live": "12000"
+    },
+    {
+      "TemplateId": "40802052",
+      "AddType": "1",
+      "Attack": "1260",
+      "Defence": "1260",
+      "MagicAttack": "1260",
+      "MagicDefence": "1260",
+      "Live": "12000"
+    },
+    {
+      "TemplateId": "40802053",
+      "AddType": "1",
+      "Attack": "1260",
+      "Defence": "1260",
+      "MagicAttack": "1260",
+      "MagicDefence": "1260",
+      "Live": "12600"
+    },
+    {
+      "TemplateId": "40802054",
+      "AddType": "1",
+      "Attack": "1320",
+      "Defence": "1260",
+      "MagicAttack": "1320",
+      "MagicDefence": "1260",
+      "Live": "12600"
+    },
+    {
+      "TemplateId": "40802055",
+      "AddType": "1",
+      "Attack": "1320",
+      "Defence": "1320",
+      "MagicAttack": "1320",
+      "MagicDefence": "1320",
+      "Live": "12600"
+    },
+    {
+      "TemplateId": "40802056",
+      "AddType": "1",
+      "Attack": "1320",
+      "Defence": "1320",
+      "MagicAttack": "1320",
+      "MagicDefence": "1320",
+      "Live": "13200"
+    },
+    {
+      "TemplateId": "40802057",
+      "AddType": "1",
+      "Attack": "1380",
+      "Defence": "1320",
+      "MagicAttack": "1380",
+      "MagicDefence": "1320",
+      "Live": "13200"
+    },
+    {
+      "TemplateId": "40802058",
+      "AddType": "1",
+      "Attack": "1380",
+      "Defence": "1380",
+      "MagicAttack": "1380",
+      "MagicDefence": "1380",
+      "Live": "13200"
+    },
+    {
+      "TemplateId": "40802059",
+      "AddType": "1",
+      "Attack": "1380",
+      "Defence": "1380",
+      "MagicAttack": "1380",
+      "MagicDefence": "1380",
+      "Live": "13800"
+    },
+    {
+      "TemplateId": "40802060",
+      "AddType": "1",
+      "Attack": "1440",
+      "Defence": "1380",
+      "MagicAttack": "1440",
+      "MagicDefence": "1380",
+      "Live": "13800"
+    },
+    {
+      "TemplateId": "40802061",
+      "AddType": "1",
+      "Attack": "1440",
+      "Defence": "1440",
+      "MagicAttack": "1440",
+      "MagicDefence": "1440",
+      "Live": "13800"
+    },
+    {
+      "TemplateId": "40802062",
+      "AddType": "1",
+      "Attack": "1440",
+      "Defence": "1440",
+      "MagicAttack": "1440",
+      "MagicDefence": "1440",
+      "Live": "14400"
+    },
+    {
+      "TemplateId": "40802063",
+      "AddType": "1",
+      "Attack": "1500",
+      "Defence": "1440",
+      "MagicAttack": "1500",
+      "MagicDefence": "1440",
+      "Live": "14400"
+    },
+    {
+      "TemplateId": "40802064",
+      "AddType": "1",
+      "Attack": "1500",
+      "Defence": "1500",
+      "MagicAttack": "1500",
+      "MagicDefence": "1500",
+      "Live": "14400"
+    },
+    {
+      "TemplateId": "40802065",
+      "AddType": "1",
+      "Attack": "1500",
+      "Defence": "1500",
+      "MagicAttack": "1500",
+      "MagicDefence": "1500",
+      "Live": "15000"
+    },
+    {
+      "TemplateId": "40802066",
+      "AddType": "1",
+      "Attack": "1560",
+      "Defence": "1500",
+      "MagicAttack": "1560",
+      "MagicDefence": "1500",
+      "Live": "15000"
+    },
+    {
+      "TemplateId": "40802067",
+      "AddType": "1",
+      "Attack": "1560",
+      "Defence": "1560",
+      "MagicAttack": "1560",
+      "MagicDefence": "1560",
+      "Live": "15000"
+    },
+    {
+      "TemplateId": "40802068",
+      "AddType": "1",
+      "Attack": "1560",
+      "Defence": "1560",
+      "MagicAttack": "1560",
+      "MagicDefence": "1560",
+      "Live": "15600"
+    },
+    {
+      "TemplateId": "40802069",
+      "AddType": "1",
+      "Attack": "1620",
+      "Defence": "1560",
+      "MagicAttack": "1620",
+      "MagicDefence": "1560",
+      "Live": "15600"
+    },
+    {
+      "TemplateId": "40802070",
+      "AddType": "1",
+      "Attack": "1620",
+      "Defence": "1620",
+      "MagicAttack": "1620",
+      "MagicDefence": "1620",
+      "Live": "15600"
+    },
+    {
+      "TemplateId": "40802071",
+      "AddType": "1",
+      "Attack": "1620",
+      "Defence": "1620",
+      "MagicAttack": "1620",
+      "MagicDefence": "1620",
+      "Live": "16200"
+    },
+    {
+      "TemplateId": "40802072",
+      "AddType": "1",
+      "Attack": "1680",
+      "Defence": "1620",
+      "MagicAttack": "1680",
+      "MagicDefence": "1620",
+      "Live": "16200"
+    },
+    {
+      "TemplateId": "40802073",
+      "AddType": "1",
+      "Attack": "1680",
+      "Defence": "1680",
+      "MagicAttack": "1680",
+      "MagicDefence": "1680",
+      "Live": "16200"
+    },
+    {
+      "TemplateId": "40802074",
+      "AddType": "1",
+      "Attack": "1680",
+      "Defence": "1680",
+      "MagicAttack": "1680",
+      "MagicDefence": "1680",
+      "Live": "16800"
+    },
+    {
+      "TemplateId": "40802075",
+      "AddType": "1",
+      "Attack": "1740",
+      "Defence": "1680",
+      "MagicAttack": "1740",
+      "MagicDefence": "1680",
+      "Live": "16800"
+    },
+    {
+      "TemplateId": "40802076",
+      "AddType": "1",
+      "Attack": "1740",
+      "Defence": "1740",
+      "MagicAttack": "1740",
+      "MagicDefence": "1740",
+      "Live": "16800"
+    },
+    {
+      "TemplateId": "40802077",
+      "AddType": "1",
+      "Attack": "1740",
+      "Defence": "1740",
+      "MagicAttack": "1740",
+      "MagicDefence": "1740",
+      "Live": "17400"
+    },
+    {
+      "TemplateId": "40802078",
+      "AddType": "1",
+      "Attack": "1800",
+      "Defence": "1740",
+      "MagicAttack": "1800",
+      "MagicDefence": "1740",
+      "Live": "17400"
+    },
+    {
+      "TemplateId": "40802079",
+      "AddType": "1",
+      "Attack": "1800",
+      "Defence": "1800",
+      "MagicAttack": "1800",
+      "MagicDefence": "1800",
+      "Live": "17400"
+    },
+    {
+      "TemplateId": "40802080",
+      "AddType": "1",
+      "Attack": "1800",
+      "Defence": "1800",
+      "MagicAttack": "1800",
+      "MagicDefence": "1800",
+      "Live": "18000"
+    },
+    {
+      "TemplateId": "40802081",
+      "AddType": "1",
+      "Attack": "1860",
+      "Defence": "1800",
+      "MagicAttack": "1860",
+      "MagicDefence": "1800",
+      "Live": "18000"
+    },
+    {
+      "TemplateId": "40802082",
+      "AddType": "1",
+      "Attack": "1860",
+      "Defence": "1860",
+      "MagicAttack": "1860",
+      "MagicDefence": "1860",
+      "Live": "18000"
+    },
+    {
+      "TemplateId": "40802083",
+      "AddType": "1",
+      "Attack": "1860",
+      "Defence": "1860",
+      "MagicAttack": "1860",
+      "MagicDefence": "1860",
+      "Live": "18600"
+    },
+    {
+      "TemplateId": "40802084",
+      "AddType": "1",
+      "Attack": "1920",
+      "Defence": "1860",
+      "MagicAttack": "1920",
+      "MagicDefence": "1860",
+      "Live": "18600"
+    },
+    {
+      "TemplateId": "40802085",
+      "AddType": "1",
+      "Attack": "1920",
+      "Defence": "1920",
+      "MagicAttack": "1920",
+      "MagicDefence": "1920",
+      "Live": "18600"
+    },
+    {
+      "TemplateId": "40802086",
+      "AddType": "1",
+      "Attack": "1920",
+      "Defence": "1920",
+      "MagicAttack": "1920",
+      "MagicDefence": "1920",
+      "Live": "19200"
+    },
+    {
+      "TemplateId": "40802087",
+      "AddType": "1",
+      "Attack": "1980",
+      "Defence": "1920",
+      "MagicAttack": "1980",
+      "MagicDefence": "1920",
+      "Live": "19200"
+    },
+    {
+      "TemplateId": "40802088",
+      "AddType": "1",
+      "Attack": "1980",
+      "Defence": "1980",
+      "MagicAttack": "1980",
+      "MagicDefence": "1980",
+      "Live": "19200"
+    },
+    {
+      "TemplateId": "40802089",
+      "AddType": "1",
+      "Attack": "1980",
+      "Defence": "1980",
+      "MagicAttack": "1980",
+      "MagicDefence": "1980",
+      "Live": "19800"
+    },
+    {
+      "TemplateId": "40802090",
+      "AddType": "1",
+      "Attack": "2040",
+      "Defence": "1980",
+      "MagicAttack": "2040",
+      "MagicDefence": "1980",
+      "Live": "19800"
+    },
+    {
+      "TemplateId": "40802091",
+      "AddType": "1",
+      "Attack": "2040",
+      "Defence": "2040",
+      "MagicAttack": "2040",
+      "MagicDefence": "2040",
+      "Live": "19800"
+    },
+    {
+      "TemplateId": "40802092",
+      "AddType": "1",
+      "Attack": "2040",
+      "Defence": "2040",
+      "MagicAttack": "2040",
+      "MagicDefence": "2040",
+      "Live": "20400"
+    },
+    {
+      "TemplateId": "40802093",
+      "AddType": "1",
+      "Attack": "2100",
+      "Defence": "2040",
+      "MagicAttack": "2100",
+      "MagicDefence": "2040",
+      "Live": "20400"
+    },
+    {
+      "TemplateId": "40802094",
+      "AddType": "1",
+      "Attack": "2100",
+      "Defence": "2100",
+      "MagicAttack": "2100",
+      "MagicDefence": "2100",
+      "Live": "20400"
+    },
+    {
+      "TemplateId": "40802095",
+      "AddType": "1",
+      "Attack": "2100",
+      "Defence": "2100",
+      "MagicAttack": "2100",
+      "MagicDefence": "2100",
+      "Live": "21000"
+    },
+    {
+      "TemplateId": "40802096",
+      "AddType": "1",
+      "Attack": "2160",
+      "Defence": "2100",
+      "MagicAttack": "2160",
+      "MagicDefence": "2100",
+      "Live": "21000"
+    },
+    {
+      "TemplateId": "40802097",
+      "AddType": "1",
+      "Attack": "2160",
+      "Defence": "2160",
+      "MagicAttack": "2160",
+      "MagicDefence": "2160",
+      "Live": "21000"
+    },
+    {
+      "TemplateId": "40802098",
+      "AddType": "1",
+      "Attack": "2160",
+      "Defence": "2160",
+      "MagicAttack": "2160",
+      "MagicDefence": "2160",
+      "Live": "21600"
+    },
+    {
+      "TemplateId": "40802099",
+      "AddType": "1",
+      "Attack": "2220",
+      "Defence": "2160",
+      "MagicAttack": "2220",
+      "MagicDefence": "2160",
+      "Live": "21600"
+    },
+    {
+      "TemplateId": "40802100",
+      "AddType": "1",
+      "Attack": "2220",
+      "Defence": "2220",
+      "MagicAttack": "2220",
+      "MagicDefence": "2220",
+      "Live": "21600"
+    },
+    {
+      "TemplateId": "40802101",
+      "AddType": "1",
+      "Attack": "2220",
+      "Defence": "2220",
+      "MagicAttack": "2220",
+      "MagicDefence": "2220",
+      "Live": "22200"
+    },
+    {
+      "TemplateId": "40802102",
+      "AddType": "1",
+      "Attack": "2280",
+      "Defence": "2220",
+      "MagicAttack": "2280",
+      "MagicDefence": "2220",
+      "Live": "22200"
+    },
+    {
+      "TemplateId": "40802103",
+      "AddType": "1",
+      "Attack": "2280",
+      "Defence": "2280",
+      "MagicAttack": "2280",
+      "MagicDefence": "2280",
+      "Live": "22200"
+    },
+    {
+      "TemplateId": "40802104",
+      "AddType": "1",
+      "Attack": "2280",
+      "Defence": "2280",
+      "MagicAttack": "2280",
+      "MagicDefence": "2280",
+      "Live": "22800"
+    },
+    {
+      "TemplateId": "40802105",
+      "AddType": "1",
+      "Attack": "2340",
+      "Defence": "2280",
+      "MagicAttack": "2340",
+      "MagicDefence": "2280",
+      "Live": "22800"
+    },
+    {
+      "TemplateId": "40802106",
+      "AddType": "1",
+      "Attack": "2340",
+      "Defence": "2340",
+      "MagicAttack": "2340",
+      "MagicDefence": "2340",
+      "Live": "22800"
+    },
+    {
+      "TemplateId": "40802107",
+      "AddType": "1",
+      "Attack": "2340",
+      "Defence": "2340",
+      "MagicAttack": "2340",
+      "MagicDefence": "2340",
+      "Live": "23400"
+    },
+    {
+      "TemplateId": "40802108",
+      "AddType": "1",
+      "Attack": "2400",
+      "Defence": "2340",
+      "MagicAttack": "2400",
+      "MagicDefence": "2340",
+      "Live": "23400"
+    },
+    {
+      "TemplateId": "40802109",
+      "AddType": "1",
+      "Attack": "2400",
+      "Defence": "2400",
+      "MagicAttack": "2400",
+      "MagicDefence": "2400",
+      "Live": "23400"
+    },
+    {
+      "TemplateId": "40802110",
+      "AddType": "1",
+      "Attack": "2400",
+      "Defence": "2400",
+      "MagicAttack": "2400",
+      "MagicDefence": "2400",
+      "Live": "24000"
+    },
+    {
+      "TemplateId": "40802111",
+      "AddType": "1",
+      "Attack": "2460",
+      "Defence": "2400",
+      "MagicAttack": "2460",
+      "MagicDefence": "2400",
+      "Live": "24000"
+    },
+    {
+      "TemplateId": "40802112",
+      "AddType": "1",
+      "Attack": "2460",
+      "Defence": "2460",
+      "MagicAttack": "2460",
+      "MagicDefence": "2460",
+      "Live": "24000"
+    },
+    {
+      "TemplateId": "40802113",
+      "AddType": "1",
+      "Attack": "2460",
+      "Defence": "2460",
+      "MagicAttack": "2460",
+      "MagicDefence": "2460",
+      "Live": "24600"
+    },
+    {
+      "TemplateId": "40802114",
+      "AddType": "1",
+      "Attack": "2520",
+      "Defence": "2460",
+      "MagicAttack": "2520",
+      "MagicDefence": "2460",
+      "Live": "24600"
+    },
+    {
+      "TemplateId": "40802115",
+      "AddType": "1",
+      "Attack": "2520",
+      "Defence": "2520",
+      "MagicAttack": "2520",
+      "MagicDefence": "2520",
+      "Live": "24600"
+    },
+    {
+      "TemplateId": "40802116",
+      "AddType": "1",
+      "Attack": "2520",
+      "Defence": "2520",
+      "MagicAttack": "2520",
+      "MagicDefence": "2520",
+      "Live": "25200"
+    },
+    {
+      "TemplateId": "40802117",
+      "AddType": "1",
+      "Attack": "2580",
+      "Defence": "2520",
+      "MagicAttack": "2580",
+      "MagicDefence": "2520",
+      "Live": "25200"
+    },
+    {
+      "TemplateId": "40802118",
+      "AddType": "1",
+      "Attack": "2580",
+      "Defence": "2580",
+      "MagicAttack": "2580",
+      "MagicDefence": "2580",
+      "Live": "25200"
+    },
+    {
+      "TemplateId": "40802119",
+      "AddType": "1",
+      "Attack": "2580",
+      "Defence": "2580",
+      "MagicAttack": "2580",
+      "MagicDefence": "2580",
+      "Live": "25800"
+    },
+    {
+      "TemplateId": "40802120",
+      "AddType": "1",
+      "Attack": "2640",
+      "Defence": "2580",
+      "MagicAttack": "2640",
+      "MagicDefence": "2580",
+      "Live": "25800"
+    },
+    {
+      "TemplateId": "40802121",
+      "AddType": "1",
+      "Attack": "2640",
+      "Defence": "2640",
+      "MagicAttack": "2640",
+      "MagicDefence": "2640",
+      "Live": "25800"
+    },
+    {
+      "TemplateId": "40802122",
+      "AddType": "1",
+      "Attack": "2640",
+      "Defence": "2640",
+      "MagicAttack": "2640",
+      "MagicDefence": "2640",
+      "Live": "26400"
+    },
+    {
+      "TemplateId": "40802123",
+      "AddType": "1",
+      "Attack": "2700",
+      "Defence": "2640",
+      "MagicAttack": "2700",
+      "MagicDefence": "2640",
+      "Live": "26400"
+    },
+    {
+      "TemplateId": "40802124",
+      "AddType": "1",
+      "Attack": "2700",
+      "Defence": "2700",
+      "MagicAttack": "2700",
+      "MagicDefence": "2700",
+      "Live": "26400"
+    },
+    {
+      "TemplateId": "40802125",
+      "AddType": "1",
+      "Attack": "2700",
+      "Defence": "2700",
+      "MagicAttack": "2700",
+      "MagicDefence": "2700",
+      "Live": "27000"
+    },
+    {
+      "TemplateId": "40802126",
+      "AddType": "1",
+      "Attack": "2760",
+      "Defence": "2700",
+      "MagicAttack": "2760",
+      "MagicDefence": "2700",
+      "Live": "27000"
+    },
+    {
+      "TemplateId": "40802127",
+      "AddType": "1",
+      "Attack": "2760",
+      "Defence": "2760",
+      "MagicAttack": "2760",
+      "MagicDefence": "2760",
+      "Live": "27000"
+    },
+    {
+      "TemplateId": "40802128",
+      "AddType": "1",
+      "Attack": "2760",
+      "Defence": "2760",
+      "MagicAttack": "2760",
+      "MagicDefence": "2760",
+      "Live": "27600"
+    },
+    {
+      "TemplateId": "40802129",
+      "AddType": "1",
+      "Attack": "2820",
+      "Defence": "2760",
+      "MagicAttack": "2820",
+      "MagicDefence": "2760",
+      "Live": "27600"
+    },
+    {
+      "TemplateId": "40802130",
+      "AddType": "1",
+      "Attack": "2820",
+      "Defence": "2820",
+      "MagicAttack": "2820",
+      "MagicDefence": "2820",
+      "Live": "27600"
+    },
+    {
+      "TemplateId": "40802131",
+      "AddType": "1",
+      "Attack": "2820",
+      "Defence": "2820",
+      "MagicAttack": "2820",
+      "MagicDefence": "2820",
+      "Live": "28200"
+    },
+    {
+      "TemplateId": "40802132",
+      "AddType": "1",
+      "Attack": "2880",
+      "Defence": "2820",
+      "MagicAttack": "2880",
+      "MagicDefence": "2820",
+      "Live": "28200"
+    },
+    {
+      "TemplateId": "40802133",
+      "AddType": "1",
+      "Attack": "2880",
+      "Defence": "2880",
+      "MagicAttack": "2880",
+      "MagicDefence": "2880",
+      "Live": "28200"
+    },
+    {
+      "TemplateId": "40802134",
+      "AddType": "1",
+      "Attack": "2880",
+      "Defence": "2880",
+      "MagicAttack": "2880",
+      "MagicDefence": "2880",
+      "Live": "28800"
+    },
+    {
+      "TemplateId": "40802135",
+      "AddType": "1",
+      "Attack": "2940",
+      "Defence": "2880",
+      "MagicAttack": "2940",
+      "MagicDefence": "2880",
+      "Live": "28800"
+    },
+    {
+      "TemplateId": "40802136",
+      "AddType": "1",
+      "Attack": "2940",
+      "Defence": "2940",
+      "MagicAttack": "2940",
+      "MagicDefence": "2940",
+      "Live": "28800"
+    },
+    {
+      "TemplateId": "40802137",
+      "AddType": "1",
+      "Attack": "2940",
+      "Defence": "2940",
+      "MagicAttack": "2940",
+      "MagicDefence": "2940",
+      "Live": "29400"
+    },
+    {
+      "TemplateId": "40802138",
+      "AddType": "1",
+      "Attack": "3000",
+      "Defence": "2940",
+      "MagicAttack": "3000",
+      "MagicDefence": "2940",
+      "Live": "29400"
+    },
+    {
+      "TemplateId": "40802139",
+      "AddType": "1",
+      "Attack": "3000",
+      "Defence": "3000",
+      "MagicAttack": "3000",
+      "MagicDefence": "3000",
+      "Live": "29400"
+    },
+    {
+      "TemplateId": "40802140",
+      "AddType": "1",
+      "Attack": "3000",
+      "Defence": "3000",
+      "MagicAttack": "3000",
+      "MagicDefence": "3000",
+      "Live": "30000"
+    },
+    {
+      "TemplateId": "40802141",
+      "AddType": "1",
+      "Attack": "3060",
+      "Defence": "3000",
+      "MagicAttack": "3060",
+      "MagicDefence": "3000",
+      "Live": "30000"
+    },
+    {
+      "TemplateId": "40802142",
+      "AddType": "1",
+      "Attack": "3060",
+      "Defence": "3060",
+      "MagicAttack": "3060",
+      "MagicDefence": "3060",
+      "Live": "30000"
+    },
+    {
+      "TemplateId": "40802143",
+      "AddType": "1",
+      "Attack": "3060",
+      "Defence": "3060",
+      "MagicAttack": "3060",
+      "MagicDefence": "3060",
+      "Live": "30600"
+    },
+    {
+      "TemplateId": "40802144",
+      "AddType": "1",
+      "Attack": "3120",
+      "Defence": "3060",
+      "MagicAttack": "3120",
+      "MagicDefence": "3060",
+      "Live": "30600"
+    },
+    {
+      "TemplateId": "40802145",
+      "AddType": "1",
+      "Attack": "3120",
+      "Defence": "3120",
+      "MagicAttack": "3120",
+      "MagicDefence": "3120",
+      "Live": "30600"
+    },
+    {
+      "TemplateId": "40802146",
+      "AddType": "1",
+      "Attack": "3120",
+      "Defence": "3120",
+      "MagicAttack": "3120",
+      "MagicDefence": "3120",
+      "Live": "31200"
+    },
+    {
+      "TemplateId": "40802147",
+      "AddType": "1",
+      "Attack": "3180",
+      "Defence": "3120",
+      "MagicAttack": "3180",
+      "MagicDefence": "3120",
+      "Live": "31200"
+    },
+    {
+      "TemplateId": "40802148",
+      "AddType": "1",
+      "Attack": "3180",
+      "Defence": "3180",
+      "MagicAttack": "3180",
+      "MagicDefence": "3180",
+      "Live": "31200"
+    },
+    {
+      "TemplateId": "40802149",
+      "AddType": "1",
+      "Attack": "3180",
+      "Defence": "3180",
+      "MagicAttack": "3180",
+      "MagicDefence": "3180",
+      "Live": "31800"
+    },
+    {
+      "TemplateId": "40802150",
+      "AddType": "1",
+      "Attack": "3240",
+      "Defence": "3180",
+      "MagicAttack": "3240",
+      "MagicDefence": "3180",
+      "Live": "31800"
+    },
+    {
+      "TemplateId": "40802151",
+      "AddType": "1",
+      "Attack": "3240",
+      "Defence": "3240",
+      "MagicAttack": "3240",
+      "MagicDefence": "3240",
+      "Live": "31800"
+    },
+    {
+      "TemplateId": "40802152",
+      "AddType": "1",
+      "Attack": "3240",
+      "Defence": "3240",
+      "MagicAttack": "3240",
+      "MagicDefence": "3240",
+      "Live": "32400"
+    },
+    {
+      "TemplateId": "40802153",
+      "AddType": "1",
+      "Attack": "3300",
+      "Defence": "3240",
+      "MagicAttack": "3300",
+      "MagicDefence": "3240",
+      "Live": "32400"
+    },
+    {
+      "TemplateId": "40802154",
+      "AddType": "1",
+      "Attack": "3300",
+      "Defence": "3300",
+      "MagicAttack": "3300",
+      "MagicDefence": "3300",
+      "Live": "32400"
+    },
+    {
+      "TemplateId": "40802155",
+      "AddType": "1",
+      "Attack": "3300",
+      "Defence": "3300",
+      "MagicAttack": "3300",
+      "MagicDefence": "3300",
+      "Live": "33000"
+    },
+    {
+      "TemplateId": "40802156",
+      "AddType": "1",
+      "Attack": "3360",
+      "Defence": "3300",
+      "MagicAttack": "3360",
+      "MagicDefence": "3300",
+      "Live": "33000"
+    },
+    {
+      "TemplateId": "40802157",
+      "AddType": "1",
+      "Attack": "3360",
+      "Defence": "3360",
+      "MagicAttack": "3360",
+      "MagicDefence": "3360",
+      "Live": "33000"
+    },
+    {
+      "TemplateId": "40802158",
+      "AddType": "1",
+      "Attack": "3360",
+      "Defence": "3360",
+      "MagicAttack": "3360",
+      "MagicDefence": "3360",
+      "Live": "33600"
+    },
+    {
+      "TemplateId": "40802159",
+      "AddType": "1",
+      "Attack": "3420",
+      "Defence": "3360",
+      "MagicAttack": "3420",
+      "MagicDefence": "3360",
+      "Live": "33600"
+    },
+    {
+      "TemplateId": "40802160",
+      "AddType": "1",
+      "Attack": "3420",
+      "Defence": "3420",
+      "MagicAttack": "3420",
+      "MagicDefence": "3420",
+      "Live": "33600"
+    },
+    {
+      "TemplateId": "40802161",
+      "AddType": "1",
+      "Attack": "3420",
+      "Defence": "3420",
+      "MagicAttack": "3420",
+      "MagicDefence": "3420",
+      "Live": "34200"
+    },
+    {
+      "TemplateId": "40802162",
+      "AddType": "1",
+      "Attack": "3480",
+      "Defence": "3420",
+      "MagicAttack": "3480",
+      "MagicDefence": "3420",
+      "Live": "34200"
+    },
+    {
+      "TemplateId": "40802163",
+      "AddType": "1",
+      "Attack": "3480",
+      "Defence": "3480",
+      "MagicAttack": "3480",
+      "MagicDefence": "3480",
+      "Live": "34200"
+    },
+    {
+      "TemplateId": "40802164",
+      "AddType": "1",
+      "Attack": "3480",
+      "Defence": "3480",
+      "MagicAttack": "3480",
+      "MagicDefence": "3480",
+      "Live": "34800"
+    },
+    {
+      "TemplateId": "40802165",
+      "AddType": "1",
+      "Attack": "3540",
+      "Defence": "3480",
+      "MagicAttack": "3540",
+      "MagicDefence": "3480",
+      "Live": "34800"
+    },
+    {
+      "TemplateId": "40802166",
+      "AddType": "1",
+      "Attack": "3540",
+      "Defence": "3540",
+      "MagicAttack": "3540",
+      "MagicDefence": "3540",
+      "Live": "34800"
+    },
+    {
+      "TemplateId": "40802167",
+      "AddType": "1",
+      "Attack": "3540",
+      "Defence": "3540",
+      "MagicAttack": "3540",
+      "MagicDefence": "3540",
+      "Live": "35400"
+    },
+    {
+      "TemplateId": "40802168",
+      "AddType": "1",
+      "Attack": "3600",
+      "Defence": "3540",
+      "MagicAttack": "3600",
+      "MagicDefence": "3540",
+      "Live": "35400"
+    },
+    {
+      "TemplateId": "40802169",
+      "AddType": "1",
+      "Attack": "3600",
+      "Defence": "3600",
+      "MagicAttack": "3600",
+      "MagicDefence": "3600",
+      "Live": "35400"
+    },
+    {
+      "TemplateId": "40802170",
+      "AddType": "1",
+      "Attack": "3600",
+      "Defence": "3600",
+      "MagicAttack": "3600",
+      "MagicDefence": "3600",
+      "Live": "36000"
+    },
+    {
+      "TemplateId": "40802171",
+      "AddType": "1",
+      "Attack": "3660",
+      "Defence": "3600",
+      "MagicAttack": "3660",
+      "MagicDefence": "3600",
+      "Live": "36000"
+    },
+    {
+      "TemplateId": "40802172",
+      "AddType": "1",
+      "Attack": "3660",
+      "Defence": "3660",
+      "MagicAttack": "3660",
+      "MagicDefence": "3660",
+      "Live": "36000"
+    },
+    {
+      "TemplateId": "40802173",
+      "AddType": "1",
+      "Attack": "3660",
+      "Defence": "3660",
+      "MagicAttack": "3660",
+      "MagicDefence": "3660",
+      "Live": "36600"
+    },
+    {
+      "TemplateId": "40802174",
+      "AddType": "1",
+      "Attack": "3720",
+      "Defence": "3660",
+      "MagicAttack": "3720",
+      "MagicDefence": "3660",
+      "Live": "36600"
+    },
+    {
+      "TemplateId": "40802175",
+      "AddType": "1",
+      "Attack": "3720",
+      "Defence": "3720",
+      "MagicAttack": "3720",
+      "MagicDefence": "3720",
+      "Live": "36600"
+    },
+    {
+      "TemplateId": "40802176",
+      "AddType": "1",
+      "Attack": "3720",
+      "Defence": "3720",
+      "MagicAttack": "3720",
+      "MagicDefence": "3720",
+      "Live": "37200"
+    },
+    {
+      "TemplateId": "40802177",
+      "AddType": "1",
+      "Attack": "3780",
+      "Defence": "3720",
+      "MagicAttack": "3780",
+      "MagicDefence": "3720",
+      "Live": "37200"
+    },
+    {
+      "TemplateId": "40802178",
+      "AddType": "1",
+      "Attack": "3780",
+      "Defence": "3780",
+      "MagicAttack": "3780",
+      "MagicDefence": "3780",
+      "Live": "37200"
+    },
+    {
+      "TemplateId": "40802179",
+      "AddType": "1",
+      "Attack": "3780",
+      "Defence": "3780",
+      "MagicAttack": "3780",
+      "MagicDefence": "3780",
+      "Live": "37800"
+    },
+    {
+      "TemplateId": "40802180",
+      "AddType": "1",
+      "Attack": "3840",
+      "Defence": "3780",
+      "MagicAttack": "3840",
+      "MagicDefence": "3780",
+      "Live": "37800"
+    },
+    {
+      "TemplateId": "40802181",
+      "AddType": "1",
+      "Attack": "3840",
+      "Defence": "3840",
+      "MagicAttack": "3840",
+      "MagicDefence": "3840",
+      "Live": "37800"
+    },
+    {
+      "TemplateId": "40802182",
+      "AddType": "1",
+      "Attack": "3840",
+      "Defence": "3840",
+      "MagicAttack": "3840",
+      "MagicDefence": "3840",
+      "Live": "38400"
+    },
+    {
+      "TemplateId": "40802183",
+      "AddType": "1",
+      "Attack": "3900",
+      "Defence": "3840",
+      "MagicAttack": "3900",
+      "MagicDefence": "3840",
+      "Live": "38400"
+    },
+    {
+      "TemplateId": "40802184",
+      "AddType": "1",
+      "Attack": "3900",
+      "Defence": "3900",
+      "MagicAttack": "3900",
+      "MagicDefence": "3900",
+      "Live": "38400"
+    },
+    {
+      "TemplateId": "40802185",
+      "AddType": "1",
+      "Attack": "3900",
+      "Defence": "3900",
+      "MagicAttack": "3900",
+      "MagicDefence": "3900",
+      "Live": "39000"
+    },
+    {
+      "TemplateId": "40802186",
+      "AddType": "1",
+      "Attack": "3960",
+      "Defence": "3900",
+      "MagicAttack": "3960",
+      "MagicDefence": "3900",
+      "Live": "39000"
+    },
+    {
+      "TemplateId": "40802187",
+      "AddType": "1",
+      "Attack": "3960",
+      "Defence": "3960",
+      "MagicAttack": "3960",
+      "MagicDefence": "3960",
+      "Live": "39000"
+    },
+    {
+      "TemplateId": "40802188",
+      "AddType": "1",
+      "Attack": "3960",
+      "Defence": "3960",
+      "MagicAttack": "3960",
+      "MagicDefence": "3960",
+      "Live": "39600"
+    },
+    {
+      "TemplateId": "40802189",
+      "AddType": "1",
+      "Attack": "4020",
+      "Defence": "3960",
+      "MagicAttack": "4020",
+      "MagicDefence": "3960",
+      "Live": "39600"
+    },
+    {
+      "TemplateId": "40802190",
+      "AddType": "1",
+      "Attack": "4020",
+      "Defence": "4020",
+      "MagicAttack": "4020",
+      "MagicDefence": "4020",
+      "Live": "39600"
+    },
+    {
+      "TemplateId": "40802191",
+      "AddType": "1",
+      "Attack": "4020",
+      "Defence": "4020",
+      "MagicAttack": "4020",
+      "MagicDefence": "4020",
+      "Live": "40200"
+    },
+    {
+      "TemplateId": "40802192",
+      "AddType": "1",
+      "Attack": "4080",
+      "Defence": "4020",
+      "MagicAttack": "4080",
+      "MagicDefence": "4020",
+      "Live": "40200"
+    },
+    {
+      "TemplateId": "40802193",
+      "AddType": "1",
+      "Attack": "4080",
+      "Defence": "4080",
+      "MagicAttack": "4080",
+      "MagicDefence": "4080",
+      "Live": "40200"
+    },
+    {
+      "TemplateId": "40802194",
+      "AddType": "1",
+      "Attack": "4080",
+      "Defence": "4080",
+      "MagicAttack": "4080",
+      "MagicDefence": "4080",
+      "Live": "40800"
+    },
+    {
+      "TemplateId": "40802195",
+      "AddType": "1",
+      "Attack": "4140",
+      "Defence": "4080",
+      "MagicAttack": "4140",
+      "MagicDefence": "4080",
+      "Live": "40800"
+    },
+    {
+      "TemplateId": "40802196",
+      "AddType": "1",
+      "Attack": "4140",
+      "Defence": "4140",
+      "MagicAttack": "4140",
+      "MagicDefence": "4140",
+      "Live": "40800"
+    },
+    {
+      "TemplateId": "40802197",
+      "AddType": "1",
+      "Attack": "4140",
+      "Defence": "4140",
+      "MagicAttack": "4140",
+      "MagicDefence": "4140",
+      "Live": "41400"
+    },
+    {
+      "TemplateId": "40802198",
+      "AddType": "1",
+      "Attack": "4200",
+      "Defence": "4140",
+      "MagicAttack": "4200",
+      "MagicDefence": "4140",
+      "Live": "41400"
+    },
+    {
+      "TemplateId": "40802199",
+      "AddType": "1",
+      "Attack": "4200",
+      "Defence": "4200",
+      "MagicAttack": "4200",
+      "MagicDefence": "4200",
+      "Live": "41400"
+    },
+    {
+      "TemplateId": "40802200",
+      "AddType": "1",
+      "Attack": "4200",
+      "Defence": "4200",
+      "MagicAttack": "4200",
+      "MagicDefence": "4200",
+      "Live": "42000"
+    }
+  ]
+}

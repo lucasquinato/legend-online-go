@@ -1,0 +1,2 @@
+import java.io.*;import com.jpexs.decompiler.flash.*;import com.jpexs.decompiler.flash.tags.*;import com.jpexs.decompiler.flash.abc.*;
+class MountStructure {public static void main(String[] a)throws Exception{for(String p:a){SWF s=new SWF(new FileInputStream(p),true);System.out.println("FILE "+p+" version "+s.version+" packs "+s.getAS3Packs().size());for(Tag t:s.getTags())if(t instanceof DoABC2Tag){DoABC2Tag d=(DoABC2Tag)t;ABC abc=d.getABC();System.out.println("ABC flags="+d.flags+" name="+d.name+" classes="+abc.instance_info.size()+" scripts="+abc.script_info.size());}}}}

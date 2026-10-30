@@ -1,0 +1,4352 @@
+{
+  "at": "2026-10-15T01:45:05.051Z",
+  "username": "pirata_teste",
+  "userId": 1826,
+  "eligible": 721,
+  "changed": 720,
+  "details": [
+    {
+      "id": 1000,
+      "name": "Cavalo Branco",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1001,
+      "name": "Olho Escarlate",
+      "before": 0,
+      "after": 1
+    },
+    {
+      "id": 1002,
+      "name": "Escuridão Profunda",
+      "before": 0,
+      "after": 1
+    },
+    {
+      "id": 1003,
+      "name": "Cavalaria Noturna",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 1004,
+      "name": "Cavalaria da Realeza",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1005,
+      "name": "Cavalaria do Vento",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1006,
+      "name": "Cavalo Imperial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1007,
+      "name": "Alpaca Branco",
+      "before": 0,
+      "after": 1
+    },
+    {
+      "id": 1008,
+      "name": "Porquinho Rosa",
+      "before": 0,
+      "after": 1
+    },
+    {
+      "id": 1009,
+      "name": "Devorador Dourado",
+      "before": 0,
+      "after": 1
+    },
+    {
+      "id": 1010,
+      "name": "Noite Mágica",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 1101,
+      "name": "Coelho de Jade",
+      "before": 0,
+      "after": 1
+    },
+    {
+      "id": 1102,
+      "name": "Fera · Imperial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1103,
+      "name": "Alpaca Demônio",
+      "before": 0,
+      "after": 1
+    },
+    {
+      "id": 1104,
+      "name": "Alpaca Violento",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 1105,
+      "name": "Chocobo",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 1106,
+      "name": "Alce Misterioso",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 1107,
+      "name": "Porco Alentejano",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1108,
+      "name": "Lobo Venenoso",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1109,
+      "name": "Raposa Imortal",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 1110,
+      "name": "Porco Azul",
+      "before": 0,
+      "after": 1
+    },
+    {
+      "id": 1111,
+      "name": "Macaco Etéreo",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 1112,
+      "name": "Besta Auspiciosa",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1113,
+      "name": "Dragão Arcaico",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1114,
+      "name": "Ancião Dourado",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1115,
+      "name": "Urso Demolidor de Pedras",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 1116,
+      "name": "Fera · Bao",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1117,
+      "name": "Cavalo Voador",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1119,
+      "name": "Carta do Panda Cebola",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1120,
+      "name": "Besta do Abismo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1121,
+      "name": "Garra de Aço",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1122,
+      "name": "Paladino Ares",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1123,
+      "name": "Tamba",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1124,
+      "name": "Rinoceronte Demoníaco",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1125,
+      "name": "Tapir",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1126,
+      "name": "Leão Glacial",
+      "before": 0,
+      "after": 1
+    },
+    {
+      "id": 1127,
+      "name": "Elefante dos Nove Dentes",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1128,
+      "name": "Guerreiro Tigre",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1129,
+      "name": "Pássaro Andarilho",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 1130,
+      "name": "Chamas",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1133,
+      "name": "Unicórnio Celestial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1134,
+      "name": "Antílope Dourado",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 1135,
+      "name": "Montaria de guerra",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1136,
+      "name": "Dora",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 1137,
+      "name": "Leão Norte Europeu",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1138,
+      "name": "Leão do Gelo",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1139,
+      "name": "Chama Nobre",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 1140,
+      "name": "Leão da Luz",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 1141,
+      "name": "Urso Glacial",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1142,
+      "name": "Gato Demônico",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1143,
+      "name": "Fera Auspiciosa",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1144,
+      "name": "Espírito da Raposa Azul",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1145,
+      "name": "Camelo Branco",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1146,
+      "name": "Escorpião",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 1147,
+      "name": "Leopardo Congelado",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 1148,
+      "name": "Fera das Nuvens",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1149,
+      "name": "Tigre das Trevas",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 1150,
+      "name": "A Voação Dupla",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1151,
+      "name": "Pássaro Majestoso",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1152,
+      "name": "Raposa Encantadora",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1153,
+      "name": "Caos",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 1154,
+      "name": "Pato Amarelo",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 1201,
+      "name": "Espírito da Neve",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 2001,
+      "name": "Cavalo Infernal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 2002,
+      "name": "Fera Infernal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 2003,
+      "name": "Sombra em Chamas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3001,
+      "name": "Pegasus Sagrado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3002,
+      "name": "Lobo de Masmorra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3003,
+      "name": "Divino · Tempestade",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3004,
+      "name": "Infernal · Eclipse",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 3005,
+      "name": "Sonho Azul",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3006,
+      "name": "Burrinho",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 3007,
+      "name": "Nevoado Sagrado",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 3008,
+      "name": "Pesadelo do Dragão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3009,
+      "name": "Cavalo Mecânico",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "id": 3010,
+      "name": "Dragão do Relâmpago Azul",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3011,
+      "name": "Sr. Smart",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3012,
+      "name": "Espectro Dourado",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3013,
+      "name": "Dragão Infernal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3014,
+      "name": "Touro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3015,
+      "name": "Porquinho da índia",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 3016,
+      "name": "Blindagem de Rinoceronte",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3017,
+      "name": "Quimera",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3018,
+      "name": "Tamanduá",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 3019,
+      "name": "Leão-Coruja",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3020,
+      "name": "Unicórnio das Runas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3021,
+      "name": "Câncer",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 3022,
+      "name": "Triceratops",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 3023,
+      "name": "Leopardo Venenoso",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3024,
+      "name": "Dragão da Variação",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3025,
+      "name": "Cabeça de Ferro",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 3026,
+      "name": "Tarântula Orquídea",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3027,
+      "name": "Tartaruga Imperial",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3028,
+      "name": "Cavalo Ósseo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3029,
+      "name": "Senhora Bolha",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3030,
+      "name": "Monstro do Chifre",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3031,
+      "name": "Escorpião",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3032,
+      "name": "Lobo de Aço",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3033,
+      "name": "Husky Siberiano",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3034,
+      "name": "Zebra da Infantaria",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3035,
+      "name": "Camaleão",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3037,
+      "name": "Cão Zumbi",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3038,
+      "name": "Áries",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3039,
+      "name": "Raposa Branca",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3040,
+      "name": "Peixe Dourado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3041,
+      "name": "Enke 2000",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3042,
+      "name": "Protetor Shambala",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3043,
+      "name": "Javali Dentuço",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3044,
+      "name": "Áries",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3045,
+      "name": "Potro de Lava",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3047,
+      "name": "Hipopótamo Ágil",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3048,
+      "name": "Aranha de Vapor",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3049,
+      "name": "Vontade Divina",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3051,
+      "name": "Cavalo Zumbi",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3052,
+      "name": "Águia Guardiã",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3055,
+      "name": "Leão Armado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3063,
+      "name": "Pangolim",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3066,
+      "name": "Antílope Demoníaco",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3067,
+      "name": "Leão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3068,
+      "name": "Cavalo das Lavas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3069,
+      "name": "Rena dos Sonhos",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3070,
+      "name": "Aeronave de Goblin",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3071,
+      "name": "Peixe Roxo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3073,
+      "name": "Fera das Nuvens",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3074,
+      "name": "Furão de Natal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3076,
+      "name": "Libra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3077,
+      "name": "Peixe Diabo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3078,
+      "name": "Touro Legal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3079,
+      "name": "Baleia Azul Profunda",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3080,
+      "name": "Peru do Samba",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3081,
+      "name": "Homem-Árvore Violento",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3083,
+      "name": "Capivara",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3086,
+      "name": "Ewing",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3087,
+      "name": "Caça",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3089,
+      "name": "Rena Santa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3090,
+      "name": "Aquário",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3093,
+      "name": "Caracal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3094,
+      "name": "Panda Vermelho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3222,
+      "name": "Dragão de 3 Ângulos",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 3223,
+      "name": "Cavalo das Rosas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 3333,
+      "name": "Husky",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 4001,
+      "name": "Leopardo Trovão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 5001,
+      "name": "Tiamat Fantasma",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 6001,
+      "name": "Leão Infernal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 7002,
+      "name": "Bestial · Espírito Sombrio",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 7003,
+      "name": "Hipopótamo",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 7004,
+      "name": "Leão-Escorpião",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 7006,
+      "name": "Fera · Panda Po",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 8005,
+      "name": "Rena de Natal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8006,
+      "name": "Salamandra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8007,
+      "name": "Dragão de 3 cabeças",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 8008,
+      "name": "Gato Azul",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8010,
+      "name": "Pioneiro",
+      "before": 0,
+      "after": 3
+    },
+    {
+      "id": 8012,
+      "name": "Unicórnio Espectral Azul",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8013,
+      "name": "Moto",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8014,
+      "name": "Harley Cross",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8015,
+      "name": "Kirin",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8016,
+      "name": "Leão Preto",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8017,
+      "name": "Dragão do Mundo Antigo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8018,
+      "name": "Escorpião das Gemas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8019,
+      "name": "Leão Sanguinário",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "id": 8020,
+      "name": "Coelho da Páscoa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8021,
+      "name": "Aeronave",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8022,
+      "name": "Osso do Dragão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8023,
+      "name": "Dragão-Peixe",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8024,
+      "name": "Dragão Azul",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8026,
+      "name": "Foguete",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8027,
+      "name": "Kirin das Nuvens",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8030,
+      "name": "Siertan",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8031,
+      "name": "Griffin Fantasma",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8035,
+      "name": "Tricerátopo Antigo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8036,
+      "name": "Aranha Roxa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8037,
+      "name": "Burro Entregador",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8039,
+      "name": "Cão Infernal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8040,
+      "name": "Smilodon",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8042,
+      "name": "Cavalo Fantasma",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8044,
+      "name": "Dragão Chinês",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8045,
+      "name": "Vassoura Mágica",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8046,
+      "name": "Tigre Voador",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8047,
+      "name": "Tartaruga",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8048,
+      "name": "Pavão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8049,
+      "name": "Águia Bicéfala",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8050,
+      "name": "Monstro da Justiça",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8052,
+      "name": "Urso Voador de Natal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8053,
+      "name": "Touro da Prisão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8054,
+      "name": "Escorpião",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8055,
+      "name": "Esquilo-Choque",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8056,
+      "name": "Bicicleta",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8057,
+      "name": "Fera Florestal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8058,
+      "name": "Limpa-Neve",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8059,
+      "name": "Mecânica Tempestade",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8060,
+      "name": "Banana Voadora",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8061,
+      "name": "Cavalo de Guerra Preto",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8062,
+      "name": "Dragão da Prisão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8064,
+      "name": "Lynx",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8065,
+      "name": "Crocodilo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8066,
+      "name": "Dragão Quinta-neto",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8067,
+      "name": "Pato de Fero",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8068,
+      "name": "Lobo Cavalheiro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8070,
+      "name": "Cavalo Marinho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8071,
+      "name": "Grande Sapo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8072,
+      "name": "Esquilo Voador",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8073,
+      "name": "Tubarão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8074,
+      "name": "Tamboril",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8075,
+      "name": "Grilo de Ouro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8077,
+      "name": "Arara",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8078,
+      "name": "Kirin Aquático",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8079,
+      "name": "Cavalo do Carnaval do Céu",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8083,
+      "name": "Pato de Mandarino",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8086,
+      "name": "Borboleta-Luz",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8087,
+      "name": "Ave Encantada",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8089,
+      "name": "Lamassu",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8090,
+      "name": "Morcego Gótico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8091,
+      "name": "Sombra Maligna",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8093,
+      "name": "Lago Lunar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8094,
+      "name": "Glazer",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8095,
+      "name": "Coruja Mutante",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8096,
+      "name": "Mota das nuvens",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8101,
+      "name": "Dragão de Gelo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8102,
+      "name": "Abóbora",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8104,
+      "name": "Guindaste",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8105,
+      "name": "Pássaro Estátua",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8106,
+      "name": "Juba",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8107,
+      "name": "Camarão-Ovo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8109,
+      "name": "Peru",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8110,
+      "name": "Coelho de Alice",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8111,
+      "name": "Rei Carangueijo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8112,
+      "name": "Besta Lanly",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8113,
+      "name": "Tamboril",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8115,
+      "name": "Gato da Lua",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8116,
+      "name": "Dragão Sagrado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8117,
+      "name": "Rei-Serpente",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8118,
+      "name": "Besouro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8119,
+      "name": "Gato-Águia",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8122,
+      "name": "Cervo Mágico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8123,
+      "name": "Dragão Gelo-Fogo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8124,
+      "name": "Carta da Cobra Gancho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8125,
+      "name": "Gugu",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8126,
+      "name": "Cavalo Zumbi",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8128,
+      "name": "Ramo da Ameixa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8130,
+      "name": "Baloiço",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8131,
+      "name": "Híbrido",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8136,
+      "name": "Abelha do Arco-Íris",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8141,
+      "name": "Rã de Ouro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8143,
+      "name": "Coelho da Páscoa 2017",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8144,
+      "name": "Fera Suzaki",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8146,
+      "name": "Chama Viva",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8148,
+      "name": "Jade-Chamas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8149,
+      "name": "Guarda-Costas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8151,
+      "name": "Javali Selvagem",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8154,
+      "name": "Polvo Paul",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8155,
+      "name": "Alienígena",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8159,
+      "name": "Anubis",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8161,
+      "name": "Poderoso Pintinho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8162,
+      "name": "Carruagem do Sol",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8163,
+      "name": "Nave Espacial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8164,
+      "name": "Navio dos Piratas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8165,
+      "name": "Aeronave Pixel",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8166,
+      "name": "Golfinho Rosa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8167,
+      "name": "Águia-Leão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8168,
+      "name": "Mariposa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8169,
+      "name": "Dragão Aço-Estrela",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8170,
+      "name": "Dragão de Vaso",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8171,
+      "name": "Dragão-Elfo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8172,
+      "name": "Tarantula Vermelha",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8173,
+      "name": "Lagartixa Trovoada",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8174,
+      "name": "Corgi",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8175,
+      "name": "Raposa de fogo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8176,
+      "name": "Rato Mágico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8177,
+      "name": "Lontra de mar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8178,
+      "name": "Flamingo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8179,
+      "name": "Carta de Crisântemo rasgado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8180,
+      "name": "Cão de Pérola",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8181,
+      "name": "Unicórnio do vento",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8182,
+      "name": "Pequeno dinossauro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8183,
+      "name": "Elementos de fogo violentos",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8184,
+      "name": "Carro de abobora do Vaticano",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8186,
+      "name": "Tomahawk moto",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8187,
+      "name": "Tubarão azul do diabo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8188,
+      "name": "Montária de Ação de graças",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8189,
+      "name": "Leão-marinho ancestral",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8190,
+      "name": "Leão de pedra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8191,
+      "name": "Liteira Espectral",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8192,
+      "name": "Boneco de Neve",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8193,
+      "name": "Míssil Cor-de-rosa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8194,
+      "name": "Pinguim de Férias",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8196,
+      "name": "Tigre das Neves",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8197,
+      "name": "Besta Gladiadora",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8198,
+      "name": "Alma da Cachoeira",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8199,
+      "name": "Gato Fantástico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8200,
+      "name": "Antílope do crânio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8201,
+      "name": "Bomba",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8202,
+      "name": "Cão de rena",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8204,
+      "name": "Penas Brancas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8205,
+      "name": "Cão Auspicioso",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8206,
+      "name": "Montaria do Amor 2018",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8207,
+      "name": "Fogo Dourado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8208,
+      "name": "Sombrinha Monstruosa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8209,
+      "name": "Urso-de-óculos",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8210,
+      "name": "Riquexó do Macaco",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8211,
+      "name": "Andorinha-dáurica",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8212,
+      "name": "Imperador-roxo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8213,
+      "name": "Gárgula",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8214,
+      "name": "Elemento Ferro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8215,
+      "name": "Monociclo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8216,
+      "name": "Behemoth",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8217,
+      "name": "Dragão de Ouro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8218,
+      "name": "Espírito do Relâmpago",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8219,
+      "name": "Carta do 4x4 Todo o Terreno",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8220,
+      "name": "Super Urso Polar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8221,
+      "name": "Urso de Metal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8222,
+      "name": "Pato Voador",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8223,
+      "name": "Homem-peixe Rugido",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8224,
+      "name": "Coelho de Orelhas grandes",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8225,
+      "name": "O dragão  voador de três cabeças",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8226,
+      "name": "Carrossel",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8227,
+      "name": "Dinossauro Inflável",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8228,
+      "name": "Mosassauro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8229,
+      "name": "Avião de Papel",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8230,
+      "name": "Fera Uda",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8231,
+      "name": "Dragão do fogo da estrela",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8232,
+      "name": "Papagaio de lava",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8233,
+      "name": "Golem Totem",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8234,
+      "name": "Centauro Sensível",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8235,
+      "name": "Mini Nave Espacial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8236,
+      "name": "Louva-a-deus Mecânico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8237,
+      "name": "Dragão do Penhasco Verde",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8238,
+      "name": "Elemento Ar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8239,
+      "name": "Verão Fresco",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8240,
+      "name": "Dragão das Sombras",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8241,
+      "name": "Gatinha Rosa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8242,
+      "name": "Rena de Grande Chifres",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8243,
+      "name": "Lagarto Vermelho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8244,
+      "name": "Sacerdote Tau",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8245,
+      "name": "Besta Pisoteadora",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8246,
+      "name": "Coelho Lunar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8247,
+      "name": "Camelo do deserto",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8248,
+      "name": "Monstro do Deserto",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8249,
+      "name": "Foca das Nuvens",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8250,
+      "name": "Essarian",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8251,
+      "name": "Tartaruga Assassina",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8252,
+      "name": "Peixe Sábio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8253,
+      "name": "Besta Zumbi",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8254,
+      "name": "Edmundraptor",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8255,
+      "name": "Protetor",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8256,
+      "name": "Gatoclope",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8257,
+      "name": "Besta Terremoto",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8258,
+      "name": "Sir Cão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8259,
+      "name": "Canguru da Neve",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8260,
+      "name": "Lâmpada Fantasma",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8261,
+      "name": "Tigráguia",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8262,
+      "name": "Besta Voadora",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8263,
+      "name": "Dragão Orc",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8264,
+      "name": "Dragão Mórbido",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8265,
+      "name": "Grinch",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8266,
+      "name": "Palco Móvel",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8267,
+      "name": "Morcego da Luz",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8268,
+      "name": "Veneno Mortal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8269,
+      "name": "Coruja da Neve",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8270,
+      "name": "Réptil do Gelo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8271,
+      "name": "Elefante de Cristal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8272,
+      "name": "Hellboy",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8273,
+      "name": "Argor Confuso",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8274,
+      "name": "Pinguim Imperial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8275,
+      "name": "Dragão de Lava",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8276,
+      "name": "Porco dourado da sorte",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8277,
+      "name": "Pega rosa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8278,
+      "name": "Bumblebee",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8279,
+      "name": "Ogro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8280,
+      "name": "Ovelha Espacial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8281,
+      "name": "Leão de Ferro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8282,
+      "name": "Dragão Gelo-fogo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8283,
+      "name": "Louva-a-deus Furioso",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8284,
+      "name": "Devorador de Luz",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8285,
+      "name": "Carpa Dourada",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8286,
+      "name": "Balão do Dragão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8287,
+      "name": "Besta Anômala",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8288,
+      "name": "Misterioso Alce Selvagem",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8289,
+      "name": "Gatinho Gorducho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8290,
+      "name": "Coelho Verdejante",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8291,
+      "name": "Águia do Dragão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8292,
+      "name": "Besta Onírica",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8293,
+      "name": "Libélula de Armadura verde",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8294,
+      "name": "Raposa de nove caudas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8295,
+      "name": "Carro de equilíbrio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8296,
+      "name": "Cavalo Espacial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8297,
+      "name": "Mini-carro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8298,
+      "name": "Dragão Gigante de Lava",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8299,
+      "name": "Dragão do Céu Partido",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8300,
+      "name": "Dragão do Céu Partido (Dourado)",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8301,
+      "name": "Espada da Nuvem Celeste",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8302,
+      "name": "Carruagem Romântica",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8303,
+      "name": "Multi-asas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8304,
+      "name": "Rei da Majestade",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8305,
+      "name": "Gêmeos Dourados",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8306,
+      "name": "Deus da lâmpada",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8307,
+      "name": "Bolha d’Água",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8309,
+      "name": "Urso Rebelde",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8310,
+      "name": "Gato-Cobra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8311,
+      "name": "Pesadelo de Akasha",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8312,
+      "name": "Explorador Metálico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8313,
+      "name": "Raposa Alada",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8314,
+      "name": "Explorador Estelar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8316,
+      "name": "Foice da Morte",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8317,
+      "name": "Dragão Ilusório",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8318,
+      "name": "Fantasma Vagante",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8319,
+      "name": "Chefe da Tribo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8320,
+      "name": "Almofada ou Cavalo Zumbi",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8321,
+      "name": "Gato Fantástico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8322,
+      "name": "Trono do Inverno",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8323,
+      "name": "Tampa Mágica",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8324,
+      "name": "Espírito Noturno",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8329,
+      "name": "Carro Voador da Fada Azul",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8330,
+      "name": "Nuvem Espiritual Escarlate",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8331,
+      "name": "Sino Nefasto",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8332,
+      "name": "Elfo Roedor",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8333,
+      "name": "Charme Noturno",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8334,
+      "name": "Centauro DJ",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8335,
+      "name": "Carro-bola de Luz",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8336,
+      "name": "Dragão perna-curta",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8338,
+      "name": "Dragão da Floresta",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8340,
+      "name": "Nave Interestelar de Ouro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8341,
+      "name": "Lobo do demônio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8342,
+      "name": "Chapéu de bruxa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8343,
+      "name": "Rei da selva",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8344,
+      "name": "Besta Selvagem",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8346,
+      "name": "Anêmona",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8347,
+      "name": "Guardião Azul",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8348,
+      "name": "Cavalo de Madeira",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8349,
+      "name": "Angmar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8350,
+      "name": "Vento do Norte",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8351,
+      "name": "Carta do Cavalo de Guerra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8352,
+      "name": "Sonic",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8353,
+      "name": "Fogo do Inferno",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8354,
+      "name": "Dragão da Noite",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8355,
+      "name": "Gato Azul",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8356,
+      "name": "Tigre Fantasma",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8357,
+      "name": "Coruja Azul",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8358,
+      "name": "Pânico Estrelar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8359,
+      "name": "Dragão Chama Negra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8360,
+      "name": "Reksai",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8361,
+      "name": "Raposa Rosa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8362,
+      "name": "Elemento Mar de Fúria",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8363,
+      "name": "Varredor",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8364,
+      "name": "Mecha de Guerra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8365,
+      "name": "Morcego do Castelo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8366,
+      "name": "Carruagem Negra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8367,
+      "name": "Raia Mágica",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8368,
+      "name": "Dragão Elfo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8369,
+      "name": "Gato Tapete Voador",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8370,
+      "name": "Balanço de Gelo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8371,
+      "name": "Fênix de Gelo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8372,
+      "name": "Druida da Neve",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8373,
+      "name": "Chalé de Natal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8374,
+      "name": "Carta do Fantasy Dragon",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8375,
+      "name": "Carta da Força de Inverno",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8376,
+      "name": "Carta da Fé do Arcanjo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8377,
+      "name": "Carta do Thomas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8378,
+      "name": "Swarovski",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8379,
+      "name": "Pitaia",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8380,
+      "name": "Elemento Morte",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8381,
+      "name": "Grinalda Rosa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8382,
+      "name": "Andante da Floresta",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8383,
+      "name": "Pesadelo Puro Sangue",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8384,
+      "name": "Cenoura",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8385,
+      "name": "Avatar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8386,
+      "name": "Coração de Lava",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8387,
+      "name": "Mercúrio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8388,
+      "name": "Carro Alegórico de Páscoa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8389,
+      "name": "Motouro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8390,
+      "name": "Rocha Negra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8391,
+      "name": "Caranguejo da Lava",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8392,
+      "name": "Orvalho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8393,
+      "name": "Gatufo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8394,
+      "name": "Louva-a-Deus Negro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8395,
+      "name": "Dragão de Pixel",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8396,
+      "name": "Unicórnio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8397,
+      "name": "Dragão de Mithril",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8398,
+      "name": "Foguinho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8399,
+      "name": "Dragão do Poder",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8400,
+      "name": "Trombado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8401,
+      "name": "Cavalo-Balão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8402,
+      "name": "Ossada Glacial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8404,
+      "name": "Montaria do 9º Aniversário",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8405,
+      "name": "Coração Valente",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8406,
+      "name": "Brasa-Móvel",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8407,
+      "name": "Guardião Arcano",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8408,
+      "name": "Corvo Arcano",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8409,
+      "name": "Leviatã",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8410,
+      "name": "Morcego Estátua",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8411,
+      "name": "Esquilo Viajante",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8412,
+      "name": "Porteiro do Castelo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8413,
+      "name": "Abóbora Lanterna",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8414,
+      "name": "Sela do Corcel",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8415,
+      "name": "Peru de Ação de Graças 2021",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8416,
+      "name": "Videira Milenar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8417,
+      "name": "Cisne Boia",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8418,
+      "name": "Lontra-Marinha Comilona",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8419,
+      "name": "Mano Polvo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8420,
+      "name": "Foguete Mágico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8421,
+      "name": "Gatinha de Natal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8422,
+      "name": "Estripador",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8423,
+      "name": "Raposa Fada de Nove Caudas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8424,
+      "name": "Inquisidor",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8425,
+      "name": "Voador Prateado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8426,
+      "name": "Punho Pesado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8427,
+      "name": "Tom",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8428,
+      "name": "Magia Verde",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8429,
+      "name": "Nuvem Fantasmagórica",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8430,
+      "name": "Besta Ametista Roxa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8431,
+      "name": "Mensageiro da Floresta",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8432,
+      "name": "Ovo de Páscoa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8433,
+      "name": "Sombra do Vazio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8434,
+      "name": "Touro Diabólico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8435,
+      "name": "Enviado das Sombras",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8436,
+      "name": "Olho do Inferno",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8437,
+      "name": "Elfo Marinho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8438,
+      "name": "Corpo Motorizado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8439,
+      "name": "Dentes de Sabre",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8440,
+      "name": "Besta do Vazio Partido",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8441,
+      "name": "Balão de Ar Quente",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8442,
+      "name": "Pinguim Cavalheiro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8443,
+      "name": "Dinossauro Primaveril",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8444,
+      "name": "Ciclone de Rua",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8445,
+      "name": "Pega Azul",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8446,
+      "name": "Thaurissan",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8447,
+      "name": "Golfinho Amarelo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8448,
+      "name": "Trovão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8449,
+      "name": "Panda Fofinho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8450,
+      "name": "Dragão de Gelo Abissal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8451,
+      "name": "Pacto Futurista",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8452,
+      "name": "Iate Praiano",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8453,
+      "name": "Levitra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8454,
+      "name": "Campsis",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8455,
+      "name": "Urso de Morango",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8456,
+      "name": "Rato Voador",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8457,
+      "name": "Fênix",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8458,
+      "name": "Livro Mágico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8469,
+      "name": "Meia Voadora de Natal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8470,
+      "name": "Dragão Elemental",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8471,
+      "name": "Leão da Pradaria",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8472,
+      "name": "Rosa Cor de Rosa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8473,
+      "name": "Koala",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8474,
+      "name": "Deus Errante do Gelo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8475,
+      "name": "Carro da Alfafa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8476,
+      "name": "Sir Crocodilo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8477,
+      "name": "Alce da Floresta",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8478,
+      "name": "Besta Fantasma",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8479,
+      "name": "Dragão Perninha",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8480,
+      "name": "Ganso Voador",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8481,
+      "name": "Canguru de Páscoa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8482,
+      "name": "Besta Devoradora",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8483,
+      "name": "Tigre Chama Negra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8484,
+      "name": "Porco-Espinho Rei",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8485,
+      "name": "Pombo da Ilusão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8486,
+      "name": "Foca Brincalhona",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8487,
+      "name": "Pipa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8488,
+      "name": "Dragão Arraia Dourado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8489,
+      "name": "Dinunicórnio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8490,
+      "name": "Aquila",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8491,
+      "name": "Empilhadeira Mecânica",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8492,
+      "name": "Salão das Sombras",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8493,
+      "name": "Velocidade da Paixão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8494,
+      "name": "Dente de Leão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8495,
+      "name": "Chá dos Imortais",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8496,
+      "name": "Boia Cisne",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8497,
+      "name": "Gato Tapete Voador",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8498,
+      "name": "Peixe Demônio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8499,
+      "name": "Estrela-do-mar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8500,
+      "name": "Patinho Divertido",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8501,
+      "name": "Carro Bola Noturno",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8502,
+      "name": "Toque Malígno",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8503,
+      "name": "Visão da Ponte",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8504,
+      "name": "Espírito Destemido",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8505,
+      "name": "Cavalo Coberto",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8506,
+      "name": "Gato Faxineiro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8507,
+      "name": "Dinorafa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8508,
+      "name": "Gato Bruxa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8509,
+      "name": "Baleia Majestosa",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8510,
+      "name": "Coruja da Morte",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8511,
+      "name": "Gato Comilão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8512,
+      "name": "Bolo Gostoso",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8513,
+      "name": "Cavalo Fantasma",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8514,
+      "name": "Leão Guardião",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8515,
+      "name": "Rena Gélida",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8517,
+      "name": "Bola de Neve",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8518,
+      "name": "Urso das Neves",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8519,
+      "name": "Dragão Pálido Prateado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8520,
+      "name": "Relâmpago Vermelho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8521,
+      "name": "Coellho das Neves",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8522,
+      "name": "Jörmungandr",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8523,
+      "name": "Crepúsculo dos Deuses",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8524,
+      "name": "Panda da Felicidade",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8525,
+      "name": "Palco do Coração",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8526,
+      "name": "Trono Flamejante",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8527,
+      "name": "Grinalda Verde",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8528,
+      "name": "Elfo das Flores",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8529,
+      "name": "Monstro Gigantesco",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8530,
+      "name": "Olho Carmesim",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8531,
+      "name": "Sirius",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8532,
+      "name": "Devorador de Tempo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8533,
+      "name": "Harmonia Celestial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8534,
+      "name": "Cerberus Mecânico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8535,
+      "name": "Carro de Duna",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8536,
+      "name": "Senhor Marmota",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8537,
+      "name": "Baleia Espacial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8538,
+      "name": "Pétalas de Damasco",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8539,
+      "name": "Porco Fofinho",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8540,
+      "name": "Cavalo do Oceano",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8541,
+      "name": "Vontade de Ferro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8542,
+      "name": "Pégaso das Profundezas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8543,
+      "name": "Trator",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8544,
+      "name": "Mensageiro Polar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8545,
+      "name": "Fanático da Guerra",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8546,
+      "name": "Urso de Verão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8547,
+      "name": "Fenrir",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8548,
+      "name": "Jovem Estrela-do-mar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8549,
+      "name": "Chapéu de Bruxa Verdadeiro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8550,
+      "name": "Viagem com Tesouros",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8551,
+      "name": "Juventude",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8552,
+      "name": "Rinoceronte do Inferno",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8553,
+      "name": "Sombra sob a Lua",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8554,
+      "name": "Notas Saltitantes",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8555,
+      "name": "Concha Mística",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8556,
+      "name": "Corrupção Desconhecida",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8557,
+      "name": "Tempestade Súbita",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8558,
+      "name": "Nave-Mouse",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8559,
+      "name": "Jangada Verde",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8560,
+      "name": "Espírito das Ruínas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8561,
+      "name": "Bola Dente-de-Leão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8562,
+      "name": "Peru Abóbora",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8563,
+      "name": "Montaria de Natal 2024",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8564,
+      "name": "Super Canhão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8565,
+      "name": "Grande Avelã",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8568,
+      "name": "Lobo do Inferno Roxo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8569,
+      "name": "Pantera do Submundo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8570,
+      "name": "Carrinho Infantil",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8571,
+      "name": "Rei Javali",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8572,
+      "name": "Busca Lunar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8573,
+      "name": "Gato de 3 Caudas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8574,
+      "name": "Porco Tapete Voador",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8575,
+      "name": "Amor Intenso",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8576,
+      "name": "Ferida Sangrenta",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8577,
+      "name": "Plano Romântico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8578,
+      "name": "Duque Juíz",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8579,
+      "name": "Gato Fantasma",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8580,
+      "name": "Super Galio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8581,
+      "name": "Bastão da Bondade",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8582,
+      "name": "Canguru de Páscoa 2025",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8583,
+      "name": "Pássaro Serpente das Chamas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8584,
+      "name": "Pérola Carmesim",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8585,
+      "name": "Borboleta Estelar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8586,
+      "name": "Água Viva Dourada",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8587,
+      "name": "Dragão Ametista",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8589,
+      "name": "Jardim das Cores",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8590,
+      "name": "Dança das Estrelas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8591,
+      "name": "Deus Errante do Fogo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8592,
+      "name": "Lenda Prateada",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8593,
+      "name": "Lótus Ígnea",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8594,
+      "name": "Dragão do Frio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8595,
+      "name": "Bolo de Dia das Crianças",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8596,
+      "name": "Formação Oito Estrelas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8597,
+      "name": "Unicórnio de Verão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8598,
+      "name": "Tubarão Surfe da Fúria",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8599,
+      "name": "Avião de Papel de Verão",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8601,
+      "name": "Cervo Banheira",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8602,
+      "name": "Lapupu",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8603,
+      "name": "Espada Flamejante",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8604,
+      "name": "Baleia-Luar Cantante",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8605,
+      "name": "Espírito da Natureza",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8606,
+      "name": "Capricórnio de Escamas Etéreas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8607,
+      "name": "Abóbora de Halloween",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8608,
+      "name": "Borboleta da Pérola",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8609,
+      "name": "Sonho Florido",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8611,
+      "name": "Carroça de Ação de Graças",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8612,
+      "name": "Aruanã-Prateado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8613,
+      "name": "Aço Azul",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8614,
+      "name": "Rena do Papai Noel",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8615,
+      "name": "Barco do Lírio",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8616,
+      "name": "Titã de Gelo",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8617,
+      "name": "Cavalo Fantasma",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8618,
+      "name": "Rei das Cem Toneladas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8619,
+      "name": "Trono Imortal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8620,
+      "name": "Não É Dragão Maligno",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8621,
+      "name": "Motor do Apocalipse",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8622,
+      "name": "Milhafre do Sol Florestal",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8623,
+      "name": "Flecha de Cupido",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8624,
+      "name": "Baleia Abissal Óssea",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8625,
+      "name": "Lobo Douronegro",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8626,
+      "name": "Ave Arcana Lendária",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8627,
+      "name": "Forma Flutuante Lunar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8628,
+      "name": "Gole de Cervejinha",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8629,
+      "name": "Cão de Três Olhos",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8630,
+      "name": "Devorador de Ossos",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8631,
+      "name": "Cisne Elegante",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8632,
+      "name": "Baleia Sombria do Mar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8633,
+      "name": "Fantasma das Profundezas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8634,
+      "name": "Trilho Estelar Onírico",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8635,
+      "name": "Milagre",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8638,
+      "name": "Carta de Rito Dourado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8639,
+      "name": "Pioneiro da Infraestrutura",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8640,
+      "name": "Fortuna e Reunião",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8642,
+      "name": "Elemento da Noite Fantasia",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8643,
+      "name": "Sombra das Nuvens",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8644,
+      "name": "Guaxinim",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8645,
+      "name": "Carruagem de Jade",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8646,
+      "name": "Unicórnio Astral",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8647,
+      "name": "Alpaca Nobre",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8648,
+      "name": "Nave Verde",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8649,
+      "name": "Cavalo de Balanço Amanteigado",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8650,
+      "name": "Dragão Luminar",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8652,
+      "name": "Globo de Cristal Musical",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8653,
+      "name": "Pássaro das Flores Enlaçadas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8654,
+      "name": "Coelho das Ondas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8655,
+      "name": "Serpente das Ruínas",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8656,
+      "name": "Som Radiante",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 8657,
+      "name": "Leão Glacial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 20004,
+      "name": "Guarda Imperial",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 20008,
+      "name": "Besta do Desastre",
+      "before": 0,
+      "after": 5
+    },
+    {
+      "id": 40001,
+      "name": "Tapete Voador",
+      "before": 0,
+      "after": 5
+    }
+  ],
+  "backup": "C:\\Users\\Lucas Rodrigues\\Downloads\\LegendOnline\\wartune_server\\data\\backups\\max-mount-stars-2026-10-15T01-45-04.964Z",
+  "attributes": {
+    "total_power": {
+      "before": 527067,
+      "after": 561387
+    },
+    "total_intellect": {
+      "before": 541625,
+      "after": 575945
+    },
+    "total_physique": {
+      "before": 527627,
+      "after": 561947
+    },
+    "total_agility": {
+      "before": 540245,
+      "after": 574565
+    },
+    "fighting_capacity": {
+      "before": 14619565,
+      "after": 15513601
+    }
+  }
+}

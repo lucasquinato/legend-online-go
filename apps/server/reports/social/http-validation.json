@@ -1,0 +1,35 @@
+{
+  "health": {
+    "ok": true,
+    "mode": "tutorial",
+    "balanceVersion": 4,
+    "calendar": {
+      "timeZone": "America/Sao_Paulo",
+      "resetHour": 4,
+      "day": "2026-10-20"
+    },
+    "boot": "72c76218-983f-49e2-8cc7-aeef0352b80a",
+    "gameListening": true,
+    "resourceMode": "cache-first",
+    "capture": {
+      "tcp": false,
+      "http": false,
+      "assets": true
+    }
+  },
+  "modules": [
+    {
+      "id": 2,
+      "sha256": "dbb5b28f30b94f24646068e9f574747f7d16fa2ba3acc456e65050270b2afda2",
+      "bytes": 4405266,
+      "status": 200
+    },
+    {
+      "id": 9,
+      "sha256": "acdc9c40e2f03ea1da70bb66370923723e3a31aac7ef69a10dc0f8bac6a96641",
+      "bytes": 330967,
+      "status": 200
+    }
+  ],
+  "indexPassed": true
+}
